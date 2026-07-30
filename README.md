@@ -15,12 +15,10 @@ PWA para registrar carga e séries de treino na academia. React 19 + TypeScript 
 
 A tela inicial é o **histórico**; o registro abre num sheet pelo botão flutuante *Registrar*.
 
-- **Registrar** — nome do aparelho (com autocomplete dos já usados), data preenchida com o dia atual, e três tipos de série:
-  - **Carga fixa** — mesmo peso e reps em todas as séries
-  - **Progressão de carga** — mantém as reps e sobe o peso a cada série
-  - **Pirâmide crescente** — sobe o peso e reduz as reps a cada série
-
-  O gerador monta as séries a partir de séries/reps/peso/incremento, e cada série ainda pode ser editada na mão.
+- **Registrar** — nome do aparelho (com autocomplete dos já usados), data preenchida com o dia atual, e reps + carga digitados **série a série**. O tipo de série é detectado a partir do que foi digitado (`detectMode` em `src/lib/series.ts`):
+  - **Carga fixa** — mesmo peso em todas as séries
+  - **Progressão** — mesmas reps, peso variando
+  - **Pirâmide** — reps e peso variando
 - **Último treino** — ao digitar um exercício já registrado, aparece o que foi feito da última vez, com botão *Repetir*.
 - **Histórico** — tela inicial: treinos por dia, com volume total, busca por exercício e remoção.
 - **Evolução** — por exercício: recorde de carga, variação vs. o treino anterior e os últimos treinos.

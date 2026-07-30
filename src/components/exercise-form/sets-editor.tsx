@@ -1,39 +1,55 @@
+import { Fragment } from 'react'
 import { Plus, Trash2 } from 'lucide-react'
+import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
-import { formatWeight, totalVolume } from '@/lib/series'
+import { detectMode, formatWeight, MODE_LABEL, totalVolume } from '@/lib/series'
+import { createId } from '@/lib/utils'
 import type { WorkoutSet } from '@/types'
 
+export type EditableSet = WorkoutSet & { id: string }
+
+export const createSet = (set?: WorkoutSet): EditableSet => ({
+  id: createId(),
+  reps: set?.reps ?? 12,
+  weight: set?.weight ?? 0,
+})
+
 type SetsEditorProps = {
-  sets: WorkoutSet[]
-  onChange: (sets: WorkoutSet[]) => void
+  sets: EditableSet[]
+  onChange: (sets: EditableSet[]) => void
 }
 
 export const SetsEditor = ({ sets, onChange }: SetsEditorProps) => {
-  const patch = (index: number, values: Partial<WorkoutSet>) =>
-    onChange(sets.map((set, i) => (i === index ? { ...set, ...values } : set)))
+  const patch = (id: string, values: Partial<WorkoutSet>) =>
+    onChange(sets.map((set) => (set.id === id ? { ...set, ...values } : set)))
 
-  const remove = (index: number) =>
-    onChange(sets.filter((_, i) => i !== index))
+  const remove = (id: string) => onChange(sets.filter((set) => set.id !== id))
 
-  const append = () =>
-    onChange([...sets, sets[sets.length - 1] ?? { reps: 10, weight: 10 }])
+  const append = () => onChange([...sets, createSet(sets.at(-1))])
 
   return (
     <div className="flex flex-col gap-2">
       <div className="flex items-center justify-between">
-        <Label>Séries realizadas</Label>
-        <span className="text-xs text-muted-foreground">
-          Volume {formatWeight(totalVolume(sets))}
-        </span>
+        <Label>Séries</Label>
+        <Badge variant="primary">{MODE_LABEL[detectMode(sets)]}</Badge>
       </div>
 
-      <div className="flex flex-col gap-2">
+      <div className="grid grid-cols-[1.5rem_1fr_1fr_2.25rem] items-center gap-x-2 gap-y-2">
+        <span />
+        <span className="text-[11px] uppercase tracking-wide text-muted-foreground">
+          Reps
+        </span>
+        <span className="text-[11px] uppercase tracking-wide text-muted-foreground">
+          Carga
+        </span>
+        <span />
+
         {sets.map((set, index) => (
-          <div key={index} className="flex items-center gap-2">
-            <span className="w-6 shrink-0 text-center text-xs font-semibold text-muted-foreground">
-              {index + 1}ª
+          <Fragment key={set.id}>
+            <span className="text-center text-xs font-semibold text-muted-foreground">
+              {index + 1}
             </span>
             <Input
               type="number"
@@ -41,13 +57,12 @@ export const SetsEditor = ({ sets, onChange }: SetsEditorProps) => {
               min={1}
               value={set.reps}
               onChange={(event) =>
-                patch(index, { reps: Number(event.target.value) })
+                patch(set.id, { reps: Number(event.target.value) })
               }
-              className="h-10"
+              className="h-11 min-w-0"
               aria-label={`Repetições da série ${index + 1}`}
             />
-            <span className="text-xs text-muted-foreground">×</span>
-            <div className="relative flex-1">
+            <div className="relative min-w-0">
               <Input
                 type="number"
                 inputMode="decimal"
@@ -55,9 +70,9 @@ export const SetsEditor = ({ sets, onChange }: SetsEditorProps) => {
                 min={0}
                 value={set.weight}
                 onChange={(event) =>
-                  patch(index, { weight: Number(event.target.value) })
+                  patch(set.id, { weight: Number(event.target.value) })
                 }
-                className="h-10 pr-9"
+                className="h-11 w-full pr-9"
                 aria-label={`Carga da série ${index + 1}`}
               />
               <span className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-xs text-muted-foreground">
@@ -68,20 +83,25 @@ export const SetsEditor = ({ sets, onChange }: SetsEditorProps) => {
               type="button"
               variant="ghost"
               size="icon"
-              onClick={() => remove(index)}
+              onClick={() => remove(set.id)}
               disabled={sets.length === 1}
               aria-label={`Remover série ${index + 1}`}
             >
               <Trash2 className="size-4" />
             </Button>
-          </div>
+          </Fragment>
         ))}
       </div>
 
-      <Button type="button" variant="outline" size="sm" onClick={append}>
-        <Plus className="size-4" />
-        Adicionar série
-      </Button>
+      <div className="flex items-center justify-between gap-2">
+        <Button type="button" variant="outline" size="sm" onClick={append}>
+          <Plus className="size-4" />
+          Adicionar série
+        </Button>
+        <span className="text-xs text-muted-foreground">
+          Volume {formatWeight(totalVolume(sets))}
+        </span>
+      </div>
     </div>
   )
 }

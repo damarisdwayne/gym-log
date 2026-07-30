@@ -1,17 +1,17 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useMemo, useState } from 'react'
 import { Check } from 'lucide-react'
-import { GeneratorFields } from './generator-fields'
 import { LastRecordHint } from './last-record-hint'
-import { ModeSelect } from './mode-select'
-import { SetsEditor } from './sets-editor'
+import { createSet, SetsEditor, type EditableSet } from './sets-editor'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { todayISO } from '@/lib/date'
 import { findLastEntry } from '@/lib/progress'
-import { buildSets, DEFAULT_GENERATOR, type GeneratorConfig } from '@/lib/series'
+import { detectMode } from '@/lib/series'
 import { createId } from '@/lib/utils'
 import type { ExerciseEntry, SessionMap, WorkoutSet } from '@/types'
+
+const INITIAL_SETS = 3
 
 type ExerciseFormProps = {
   sessions: SessionMap
@@ -27,14 +27,9 @@ export const ExerciseForm = ({
   const [date, setDate] = useState(todayISO)
   const [name, setName] = useState('')
   const [note, setNote] = useState('')
-  const [config, setConfig] = useState<GeneratorConfig>(DEFAULT_GENERATOR)
-  const [sets, setSets] = useState<WorkoutSet[]>(() =>
-    buildSets(DEFAULT_GENERATOR),
+  const [sets, setSets] = useState<EditableSet[]>(() =>
+    Array.from({ length: INITIAL_SETS }, () => createSet()),
   )
-
-  useEffect(() => {
-    setSets(buildSets(config))
-  }, [config])
 
   const lastRecord = useMemo(
     () => findLastEntry(sessions, name, date),
@@ -43,13 +38,17 @@ export const ExerciseForm = ({
 
   const canSubmit = name.trim().length > 0 && sets.length > 0
 
+  const handleReuse = (previous: WorkoutSet[]) =>
+    setSets(previous.map((set) => createSet(set)))
+
   const handleSubmit = () => {
     if (!canSubmit) return
+    const cleanSets = sets.map(({ reps, weight }) => ({ reps, weight }))
     onSubmit(date, {
       id: createId(),
       name: name.trim(),
-      mode: config.mode,
-      sets,
+      mode: detectMode(cleanSets),
+      sets: cleanSets,
       note: note.trim() || undefined,
     })
   }
@@ -86,14 +85,7 @@ export const ExerciseForm = ({
         </div>
       </div>
 
-      {lastRecord && <LastRecordHint record={lastRecord} onReuse={setSets} />}
-
-      <ModeSelect
-        value={config.mode}
-        onChange={(mode) => setConfig({ ...config, mode })}
-      />
-
-      <GeneratorFields config={config} onChange={setConfig} />
+      {lastRecord && <LastRecordHint record={lastRecord} onReuse={handleReuse} />}
 
       <SetsEditor sets={sets} onChange={setSets} />
 
