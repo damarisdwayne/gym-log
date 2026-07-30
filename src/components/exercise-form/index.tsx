@@ -93,7 +93,7 @@ export const ExerciseForm = ({
             value={date}
             max={todayISO()}
             onChange={(event) => setDate(event.target.value)}
-            className="w-full max-w-40 min-w-0 [&::-webkit-date-and-time-value]:text-left"
+            className="[&::-webkit-date-and-time-value]:text-left"
           />
         </div>
       </div>
