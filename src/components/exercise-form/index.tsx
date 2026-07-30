@@ -3,6 +3,7 @@ import { Check } from 'lucide-react'
 import { LastRecordHint } from './last-record-hint'
 import {
   createSet,
+  isPristineSet,
   SetsEditor,
   toWorkoutSets,
   type EditableSet,
@@ -41,9 +42,7 @@ export const ExerciseForm = ({
     [sessions, name, date],
   )
 
-  const isUntouched = sets.every(
-    (set) => set.reps.trim() === '' && set.weight.trim() === '',
-  )
+  const isUntouched = sets.every(isPristineSet)
 
   useEffect(() => {
     if (!lastRecord || !isUntouched) return

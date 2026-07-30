@@ -14,11 +14,16 @@ export type EditableSet = {
   weight: string
 }
 
+export const DEFAULT_REPS = '10'
+
 export const createSet = (set?: WorkoutSet): EditableSet => ({
   id: createId(),
-  reps: set ? String(set.reps) : '',
+  reps: set ? String(set.reps) : DEFAULT_REPS,
   weight: set ? String(set.weight) : '',
 })
+
+export const isPristineSet = (set: EditableSet) =>
+  set.reps === DEFAULT_REPS && set.weight.trim() === ''
 
 export const toWorkoutSets = (sets: EditableSet[]): WorkoutSet[] =>
   sets
@@ -68,7 +73,7 @@ export const SetsEditor = ({ sets, onChange }: SetsEditorProps) => {
               type="number"
               inputMode="numeric"
               min={1}
-              placeholder="12"
+              placeholder={DEFAULT_REPS}
               value={set.reps}
               onChange={(event) => patch(set.id, { reps: event.target.value })}
               className="h-11 min-w-0"
