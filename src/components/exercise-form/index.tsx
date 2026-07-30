@@ -1,7 +1,12 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { Check } from 'lucide-react'
 import { LastRecordHint } from './last-record-hint'
-import { createSet, SetsEditor, type EditableSet } from './sets-editor'
+import {
+  createSet,
+  SetsEditor,
+  toWorkoutSets,
+  type EditableSet,
+} from './sets-editor'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
@@ -36,14 +41,23 @@ export const ExerciseForm = ({
     [sessions, name, date],
   )
 
-  const canSubmit = name.trim().length > 0 && sets.length > 0
+  const isUntouched = sets.every(
+    (set) => set.reps.trim() === '' && set.weight.trim() === '',
+  )
+
+  useEffect(() => {
+    if (!lastRecord || !isUntouched) return
+    setSets(lastRecord.entry.sets.map((set) => createSet(set)))
+  }, [lastRecord, isUntouched])
+
+  const cleanSets = toWorkoutSets(sets)
+  const canSubmit = name.trim().length > 0 && cleanSets.length > 0
 
   const handleReuse = (previous: WorkoutSet[]) =>
     setSets(previous.map((set) => createSet(set)))
 
   const handleSubmit = () => {
     if (!canSubmit) return
-    const cleanSets = sets.map(({ reps, weight }) => ({ reps, weight }))
     onSubmit(date, {
       id: createId(),
       name: name.trim(),
