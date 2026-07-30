@@ -43,6 +43,19 @@ input[type='number']::-webkit-inner-spin-button {
   }
 }
 
+input[type='date'] {
+  -webkit-appearance: none;
+  appearance: none;
+  min-width: 0;
+  max-width: 100%;
+  display: block;
+}
+
+input[type='date']::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+  opacity: 0.5;
+}
+
 @keyframes sheet-in {
   from {
     transform: translateY(1.5rem);
