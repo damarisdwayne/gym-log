@@ -11,6 +11,8 @@ type SheetProps = {
   className?: string
 }
 
+const stack: symbol[] = []
+
 export const Sheet = ({
   open,
   title,
@@ -21,8 +23,11 @@ export const Sheet = ({
   useEffect(() => {
     if (!open) return
 
+    const id = Symbol('sheet')
+    stack.push(id)
+
     const handleKeyDown = (event: KeyboardEvent) => {
-      if (event.key === 'Escape') onClose()
+      if (event.key === 'Escape' && stack.at(-1) === id) onClose()
     }
 
     const previousOverflow = document.body.style.overflow
@@ -30,6 +35,7 @@ export const Sheet = ({
     window.addEventListener('keydown', handleKeyDown)
 
     return () => {
+      stack.splice(stack.indexOf(id), 1)
       document.body.style.overflow = previousOverflow
       window.removeEventListener('keydown', handleKeyDown)
     }
