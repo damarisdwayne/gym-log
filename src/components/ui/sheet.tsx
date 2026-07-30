@@ -40,7 +40,7 @@ export const Sheet = ({
   return (
     <div className="fixed inset-0 z-50 flex items-end justify-center sm:items-center">
       <div
-        className="absolute inset-0 bg-black/70 backdrop-blur-sm"
+        className="absolute inset-0 bg-black/70 backdrop-blur-sm [animation:overlay-in_180ms_ease-out]"
         onClick={onClose}
         aria-hidden
       />
@@ -49,7 +49,7 @@ export const Sheet = ({
         aria-modal="true"
         aria-label={title}
         className={cn(
-          'relative flex max-h-[92dvh] w-full max-w-2xl flex-col rounded-t-2xl border border-border bg-card sm:rounded-2xl',
+          'relative flex max-h-[92dvh] w-full max-w-2xl flex-col rounded-t-2xl border border-border bg-card [animation:sheet-in_220ms_cubic-bezier(0.22,1,0.36,1)] sm:rounded-2xl',
           className,
         )}
       >

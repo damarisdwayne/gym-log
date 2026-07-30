@@ -78,7 +78,6 @@ export const ExerciseForm = ({
             value={name}
             onChange={(event) => setName(event.target.value)}
             autoComplete="off"
-            autoFocus
           />
           <datalist id="exercise-names">
             {exerciseNames.map((item) => (
