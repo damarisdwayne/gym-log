@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { Check, Plus } from 'lucide-react'
+import { Check } from 'lucide-react'
 import { LastRecordHint } from './last-record-hint'
 import {
   createSet,
@@ -33,7 +33,6 @@ export const ExerciseForm = ({
   const [date, setDate] = useState(todayISO)
   const [name, setName] = useState('')
   const [note, setNote] = useState('')
-  const [noteOpen, setNoteOpen] = useState(false)
   const [sets, setSets] = useState<EditableSet[]>(() =>
     Array.from({ length: INITIAL_SETS }, () => createSet()),
   )
@@ -103,28 +102,15 @@ export const ExerciseForm = ({
 
       <SetsEditor sets={sets} onChange={setSets} />
 
-      {noteOpen ? (
-        <div className="flex flex-col gap-1.5">
-          <Label htmlFor="exercise-note">Observação</Label>
-          <Input
-            id="exercise-note"
-            placeholder="Ex.: falhei na última"
-            value={note}
-            onChange={(event) => setNote(event.target.value)}
-          />
-        </div>
-      ) : (
-        <Button
-          type="button"
-          variant="ghost"
-          size="sm"
-          className="self-start"
-          onClick={() => setNoteOpen(true)}
-        >
-          <Plus className="size-4" />
-          Observação
-        </Button>
-      )}
+      <div className="flex flex-col gap-1.5">
+        <Label htmlFor="exercise-note">Observação</Label>
+        <Input
+          id="exercise-note"
+          placeholder="Opcional — ex.: falhei na última"
+          value={note}
+          onChange={(event) => setNote(event.target.value)}
+        />
+      </div>
 
       <Button onClick={handleSubmit} disabled={!canSubmit}>
         <Check className="size-4" />
