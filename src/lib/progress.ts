@@ -3,6 +3,7 @@ import type { ExerciseEntry, SessionMap } from '@/types'
 
 export type DatedEntry = {
   date: string
+  order: number
   entry: ExerciseEntry
 }
 
@@ -15,13 +16,15 @@ export type ExerciseHistory = {
   lastVolume: number
 }
 
-const byDateDesc = (a: DatedEntry, b: DatedEntry) =>
-  b.date.localeCompare(a.date)
+const byMostRecent = (a: DatedEntry, b: DatedEntry) =>
+  b.date.localeCompare(a.date) || b.order - a.order
 
 export const flattenEntries = (sessions: SessionMap): DatedEntry[] =>
   Object.entries(sessions)
-    .flatMap(([date, entries]) => entries.map((entry) => ({ date, entry })))
-    .sort(byDateDesc)
+    .flatMap(([date, entries]) =>
+      entries.map((entry, order) => ({ date, order, entry })),
+    )
+    .sort(byMostRecent)
 
 export const buildHistories = (sessions: SessionMap): ExerciseHistory[] => {
   const grouped = new Map<string, DatedEntry[]>()
@@ -46,7 +49,7 @@ export const buildHistories = (sessions: SessionMap): ExerciseHistory[] => {
         lastVolume: totalVolume(last.entry.sets),
       }
     })
-    .sort((a, b) => b.entries[0].date.localeCompare(a.entries[0].date))
+    .sort((a, b) => byMostRecent(a.entries[0], b.entries[0]))
 }
 
 export const findLastEntry = (
