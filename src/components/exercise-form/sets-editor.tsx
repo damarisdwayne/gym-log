@@ -54,7 +54,7 @@ export const SetsEditor = ({ sets, onChange }: SetsEditorProps) => {
         )}
       </div>
 
-      <div className="grid grid-cols-[1.5rem_1fr_1fr_2.25rem] items-center gap-2">
+      <div className="grid grid-cols-[1.5rem_minmax(0,1fr)_minmax(0,1fr)_2.25rem] items-center gap-2">
         <span />
         <span className="text-[11px] uppercase tracking-wide text-muted-foreground">
           Reps

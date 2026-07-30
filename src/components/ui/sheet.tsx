@@ -64,7 +64,7 @@ export const Sheet = ({
             <X className="size-4" />
           </Button>
         </div>
-        <div className="overflow-y-auto px-4 py-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
+        <div className="overflow-y-auto overflow-x-hidden px-4 py-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
           {children}
         </div>
       </div>

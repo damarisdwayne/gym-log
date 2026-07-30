@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { Check } from 'lucide-react'
+import { Check, Plus } from 'lucide-react'
 import { LastRecordHint } from './last-record-hint'
 import {
   createSet,
@@ -33,6 +33,7 @@ export const ExerciseForm = ({
   const [date, setDate] = useState(todayISO)
   const [name, setName] = useState('')
   const [note, setNote] = useState('')
+  const [noteOpen, setNoteOpen] = useState(false)
   const [sets, setSets] = useState<EditableSet[]>(() =>
     Array.from({ length: INITIAL_SETS }, () => createSet()),
   )
@@ -68,7 +69,7 @@ export const ExerciseForm = ({
 
   return (
     <div className="flex flex-col gap-4">
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-[1fr_auto]">
+      <div className="grid grid-cols-[minmax(0,1fr)_auto] gap-3">
         <div className="flex flex-col gap-1.5">
           <Label htmlFor="exercise-name">Aparelho / exercício</Label>
           <Input
@@ -93,6 +94,7 @@ export const ExerciseForm = ({
             value={date}
             max={todayISO()}
             onChange={(event) => setDate(event.target.value)}
+            className="w-36 px-2 [&::-webkit-date-and-time-value]:text-left"
           />
         </div>
       </div>
@@ -101,15 +103,28 @@ export const ExerciseForm = ({
 
       <SetsEditor sets={sets} onChange={setSets} />
 
-      <div className="flex flex-col gap-1.5">
-        <Label htmlFor="exercise-note">Observação</Label>
-        <Input
-          id="exercise-note"
-          placeholder="Opcional — ex.: falhei na última"
-          value={note}
-          onChange={(event) => setNote(event.target.value)}
-        />
-      </div>
+      {noteOpen ? (
+        <div className="flex flex-col gap-1.5">
+          <Label htmlFor="exercise-note">Observação</Label>
+          <Input
+            id="exercise-note"
+            placeholder="Ex.: falhei na última"
+            value={note}
+            onChange={(event) => setNote(event.target.value)}
+          />
+        </div>
+      ) : (
+        <Button
+          type="button"
+          variant="ghost"
+          size="sm"
+          className="self-start"
+          onClick={() => setNoteOpen(true)}
+        >
+          <Plus className="size-4" />
+          Observação
+        </Button>
+      )}
 
       <Button onClick={handleSubmit} disabled={!canSubmit}>
         <Check className="size-4" />
