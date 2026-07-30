@@ -69,8 +69,8 @@ export const ExerciseForm = ({
 
   return (
     <div className="flex flex-col gap-4">
-      <div className="grid grid-cols-[minmax(0,1fr)_auto] gap-3">
-        <div className="flex flex-col gap-1.5">
+      <div className="flex flex-col gap-3">
+        <div className="flex min-w-0 flex-col gap-1.5">
           <Label htmlFor="exercise-name">Aparelho / exercício</Label>
           <Input
             id="exercise-name"
@@ -86,7 +86,7 @@ export const ExerciseForm = ({
             ))}
           </datalist>
         </div>
-        <div className="flex flex-col gap-1.5">
+        <div className="flex min-w-0 flex-col gap-1.5">
           <Label htmlFor="exercise-date">Data</Label>
           <Input
             id="exercise-date"
@@ -94,7 +94,7 @@ export const ExerciseForm = ({
             value={date}
             max={todayISO()}
             onChange={(event) => setDate(event.target.value)}
-            className="w-36 px-2 [&::-webkit-date-and-time-value]:text-left"
+            className="w-full max-w-40 min-w-0 [&::-webkit-date-and-time-value]:text-left"
           />
         </div>
       </div>

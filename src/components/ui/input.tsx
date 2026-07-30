@@ -7,7 +7,7 @@ export const Input = ({
 }: InputHTMLAttributes<HTMLInputElement>) => (
   <input
     className={cn(
-      'h-11 w-full rounded-lg border border-border bg-muted px-3 text-base text-foreground placeholder:text-muted-foreground/60 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/60 disabled:opacity-50 sm:text-sm',
+      'h-11 w-full min-w-0 rounded-lg border border-border bg-muted px-3 text-base text-foreground placeholder:text-muted-foreground/60 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/60 disabled:opacity-50 sm:text-sm',
       className,
     )}
     {...props}
