@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Check } from 'lucide-react'
 import { LastRecordHint } from './last-record-hint'
+import { NameField } from './name-field'
 import {
   createSet,
   isPristineSet,
@@ -69,22 +70,7 @@ export const ExerciseForm = ({
   return (
     <div className="flex flex-col gap-4">
       <div className="flex flex-col gap-3">
-        <div className="flex min-w-0 flex-col gap-1.5">
-          <Label htmlFor="exercise-name">Aparelho / exercício</Label>
-          <Input
-            id="exercise-name"
-            list="exercise-names"
-            placeholder="Ex.: Leg press 45º"
-            value={name}
-            onChange={(event) => setName(event.target.value)}
-            autoComplete="off"
-          />
-          <datalist id="exercise-names">
-            {exerciseNames.map((item) => (
-              <option key={item} value={item} />
-            ))}
-          </datalist>
-        </div>
+        <NameField value={name} options={exerciseNames} onChange={setName} />
         <div className="flex min-w-0 flex-col gap-1.5">
           <Label htmlFor="exercise-date">Data</Label>
           <Input
