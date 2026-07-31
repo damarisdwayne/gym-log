@@ -1,4 +1,10 @@
-import { BookOpen, ExternalLink, Table2, UtensilsCrossed } from 'lucide-react'
+import {
+  BookOpen,
+  ClipboardList,
+  ExternalLink,
+  Table2,
+  UtensilsCrossed,
+} from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 import { Badge } from '@/components/ui/badge'
 import type { Ficha, FichaTipo } from './types'
@@ -7,12 +13,14 @@ const TIPO_ICON: Record<FichaTipo, LucideIcon> = {
   guia: BookOpen,
   planilha: Table2,
   cardapio: UtensilsCrossed,
+  lista: ClipboardList,
 }
 
 const TIPO_LABEL: Record<FichaTipo, string> = {
   guia: 'Guia',
   planilha: 'Planilha',
   cardapio: 'Cardápio',
+  lista: 'Lista',
 }
 
 type FichaItemProps = {

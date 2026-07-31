@@ -2,9 +2,17 @@ import { Badge } from '@/components/ui/badge'
 import { Collapsible } from '@/components/ui/collapsible'
 import { CURSOS } from './data'
 import { FichaItem } from './ficha-item'
-import type { MesFichas } from './types'
+import type { Ficha, MesFichas } from './types'
 
-const byMaisRecente = (a: MesFichas, b: MesFichas) => b.id.localeCompare(a.id)
+const porMes = (a: MesFichas, b: MesFichas) => a.id.localeCompare(b.id)
+
+const FichaList = ({ fichas }: { fichas: Ficha[] }) => (
+  <div className="flex flex-col gap-2">
+    {fichas.map((ficha) => (
+      <FichaItem key={ficha.id} ficha={ficha} />
+    ))}
+  </div>
+)
 
 export const Fichas = () => (
   <div className="flex flex-col gap-6">
@@ -17,17 +25,22 @@ export const Fichas = () => (
           <p className="text-xs text-muted-foreground">{curso.descricao}</p>
         </div>
 
-        {[...curso.meses].sort(byMaisRecente).map((mes) => (
+        {curso.geral.length > 0 && (
+          <Collapsible
+            title="Geral"
+            meta={<Badge>{curso.geral.length} arquivos</Badge>}
+          >
+            <FichaList fichas={curso.geral} />
+          </Collapsible>
+        )}
+
+        {[...curso.meses].sort(porMes).map((mes) => (
           <Collapsible
             key={mes.id}
             title={mes.label}
             meta={<Badge>{mes.fichas.length} arquivos</Badge>}
           >
-            <div className="flex flex-col gap-2">
-              {mes.fichas.map((ficha) => (
-                <FichaItem key={ficha.id} ficha={ficha} />
-              ))}
-            </div>
+            <FichaList fichas={mes.fichas} />
           </Collapsible>
         ))}
       </section>

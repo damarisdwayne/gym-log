@@ -1,0 +1,73 @@
+import type { Ficha } from './types'
+
+const BASE = '/fichas/natflix'
+
+export type Foco = 'emagrecimento' | 'hipertrofia'
+
+const FOCO_LABEL: Record<Foco, string> = {
+  emagrecimento: 'Emagrecimento',
+  hipertrofia: 'Hipertrofia',
+}
+
+export const guia = (mes: string, tamanho: string): Ficha => ({
+  id: `${mes}-guia`,
+  titulo: 'Guia de execução',
+  descricao: 'Cada exercício com fotos e explicação série a série',
+  tipo: 'guia',
+  tamanho,
+  arquivo: `${BASE}/${mes}/treinos/hipertrofia-avancado-reduzido-guia.pdf`,
+})
+
+export const planilha = (mes: string, tamanho: string): Ficha => ({
+  id: `${mes}-planilha`,
+  titulo: 'Planilha de treino',
+  descricao: 'Ficha completa: exercício, séries, repetições e descanso',
+  tipo: 'planilha',
+  tamanho,
+  arquivo: `${BASE}/${mes}/treinos/hipertrofia-avancado-planilha.pdf`,
+})
+
+export const planilhaReduzida = (mes: string, tamanho: string): Ficha => ({
+  id: `${mes}-planilha-reduzida`,
+  titulo: 'Planilha reduzida',
+  descricao: 'Versão curta da ficha, para treinar em 45min a 1h',
+  tipo: 'planilha',
+  tamanho,
+  arquivo: `${BASE}/${mes}/treinos/hipertrofia-avancado-reduzido-planilha.pdf`,
+})
+
+export const cardapio = (
+  mes: string,
+  foco: Foco,
+  kcal: number,
+  tamanho: string,
+): Ficha => ({
+  id: `${mes}-cardapio-${kcal}`,
+  titulo: `${FOCO_LABEL[foco]} ${kcal} kcal`,
+  descricao: 'Planejamento alimentar completo',
+  tipo: 'cardapio',
+  tamanho,
+  arquivo: `${BASE}/${mes}/cardapios/${foco}-${kcal}kcal.pdf`,
+})
+
+export const listaCompras = (
+  mes: string,
+  foco: Foco,
+  tamanho: string,
+): Ficha => ({
+  id: `${mes}-compras-${foco}`,
+  titulo: `Lista de compras · ${FOCO_LABEL[foco]}`,
+  descricao: 'O que comprar para o cardápio do mês',
+  tipo: 'lista',
+  tamanho,
+  arquivo: `${BASE}/${mes}/cardapios/lista-compras-${foco}.pdf`,
+})
+
+export const listaSubstituicao = (foco: Foco, tamanho: string): Ficha => ({
+  id: `geral-substituicao-${foco}`,
+  titulo: `Lista de substituição · ${FOCO_LABEL[foco]}`,
+  descricao: 'Trocas equivalentes de alimentos, vale para qualquer mês',
+  tipo: 'lista',
+  tamanho,
+  arquivo: `${BASE}/geral/lista-substituicao-${foco}.pdf`,
+})

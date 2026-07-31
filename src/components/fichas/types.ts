@@ -1,4 +1,4 @@
-export type FichaTipo = 'guia' | 'planilha' | 'cardapio'
+export type FichaTipo = 'guia' | 'planilha' | 'cardapio' | 'lista'
 
 export type Ficha = {
   id: string
@@ -19,5 +19,6 @@ export type Curso = {
   id: string
   nome: string
   descricao: string
+  geral: Ficha[]
   meses: MesFichas[]
 }
