@@ -1,25 +1,26 @@
 import { useMemo, useState } from 'react'
-import { Plus } from 'lucide-react'
+import { CalendarDays, FolderOpen, HeartPulse, TrendingUp } from 'lucide-react'
 import { AppHeader } from '@/components/app-header'
+import { BottomNav, type NavItem } from '@/components/bottom-nav'
 import { DataActions } from '@/components/data-actions'
 import { ExerciseForm } from '@/components/exercise-form'
 import { Fichas } from '@/components/fichas'
 import { History } from '@/components/history'
 import { Progress } from '@/components/progress'
-import { Button } from '@/components/ui/button'
+import { Saude } from '@/components/saude'
 import { Sheet } from '@/components/ui/sheet'
-import { Tabs, type TabItem } from '@/components/ui/tabs'
 import { todayISO } from '@/lib/date'
 import { buildHistories } from '@/lib/progress'
 import { useSessions } from '@/hooks/use-sessions'
 import type { ExerciseEntry } from '@/types'
 
-type TabValue = 'history' | 'progress' | 'fichas'
+type TabValue = 'history' | 'progress' | 'fichas' | 'saude'
 
-const TABS: TabItem<TabValue>[] = [
-  { value: 'history', label: 'Histórico' },
-  { value: 'progress', label: 'Evolução' },
-  { value: 'fichas', label: 'Fichas' },
+const NAV: NavItem<TabValue>[] = [
+  { value: 'history', label: 'Histórico', icon: CalendarDays },
+  { value: 'progress', label: 'Evolução', icon: TrendingUp },
+  { value: 'fichas', label: 'Fichas', icon: FolderOpen },
+  { value: 'saude', label: 'Saúde', icon: HeartPulse },
 ]
 
 export const App = () => {
@@ -44,10 +45,8 @@ export const App = () => {
   }
 
   return (
-    <div className="mx-auto flex min-h-dvh w-full max-w-2xl flex-col gap-4 px-4 pb-28 pt-[max(1rem,env(safe-area-inset-top))]">
+    <div className="mx-auto flex min-h-dvh w-full max-w-2xl flex-col gap-4 px-4 pb-32 pt-[max(1rem,env(safe-area-inset-top))]">
       <AppHeader today={todayISO()} />
-
-      <Tabs items={TABS} value={tab} onChange={setTab} />
 
       {tab === 'history' && (
         <History
@@ -58,6 +57,7 @@ export const App = () => {
       )}
       {tab === 'progress' && <Progress histories={histories} />}
       {tab === 'fichas' && <Fichas />}
+      {tab === 'saude' && <Saude />}
 
       <footer className="mt-auto flex flex-col gap-2 border-t border-border pt-4">
         <p className="text-[11px] text-muted-foreground">
@@ -71,13 +71,12 @@ export const App = () => {
         />
       </footer>
 
-      <Button
-        onClick={() => setFormOpen(true)}
-        className="fixed bottom-[max(1.25rem,env(safe-area-inset-bottom))] right-[max(1.25rem,env(safe-area-inset-right))] z-40 h-14 rounded-full px-5 shadow-lg shadow-black/40"
-      >
-        <Plus className="size-5" />
-        Registrar
-      </Button>
+      <BottomNav
+        items={NAV}
+        value={tab}
+        onChange={setTab}
+        onRegister={() => setFormOpen(true)}
+      />
 
       <Sheet
         open={formOpen}

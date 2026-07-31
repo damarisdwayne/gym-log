@@ -1,8 +1,21 @@
+import type { ReactNode } from 'react'
 import { Badge } from '@/components/ui/badge'
 import { Collapsible } from '@/components/ui/collapsible'
+import { ComposicaoTable } from './composicao-table'
 import { CURSOS } from './data'
 import { FichaItem } from './ficha-item'
 import type { Ficha } from './types'
+
+const EXTRAS: Record<string, ReactNode> = {
+  nutricao: (
+    <Collapsible
+      title="📏 Composição corporal"
+      description="Evolução das medidas ao longo das avaliações"
+    >
+      <ComposicaoTable />
+    </Collapsible>
+  ),
+}
 
 const FichaList = ({ fichas }: { fichas: Ficha[] }) => (
   <div className="flex flex-col gap-2">
@@ -41,6 +54,8 @@ export const Fichas = () => (
             <FichaList fichas={mes.fichas} />
           </Collapsible>
         ))}
+
+        {EXTRAS[curso.id]}
       </section>
     ))}
   </div>
