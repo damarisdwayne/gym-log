@@ -21,7 +21,7 @@ export const CURSOS: Curso[] = [
   {
     id: 'natflix',
     nome: 'Natflix',
-    descricao: 'Hipertrofia avançado',
+    descricao: 'Treino e dieta · hipertrofia avançado e intermediário',
     geral: [
       agenda(4, '144 KB'),
       agenda(5, '1,2 MB'),
@@ -171,7 +171,7 @@ export const CURSOS: Curso[] = [
   {
     id: 'tay-training',
     nome: 'Tay Training',
-    descricao: 'Treino de academia, 4x ou 5x na semana',
+    descricao: 'Treino em casa e academia · 4x ou 5x na semana',
     geral: [
       cardapioTay('emagrecimento', 1463, '714 KB'),
       cardapioTay('manutencao', 1951, '717 KB'),
