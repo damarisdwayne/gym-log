@@ -12,7 +12,16 @@ const FOCO_LABEL: Record<Foco, string> = {
 export const guia = (mes: string, tamanho: string): Ficha => ({
   id: `${mes}-guia`,
   titulo: 'Guia de execução',
-  descricao: 'Cada exercício com fotos e explicação série a série',
+  descricao: 'Cada exercício da ficha completa, com fotos e explicação',
+  tipo: 'guia',
+  tamanho,
+  arquivo: `${BASE}/${mes}/treinos/hipertrofia-avancado-guia.pdf`,
+})
+
+export const guiaReduzido = (mes: string, tamanho: string): Ficha => ({
+  id: `${mes}-guia-reduzido`,
+  titulo: 'Guia de execução · reduzido',
+  descricao: 'Cada exercício da ficha reduzida, com fotos e explicação',
   tipo: 'guia',
   tamanho,
   arquivo: `${BASE}/${mes}/treinos/hipertrofia-avancado-reduzido-guia.pdf`,
