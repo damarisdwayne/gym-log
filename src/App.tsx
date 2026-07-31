@@ -3,6 +3,7 @@ import { Plus } from 'lucide-react'
 import { AppHeader } from '@/components/app-header'
 import { DataActions } from '@/components/data-actions'
 import { ExerciseForm } from '@/components/exercise-form'
+import { Fichas } from '@/components/fichas'
 import { History } from '@/components/history'
 import { Progress } from '@/components/progress'
 import { Button } from '@/components/ui/button'
@@ -13,11 +14,12 @@ import { buildHistories } from '@/lib/progress'
 import { useSessions } from '@/hooks/use-sessions'
 import type { ExerciseEntry } from '@/types'
 
-type TabValue = 'history' | 'progress'
+type TabValue = 'history' | 'progress' | 'fichas'
 
 const TABS: TabItem<TabValue>[] = [
   { value: 'history', label: 'Histórico' },
   { value: 'progress', label: 'Evolução' },
+  { value: 'fichas', label: 'Fichas' },
 ]
 
 export const App = () => {
@@ -47,15 +49,15 @@ export const App = () => {
 
       <Tabs items={TABS} value={tab} onChange={setTab} />
 
-      {tab === 'history' ? (
+      {tab === 'history' && (
         <History
           sessions={orderedSessions}
           onRemoveExercise={removeExercise}
           onAddExercise={() => setFormOpen(true)}
         />
-      ) : (
-        <Progress histories={histories} />
       )}
+      {tab === 'progress' && <Progress histories={histories} />}
+      {tab === 'fichas' && <Fichas />}
 
       <footer className="mt-auto flex flex-col gap-2 border-t border-border pt-4">
         <p className="text-[11px] text-muted-foreground">
