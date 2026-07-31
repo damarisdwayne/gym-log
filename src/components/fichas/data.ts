@@ -27,6 +27,17 @@ export const CURSOS: Curso[] = [
     ],
     meses: [
       {
+        id: '2023-10',
+        label: 'Outubro 2023',
+        fichas: [
+          guiaReduzido('2023-10', '5,4 MB'),
+          planilha('2023-10', '2,0 MB'),
+          planilhaReduzida('2023-10', '2,0 MB'),
+          cardapio('2023-10', 'emagrecimento', 1300, '1,2 MB'),
+          cardapio('2023-10', 'emagrecimento', 1500, '1,2 MB'),
+        ],
+      },
+      {
         id: '2024-01',
         label: 'Janeiro 2024',
         fichas: [
