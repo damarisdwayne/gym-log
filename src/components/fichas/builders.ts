@@ -4,45 +4,71 @@ const BASE = '/fichas/natflix'
 
 export type Foco = 'emagrecimento' | 'hipertrofia'
 
+export type Nivel = 'avancado' | 'intermediario'
+
 const FOCO_LABEL: Record<Foco, string> = {
   emagrecimento: 'Emagrecimento',
   hipertrofia: 'Hipertrofia',
 }
 
-export const guia = (mes: string, tamanho: string): Ficha => ({
-  id: `${mes}-guia`,
-  titulo: 'Guia de execução',
+const NIVEL_SUFIXO: Record<Nivel, string> = {
+  avancado: '',
+  intermediario: ' · intermediário',
+}
+
+const treino = (mes: string, nivel: Nivel, arquivo: string) =>
+  `${BASE}/${mes}/treinos/hipertrofia-${nivel}-${arquivo}.pdf`
+
+export const guia = (
+  mes: string,
+  tamanho: string,
+  nivel: Nivel = 'avancado',
+): Ficha => ({
+  id: `${mes}-${nivel}-guia`,
+  titulo: `Guia de execução${NIVEL_SUFIXO[nivel]}`,
   descricao: 'Cada exercício da ficha completa, com fotos e explicação',
   tipo: 'guia',
   tamanho,
-  arquivo: `${BASE}/${mes}/treinos/hipertrofia-avancado-guia.pdf`,
+  arquivo: treino(mes, nivel, 'guia'),
 })
 
-export const guiaReduzido = (mes: string, tamanho: string): Ficha => ({
-  id: `${mes}-guia-reduzido`,
-  titulo: 'Guia de execução · reduzido',
+export const guiaReduzido = (
+  mes: string,
+  tamanho: string,
+  nivel: Nivel = 'avancado',
+): Ficha => ({
+  id: `${mes}-${nivel}-guia-reduzido`,
+  titulo: `Guia de execução · reduzido${NIVEL_SUFIXO[nivel]}`,
   descricao: 'Cada exercício da ficha reduzida, com fotos e explicação',
   tipo: 'guia',
   tamanho,
-  arquivo: `${BASE}/${mes}/treinos/hipertrofia-avancado-reduzido-guia.pdf`,
+  arquivo: treino(mes, nivel, 'reduzido-guia'),
 })
 
-export const planilha = (mes: string, tamanho: string): Ficha => ({
-  id: `${mes}-planilha`,
-  titulo: 'Planilha de treino',
+export const planilha = (
+  mes: string,
+  tamanho: string,
+  nivel: Nivel = 'avancado',
+): Ficha => ({
+  id: `${mes}-${nivel}-planilha`,
+  titulo: `Planilha de treino${NIVEL_SUFIXO[nivel]}`,
   descricao: 'Ficha completa: exercício, séries, repetições e descanso',
   tipo: 'planilha',
   tamanho,
-  arquivo: `${BASE}/${mes}/treinos/hipertrofia-avancado-planilha.pdf`,
+  arquivo: treino(mes, nivel, 'planilha'),
 })
 
-export const planilhaReduzida = (mes: string, tamanho: string): Ficha => ({
-  id: `${mes}-planilha-reduzida`,
-  titulo: 'Planilha reduzida',
+export const planilhaReduzida = (
+  mes: string,
+  tamanho: string,
+  nivel: Nivel = 'avancado',
+): Ficha => ({
+  id: `${mes}-${nivel}-planilha-reduzida`,
+  titulo: `Planilha reduzida${NIVEL_SUFIXO[nivel]}`,
   descricao: 'Versão curta da ficha, para treinar em 45min a 1h',
   tipo: 'planilha',
   tamanho,
-  arquivo: `${BASE}/${mes}/treinos/hipertrofia-avancado-reduzido-planilha.pdf`,
+  arquivo: treino(mes, nivel, 'reduzido-planilha'),
 })
 
 export const cardapio = (

@@ -119,6 +119,15 @@ export const CURSOS: Curso[] = [
         ],
       },
       {
+        id: '2024-09',
+        label: 'Setembro 2024',
+        fichas: [
+          guiaReduzido('2024-09', '4,8 MB', 'intermediario'),
+          planilhaReduzida('2024-09', '1,2 MB', 'intermediario'),
+          cardapio('2024-09', 'emagrecimento', 1500, '1,2 MB'),
+        ],
+      },
+      {
         id: '2024-10',
         label: 'Outubro 2024',
         fichas: [
