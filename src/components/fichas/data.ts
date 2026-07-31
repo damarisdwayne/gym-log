@@ -1,5 +1,7 @@
 import {
+  agenda,
   cardapio,
+  ebookReceitas,
   guia,
   listaCompras,
   listaSubstituicao,
@@ -14,8 +16,11 @@ export const CURSOS: Curso[] = [
     nome: 'Natflix',
     descricao: 'Hipertrofia avançado',
     geral: [
+      agenda(4, '144 KB'),
+      agenda(5, '1,2 MB'),
+      ebookReceitas('6,1 MB'),
       listaSubstituicao('emagrecimento', '48 KB'),
-      listaSubstituicao('hipertrofia', '56 KB'),
+      listaSubstituicao('hipertrofia', '52 KB'),
     ],
     meses: [
       {

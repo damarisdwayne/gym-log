@@ -63,6 +63,24 @@ export const listaCompras = (
   arquivo: `${BASE}/${mes}/cardapios/lista-compras-${foco}.pdf`,
 })
 
+export const agenda = (vezesPorSemana: number, tamanho: string): Ficha => ({
+  id: `geral-agenda-${vezesPorSemana}x`,
+  titulo: `Agenda de treino · ${vezesPorSemana}x na semana`,
+  descricao: 'Divisão dos treinos ao longo do mês',
+  tipo: 'agenda',
+  tamanho,
+  arquivo: `${BASE}/geral/agenda-treino-${vezesPorSemana}x-semana.pdf`,
+})
+
+export const ebookReceitas = (tamanho: string): Ficha => ({
+  id: 'geral-ebook-receitas',
+  titulo: 'E-book de receitas',
+  descricao: 'Receitas da Natasha Villaschi',
+  tipo: 'ebook',
+  tamanho,
+  arquivo: `${BASE}/geral/ebook-receitas.pdf`,
+})
+
 export const listaSubstituicao = (foco: Foco, tamanho: string): Ficha => ({
   id: `geral-substituicao-${foco}`,
   titulo: `Lista de substituição · ${FOCO_LABEL[foco]}`,

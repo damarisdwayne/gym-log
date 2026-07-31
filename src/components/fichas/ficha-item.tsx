@@ -1,5 +1,7 @@
 import {
+  BookMarked,
   BookOpen,
+  CalendarDays,
   ClipboardList,
   ExternalLink,
   Table2,
@@ -14,6 +16,8 @@ const TIPO_ICON: Record<FichaTipo, LucideIcon> = {
   planilha: Table2,
   cardapio: UtensilsCrossed,
   lista: ClipboardList,
+  agenda: CalendarDays,
+  ebook: BookMarked,
 }
 
 const TIPO_LABEL: Record<FichaTipo, string> = {
@@ -21,6 +25,8 @@ const TIPO_LABEL: Record<FichaTipo, string> = {
   planilha: 'Planilha',
   cardapio: 'Cardápio',
   lista: 'Lista',
+  agenda: 'Agenda',
+  ebook: 'E-book',
 }
 
 type FichaItemProps = {

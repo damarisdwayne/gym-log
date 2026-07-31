@@ -1,4 +1,10 @@
-export type FichaTipo = 'guia' | 'planilha' | 'cardapio' | 'lista'
+export type FichaTipo =
+  | 'guia'
+  | 'planilha'
+  | 'cardapio'
+  | 'lista'
+  | 'agenda'
+  | 'ebook'
 
 export type Ficha = {
   id: string
