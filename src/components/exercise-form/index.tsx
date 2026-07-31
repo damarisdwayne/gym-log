@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Check } from 'lucide-react'
+import { DateField } from './date-field'
 import { LastRecordHint } from './last-record-hint'
 import { NameField } from './name-field'
 import {
@@ -71,17 +72,7 @@ export const ExerciseForm = ({
     <div className="flex flex-col gap-4">
       <div className="flex flex-col gap-3">
         <NameField value={name} options={exerciseNames} onChange={setName} />
-        <div className="flex min-w-0 flex-col gap-1.5">
-          <Label htmlFor="exercise-date">Data</Label>
-          <Input
-            id="exercise-date"
-            type="date"
-            value={date}
-            max={todayISO()}
-            onChange={(event) => setDate(event.target.value)}
-            className="[&::-webkit-date-and-time-value]:text-left"
-          />
-        </div>
+        <DateField value={date} onChange={setDate} />
       </div>
 
       {lastRecord && <LastRecordHint record={lastRecord} onReuse={handleReuse} />}
