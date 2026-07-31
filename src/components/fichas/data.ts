@@ -27,17 +27,6 @@ export const CURSOS: Curso[] = [
     ],
     meses: [
       {
-        id: '2023-10',
-        label: 'Outubro 2023',
-        fichas: [
-          guiaReduzido('2023-10', '5,4 MB'),
-          planilha('2023-10', '2,0 MB'),
-          planilhaReduzida('2023-10', '2,0 MB'),
-          cardapio('2023-10', 'emagrecimento', 1300, '1,2 MB'),
-          cardapio('2023-10', 'emagrecimento', 1500, '1,2 MB'),
-        ],
-      },
-      {
         id: '2024-01',
         label: 'Janeiro 2024',
         fichas: [
@@ -127,6 +116,28 @@ export const CURSOS: Curso[] = [
           cardapio('2024-08', 'emagrecimento', 1500, '565 KB'),
           cardapio('2024-08', 'emagrecimento', 1800, '566 KB'),
           cardapio('2024-08', 'hipertrofia', 2300, '555 KB'),
+        ],
+      },
+      {
+        id: '2023-10',
+        label: 'Outubro 2023',
+        fichas: [
+          guiaReduzido('2023-10', '5,4 MB'),
+          planilha('2023-10', '2,0 MB'),
+          planilhaReduzida('2023-10', '2,0 MB'),
+          cardapio('2023-10', 'emagrecimento', 1300, '1,2 MB'),
+          cardapio('2023-10', 'emagrecimento', 1500, '1,2 MB'),
+        ],
+      },
+      {
+        id: '2023-11',
+        label: 'Novembro 2023',
+        fichas: [
+          guiaReduzido('2023-11', '5,2 MB'),
+          planilha('2023-11', '2,0 MB'),
+          planilhaReduzida('2023-11', '2,0 MB'),
+          cardapio('2023-11', 'emagrecimento', 1300, '4,1 MB'),
+          cardapio('2023-11', 'hipertrofia', 2800, '2,0 MB'),
         ],
       },
     ],

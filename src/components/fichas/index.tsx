@@ -2,9 +2,7 @@ import { Badge } from '@/components/ui/badge'
 import { Collapsible } from '@/components/ui/collapsible'
 import { CURSOS } from './data'
 import { FichaItem } from './ficha-item'
-import type { Ficha, MesFichas } from './types'
-
-const porMes = (a: MesFichas, b: MesFichas) => a.id.localeCompare(b.id)
+import type { Ficha } from './types'
 
 const FichaList = ({ fichas }: { fichas: Ficha[] }) => (
   <div className="flex flex-col gap-2">
@@ -34,7 +32,7 @@ export const Fichas = () => (
           </Collapsible>
         )}
 
-        {[...curso.meses].sort(porMes).map((mes) => (
+        {curso.meses.map((mes) => (
           <Collapsible
             key={mes.id}
             title={mes.label}
