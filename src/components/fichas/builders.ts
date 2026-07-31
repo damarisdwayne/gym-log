@@ -72,6 +72,15 @@ export const listaCompras = (
   arquivo: `${BASE}/${mes}/cardapios/lista-compras-${foco}.pdf`,
 })
 
+export const planilhaCardio = (tamanho: string): Ficha => ({
+  id: 'geral-planilha-cardio',
+  titulo: 'Planilha de cardio',
+  descricao: 'Progressão do cardio ao longo do mês',
+  tipo: 'planilha',
+  tamanho,
+  arquivo: `${BASE}/geral/planilha-cardio.pdf`,
+})
+
 export const agenda = (vezesPorSemana: number, tamanho: string): Ficha => ({
   id: `geral-agenda-${vezesPorSemana}x`,
   titulo: `Agenda de treino · ${vezesPorSemana}x na semana`,

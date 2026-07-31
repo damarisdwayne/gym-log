@@ -7,6 +7,7 @@ import {
   listaCompras,
   listaSubstituicao,
   planilha,
+  planilhaCardio,
   planilhaReduzida,
 } from './builders'
 import type { Curso } from './types'
@@ -19,6 +20,7 @@ export const CURSOS: Curso[] = [
     geral: [
       agenda(4, '144 KB'),
       agenda(5, '1,2 MB'),
+      planilhaCardio('425 KB'),
       ebookReceitas('6,1 MB'),
       listaSubstituicao('emagrecimento', '48 KB'),
       listaSubstituicao('hipertrofia', '52 KB'),
@@ -75,6 +77,19 @@ export const CURSOS: Curso[] = [
           cardapio('2024-04', 'emagrecimento', 1500, '1,2 MB'),
           cardapio('2024-04', 'emagrecimento', 1800, '1,2 MB'),
           cardapio('2024-04', 'hipertrofia', 2300, '1,2 MB'),
+        ],
+      },
+      {
+        id: '2024-05',
+        label: 'Maio 2024',
+        fichas: [
+          guiaReduzido('2024-05', '3,6 MB'),
+          planilha('2024-05', '1,7 MB'),
+          planilhaReduzida('2024-05', '1,7 MB'),
+          cardapio('2024-05', 'emagrecimento', 1300, '580 KB'),
+          cardapio('2024-05', 'emagrecimento', 1500, '580 KB'),
+          cardapio('2024-05', 'emagrecimento', 1800, '582 KB'),
+          cardapio('2024-05', 'hipertrofia', 2300, '960 KB'),
         ],
       },
     ],
