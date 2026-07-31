@@ -179,12 +179,12 @@ export const CURSOS: Curso[] = [
       planilhaCardioTay('262 KB'),
     ],
     meses: [
-      mesTay(1, '540 KB', '424 KB'),
-      mesTay(2, '529 KB', '534 KB'),
-      mesTay(3, '564 KB', '556 KB'),
-      mesTay(4, '247 KB', '246 KB'),
-      mesTay(5, '231 KB', '230 KB'),
-      mesTay(6, '233 KB', '233 KB'),
+      mesTay(1, { academia4x: '580 KB', academia5x: '452 KB', casa5x: '361 KB' }),
+      mesTay(2, { academia4x: '532 KB', academia5x: '536 KB', casa5x: '334 KB' }),
+      mesTay(3, { academia4x: '568 KB', academia5x: '556 KB', casa5x: '331 KB' }),
+      mesTay(4, { academia4x: '260 KB', academia5x: '260 KB', casa5x: '328 KB' }),
+      mesTay(5, { academia4x: '260 KB', academia5x: '260 KB', casa5x: '329 KB' }),
+      mesTay(6, { academia4x: '260 KB', academia5x: '260 KB', casa5x: '358 KB' }),
     ],
   },
 ]
