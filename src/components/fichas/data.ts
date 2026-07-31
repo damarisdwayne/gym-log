@@ -50,6 +50,19 @@ export const CURSOS: Curso[] = [
           listaCompras('2024-02', 'hipertrofia', '36 KB'),
         ],
       },
+      {
+        id: '2024-03',
+        label: 'Março 2024',
+        fichas: [
+          guia('2024-03', '5,4 MB'),
+          planilha('2024-03', '2,1 MB'),
+          planilhaReduzida('2024-03', '2,1 MB'),
+          cardapio('2024-03', 'emagrecimento', 1300, '1,3 MB'),
+          cardapio('2024-03', 'emagrecimento', 1500, '1,3 MB'),
+          cardapio('2024-03', 'emagrecimento', 1800, '1,3 MB'),
+          cardapio('2024-03', 'hipertrofia', 2300, '1,2 MB'),
+        ],
+      },
     ],
   },
 ]
