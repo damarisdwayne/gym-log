@@ -105,6 +105,19 @@ export const CURSOS: Curso[] = [
           cardapio('2024-07', 'hipertrofia', 2300, '560 KB'),
         ],
       },
+      {
+        id: '2024-08',
+        label: 'Agosto 2024',
+        fichas: [
+          guia('2024-08', '4,1 MB'),
+          planilha('2024-08', '1,8 MB'),
+          planilhaReduzida('2024-08', '1,7 MB'),
+          cardapio('2024-08', 'emagrecimento', 1300, '563 KB'),
+          cardapio('2024-08', 'emagrecimento', 1500, '565 KB'),
+          cardapio('2024-08', 'emagrecimento', 1800, '566 KB'),
+          cardapio('2024-08', 'hipertrofia', 2300, '555 KB'),
+        ],
+      },
     ],
   },
 ]
