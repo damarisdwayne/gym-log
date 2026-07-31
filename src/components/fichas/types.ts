@@ -27,4 +27,5 @@ export type Curso = {
   descricao: string
   geral: Ficha[]
   meses: MesFichas[]
+  extras?: MesFichas[]
 }

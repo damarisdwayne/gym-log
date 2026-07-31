@@ -45,13 +45,13 @@ export const Fichas = () => (
           </Collapsible>
         )}
 
-        {curso.meses.map((mes) => (
+        {[...curso.meses, ...(curso.extras ?? [])].map((grupo) => (
           <Collapsible
-            key={mes.id}
-            title={mes.label}
-            meta={<Badge>{mes.fichas.length} arquivos</Badge>}
+            key={grupo.id}
+            title={grupo.label}
+            meta={<Badge>{grupo.fichas.length} arquivos</Badge>}
           >
-            <FichaList fichas={mes.fichas} />
+            <FichaList fichas={grupo.fichas} />
           </Collapsible>
         ))}
 

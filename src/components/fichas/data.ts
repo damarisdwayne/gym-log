@@ -10,6 +10,7 @@ import {
   planilhaCardio,
   planilhaReduzida,
 } from './builders'
+import { treinoEmCasa } from './builders-casa'
 import { evolucaoCorporal, planoAlimentar } from './builders-nutricao'
 import {
   cardapio as cardapioTay,
@@ -24,8 +25,10 @@ export const CURSOS: Curso[] = [
     nome: 'Natflix',
     descricao: 'Treino e dieta · hipertrofia avançado e intermediário',
     geral: [
-      agenda(4, '144 KB'),
+      agenda(3, '650 KB'),
+      agenda(4, '1,2 MB'),
       agenda(5, '1,2 MB'),
+      agenda(6, '1,2 MB'),
       planilhaCardio('425 KB'),
       ebookReceitas('6,1 MB'),
       listaSubstituicao('emagrecimento', '48 KB'),
@@ -99,6 +102,26 @@ export const CURSOS: Curso[] = [
         ],
       },
       {
+        id: '2024-06',
+        label: 'Mês 6',
+        fichas: [
+          guia('2024-06', '7,3 MB'),
+          guiaReduzido('2024-06', '6,9 MB'),
+          planilha('2024-06', '3,6 MB'),
+          planilhaReduzida('2024-06', '3,5 MB'),
+          guia('2024-06', '7,2 MB', 'intermediario'),
+          guiaReduzido('2024-06', '6,8 MB', 'intermediario'),
+          planilha('2024-06', '3,5 MB', 'intermediario'),
+          planilhaReduzida('2024-06', '3,3 MB', 'intermediario'),
+          cardapio('2024-06', 'emagrecimento', 1300, '1,2 MB'),
+          cardapio('2024-06', 'emagrecimento', 1500, '1,2 MB'),
+          cardapio('2024-06', 'emagrecimento', 1800, '1,2 MB'),
+          cardapio('2024-06', 'hipertrofia', 2300, '1,2 MB'),
+          cardapio('2024-06', 'hipertrofia', 2500, '1,2 MB'),
+          cardapio('2024-06', 'hipertrofia', 2800, '1,2 MB'),
+        ],
+      },
+      {
         id: '2024-07',
         label: 'Mês 7',
         fichas: [
@@ -167,6 +190,17 @@ export const CURSOS: Curso[] = [
           cardapio('2024-12', 'hipertrofia', 2800, '1,2 MB'),
         ],
       },
+    ],
+    extras: [
+      treinoEmCasa('1,7 MB', [
+        { periodo: 'jan-fev', letra: 'A', foco: 'Membros inferiores · foco em quadríceps', tamanho: '225 KB' },
+        { periodo: 'maio', letra: 'B.1', foco: 'Ombro, peito e tríceps + cardio e abdômen', tamanho: '211 KB' },
+        { periodo: 'maio', letra: 'B.2', foco: 'Costas e bíceps + cardio e abdômen', tamanho: '194 KB' },
+        { periodo: 'maio', letra: 'B.3', foco: 'Superior completo + abdômen e cardio', tamanho: '205 KB' },
+        { periodo: 'maio', letra: 'C', foco: 'Glúteo e posterior', tamanho: '200 KB' },
+        { periodo: 'jan-fev', letra: 'D', foco: 'Inferior completo · quadríceps, posterior e glúteo', tamanho: '253 KB' },
+        { periodo: 'jan-fev', letra: 'E', foco: 'Fullbody', tamanho: '226 KB' },
+      ]),
     ],
   },
   {

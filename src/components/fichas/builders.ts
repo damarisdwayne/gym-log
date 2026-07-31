@@ -99,6 +99,8 @@ export const listaCompras = (
   arquivo: `${BASE}/${mes}/cardapios/lista-compras-${foco}.pdf`,
 })
 
+
+
 export const planilhaCardio = (tamanho: string): Ficha => ({
   id: 'geral-planilha-cardio',
   titulo: 'Planilha de cardio',
