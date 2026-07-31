@@ -2,12 +2,13 @@ import type { Ficha } from './types'
 
 const BASE = '/fichas/natflix'
 
-export type Foco = 'emagrecimento' | 'hipertrofia'
+export type Foco = 'emagrecimento' | 'manutencao' | 'hipertrofia'
 
 export type Nivel = 'avancado' | 'intermediario'
 
-const FOCO_LABEL: Record<Foco, string> = {
+export const FOCO_LABEL: Record<Foco, string> = {
   emagrecimento: 'Emagrecimento',
+  manutencao: 'Manutenção',
   hipertrofia: 'Hipertrofia',
 }
 

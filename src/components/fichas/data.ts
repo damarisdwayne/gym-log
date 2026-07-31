@@ -10,6 +10,11 @@ import {
   planilhaCardio,
   planilhaReduzida,
 } from './builders'
+import {
+  cardapio as cardapioTay,
+  mes as mesTay,
+  planilhaCardio as planilhaCardioTay,
+} from './builders-tay-training'
 import type { Curso } from './types'
 
 export const CURSOS: Curso[] = [
@@ -161,6 +166,25 @@ export const CURSOS: Curso[] = [
           cardapio('2024-12', 'hipertrofia', 2800, '1,2 MB'),
         ],
       },
+    ],
+  },
+  {
+    id: 'tay-training',
+    nome: 'Tay Training',
+    descricao: 'Treino de academia, 4x ou 5x na semana',
+    geral: [
+      cardapioTay('emagrecimento', 1463, '714 KB'),
+      cardapioTay('manutencao', 1951, '717 KB'),
+      cardapioTay('hipertrofia', 2146, '718 KB'),
+      planilhaCardioTay('262 KB'),
+    ],
+    meses: [
+      mesTay(1, '540 KB', '424 KB'),
+      mesTay(2, '529 KB', '534 KB'),
+      mesTay(3, '564 KB', '556 KB'),
+      mesTay(4, '247 KB', '246 KB'),
+      mesTay(5, '231 KB', '230 KB'),
+      mesTay(6, '233 KB', '233 KB'),
     ],
   },
 ]
