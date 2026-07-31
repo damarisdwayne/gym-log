@@ -33,7 +33,7 @@ export const CURSOS: Curso[] = [
     meses: [
       {
         id: '2024-01',
-        label: 'Janeiro 2024',
+        label: 'Mês 1',
         fichas: [
           guiaReduzido('2024-01', '4,6 MB'),
           planilhaReduzida('2024-01', '2,0 MB'),
@@ -45,7 +45,7 @@ export const CURSOS: Curso[] = [
       },
       {
         id: '2024-02',
-        label: 'Fevereiro 2024',
+        label: 'Mês 2',
         fichas: [
           guiaReduzido('2024-02', '5,0 MB'),
           planilha('2024-02', '2,0 MB'),
@@ -60,7 +60,7 @@ export const CURSOS: Curso[] = [
       },
       {
         id: '2024-03',
-        label: 'Março 2024',
+        label: 'Mês 3',
         fichas: [
           guiaReduzido('2024-03', '5,4 MB'),
           planilha('2024-03', '2,1 MB'),
@@ -73,7 +73,7 @@ export const CURSOS: Curso[] = [
       },
       {
         id: '2024-04',
-        label: 'Abril 2024',
+        label: 'Mês 4',
         fichas: [
           guia('2024-04', '4,7 MB'),
           guiaReduzido('2024-04', '4,8 MB'),
@@ -86,7 +86,7 @@ export const CURSOS: Curso[] = [
       },
       {
         id: '2024-05',
-        label: 'Maio 2024',
+        label: 'Mês 5',
         fichas: [
           guiaReduzido('2024-05', '3,6 MB'),
           planilha('2024-05', '1,7 MB'),
@@ -99,7 +99,7 @@ export const CURSOS: Curso[] = [
       },
       {
         id: '2024-07',
-        label: 'Julho 2024',
+        label: 'Mês 7',
         fichas: [
           guia('2024-07', '4,0 MB'),
           planilha('2024-07', '1,8 MB'),
@@ -112,7 +112,7 @@ export const CURSOS: Curso[] = [
       },
       {
         id: '2024-08',
-        label: 'Agosto 2024',
+        label: 'Mês 8',
         fichas: [
           guia('2024-08', '4,1 MB'),
           planilha('2024-08', '1,8 MB'),
@@ -125,7 +125,7 @@ export const CURSOS: Curso[] = [
       },
       {
         id: '2024-09',
-        label: 'Setembro 2024',
+        label: 'Mês 9',
         fichas: [
           guiaReduzido('2024-09', '4,8 MB', 'intermediario'),
           planilhaReduzida('2024-09', '1,2 MB', 'intermediario'),
@@ -134,7 +134,7 @@ export const CURSOS: Curso[] = [
       },
       {
         id: '2024-10',
-        label: 'Outubro 2024',
+        label: 'Mês 10',
         fichas: [
           guiaReduzido('2024-10', '5,4 MB'),
           planilha('2024-10', '2,0 MB'),
@@ -145,7 +145,7 @@ export const CURSOS: Curso[] = [
       },
       {
         id: '2024-11',
-        label: 'Novembro 2024',
+        label: 'Mês 11',
         fichas: [
           guiaReduzido('2024-11', '5,2 MB'),
           planilha('2024-11', '2,0 MB'),
@@ -156,7 +156,7 @@ export const CURSOS: Curso[] = [
       },
       {
         id: '2024-12',
-        label: 'Dezembro 2024',
+        label: 'Mês 12',
         fichas: [
           guiaReduzido('2024-12', '5,1 MB'),
           planilhaReduzida('2024-12', '2,0 MB'),
