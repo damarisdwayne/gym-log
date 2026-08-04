@@ -2,10 +2,21 @@ import type { Ficha } from './types'
 
 const BASE = '/fichas/nutricao'
 
-export const planoAlimentar = (prescrito: string, tamanho: string): Ficha => ({
+type Macros = {
+  proteinas: number
+  carboidratos: number
+  lipideos: number
+}
+
+export const planoAlimentar = (
+  prescrito: string,
+  calorias: number,
+  { proteinas, carboidratos, lipideos }: Macros,
+  tamanho: string,
+): Ficha => ({
   id: 'nutricao-plano-alimentar',
   titulo: 'Plano alimentar',
-  descricao: `Prescrito em ${prescrito}`,
+  descricao: `${prescrito} · ${calorias} kcal · P ${proteinas}g · C ${carboidratos}g · L ${lipideos}g`,
   tipo: 'cardapio',
   tamanho,
   arquivo: `${BASE}/plano-alimentar.pdf`,

@@ -227,7 +227,12 @@ export const CURSOS: Curso[] = [
     nome: 'Nutrição',
     descricao: 'Acompanhamento com a nutri Naiara Alves',
     geral: [
-      planoAlimentar('02/06/2026', '61 KB'),
+      planoAlimentar(
+        '02/06/2026',
+        1579,
+        { proteinas: 114, carboidratos: 170, lipideos: 52 },
+        '61 KB',
+      ),
       evolucaoCorporal('jun/2025 a jun/2026', '149 KB'),
     ],
     meses: [],

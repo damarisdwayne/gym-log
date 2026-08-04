@@ -52,7 +52,7 @@ export const FichaItem = ({ ficha }: FichaItemProps) => {
           <span className="truncate text-sm font-medium">{ficha.titulo}</span>
           <Badge>{TIPO_LABEL[ficha.tipo]}</Badge>
         </span>
-        <span className="truncate text-xs text-muted-foreground">
+        <span className="text-xs leading-snug text-muted-foreground">
           {ficha.descricao} · {ficha.tamanho}
         </span>
       </span>
