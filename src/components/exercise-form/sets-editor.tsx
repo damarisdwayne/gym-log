@@ -1,5 +1,5 @@
 import { Fragment, useState } from 'react'
-import { Plus, Trash2 } from 'lucide-react'
+import { ArrowDownToLine, Plus, Trash2 } from 'lucide-react'
 import { SetValueField } from './set-value-field'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
@@ -66,6 +66,19 @@ export const SetsEditor = ({ sets, onChange }: SetsEditorProps) => {
 
   const append = () => onChange([...sets, createSet(filled.at(-1))])
 
+  const primeiraCarga = sets[0]?.weight.trim() ?? ''
+
+  const podeRepetirCarga =
+    primeiraCarga !== '' &&
+    sets.slice(1).some((set) => set.weight.trim() === '')
+
+  const repetirCarga = () =>
+    onChange(
+      sets.map((set) =>
+        set.weight.trim() === '' ? { ...set, weight: primeiraCarga } : set,
+      ),
+    )
+
   const handleSelect = (value: number) => {
     if (!target) return
     patch(target.id, { [target.field]: String(value) })
@@ -126,13 +139,26 @@ export const SetsEditor = ({ sets, onChange }: SetsEditorProps) => {
         ))}
       </div>
 
-      <div className="flex items-center justify-between gap-2">
+      <div className="flex flex-wrap items-center gap-2">
         <Button type="button" variant="outline" size="sm" onClick={append}>
           <Plus className="size-4" />
           Adicionar série
         </Button>
+
+        {podeRepetirCarga && (
+          <Button
+            type="button"
+            variant="outline"
+            size="sm"
+            onClick={repetirCarga}
+          >
+            <ArrowDownToLine className="size-4" />
+            Repetir carga
+          </Button>
+        )}
+
         {filled.length > 0 && (
-          <span className="text-xs text-muted-foreground">
+          <span className="ml-auto text-xs text-muted-foreground">
             Volume {formatWeight(totalVolume(filled))}
           </span>
         )}
