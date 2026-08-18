@@ -70,14 +70,10 @@ export const SetsEditor = ({ sets, onChange }: SetsEditorProps) => {
 
   const podeRepetirCarga =
     primeiraCarga !== '' &&
-    sets.slice(1).some((set) => set.weight.trim() === '')
+    sets.slice(1).some((set) => set.weight.trim() !== primeiraCarga)
 
   const repetirCarga = () =>
-    onChange(
-      sets.map((set) =>
-        set.weight.trim() === '' ? { ...set, weight: primeiraCarga } : set,
-      ),
-    )
+    onChange(sets.map((set) => ({ ...set, weight: primeiraCarga })))
 
   const handleSelect = (value: number) => {
     if (!target) return
