@@ -1,7 +1,7 @@
-import type { Receita } from '../types'
-import { macros } from './utils'
+import type { ReceitaBase } from '../../types'
+import { macros } from '../utils'
 
-export const AGRIDOCES: Receita[] = [
+export const AGRIDOCES: ReceitaBase[] = [
   {
     id: 'pao-banana-pasta-amendoim',
     nome: 'Pão com banana e pasta de amendoim',

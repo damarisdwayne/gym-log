@@ -3,7 +3,8 @@ import { FileText, Lightbulb } from 'lucide-react'
 import { Badge } from '@/components/ui/badge'
 import { Sheet } from '@/components/ui/sheet'
 import { MacroStats } from '../macro-stats'
-import { EBOOK, fotoReceita, LEGENDA_MEDIDAS, PREPAROS, SECOES, TIPOS } from './constants'
+import { EBOOKS, LEGENDA_MEDIDAS, PREPAROS, SECOES, TIPOS } from './constants'
+import { ReceitaFoto } from './receita-foto'
 import type { GrupoIngredientes, Receita } from './types'
 
 const Secao = ({ titulo, children }: { titulo: string; children: ReactNode }) => (
@@ -43,13 +44,14 @@ const Passos = ({ passos }: { passos: string[] }) => (
 
 const ConteudoReceita = ({ receita }: { receita: Receita }) => {
   const secao = SECOES[receita.secao]
+  const ebook = EBOOKS[receita.ebook]
 
   return (
     <div className="flex flex-col gap-5">
-      <img
-        src={fotoReceita(receita.id)}
+      <ReceitaFoto
+        receita={receita}
         alt={receita.nome}
-        className="aspect-4/3 w-full rounded-xl bg-muted object-cover"
+        className="aspect-4/3 w-full rounded-xl"
       />
 
       <div className="flex flex-wrap gap-1.5">
@@ -78,9 +80,11 @@ const ConteudoReceita = ({ receita }: { receita: Receita }) => {
         <p className="text-[11px] text-muted-foreground">{LEGENDA_MEDIDAS}</p>
       </Secao>
 
-      <Secao titulo="Modo de preparo">
-        <Passos passos={receita.passos} />
-      </Secao>
+      {receita.passos.length > 0 && (
+        <Secao titulo="Modo de preparo">
+          <Passos passos={receita.passos} />
+        </Secao>
+      )}
 
       {receita.dica && (
         <p className="flex gap-2 rounded-lg border border-accent/30 bg-accent/5 p-3 text-sm text-accent">
@@ -90,13 +94,13 @@ const ConteudoReceita = ({ receita }: { receita: Receita }) => {
       )}
 
       <a
-        href={`${EBOOK}#page=${receita.pagina}`}
+        href={`${ebook.arquivo}#page=${receita.pagina}`}
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center justify-center gap-1.5 rounded-lg border border-border px-3 py-2 text-xs text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
       >
         <FileText className="size-3.5" />
-        Ver no ebook · pág. {receita.pagina}
+        Ebook {ebook.titulo} ({ebook.autora}) · pág. {receita.pagina}
       </a>
     </div>
   )

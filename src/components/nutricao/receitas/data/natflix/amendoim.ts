@@ -1,7 +1,7 @@
-import type { Receita } from '../types'
-import { macros } from './utils'
+import type { ReceitaBase } from '../../types'
+import { macros } from '../utils'
 
-export const AMENDOIM: Receita[] = [
+export const AMENDOIM: ReceitaBase[] = [
   {
     id: 'panqueca-banana',
     nome: 'Panqueca de banana',

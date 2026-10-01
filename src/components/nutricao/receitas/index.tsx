@@ -10,6 +10,7 @@ import { ReceitaDetalhe } from './receita-detalhe'
 import type { Receita } from './types'
 import { useFiltroReceitas } from './use-filtro-receitas'
 
+export { EBOOKS } from './constants'
 export { RECEITAS } from './data'
 
 const ORDENS: { id: Ordem; label: string }[] = [

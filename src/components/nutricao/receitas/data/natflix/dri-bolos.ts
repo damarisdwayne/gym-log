@@ -1,7 +1,7 @@
-import type { Receita } from '../types'
-import { macros } from './utils'
+import type { ReceitaBase } from '../../types'
+import { macros } from '../utils'
 
-export const DRI_BOLOS: Receita[] = [
+export const DRI_BOLOS: ReceitaBase[] = [
   {
     id: 'salada-de-frutas',
     nome: 'Salada de frutas',

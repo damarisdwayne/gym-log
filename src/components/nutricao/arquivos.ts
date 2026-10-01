@@ -1,5 +1,6 @@
 import type { Ficha } from '@/components/fichas'
 import { PLANO } from './plano'
+import { EBOOKS } from './receitas'
 
 const { proteinas, carboidratos, lipideos } = PLANO.macros
 
@@ -19,5 +20,13 @@ export const ARQUIVOS: Ficha[] = [
     tipo: 'planilha',
     tamanho: '149 KB',
     arquivo: '/fichas/nutricao/evolucao-corporal.pdf',
+  },
+  {
+    id: 'nutricao-ebook-bella-vida-flex',
+    titulo: 'E-book de receitas · Uma Bella Vida Flex',
+    descricao: 'Receitas com macros da Isabella Araujo',
+    tipo: 'ebook',
+    tamanho: '3,8 MB',
+    arquivo: EBOOKS.bella.arquivo,
   },
 ]

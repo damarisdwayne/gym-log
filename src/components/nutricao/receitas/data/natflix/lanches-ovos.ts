@@ -1,7 +1,7 @@
-import type { Receita } from '../types'
-import { macros } from './utils'
+import type { ReceitaBase } from '../../types'
+import { macros } from '../utils'
 
-export const LANCHES_OVOS: Receita[] = [
+export const LANCHES_OVOS: ReceitaBase[] = [
   {
     id: 'ovo-pao-rucula',
     nome: 'Ovo com pão e rúcula',

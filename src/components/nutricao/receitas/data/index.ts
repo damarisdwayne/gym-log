@@ -1,22 +1,13 @@
-import type { Receita } from '../types'
-import { AGRIDOCES } from './agridoces'
-import { AMENDOIM } from './amendoim'
-import { DOCES_PRATICOS } from './doces-praticos'
-import { DRI_BOLOS } from './dri-bolos'
-import { FRANGO } from './frango'
-import { LANCHES_OVOS } from './lanches-ovos'
-import { LANCHES_PAES } from './lanches-paes'
-import { VEGETAIS } from './vegetais'
-import { WHEY } from './whey'
+import type { EbookId, Receita, ReceitaBase } from '../types'
+import { BELLA } from './bella'
+import { NATFLIX } from './natflix'
+
+const doEbook = (ebook: EbookId, receitas: ReceitaBase[]): Receita[] =>
+  receitas
+    .map((receita) => ({ ...receita, ebook }))
+    .sort((a, b) => a.pagina - b.pagina)
 
 export const RECEITAS: Receita[] = [
-  ...FRANGO,
-  ...LANCHES_OVOS,
-  ...LANCHES_PAES,
-  ...VEGETAIS,
-  ...WHEY,
-  ...AMENDOIM,
-  ...DRI_BOLOS,
-  ...DOCES_PRATICOS,
-  ...AGRIDOCES,
-].sort((a, b) => a.pagina - b.pagina)
+  ...doEbook('natflix', NATFLIX),
+  ...doEbook('bella', BELLA),
+]

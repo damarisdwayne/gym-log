@@ -3,7 +3,7 @@ import { CaloriasForm } from './calculadora'
 import { ComposicaoPagina } from './composicao-pagina'
 import { GorduraPagina } from './gordura-pagina'
 import { PLANO, PlanoAlimentar } from './plano'
-import { RECEITAS, Receitas } from './receitas'
+import { EBOOKS, RECEITAS, Receitas } from './receitas'
 
 export type PaginaNutricao =
   | 'plano'
@@ -36,7 +36,7 @@ export const PAGINAS: DefinicaoPagina[] = [
     id: 'receitas',
     emoji: '👩‍🍳',
     titulo: 'Receitas fit',
-    descricao: `${RECEITAS.length} receitas do ebook da Natflix, com macros`,
+    descricao: `${RECEITAS.length} receitas de ${Object.keys(EBOOKS).length} ebooks, com macros`,
     render: () => <Receitas />,
   },
   {

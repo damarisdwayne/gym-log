@@ -1,4 +1,5 @@
-import { formatarGramas, fotoReceita, SECOES } from './constants'
+import { formatarGramas, SECOES } from './constants'
+import { ReceitaFoto } from './receita-foto'
 import type { Receita } from './types'
 
 type ReceitaCardProps = {
@@ -16,12 +17,9 @@ export const ReceitaCard = ({ receita, onAbrir }: ReceitaCardProps) => {
       className="group flex flex-col overflow-hidden rounded-xl border border-border bg-card text-left transition-colors hover:bg-muted focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/60"
     >
       <div className="aspect-4/3 w-full overflow-hidden bg-muted">
-        <img
-          src={fotoReceita(receita.id)}
-          alt=""
-          loading="lazy"
-          decoding="async"
-          className="size-full object-cover transition-transform duration-300 group-hover:scale-105"
+        <ReceitaFoto
+          receita={receita}
+          className="size-full transition-transform duration-300 group-hover:scale-105"
         />
       </div>
       <div className="flex flex-1 flex-col gap-1 p-2.5">

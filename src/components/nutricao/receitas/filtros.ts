@@ -1,4 +1,4 @@
-import { PREPAROS, SECOES } from './constants'
+import { EBOOKS, PREPAROS, SECOES } from './constants'
 import type { Preparo, Receita, Tipo } from './types'
 
 export type TipoFiltro = 'todas' | Tipo
@@ -10,7 +10,7 @@ export type Filtro = {
   label: string
   emoji: string
   teste: (receita: Receita) => boolean
-  exclui?: string
+  exclui?: string[]
 }
 
 const textoIngredientes = (receita: Receita) =>
@@ -23,7 +23,7 @@ const contem = (padrao: RegExp) => (receita: Receita) =>
   padrao.test(textoIngredientes(receita))
 
 const temWhey = contem(/whey/)
-const temCarne = contem(/frango|patinho|presunto|carne/)
+const temCarne = contem(/frango|patinho|presunto|carne|atum/)
 
 export const FILTROS_INGREDIENTE: Filtro[] = [
   { id: 'frango', label: 'Frango', emoji: '🍗', teste: contem(/frango/) },
@@ -33,14 +33,15 @@ export const FILTROS_INGREDIENTE: Filtro[] = [
     emoji: '🥩',
     teste: contem(/patinho|presunto|carne/),
   },
+  { id: 'atum', label: 'Atum', emoji: '🐟', teste: contem(/atum/) },
   { id: 'ovo', label: 'Ovo', emoji: '🥚', teste: contem(/\bovos?\b|claras?\b|gemas?\b/) },
-  { id: 'whey', label: 'Com whey', emoji: '💪', teste: temWhey, exclui: 'sem-whey' },
+  { id: 'whey', label: 'Com whey', emoji: '💪', teste: temWhey, exclui: ['sem-whey'] },
   {
     id: 'sem-whey',
     label: 'Sem whey',
     emoji: '🚫',
     teste: (receita) => !temWhey(receita),
-    exclui: 'whey',
+    exclui: ['whey'],
   },
   {
     id: 'amendoim',
@@ -95,10 +96,21 @@ export const FILTROS_PREPARO: Filtro[] = (
   teste: (receita) => receita.preparo.includes(id),
 }))
 
+export const FILTROS_EBOOK: Filtro[] = Object.values(EBOOKS).map((ebook) => ({
+  id: `ebook-${ebook.id}`,
+  label: ebook.titulo,
+  emoji: '📕',
+  teste: (receita) => receita.ebook === ebook.id,
+  exclui: Object.keys(EBOOKS)
+    .filter((id) => id !== ebook.id)
+    .map((id) => `ebook-${id}`),
+}))
+
 export const GRUPOS_FILTRO = [
   { titulo: 'Ingredientes', filtros: FILTROS_INGREDIENTE },
   { titulo: 'Dieta', filtros: FILTROS_DIETA },
   { titulo: 'Preparo', filtros: FILTROS_PREPARO },
+  { titulo: 'Ebook', filtros: FILTROS_EBOOK },
 ]
 
 const TODOS_FILTROS = GRUPOS_FILTRO.flatMap((grupo) => grupo.filtros)
@@ -107,15 +119,15 @@ const FILTRO_POR_ID = new Map(TODOS_FILTROS.map((filtro) => [filtro.id, filtro])
 
 export const alternarFiltro = (ativos: string[], id: string) => {
   if (ativos.includes(id)) return ativos.filter((item) => item !== id)
-  const exclui = FILTRO_POR_ID.get(id)?.exclui
-  return [...ativos.filter((item) => item !== exclui), id]
+  const exclui = FILTRO_POR_ID.get(id)?.exclui ?? []
+  return [...ativos.filter((item) => !exclui.includes(item)), id]
 }
 
 const normalizar = (texto: string) =>
   texto.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase()
 
 const ORDENACAO: Record<Ordem, (a: Receita, b: Receita) => number> = {
-  ebook: (a, b) => a.pagina - b.pagina,
+  ebook: () => 0,
   proteina: (a, b) => b.macros.proteinas - a.macros.proteinas,
   calorias: (a, b) => a.macros.calorias - b.macros.calorias,
 }

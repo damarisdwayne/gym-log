@@ -1,7 +1,7 @@
-import type { Receita } from '../types'
-import { macros } from './utils'
+import type { ReceitaBase } from '../../types'
+import { macros } from '../utils'
 
-export const FRANGO: Receita[] = [
+export const FRANGO: ReceitaBase[] = [
   {
     id: 'pizza-fitness',
     nome: 'Pizza fitness',

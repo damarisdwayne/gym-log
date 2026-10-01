@@ -1,7 +1,7 @@
-import type { Receita } from '../types'
-import { macros } from './utils'
+import type { ReceitaBase } from '../../types'
+import { macros } from '../utils'
 
-export const DOCES_PRATICOS: Receita[] = [
+export const DOCES_PRATICOS: ReceitaBase[] = [
   {
     id: 'bombom-morango-ninho',
     nome: 'Bombom de morango com Ninho',

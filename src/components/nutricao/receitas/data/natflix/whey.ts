@@ -1,7 +1,7 @@
-import type { Receita } from '../types'
-import { macros } from './utils'
+import type { ReceitaBase } from '../../types'
+import { macros } from '../utils'
 
-export const WHEY: Receita[] = [
+export const WHEY: ReceitaBase[] = [
   {
     id: 'bolo-cenoura-chocolate',
     nome: 'Bolo de cenoura com chocolate fitness',
