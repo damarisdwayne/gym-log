@@ -1,0 +1,302 @@
+import type { Receita } from '../types'
+import { macros } from './utils'
+
+export const DRI_BOLOS: Receita[] = [
+  {
+    id: 'salada-de-frutas',
+    nome: 'Salada de frutas',
+    secao: 'dri',
+    pagina: 131,
+    macros: macros(202, 7, 44.2, 0.4),
+    rende: '6 porções',
+    preparo: ['sem-fogo'],
+    ingredientes: [
+      {
+        itens: [
+          '300 g de mamão',
+          '1 maçã',
+          '240 g de banana',
+          '2 laranjas',
+          '150 g de manga',
+          '1 limão siciliano',
+          '100 g de kiwi',
+          '1 iogurte grande (≈ 850 g)',
+          '60 g de cereja + calda',
+        ],
+      },
+    ],
+    passos: [
+      'Corte a banana, a manga e a maçã num recipiente e esprema o limão por cima.',
+      'Junte o mamão e esprema as laranjas por cima, misturando com cuidado.',
+      'Cubra com o iogurte (maracujá, morango, coco…).',
+      'Finalize com as cerejas e a calda (opcional) e o kiwi em rodelas.',
+    ],
+  },
+  {
+    id: 'cookie',
+    nome: 'Cookie',
+    secao: 'dri',
+    pagina: 133,
+    macros: macros(447, 12.8, 56, 18.9),
+    rende: '10 porções',
+    preparo: ['forno'],
+    ingredientes: [
+      {
+        itens: [
+          '150 g de manteiga em temperatura ambiente',
+          '140 g de açúcar mascavo',
+          '80 g de açúcar cristal ou refinado',
+          '1 ovo inteiro + 1 gema',
+          '1 cs de essência de baunilha',
+          '280 g de farinha de trigo',
+          '5 g de bicarbonato de sódio',
+          '350 g de gotas de chocolate ao leite ou amargo',
+        ],
+      },
+    ],
+    passos: [
+      'Bata a manteiga com os dois açúcares até clarear e afofar.',
+      'Sem parar de bater, junte devagar os ovos e a baunilha. Bata mais 1 a 2 min.',
+      'Fora da batedeira, junte a farinha, o bicarbonato e as gotas de chocolate.',
+      'Geladeira por 2 h. Faça bolas de pelo menos 50 g, com espaço entre elas na forma.',
+      'Forno a 170° por 15 a 20 min, até crescer e perder o brilho. Espere 10 min antes de tirar.',
+    ],
+  },
+  {
+    id: 'pave',
+    nome: 'Pavê',
+    secao: 'dri',
+    pagina: 135,
+    macros: macros(696, 7.4, 57.5, 46.6),
+    rende: '10 porções',
+    preparo: ['sem-fogo'],
+    ingredientes: [
+      {
+        titulo: 'Creme holandês',
+        itens: [
+          '200 g de manteiga',
+          '225 g de açúcar',
+          '125 g de coco ralado',
+          '250 g de creme de leite fresco',
+          '250 g de chantilly',
+        ],
+      },
+      {
+        titulo: 'Montagem',
+        itens: [
+          '2 pacotes de biscoito maisena (400 g)',
+          '250 g de doce de leite',
+          '150 g de paçoquita',
+          '100 g de amendoim torrado',
+        ],
+      },
+    ],
+    passos: [
+      'Bata a manteiga com 150 g de açúcar até ficar claro e aerado. Junte o coco ralado (e raspas de limão ou baunilha, se quiser).',
+      'Bata o creme de leite bem gelado com 75 g de açúcar.',
+      'Bata o chantilly até o ponto.',
+      'Junte os três cremes: está pronto o creme holandês.',
+      'Monte: creme, biscoitos molhados no leite, creme, biscoitos, doce de leite, e recomece, terminando no creme.',
+      'Cubra com paçoca e amendoim triturados.',
+    ],
+  },
+  {
+    id: 'parfait-frances',
+    nome: 'Parfait francês',
+    secao: 'dri',
+    pagina: 137,
+    macros: macros(318, 5.8, 56, 7.4),
+    preparo: ['fogao'],
+    ingredientes: [
+      {
+        itens: [
+          '1 maçã',
+          '100 g de morango',
+          '½ limão',
+          '1 cs de adoçante ou açúcar demerara',
+          '1 potinho de iogurte tradicional',
+          'Hortelã',
+          '10 g de granola (opcional)',
+        ],
+      },
+    ],
+    passos: [
+      'Corte a maçã e o morango e esprema o limão.',
+      'Cozinhe as frutas com o adoçante na panela tampada, em fogo baixo, mexendo aos poucos.',
+      'No potinho: 2 cs de iogurte, 1 cs de frutas, mais 2 cs de iogurte e 1 de frutas.',
+      'Finalize com granola e hortelã.',
+    ],
+  },
+  {
+    id: 'maravilha-de-banana',
+    nome: 'Maravilha de banana da Dri',
+    secao: 'dri',
+    pagina: 139,
+    macros: macros(307, 7.4, 37.5, 10.6),
+    rende: '8 porções',
+    preparo: ['fogao'],
+    ingredientes: [
+      {
+        itens: [
+          '4 bananas d’água',
+          '1 lata de leite condensado',
+          '1 xícara de leite',
+          '3 gemas',
+          '3 claras',
+          '6 cs de açúcar',
+          '1 limão',
+          '1 caixa de creme de leite',
+        ],
+      },
+    ],
+    passos: [
+      'Grelhe as bananas cortadas na manteiga dos dois lados e distribua em potinhos.',
+      'Creme: leite condensado, leite e gemas na panela, mexendo até engrossar.',
+      'Merengue: bata as claras em neve, junte o açúcar aos poucos e o suco do limão.',
+      'Em cada taça, 1 concha de creme e 1 de merengue. Geladeira por 2 h.',
+    ],
+    dica: 'Junte o creme de leite ao merengue para deixá-lo mais cremoso.',
+  },
+  {
+    id: 'capuccino',
+    nome: 'Capuccino',
+    secao: 'dri',
+    pagina: 141,
+    macros: macros(52, 1.1, 8.5, 1),
+    rende: '4 porções',
+    preparo: ['sem-fogo'],
+    ingredientes: [
+      {
+        itens: [
+          '2 cs de Nescau',
+          '1 colher de sobremesa de bicarbonato',
+          '1 colher de sobremesa de canela',
+          '4 cs de café solúvel',
+          '2 cs de leite Ninho',
+        ],
+      },
+    ],
+    passos: [
+      'Misture tudo e guarde num pote fechado.',
+      'Use a mesma quantidade que usaria de café caseiro.',
+    ],
+  },
+  {
+    id: 'bolo-banana-fitness',
+    nome: 'Bolo de banana fitness',
+    secao: 'bolos',
+    pagina: 144,
+    macros: macros(278, 11.1, 33.3, 12.8),
+    preparo: ['microondas'],
+    ingredientes: [
+      {
+        itens: [
+          '1 ovo',
+          '1 cs de farinha de coco',
+          '½ cs de açúcar de coco',
+          '1 cs de cacau em pó',
+          '1 banana prata',
+          'Fermento',
+        ],
+      },
+    ],
+    passos: [
+      'Amasse metade da banana (aquecida para amolecer) junto com a massa. A outra metade é para comer junto.',
+      'Micro-ondas por 2 min.',
+    ],
+  },
+  {
+    id: 'bolo-coco-fitness',
+    nome: 'Bolo de coco fitness',
+    secao: 'bolos',
+    pagina: 146,
+    macros: macros(362, 8.2, 15.5, 31.8),
+    rende: '4 porções',
+    preparo: ['forno', 'fogao'],
+    ingredientes: [
+      {
+        titulo: 'Massa',
+        itens: [
+          '3 ovos',
+          '50 g de farinha de coco',
+          '50 ml de óleo de coco',
+          '20 g de açúcar de coco',
+          '100 ml de leite de coco',
+          'Stevia',
+          '1 cc de fermento',
+        ],
+      },
+      {
+        titulo: 'Calda',
+        itens: [
+          '100 ml de leite de coco',
+          '20 g de leite em pó desnatado (ou mel)',
+          '20 g de açúcar de coco',
+          '10 g de óleo de coco',
+          'Stevia',
+        ],
+      },
+    ],
+    passos: [
+      'Misture a massa e asse em forma untada por 20 min.',
+      'Leve a calda ao fogo baixo, mexendo até engrossar um pouco.',
+      'Cubra o bolo dourado com a calda e salpique coco ralado.',
+    ],
+  },
+  {
+    id: 'bolo-banana-integral',
+    nome: 'Bolo de banana integral',
+    secao: 'bolos',
+    pagina: 148,
+    macros: macros(329, 4.4, 56.6, 10.2),
+    rende: '10 fatias',
+    preparo: ['forno'],
+    ingredientes: [
+      {
+        itens: [
+          '6 bananas',
+          '3 ovos',
+          '½ xícara de leite desnatado ou vegetal',
+          '½ xícara de óleo de coco',
+          '2 xícaras de açúcar mascavo',
+          '1 xícara de farinha de trigo integral',
+          '1 xícara de aveia',
+          '1 cs de fermento',
+          'Canela em pó a gosto',
+        ],
+      },
+    ],
+    passos: [
+      'Bata 1 banana, os ovos, o leite e o óleo de coco. Junte o açúcar e bata mais um pouco.',
+      'Misture a farinha, a aveia e o fermento e incorpore a massa.',
+      'Na forma untada: metade da massa, as 5 bananas em rodelas finas, canela e o resto da massa.',
+      'Asse até dourar.',
+    ],
+  },
+  {
+    id: 'bolo-caneca-laranja',
+    nome: 'Bolo de caneca de laranja fit com canela',
+    secao: 'bolos',
+    pagina: 150,
+    macros: macros(371, 13.4, 32.8, 20.8),
+    preparo: ['microondas'],
+    ingredientes: [
+      {
+        itens: [
+          '1 ovo',
+          '1 cs de azeite',
+          'Suco de 1 laranja',
+          '20 gotas de stevia',
+          '4 cs de farelo de aveia',
+          '1 colher de sobremesa de fermento em pó',
+          '1 colher de sobremesa de canela',
+        ],
+      },
+    ],
+    passos: [
+      'Na caneca, misture o suco, o ovo, a stevia e o azeite.',
+      'Junte o farelo de aveia e o fermento e bata com um garfo até ficar lisinho.',
+      'Micro-ondas por 3 min e polvilhe canela.',
+    ],
+  },
+]

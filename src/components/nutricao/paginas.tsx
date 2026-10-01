@@ -3,8 +3,14 @@ import { CaloriasForm } from './calculadora'
 import { ComposicaoPagina } from './composicao-pagina'
 import { GorduraPagina } from './gordura-pagina'
 import { PLANO, PlanoAlimentar } from './plano'
+import { RECEITAS, Receitas } from './receitas'
 
-export type PaginaNutricao = 'plano' | 'gordura' | 'calorias' | 'composicao'
+export type PaginaNutricao =
+  | 'plano'
+  | 'receitas'
+  | 'gordura'
+  | 'calorias'
+  | 'composicao'
 
 type ContextoPagina = {
   abrir: (pagina: PaginaNutricao) => void
@@ -25,6 +31,13 @@ export const PAGINAS: DefinicaoPagina[] = [
     titulo: 'Meu plano alimentar',
     descricao: `Refeições e trocas · ${PLANO.calorias} kcal`,
     render: () => <PlanoAlimentar />,
+  },
+  {
+    id: 'receitas',
+    emoji: '👩‍🍳',
+    titulo: 'Receitas fit',
+    descricao: `${RECEITAS.length} receitas do ebook da Natflix, com macros`,
+    render: () => <Receitas />,
   },
   {
     id: 'gordura',
