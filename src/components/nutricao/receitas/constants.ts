@@ -61,6 +61,3 @@ export const PREPAROS: Record<Preparo, { label: string; emoji: string }> = {
 }
 
 export const LEGENDA_MEDIDAS = 'cs = colher de sopa · cc = colher de chá'
-
-export const formatarGramas = (valor: number) =>
-  `${valor.toLocaleString('pt-BR', { maximumFractionDigits: 1 })}g`

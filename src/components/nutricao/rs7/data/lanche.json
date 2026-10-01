@@ -1,0 +1,3108 @@
+[
+ {
+  "id": "pastinha-de-beterraba",
+  "nome": "Pastinha de Beterraba",
+  "descricao": "Pastinha vibrante de beterraba com ricota e ervas",
+  "refeicao": "lanche",
+  "pagina": 127,
+  "macros": {
+   "calorias": 67,
+   "proteinas": 3,
+   "carboidratos": 4,
+   "lipideos": 5
+  },
+  "minutos": 3,
+  "porcoes": 8,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Beterraba cozida e picada",
+    "qtd": "150 g (1 beterraba)"
+   },
+   {
+    "nome": "Requeijão light",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Cebola",
+    "qtd": "75 g (1/2 cebola média)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "13 ml"
+   },
+   {
+    "nome": "Pimenta-do-reino",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Ricota fresca",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "15 ml (1 colher de sopa)"
+   },
+   {
+    "nome": "Alho",
+    "qtd": "5 g (1 dente)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Tempero verde",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque no liquidificador a beterraba cozida e picada, Dn Fes E a ricota fresca, o requeijão light, o suco de limão, a cebola, o alho, o azeite, sal e pimenta-do-reino.",
+   "Bata até formar uma pasta homogênea e cremosa.",
+   "Transfira para um potinho e finalize com tempero verde a gosto.",
+   "Sirva frio com torradas ou vegetais em palito."
+  ],
+  "dica": "A beterraba cozida é fonte de betaína e pigmentos naturais que dão a cor vibrante da pastinha. Combinada com ricota e requeijão light, fica cremosa e leve, ótima para acompanhar torradas integrais ou palitos de legumes."
+ },
+ {
+  "id": "guacamole",
+  "nome": "Guacamole",
+  "descricao": "Guacamole fresco com tomate, cebola e limão: gordura boa para petiscar",
+  "refeicao": "lanche",
+  "pagina": 128,
+  "macros": {
+   "calorias": 89,
+   "proteinas": 1,
+   "carboidratos": 7,
+   "lipideos": 7
+  },
+  "minutos": 5,
+  "porcoes": 6,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Abacates",
+    "qtd": "300 g (2 abacates)"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "30 ml"
+   },
+   {
+    "nome": "Cebola picada",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Tomates sem sementes picados",
+    "qtd": "200 g (2 tomates)"
+   },
+   {
+    "nome": "Coentro picado (opcional)",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Pimenta-dedo-de-moça ou pimenta calabresa",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque a polpa do abacate em um recipiente e amasse com um garfo.",
+   "Adicione o limão, a cebola picada, o sal, a pimenta e o coentro.",
+   "Por último, misture delicadamente o tomate."
+  ],
+  "dica": "O coentro fresco adiciona aroma herbal e deixa o guacamole mais vivo. Use limão suficiente para equilibrar a gordura do abacate. à Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "homus-classico-de-grao-de-bico",
+  "nome": "Homus Clássico de Grão-de-Bico",
+  "descricao": "Pasta cremosa de grão-de-bico com tahine e limão, pronta em 3 minutos",
+  "refeicao": "lanche",
+  "pagina": 129,
+  "macros": {
+   "calorias": 99,
+   "proteinas": 3,
+   "carboidratos": 9,
+   "lipideos": 6
+  },
+  "minutos": 3,
+  "porcoes": 6,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Grão-de-bico cozido",
+    "qtd": "165 g (1 xícara)"
+   },
+   {
+    "nome": "Tahine",
+    "qtd": "30 g (2 col sopa)"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "15 ml (1/2 limão)"
+   },
+   {
+    "nome": "Alho",
+    "qtd": "5 g (1 dente)"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "15 ml (1 col sopa)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o grão-de-bico, o tahine, o suco de limão, o alho e o sal no processador ou liquidificador.",
+   "Processe até obter uma pasta cremosa e homogênea. Se necessário, adicione 1-2 colheres de água para ajustar a consistência.",
+   "Transfira para um prato, regue com o azeite de oliva e sirva com palitos de legumes ou pão integral. A E"
+  ],
+  "dica": "O grão-de-bico contribui com proteína vegetal e fibra, enquanto o tahine complementa com cálcio e gorduras insaturadas. O homus funciona bem como acompanhamento cremoso para legumes ou pão integral."
+ },
+ {
+  "id": "iogurte-com-amora",
+  "nome": "Iogurte com Amora",
+  "descricao": "logurte semidesnatado com amoras frescas e chia em 1 minuto",
+  "refeicao": "lanche",
+  "pagina": 130,
+  "macros": {
+   "calorias": 113,
+   "proteinas": 6,
+   "carboidratos": 12,
+   "lipideos": 4
+  },
+  "minutos": 1,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte semidesnatado",
+    "qtd": "85 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Amoras frescas",
+    "qtd": "30 g"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte semidesnatado (85 g) em uma tigela ou bowl fundo.",
+   "Adicione a chia (10 g) e as amoras frescas (30 g) por cima em camadas, distribuindo uniformemente.",
+   "Distribua as camadas uniformemente para realçar o visual.",
+   "Sirva imediatamente ou refrigere por 10 minutos para os sabores se integrarem. Também pode ser preparado na noite anterior e consumido pela manhã."
+  ],
+  "dica": "A amora fresca traz acidez, cor escura e aroma delicado ao iogurte. A chia hidrata no pote e forma uma textura de pudim."
+ },
+ {
+  "id": "porcao-de-amendoas-com-kiwi-e-cottage",
+  "nome": "Porção de Amêndoas com Kiwi e Cottage",
+  "descricao": "Amêndoas com kiwi fatiado e cottage: crocância e frescor em porção",
+  "refeicao": "lanche",
+  "pagina": 131,
+  "macros": {
+   "calorias": 162,
+   "proteinas": 7,
+   "carboidratos": 15,
+   "lipideos": 9
+  },
+  "minutos": 2,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Amêndoas picadas",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Kiwi picado",
+    "qtd": "75 g (1 kiwi)"
+   },
+   {
+    "nome": "Queijo cottage",
+    "qtd": "30 g"
+   }
+  ],
+  "passos": [
+   "Pique as amêndoas grosseiramente com faca ou amasse levemente com o cabo de uma colher.",
+   "Em uma tigela pequena, disponha o cottage no fundo, arrume o kiwi em cubos por cima e finalize com as amêndoas picadas.",
+   "Tempere a gosto. Ajuste as quantidades conforme apetite e objetivo calórico.",
+   "Sirva imediatamente. Pode ser preparado com antecedência e armazenado na geladeira por até 2 dias."
+  ],
+  "dica": "O kiwi traz acidez, cor verde e perfume fresco. Com amêndoas e cottage, vira um lanche crocante, cremoso e proteico."
+ },
+ {
+  "id": "pastinha-de-salmao-com-cream-cheese",
+  "nome": "Pastinha de Salmão com Cream Cheese",
+  "descricao": "Pastinha cremosa de salmão fresco com cream cheese e limão (4 porções)",
+  "refeicao": "lanche",
+  "pagina": 132,
+  "macros": {
+   "calorias": 170,
+   "proteinas": 17,
+   "carboidratos": 1,
+   "lipideos": 11
+  },
+  "minutos": 7,
+  "porcoes": 4,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Salmão fresco sem pele e sem espinhas",
+    "qtd": "300 g"
+   },
+   {
+    "nome": "Cream cheese light",
+    "qtd": "30 g (2 colheres de sopa)"
+   },
+   {
+    "nome": "Raspas da casca de limão",
+    "qtd": "2 g (1 colher de chá)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   },
+   {
+    "nome": "Creme de leite light",
+    "qtd": "30 ml (2 colheres de sopa)"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "15 ml (1 colher de sopa)"
+   },
+   {
+    "nome": "Cebolinha picada fina",
+    "qtd": "15 g (2 colheres de sopa)"
+   },
+   {
+    "nome": "Pimenta-do-reino moída",
+    "qtd": "1 pitada"
+   }
+  ],
+  "passos": [
+   "Com uma faca afiada, pique os 300 de salmão em cubinhos de aproximadamente 5 mm.",
+   "Em uma tigela média, combine o salmão picado com o creme de leite light (30 ml), o cream cheese light (30 g), o suco de limão (15 ml) e as raspas da casca (2 g).",
+   "Adicione a cebolinha picada (15 g), a pitada de sal (1g) e a pimenta-do-reino. Misture delicadamente com uma colher por 1 minuto, até obter uma pasta homogênea e cremosa, sem amassar demais para manter os cubinhos visíveis.",
+   "Leve à geladeira por no mínimo 15 minutos antes de servir, para firmar e intensificar o sabor.",
+   "Sirva em porções de aproximadamente 90 (cerca de 2 colheres de sopa cheias por pessoa). Sugestão de acompanhamento: torradinhas integrais ou fatias de pão integral (não incluídos na receita base)."
+  ],
+  "dica": "Preparar o salmão cru em cubinhos preserva melhor o ômega-3 do que o cozimento por calor. Garanta que o salmão seja fresco e mantenha tudo refrigerado até servir. Consuma no mesmo dia do preparo."
+ },
+ {
+  "id": "salada-tropical-de-camarao-com-manga",
+  "nome": "Salada Tropical de Camarão com Manga",
+  "descricao": "Camarão cozido com manga: doce e salgado no mesmo prato",
+  "refeicao": "lanche",
+  "pagina": 133,
+  "macros": {
+   "calorias": 171,
+   "proteinas": 17,
+   "carboidratos": 10,
+   "lipideos": 6
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Alface",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Camarão cozido",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Manga",
+    "qtd": "50 g (em cubos)"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "40 g (fatiado)"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Lave e rasgue a alface em pedaços e disponha como base em um prato amplo.",
+   "Distribua os camarões cozidos, os cubos de manga e o lo. º epino fatiado sobre a alface, organizando em seções. pep 8 Ç",
+   "Regue com o suco de limão e o azeite. Sirva imediatamente para manter a crocância do pepino."
+  ],
+  "dica": "O camarão contém astaxantina, pigmento carotenoide responsável por sua coloração rosada característica. A manga tropical acrescenta doçura, vitamina A e contraste refrescante com o pepino e o limão da salada."
+ },
+ {
+  "id": "salada-nobre-de-salmao-defumado-com-alcaparras",
+  "nome": "Salada Nobre de Salmão Defumado com Alcaparras",
+  "descricao": "Salmão defumado com alcaparras: elegância express",
+  "refeicao": "lanche",
+  "pagina": 134,
+  "macros": {
+   "calorias": 172,
+   "proteinas": 17,
+   "carboidratos": 7,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Rúcula",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Salmão defumado",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Alcaparras",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Cream cheese light",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "40 g (fatiado)"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "10 ml"
+   }
+  ],
+  "passos": [
+   "Espalhe a rúcula no prato.",
+   "Disponha as fatias de salmão defumado.",
+   "Distribua pontos de cream cheese, alcaparras e pepino fatiado.",
+   "Finalize com suco de limão."
+  ],
+  "dica": "As alcaparras trazem acidez e sal à salada, equilibrando o salmão defumado. Use pouca quantidade para não dominar o prato."
+ },
+ {
+  "id": "castanhas-e-frutas-secas-energeticas",
+  "nome": "Castanhas e Frutas Secas Energéticas",
+  "descricao": "Mix de castanhas e frutas secas para levar na bolsa",
+  "refeicao": "lanche",
+  "pagina": 135,
+  "macros": {
+   "calorias": 178,
+   "proteinas": 5,
+   "carboidratos": 10,
+   "lipideos": 15
+  },
+  "minutos": 5,
+  "porcoes": 5,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Amêndoa",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Nozes",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Damasco seco",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Uva passa",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Semente de abóbora",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Coco ralado",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Toste levemente a castanha-do-pará, a amêndoa, as nozes e a semente de abóbora em frigideira seca por 3 minutos, mexendo sempre.",
+   "Pique os damascos secos em pedaços menores.",
+   "Misture as castanhas tostadas com o damasco picado, a uva passa e o coco ralado.",
+   "Divida em 5 porções individuais de aproximadamente 33 cada. Armazene em potes herméticos por até 15 dias."
+  ],
+  "dica": "Este mix combina crocância das castanhas com doçura das frutas secas. Separe em porção pequena para facilitar o transporte e evitar exagero."
+ },
+ {
+  "id": "creme-de-abacate",
+  "nome": "Creme de Abacate",
+  "descricao": "Abacate cremoso batido com limão e adoçante",
+  "refeicao": "lanche",
+  "pagina": 136,
+  "macros": {
+   "calorias": 180,
+   "proteinas": 2,
+   "carboidratos": 7,
+   "lipideos": 17
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Abacate",
+    "qtd": "75 g (cerca de 1/4 de abacate médio)"
+   },
+   {
+    "nome": "Nata",
+    "qtd": "15 g (1 colher de sopa)"
+   },
+   {
+    "nome": "Adoçante",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Suco de limão natural",
+    "qtd": "15 ml"
+   }
+  ],
+  "passos": [
+   "Bata o abacate e a nata com mixer de mão ou mini a; A processador até obter um creme liso (o volume é pequeno demais para liquidificador tradicional).",
+   "Acrescente o adoçante e o suco de limão natural, e misture mais um pouco.",
+   "Transfira para a taça e leve à geladeira por 10 minutos antes de servir, para ficar bem gelado."
+  ],
+  "dica": "O abacate deixa o creme aerado e denso, enquanto o limão equilibra a gordura com acidez. Sirva gelado para uma textura mais firme."
+ },
+ {
+  "id": "shake-vegano-de-maca",
+  "nome": "Shake Vegano de Maçã",
+  "descricao": "Bebida cremosa e nutritiva, pronta em 3 min",
+  "refeicao": "lanche",
+  "pagina": 137,
+  "macros": {
+   "calorias": 181,
+   "proteinas": 1,
+   "carboidratos": 40,
+   "lipideos": 2
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tâmaras frescas",
+    "qtd": "24 g (3 tâmaras)"
+   },
+   {
+    "nome": "Leite vegetal",
+    "qtd": "120 ml"
+   },
+   {
+    "nome": "Maçã com casca e sem sementes",
+    "qtd": "150 g (1 maçã)"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Remova os caroços das tâmaras e coloque no liquidificador.",
+   "Adicione o leite vegetal e bata até liso. J.",
+   "Adicione a maçã e o gelo, bata até obter textura cremosa.",
+   "Sirva em seguida."
+  ],
+  "dica": "As tâmaras adoçam naturalmente e ajudam a engrossar o shake. No leite vegetal com maçã, substituem o açúcar e deixam a bebida mais encorpada."
+ },
+ {
+  "id": "salada-colorida-com-ricota-e-beterraba",
+  "nome": "Salada Colorida com Ricota e Beterraba",
+  "descricao": "Mix colorido de folhas e legumes com ricota cremosa",
+  "refeicao": "lanche",
+  "pagina": 138,
+  "macros": {
+   "calorias": 182,
+   "proteinas": 7,
+   "carboidratos": 15,
+   "lipideos": 12
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Folhas pequenas de alface picadas",
+    "qtd": "25 g (5 folhas)"
+   },
+   {
+    "nome": "Ricota",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Beterraba cozida picada",
+    "qtd": "40 g (2 csop)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Rúcula",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Tomate-cereja",
+    "qtd": "100 g (7 unidades)"
+   },
+   {
+    "nome": "Cenoura ralada",
+    "qtd": "40 g (2 csop)"
+   },
+   {
+    "nome": "Azeite de oliva extravirgem",
+    "qtd": "6 ml"
+   }
+  ],
+  "passos": [
+   "Higienize as folhas de alface e a rúcula em água corrente e seque bem com papel-toalha ou centrífuga.",
+   "Pique a alface em pedaços médios e fatie os tomates-cereja ao meio (a beterraba e a cenoura já estão preparadas conforme a lista).",
+   "Em uma saladeira, disponha as folhas, os tomates-cereja, a beterraba, a cenoura ralada e, por cima, a ricota esfarelada com o garfo.",
+   "Tempere com o sal e o azeite de oliva extravirgem. Misture delicadamente e sirva."
+  ],
+  "dica": "A beterraba traz cor intensa, sabor terroso e boa umidade para a salada. A ricota adiciona proteína e cremosidade sem pesar na preparação."
+ },
+ {
+  "id": "tartare-express-de-file-mignon",
+  "nome": "Tartare Express de Filé Mignon",
+  "descricao": "Filé mignon cru picado na faca com alcaparras e mostarda Dijon em 5 minutos",
+  "refeicao": "lanche",
+  "pagina": 139,
+  "macros": {
+   "calorias": 188,
+   "proteinas": 22,
+   "carboidratos": 0,
+   "lipideos": 11
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Médio",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Filé mignon muito fresco",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Alcaparras",
+    "qtd": "2 g (1 col. café)"
+   },
+   {
+    "nome": "Mostarda Dijon",
+    "qtd": "3 g (1 col. café)"
+   },
+   {
+    "nome": "Azeite de oliva extravirgem",
+    "qtd": "2 ml (½ col. café)"
+   },
+   {
+    "nome": "Cebolinha picada",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Pimenta-do-reino moída na hora",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Pique o filé mignon com faca bem afiada em cubinhos pequenos e regulares (3-4 mm). Nunca use processador.",
+   "Misture a carne numa tigela com alcaparras, mostarda Dijon, azeite, sal e pimenta. Prove e ajuste.",
+   "Monte em aro redondo (ou em um molde improvisado, ou em monte livre com colher), pressione levemente e retire o aro.",
+   "Finalize com cebolinha picada e pimenta-do-reino moída na hora. Sirva imediatamente."
+  ],
+  "dica": "Use filé mignon comprado no mesmo dia, de procedência confiável, e mantenha sob refrigeração até o preparo. Finalize com alcaparras, mostarda Dijon e cebolinha fresca para realçar o sabor."
+ },
+ {
+  "id": "pesto-de-manjericao",
+  "nome": "Pesto de Manjericão",
+  "descricao": "Molho fresco de manjericão com castanhas em 5 min",
+  "refeicao": "lanche",
+  "pagina": 140,
+  "macros": {
+   "calorias": 190,
+   "proteinas": 5,
+   "carboidratos": 3,
+   "lipideos": 18
+  },
+  "minutos": 5,
+  "porcoes": 10,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Manjericão (apenas folhas)",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "120 ml"
+   },
+   {
+    "nome": "Queijo Parmesão ralado",
+    "qtd": "90 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Alho",
+    "qtd": "10 g (2 dentes)"
+   },
+   {
+    "nome": "Castanha de caju",
+    "qtd": "75 g"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "30 ml"
+   },
+   {
+    "nome": "Pimenta-do-reino",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Lave e seque bem as folhas de manjericão.",
+   "Bata no processador o alho, azeite, castanha de caju, parmesão, suco de limão, sal e pimenta até formar pasta grossa.",
+   "Adicione o manjericão e pulse para incorporar sem triturar demais; mantenha textura rústica. Transfira para vidro, cubra com azeite e refrigere por até 5 dias."
+  ],
+  "dica": "A castanha de caju no pesto substitui o pinhão tradicional e deixa o molho mais acessível. O manjericão fresco traz aroma verde e combina bem com frango."
+ },
+ {
+  "id": "crepioca-de-aveia-com-requeijao",
+  "nome": "Crepioca de Aveia com Requeijão",
+  "descricao": "Farelo de aveia com requeijão cremoso, dourada em 6 min",
+  "refeicao": "lanche",
+  "pagina": 141,
+  "macros": {
+   "calorias": 191,
+   "proteinas": 11,
+   "carboidratos": 10,
+   "lipideos": 14
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Água",
+    "qtd": "15 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Temperos",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Farelo de aveia",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Requeijão cremoso light",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Óleo de coco (para untar)",
+    "qtd": "3 ml"
+   }
+  ],
+  "passos": [
+   "Bata a clara em uma tigela até ficar espumosa.",
+   "Acrescente a gema, o farelo de aveia, a água, a chia, o sal e os temperos. Misture até obter uma massa homogênea.",
+   "Unte uma frigideira antiaderente com o óleo de coco, despeje a massa e doure dos dois lados em fogo médio.",
+   "Recheie com o requeijão cremoso light e sirva quente."
+  ],
+  "dica": "O farelo de aveia deixa a crepioca mais firme e com sabor integral. Com requeijão light e chia, a massa fica cremosa por dentro e levemente granulada."
+ },
+ {
+  "id": "wrap-de-cottage-com-ervas-frescas",
+  "nome": "Wrap de Cottage com Ervas Frescas",
+  "descricao": "Wrap vegetariano com cottage temperado e ervas frescas",
+  "refeicao": "lanche",
+  "pagina": 142,
+  "macros": {
+   "calorias": 200,
+   "proteinas": 11,
+   "carboidratos": 25,
+   "lipideos": 6
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Queijo cottage",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Cebolinha",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Salsa",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "30 g (em tiras)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Misture o cottage em um bowl com a cebolinha picada, a salsa picada e uma pitada de sal até ficar bem a A es incorporado.",
+   "Espalhe a mistura de cottage com ervas de forma 8 uniforme sobre a tortilha integral.",
+   "Disponha as tiras de pepino no centro da tortilha, no sentido do comprimento.",
+   "Enrole a tortilha firmemente e corte ao meio na E diagonal. Sirva imediatamente."
+  ],
+  "dica": "O cottage com ervas frescas, como cebolinha e salsa, deixa o wrap cremoso e aromático. O pepino adiciona crocância e frescor."
+ },
+ {
+  "id": "salada-de-peru-com-maca-e-nozes",
+  "nome": "Salada de Peru com Maçã e Nozes",
+  "descricao": "Peru com maçã e nozes: proteína magra e crocância natural",
+  "refeicao": "lanche",
+  "pagina": 143,
+  "macros": {
+   "calorias": 201,
+   "proteinas": 19,
+   "carboidratos": 14,
+   "lipideos": 9
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Alface",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Peito de peru fatiado",
+    "qtd": "80 g (em tiras)"
+   },
+   {
+    "nome": "Maçã",
+    "qtd": "60 g (fatiada fina)"
+   },
+   {
+    "nome": "Nozes",
+    "qtd": "10 g (picadas)"
+   },
+   {
+    "nome": "Iogurte natural",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Monte a base de alface.",
+   "Distribua o peru em tiras e as fatias de maçã.",
+   "Polvilhe as nozes.",
+   "Misture o iogurte com o limão e regue como molho."
+  ],
+  "dica": "A combinação de maçã com nozes e peru cria contraste entre acidez, crocância e sal. Use o peito de peru com moderação por ser processado. Atenção: Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "shake-vegano-com-mamao",
+  "nome": "Shake Vegano com Mamão",
+  "descricao": "Shake vegano tropical com mamão e castanhas",
+  "refeicao": "lanche",
+  "pagina": 144,
+  "macros": {
+   "calorias": 206,
+   "proteinas": 3,
+   "carboidratos": 29,
+   "lipideos": 10
+  },
+  "minutos": 3,
+  "porcoes": 2,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Mamão sem casca e sementes",
+    "qtd": "200 g (1/2 papaia ou 1/4 mamão formosa)"
+   },
+   {
+    "nome": "Melado de cana",
+    "qtd": "40 g (2 colheres de sopa)"
+   },
+   {
+    "nome": "Castanhas-do-pará",
+    "qtd": "30 g (6 castanhas)"
+   },
+   {
+    "nome": "Água",
+    "qtd": "400 ml"
+   }
+  ],
+  "passos": [
+   "Descasque e corte o mamão em pedaços.",
+   "No liquidificador, coloque a água, o mamão, o melado de cana e as castanhas-do-pará.",
+   "Bata por 40 segundos até ficar cremoso e homogêneo.",
+   "Sirva gelado em um copo alto."
+  ],
+  "dica": "O mamão deixa o shake doce, macio e fácil de bater. As castanhas-do-pará adicionam cremosidade e sabor marcante; use pouca quantidade."
+ },
+ {
+  "id": "wrap-de-atum",
+  "nome": "Wrap de Atum",
+  "descricao": "Wrap simples de atum em água, sem lactose e nutritivo",
+  "refeicao": "lanche",
+  "pagina": 145,
+  "macros": {
+   "calorias": 209,
+   "proteinas": 19,
+   "carboidratos": 23,
+   "lipideos": 4
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Wrap integral",
+    "qtd": "40 g (Rap10 ou similar)"
+   },
+   {
+    "nome": "Atum em água",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "20 g"
+   }
+  ],
+  "passos": [
+   "Escorra o atum, tempere com pitada de sal e misture com o tomate picado.",
+   "Abra o wrap, forre com as folhas de alface, distribua o a A recheio de atum com tomate uniformemente e enrole firmemente, dobrando as laterais para fechar."
+  ],
+  "dica": "O wrap integral com atum em água é uma opção prática, rica em proteína e com poucas calorias por porção. Para versão ainda mais leve, substitua o wrap por folhas grandes de alface enroladas."
+ },
+ {
+  "id": "shake-vegano-de-laranja-com-morango",
+  "nome": "Shake Vegano de Laranja com Morango",
+  "descricao": "Cítrico e cremoso, com leite de amêndoas e frutas congeladas",
+  "refeicao": "lanche",
+  "pagina": 146,
+  "macros": {
+   "calorias": 212,
+   "proteinas": 3,
+   "carboidratos": 41,
+   "lipideos": 4
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite de amêndoas sem açúcar",
+    "qtd": "240 ml"
+   },
+   {
+    "nome": "Laranja média descascada e sem sementes",
+    "qtd": "150 g (1 laranja)"
+   },
+   {
+    "nome": "Banana congelada em rodelas",
+    "qtd": "50 g (1/2 banana)"
+   },
+   {
+    "nome": "Morangos congelados",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Melado de cana",
+    "qtd": "10 g (1 colher de chá)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 pitada (aprox. 0,5 g)"
+   }
+  ],
+  "passos": [
+   "Descasque a laranja, retire as sementes e a parte branca mais fibrosa do centro, deixando os gomos e inteiros.",
+   "No copo do liquidificador, adicione o leite de amêndoas (240 ml), os gomos da laranja, a banana congelada (50 g), os morangos congelados (50 g), o melado de cana (10 g) e a pitada de sal.",
+   "Bata em velocidade alta por 40 segundos, até obter uma mistura homogênea e cremosa. Se preferir mais gelado, acrescente 2 cubos de gelo e bata por mais 10 segundos.",
+   "Transfira para um copo alto de 400 ml e sirva imediatamente."
+  ],
+  "dica": "A combinação de laranja com leite de amêndoas oferece vitamina e gorduras boas no mesmo copo. Usar frutas congeladas dispensa o gelo e mantém a textura cremosa mesmo sem laticínios."
+ },
+ {
+  "id": "salada-de-brocolis-com-couve-flor",
+  "nome": "Salada de Brócolis com Couve-Flor",
+  "descricao": "Brócolis e couve-flor crocantes em salada nutritiva",
+  "refeicao": "lanche",
+  "pagina": 147,
+  "macros": {
+   "calorias": 215,
+   "proteinas": 8,
+   "carboidratos": 21,
+   "lipideos": 11
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Brócolis",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Couve-flor",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Pimenta-do-reino moída na hora",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Azeite de oliva extravirgem",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Cebolinha fresca",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Lave bem o brócolis e a couve-flor e separe em floretes pequenos.",
+   "Em um recipiente próprio para micro-ondas (com no o. tampa vazada ou semi-fechado), coloque o brócolis com 2 colheres de sopa de água e leve ao micro-ondas em potência alta (800 W) por 2 minutos.",
+   "Faça o mesmo com a couve-flor em outro recipiente próprio para micro-ondas, com 2 colheres de sopa de água, deixando por 2 min e 30 segundos em potência alta.",
+   "Se a couve-flor ainda estiver dura, acrescente 20 a 30 segundos.",
+   "Regue com o azeite, tempere com sal, o suco de limão e pimenta-do-reino moída na hora. Sirva com a cebolinha fresca picadinha por cima."
+  ],
+  "dica": "Brócolis e couve-flor deixam a salada mais firme e crocante. O limão espremido na hora adiciona frescor e equilibra o sabor dos vegetais."
+ },
+ {
+  "id": "salada-de-frango-com-abacate-cremoso",
+  "nome": "Salada de Frango com Abacate Cremoso",
+  "descricao": "Frango desfiado com abacate cremoso e folhas verdes",
+  "refeicao": "lanche",
+  "pagina": 148,
+  "macros": {
+   "calorias": 225,
+   "proteinas": 28,
+   "carboidratos": 9,
+   "lipideos": 10
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Alface",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Frango desfiado",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Abacate",
+    "qtd": "50 g (em cubos)"
+   },
+   {
+    "nome": "Tomate-cereja",
+    "qtd": "40 g (cortados ao meio)"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Lave e rasgue a alface em pedaços e disponha como base em um prato amplo.",
+   "Distribua o frango desfiado, os cubos de abacate e os Gs a tomates-cereja cortados ao meio sobre a alface, organizando em seções.",
+   "Esprema o suco de limão por cima e finalize com uma pitada de sal. Sirva imediatamente para o abacate não escurecer."
+  ],
+  "dica": "O abacate cremoso na salada de frango deixa o prato mais macio e untuoso. O limão adiciona acidez e preserva melhor a cor na hora de servir."
+ },
+ {
+  "id": "vitamina-verde-de-espinafre",
+  "nome": "Vitamina Verde de Espinafre",
+  "descricao": "Espinafre disfarçado em verde refrescante com banana",
+  "refeicao": "lanche",
+  "pagina": 149,
+  "macros": {
+   "calorias": 230,
+   "proteinas": 4,
+   "carboidratos": 54,
+   "lipideos": 1
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Espinafre",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Maçã verde",
+    "qtd": "100 g (sem caroço, com casca)"
+   },
+   {
+    "nome": "Gengibre",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "15 ml (1 colher de sopa de suco)"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "80 g (com casca)"
+   },
+   {
+    "nome": "Água de coco",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque espinafre banana, maçã verde, pepino, gengibre, água de coco e limão no liquidificador começando pelos líquidos.",
+   "Bata por 1 minuto até obter consistência lisa e homogênea.",
+   "Sirva imediatamente com gelo."
+  ],
+  "dica": "O pepino traz frescor à vitamina. Espinafre, maçã verde e gengibre formam uma combinação leve, aromática e com sabor marcante."
+ },
+ {
+  "id": "iogurte-com-aveia-e-morango",
+  "nome": "Iogurte com Aveia e Morango",
+  "descricao": "logurte com flocos de aveia, morango e castanha-do-pará",
+  "refeicao": "lanche",
+  "pagina": 150,
+  "macros": {
+   "calorias": 242,
+   "proteinas": 11,
+   "carboidratos": 28,
+   "lipideos": 8
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte natural",
+    "qtd": "170 ml"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte natural em uma tigela ou bow! fundo.",
+   "Adicione a aveia em flocos, os morangos picados e a castanha-do-pará por cima em camadas, distribuindo uniformemente.",
+   "Finalize com os itens crocantes por último para manter a textura ao comer.",
+   "Sirva imediatamente ou refrigere por 10 minutos para os sabores se integrarem. Pode ser preparado na noite anterior para consumir no dia seguinte."
+  ],
+  "dica": "A castanha-do-pará no iogurte traz crocância e sabor marcante. O morango adiciona acidez, aroma fresco e cor ao pote."
+ },
+ {
+  "id": "maca-com-amendoim-e-mel",
+  "nome": "Maçã com Amendoim e Mel",
+  "descricao": "Fatias de maçã com pasta de amendoim e fio de mel",
+  "refeicao": "lanche",
+  "pagina": 151,
+  "macros": {
+   "calorias": 246,
+   "proteinas": 4,
+   "carboidratos": 40,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Maçã média",
+    "qtd": "150 g (1 maçã)"
+   },
+   {
+    "nome": "Pasta de amendoim",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "20 g (1 colher de sopa)"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Corte a maçã ao meio, retire as sementes e cave levemente o centro para o recheio.",
+   "Espalhe pasta de amendoim nas duas metades, preenchendo as cavidades.",
+   "Regue com mel e polvilhe canela a gosto.",
+   "Sirva imediatamente como lanche rápido."
+  ],
+  "dica": "A maçã com casca traz crocância e fibra, enquanto a pasta de amendoim adiciona gordura e sabor tostado. Corte em fatias finas para espalhar melhor a pasta."
+ },
+ {
+  "id": "banana-toast-com-queijo-gratinado",
+  "nome": "Banana Toast com Queijo Gratinado",
+  "descricao": "Torrada com doce de leite, banana e mussarela derretida, lanche doce e proteico",
+  "refeicao": "lanche",
+  "pagina": 152,
+  "macros": {
+   "calorias": 248,
+   "proteinas": 10,
+   "carboidratos": 40,
+   "lipideos": 8
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "30 g (1 fatia)"
+   },
+   {
+    "nome": "Doce de leite",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g (1 unidade)"
+   },
+   {
+    "nome": "Queijo mussarela",
+    "qtd": "20 g (1 fatia)"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Espalhe o doce de leite sobre a fatia de pão integral.",
+   "Fatie a banana em rodelas e distribua sobre o doce de leite.",
+   "Cubra com a fatia de mussarela e leve ao forno ou air fryer a 180ºC por 2-3 minutos até o queijo derreter e gratinar.",
+   "Finalize com canela em pó a gosto e sirva imediatamente."
+  ],
+  "dica": "A banana deixa a torrada doce e macia, enquanto a mussarela adiciona contraste salgado. O doce de leite em pequena quantidade adoça suavemente; a canela finaliza com aroma."
+ },
+ {
+  "id": "wrap-de-frango-com-cream-cheese-e-rucula",
+  "nome": "Wrap de Frango com Cream Cheese e Rúcula",
+  "descricao": "Wrap cremoso de frango com cream cheese e rúcula",
+  "refeicao": "lanche",
+  "pagina": 153,
+  "macros": {
+   "calorias": 250,
+   "proteinas": 23,
+   "carboidratos": 22,
+   "lipideos": 8
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Wrap integral",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Frango",
+    "qtd": "60 g (desfiado)"
+   },
+   {
+    "nome": "Cream cheese light",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Rúcula",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "30 g (fatiado)"
+   },
+   {
+    "nome": "Páprica",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Aqueça o wrap integral em frigideira seca por 15 segundos de cada lado.",
+   "Espalhe o cream cheese light sobre o wrap, deixando 2 cm de borda livre.",
+   "Distribua o frango desfiado com páprica no centro, formando uma faixa.",
+   "Coloque rúcula e tomate fatiado por cima do frango.",
+   "Enrole o wrap firmemente, dobrando as laterais para a dentro e de baixo para cima. Corte na diagonal ao meio."
+  ],
+  "dica": "O cream cheese light no wrap de frango adiciona cremosidade sem pesar no recheio. A rúcula traz amargor leve e o tomate deixa tudo mais suculento."
+ },
+ {
+  "id": "shake-vegano-com-morango",
+  "nome": "Shake Vegano com Morango",
+  "descricao": "Morango e proteína vegetal em textura de milk-shake",
+  "refeicao": "lanche",
+  "pagina": 154,
+  "macros": {
+   "calorias": 266,
+   "proteinas": 4,
+   "carboidratos": 45,
+   "lipideos": 10
+  },
+  "minutos": 3,
+  "porcoes": 2,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Bananas congeladas sem casca",
+    "qtd": "200 g (2 bananas)"
+   },
+   {
+    "nome": "Morangos congelados",
+    "qtd": "90 g (6 morangos)"
+   },
+   {
+    "nome": "Melado de cana",
+    "qtd": "40 g (2 colheres de sopa)"
+   },
+   {
+    "nome": "Castanhas-do-pará",
+    "qtd": "30 g (6 castanhas)"
+   },
+   {
+    "nome": "Água",
+    "qtd": "400 ml"
+   }
+  ],
+  "passos": [
+   "Separe as bananas congeladas sem casca e os morangos congelados.",
+   "Coloque a água, as castanhas-do-pará, o melado de cana, as bananas e os morangos no liquidificador. Bata em velocidade alta por 40 segundos até ficar cremoso.",
+   "Sirva imediatamente em copo alto."
+  ],
+  "dica": "O morango congelado deixa a vitamina mais espessa e gelada. As castanhas-do-pará adicionam crocância e sabor marcante."
+ },
+ {
+  "id": "tigela-de-iogurte-com-pera-e-canela",
+  "nome": "Tigela de Iogurte com Pera e Canela",
+  "descricao": "logurte natural com pera fresca, canela e nozes em 3 minutos",
+  "refeicao": "lanche",
+  "pagina": 155,
+  "macros": {
+   "calorias": 273,
+   "proteinas": 8,
+   "carboidratos": 35,
+   "lipideos": 13
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte natural integral",
+    "qtd": "170 g (1 potinho)"
+   },
+   {
+    "nome": "Pera fatiada com casca",
+    "qtd": "120 g (1 pera pequena)"
+   },
+   {
+    "nome": "Nozes picadas",
+    "qtd": "10 g (3 metades)"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "8 g (1 col. chá)"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "1 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte natural no fundo de uma tigela.",
+   "Lave a pera, retire o talo e fatie em meias-luas finas com casca. Distribua sobre o iogurte.",
+   "Polvilhe a canela em pó por cima da pera.",
+   "Finalize com nozes picadas e um fio de mel. Sirva imediatamente."
+  ],
+  "dica": "A pera traz doçura leve, perfume e textura macia ao bowl. Combinada com iogurte natural, cria uma tigela simples, fresca e cremosa."
+ },
+ {
+  "id": "vitamina-de-mamao-com-laranja-e-gengibre",
+  "nome": "Vitamina de Mamão com Laranja e Gengibre",
+  "descricao": "Mamão, laranja e gengibre no liquidificador",
+  "refeicao": "lanche",
+  "pagina": 156,
+  "macros": {
+   "calorias": 276,
+   "proteinas": 22,
+   "carboidratos": 47,
+   "lipideos": 2
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Mamão papaia",
+    "qtd": "200 g (2 fatias médias)"
+   },
+   {
+    "nome": "Suco de laranja",
+    "qtd": "150 ml"
+   },
+   {
+    "nome": "Gengibre",
+    "qtd": "5 g (1 colher de chá ralado)"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Descasque e corte o mamão papaia em pedaços. Rale o gengibre fresco.",
+   "Coloque no liquidificador o mamão, o suco de laranja, o ro E engibre, o whey protein, o mel e o gelo. Bata até ficar 6eng! whey 8 cremoso.",
+   "Ajuste o mel conforme o doce desejado e sirva imediatamente em copo alto."
+  ],
+  "dica": "A laranja adiciona acidez e aroma cítrico ao mamão. O gengibre traz picância leve e o whey transforma a fruta em uma refeição mais proteica."
+ },
+ {
+  "id": "pasta-de-banana-com-whey",
+  "nome": "Pasta de Banana com Whey",
+  "descricao": "Banana amassada com whey e castanhas para energia rápida",
+  "refeicao": "lanche",
+  "pagina": 157,
+  "macros": {
+   "calorias": 283,
+   "proteinas": 28,
+   "carboidratos": 25,
+   "lipideos": 10
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana",
+    "qtd": "80 g (amassada)"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Whey protein",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Semente de girassol",
+    "qtd": "10 g (1 colher de sopa)"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "5 g (1 castanha)"
+   }
+  ],
+  "passos": [
+   "Amasse a banana com um garfo até obter uma pasta grossa, sem deixar completamente lisa. Alguns pedaços dão textura.",
+   "Adicione o whey protein e a canela, misturando bem com uma colher até incorporar completamente.",
+   "Transfira para um bowl e distribua as sementes e castanhas por cima.",
+   "Sirva no bowil."
+  ],
+  "dica": "As sementes de girassol adicionam crocância e sabor tostado. Na pasta de banana com whey, complementam a textura e deixam o lanche mais interessante."
+ },
+ {
+  "id": "sanduiche-natural-de-frango",
+  "nome": "Sanduíche Natural de Frango",
+  "descricao": "Sanduíche natural de frango com iogurte e temperos frescos",
+  "refeicao": "lanche",
+  "pagina": 158,
+  "macros": {
+   "calorias": 293,
+   "proteinas": 34,
+   "carboidratos": 29,
+   "lipideos": 6
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Frango",
+    "qtd": "80 g (desfiado)"
+   },
+   {
+    "nome": "Cenoura",
+    "qtd": "20 g (ralada)"
+   },
+   {
+    "nome": "Milho",
+    "qtd": "15 g (1 colher de sopa)"
+   },
+   {
+    "nome": "Iogurte natural",
+    "qtd": "20 ml (1 colher de sopa rasa)"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "10 g (2 folhas)"
+   }
+  ],
+  "passos": [
+   "Misture o frango desfiado com o iogurte natural, a cenoura ralada e o milho em uma tigela até formar um recheio homogêneo.",
+   "Toste as fatias de pão integral na torradeira ou frigideira seca.",
+   "Monte o sanduíche com alface sobre o pão, distribua o recheio de frango e feche. Sirva imediatamente."
+  ],
+  "dica": "A cenoura ralada no sanduíche natural adiciona betacaroteno, cor e crocância. O iogurte natural substitui a maionese e deixa o recheio mais leve."
+ },
+ {
+  "id": "banana-split-saudavel",
+  "nome": "Banana Split Saudável",
+  "descricao": "Banana com iogurte grego, granola, mel e cacau em pó",
+  "refeicao": "lanche",
+  "pagina": 159,
+  "macros": {
+   "calorias": 315,
+   "proteinas": 13,
+   "carboidratos": 49,
+   "lipideos": 10
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana",
+    "qtd": "100 g (1 banana)"
+   },
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Granola sem açúcar",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Corte a banana ao meio no sentido do comprimento e disponha em um prato ou tigela alongada.",
+   "Coloque o iogurte grego no centro.",
+   "Polvilhe a granola por cima.",
+   "Regue com um fio de mel a gosto.",
+   "Finalize com cacau em pó polvilhado e sirva."
+  ],
+  "dica": "O cacau em pó na banana split adiciona sabor de chocolate sem açúcar extra. O iogurte grego deixa o lanche mais cremoso e proteico, com perfil pós-treino."
+ },
+ {
+  "id": "bolo-de-caneca-de-baunilha-com-whey",
+  "nome": "Bolo de Caneca de Baunilha com Whey",
+  "descricao": "Baunilha com mel no micro-ondas, 35 de proteína por caneca",
+  "refeicao": "lanche",
+  "pagina": 160,
+  "macros": {
+   "calorias": 317,
+   "proteinas": 35,
+   "carboidratos": 26,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Farinha de aveia",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "40 ml"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Fermento",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Extrato de baunilha",
+    "qtd": "2 ml"
+   }
+  ],
+  "passos": [
+   "Em uma caneca grande, comece pelos líquidos: bata o ovo com o leite desnatado, o mel e o extrato de baunilha. Acrescente o whey protein e a farinha de aveia, misture bem. Adicione o fermento por último.",
+   "Mexa até dissolver os grumos.",
+   "Leve ao micro-ondas por 90 segundos na potência máxima.",
+   "Deixe descansar 1 minuto antes de consumir."
+  ],
+  "dica": "O whey baunilha substitui farinha e açúcar no bolo de caneca, criando uma versão com 35 de proteína. Para bom crescimento, leve ao micro-ondas imediatamente após misturar."
+ },
+ {
+  "id": "toast-de-ricota-com-salmao-defumado-e-alcaparras",
+  "nome": "Toast de Ricota com Salmão Defumado e Alcaparras",
+  "descricao": "Lanche proteico com salmão e ricota, 25 de proteína",
+  "refeicao": "lanche",
+  "pagina": 161,
+  "macros": {
+   "calorias": 321,
+   "proteinas": 25,
+   "carboidratos": 30,
+   "lipideos": 13
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "60 g (2 fatias)"
+   },
+   {
+    "nome": "Ricota fresca",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Salmão defumado",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Alcaparras",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Limão siciliano",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Endro",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Toste as fatias de pão integral.",
+   "Espalhe a ricota generosamente sobre as torradas.",
+   "Disponha as fatias de salmão defumado por cima, distribua as alcaparras. Sa quai",
+   "Finalize com raspas de limão siciliano e endro fresco."
+  ],
+  "dica": "O endro na torrada com salmão traz aroma herbal e combina bem com o limão siciliano. A ricota deixa a base cremosa sem pesar."
+ },
+ {
+  "id": "torrada-de-ricota-com-mel-e-canela",
+  "nome": "Torrada de Ricota com Mel e Canela",
+  "descricao": "Torrada crocante com ricota cremosa, mel dourado e canela",
+  "refeicao": "lanche",
+  "pagina": 162,
+  "macros": {
+   "calorias": 326,
+   "proteinas": 18,
+   "carboidratos": 41,
+   "lipideos": 10
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "60 g (2 fatias)"
+   },
+   {
+    "nome": "Ricota fresca",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Essência de baunilha",
+    "qtd": "2 gotas"
+   }
+  ],
+  "passos": [
+   "Toste as fatias de pão na torradeira até dourarem.",
+   "Amasse a ricota com um garfo e misture a essência de baunilha.",
+   "Espalhe a ricota generosamente sobre as torradas.",
+   "Regue com mel, finalize com canela em pó polvilhada por cima e sirva."
+  ],
+  "dica": "A canela e o mel sobre a ricota compõem uma combinação clássica de sabor adocicado e levemente especiado. Prefira mel puro e canela em pó fresca para aroma mais intenso, e finalize com uma gota de baunilha."
+ },
+ {
+  "id": "bowl-de-iogurte-com-chia-e-morango",
+  "nome": "Bowl de Iogurte com Chia e Morango",
+  "descricao": "logurte com whey e morangos frescos: bow! proteico para qualquer hora",
+  "refeicao": "lanche",
+  "pagina": 163,
+  "macros": {
+   "calorias": 328,
+   "proteinas": 33,
+   "carboidratos": 20,
+   "lipideos": 14
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte",
+    "qtd": "170 ml (natural)"
+   },
+   {
+    "nome": "Whey protein",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "80 g (-5 morangos médios)"
+   },
+   {
+    "nome": "Nozes",
+    "qtd": "10 g (1 colher de sopa picadas)"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte natural em um bowl e adicione o whey protein. Misture bem com uma colher até obter a E uma textura cremosa e uniforme, sem grumos.",
+   "Pique os morangos em pedaços pequenos e distribua sobre o iogurte. Polvilhe a chia e as nozes por cima.",
+   "Sirva imediatamente para aproveitar a crocância das nozes e evitar que a chia absorva líquido em excesso."
+  ],
+  "dica": "A combinação de iogurte com whey e chia cria um bowl cremoso, proteico e com boa textura. As nozes completam com crocância e sabor amanteigado."
+ },
+ {
+  "id": "crepioca-de-aveia-com-queijo-branco",
+  "nome": "Crepioca de Aveia com Queijo Branco",
+  "descricao": "Aveia com tapioca e queijo branco derretido em crepioca proteica",
+  "refeicao": "lanche",
+  "pagina": 164,
+  "macros": {
+   "calorias": 330,
+   "proteinas": 12,
+   "carboidratos": 29,
+   "lipideos": 18
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Goma de tapioca",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Queijo Branco",
+    "qtd": "30 g (1 fatia)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Temperos",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Azeite (para untar)",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Leve goma de tapioca, ovo, aveia em flocos, sal e temperos a gosto ao liquidificador e bata até obter uma mistura homogênea.",
+   "Transfira para uma frigideira antiaderente untada com o mínimo de azeite.",
+   "Doure em fogo baixo por 2 minutos, vire e adicione o queijo branco em fatia por cima.",
+   "Doure mais 2 minutos até o queijo aquecer e derreter levemente.",
+   "Transfira para o prato e sirva quente."
+  ],
+  "dica": "A aveia em flocos na crepioca deixa a massa mais firme e com sabor integral. O queijo branco contribui com cremosidade e sabor suave."
+ },
+ {
+  "id": "wrap-de-peito-de-peru-com-cottage-e-rucula",
+  "nome": "Wrap de Peito de Peru com Cottage e Rúcula",
+  "descricao": "Wrap de peru com cottage e rúcula, leve e proteico",
+  "refeicao": "lanche",
+  "pagina": 165,
+  "macros": {
+   "calorias": 339,
+   "proteinas": 29,
+   "carboidratos": 34,
+   "lipideos": 13
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Peito de peru defumado",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Queijo cottage",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Rúcula",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Tomate seco",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Espalhe o queijo cottage sobre a tortilha integral.",
+   "Distribua as fatias de peito de peru, a rúcula e o tomate seco picado.",
+   "Regue com o azeite.",
+   "Enrole bem apertado e corte ao meio na diagonal."
+  ],
+  "dica": "O tomate seco no wrap concentra sabor e acidez. O cottage deixa o recheio cremoso; use o peito de peru com moderação por ser processado. Atenção: Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "bolinho-de-caneca-de-chocolate-com-whey",
+  "nome": "Bolinho de Caneca de Chocolate com Whey",
+  "descricao": "Pronto no micro-ondas com whey chocolate e ovo em 5 min",
+  "refeicao": "lanche",
+  "pagina": 166,
+  "macros": {
+   "calorias": 340,
+   "proteinas": 37,
+   "carboidratos": 28,
+   "lipideos": 9
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Farinha de aveia",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "40 ml"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Fermento",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Coloque o leite desnatado, o ovo e o mel em uma caneca grande e misture bem.",
+   "Adicione o whey protein de chocolate, a farinha de aveia, O cacau em pó e o fermento. Mexa até não ter grumos.",
+   "Leve ao micro-ondas por 2 minutos na potência máxima.",
+   "Espere 1 minuto antes de consumir."
+  ],
+  "dica": "O cacau em pó puro deixa o sabor de chocolate mais intenso que uma versão com achocolatado. Neste bolinho de caneca com whey chocolate, cria um lanche rápido e aromático."
+ },
+ {
+  "id": "shake-vegano-de-chocolate",
+  "nome": "Shake Vegano de Chocolate",
+  "descricao": "Cacau intenso em shake vegano de banana congelada",
+  "refeicao": "lanche",
+  "pagina": 167,
+  "macros": {
+   "calorias": 362,
+   "proteinas": 7,
+   "carboidratos": 84,
+   "lipideos": 5
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tâmaras frescas",
+    "qtd": "24 g (3 tâmaras)"
+   },
+   {
+    "nome": "Leite vegetal",
+    "qtd": "120 ml"
+   },
+   {
+    "nome": "Bananas pequenas congeladas",
+    "qtd": "250 g (2 bananas)"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "16 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Remova os caroços das tâmaras e coloque no liquidificador.",
+   "Adicione o leite vegetal e bata por alguns segundos.",
+   "Adicione as bananas congeladas, cacau em pó, gelo e bata até ficar cremoso.",
+   "Sirva em seguida."
+  ],
+  "dica": "As tâmaras neste shake vegano adoçam sem açúcar refinado e ajudam na textura. O cacau em pó adiciona amargor e deixa a bebida com sabor mais intenso."
+ },
+ {
+  "id": "vitamina-verde-de-espinafre-com-abacaxi",
+  "nome": "Vitamina Verde de Espinafre com Abacaxi",
+  "descricao": "Espinafre e abacaxi: verde tropical com ferro e vitamina",
+  "refeicao": "lanche",
+  "pagina": 168,
+  "macros": {
+   "calorias": 365,
+   "proteinas": 26,
+   "carboidratos": 45,
+   "lipideos": 9
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Espinafre",
+    "qtd": "80 g (cerca de 2 xícaras de folhas)"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Hortelã",
+    "qtd": "5 g (cerca de 10 folhas)"
+   },
+   {
+    "nome": "Abacaxi",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Leite de coco light",
+    "qtd": "150 ml"
+   },
+   {
+    "nome": "Gengibre",
+    "qtd": "5 g (1 pedaço pequeno, -1 cm)"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Lave o espinafre e pique o abacaxi em pedaços menores. Descasque a banana.",
+   "Coloque no liquidificador o leite de coco light, o espinafre, o abacaxi, a banana, o whey protein, o gengibre e a hortelã. Adicione gelo e bata em velocidade alta.",
+   "Sirva imediatamente em copo alto."
+  ],
+  "dica": "O abacaxi traz acidez e aroma tropical, enquanto o whey reforça o perfil proteico da vitamina. O leite de coco light dá cremosidade e a hortelã deixa o final mais refrescante."
+ },
+ {
+  "id": "bowl-de-cottage-com-frutas-secas-e-nozes",
+  "nome": "Bowl de Cottage com Frutas Secas e Nozes",
+  "descricao": "Cottage cremoso com mix de frutas secas, nozes e toque de canela",
+  "refeicao": "lanche",
+  "pagina": 169,
+  "macros": {
+   "calorias": 367,
+   "proteinas": 21,
+   "carboidratos": 33,
+   "lipideos": 16
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo cottage",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Mix de frutas secas (uva-passa, damasco, cranberry)",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Nozes picadas",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Coloque o cottage em uma tigela.",
+   "Adicione o mix de frutas secas e as nozes picadas por cima.",
+   "Regue com o mel uniformemente.",
+   "Polvilhe a canela em pó por cima.",
+   "Misture levemente se preferir ou sirva em camadas para melhor apresentação. Consuma em seguida."
+  ],
+  "dica": "As frutas secas no bowl de cottage trazem doçura concentrada e mastigação mais firme. A canela acrescenta aroma e combina bem com o sabor lácteo do cottage."
+ },
+ {
+  "id": "sanduiche-saudavel-de-frango",
+  "nome": "Sanduíche Saudável de Frango",
+  "descricao": "Montagem rápida em 5 min com 36 de proteína",
+  "refeicao": "lanche",
+  "pagina": 170,
+  "macros": {
+   "calorias": 372,
+   "proteinas": 36,
+   "carboidratos": 31,
+   "lipideos": 11
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "60 g (2 fatias)"
+   },
+   {
+    "nome": "Peito de frango desfiado",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Queijo Minas frescal",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "40 g (2 fatias)"
+   },
+   {
+    "nome": "Mostarda",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Toste levemente as fatias de pão integral na frigideira seca ou torradeira.",
+   "Espalhe a mostarda em uma das fatias.",
+   "Monte o sanduíche com alface, frango desfiado, Queijo Minas fatiado e tomate.",
+   "Feche o sanduíche e sirva imediatamente."
+  ],
+  "dica": "Frango desfiado pode ser preparado em lote no fim de semana e congelado em porções. Assim, o sanduíche está pronto em menos de 3 minutos na hora da fome."
+ },
+ {
+  "id": "shake-vegano-de-banana-com-proteina-de-soja",
+  "nome": "Shake Vegano de Banana com Proteína de Soja",
+  "descricao": "Proteína de soja com banana e amendoim: puro sabor vegano",
+  "refeicao": "lanche",
+  "pagina": 171,
+  "macros": {
+   "calorias": 375,
+   "proteinas": 35,
+   "carboidratos": 34,
+   "lipideos": 13
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Proteína de soja",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Banana média cortada em rodelas e congelada",
+    "qtd": "100 g (1 banana)"
+   },
+   {
+    "nome": "Pasta de amendoim integral",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Leite de soja",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Cubos de gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o leite de soja, a banana congelada, a pasta de amendoim e a proteína de soja no liquidificador.",
+   "Adicione os cubos de gelo e bata em velocidade alta por 30 segundos até ficar cremoso e homogêneo.",
+   "Sirva gelado em copo alto."
+  ],
+  "dica": "A proteína de soja está entre as proteínas vegetais mais completas e combina bem com banana e amendoim. O amendoim integral complementa a textura e reforça o sabor."
+ },
+ {
+  "id": "pate-de-ricota",
+  "nome": "Patê de Ricota",
+  "descricao": "Patê cremoso de ricota temperado para petiscar em minutos",
+  "refeicao": "lanche",
+  "pagina": 172,
+  "macros": {
+   "calorias": 386,
+   "proteinas": 11,
+   "carboidratos": 6,
+   "lipideos": 37
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ricota",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Água",
+    "qtd": "15 ml (1 colher de sopa)"
+   },
+   {
+    "nome": "Azeite extravirgem",
+    "qtd": "25 ml (1,5 colher de sopa)"
+   },
+   {
+    "nome": "Alho desidratado",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Processe a ricota com a água, depois acrescente o azeite aos poucos até virar um creme homogêneo.",
+   "Adicione o alho, o orégano e o sal.",
+   "Transfira para um potinho e sirva com torradas ou vegetais em palito."
+  ],
+  "dica": "A ricota batida com azeite extravirgem resulta em um patê cremoso, com boa fonte de cálcio e proteína. O alho desidratado concentra sabor e aroma, dispensando cocção e harmonizando com torradas e vegetais."
+ },
+ {
+  "id": "tigela-de-acai-funcional",
+  "nome": "Tigela de Açaí Funcional",
+  "descricao": "Lanche proteico com whey e banana, 29 de proteína",
+  "refeicao": "lanche",
+  "pagina": 173,
+  "macros": {
+   "calorias": 396,
+   "proteinas": 29,
+   "carboidratos": 50,
+   "lipideos": 12
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Açaí",
+    "qtd": "100 g (polpa sem açúcar)"
+   },
+   {
+    "nome": "Whey protein",
+    "qtd": "30 g (chocolate)"
+   },
+   {
+    "nome": "Kiwi",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Coco ralado",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Granola",
+    "qtd": "15 g (caseira)"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque a polpa de açaí, a banana em rodelas, o whey E protein de chocolate e 3 pedras de gelo no liquidificador. Bata em velocidade alta por 40 segundos até obter uma textura espessa.",
+   "Transfira para um bowl e alise a superfície com as á costas de uma colher.",
+   "Decore com os morangos fatiados, o kiwi em rodelas, a granola caseira e o coco ralado, organizando em seções. Sirva imediatamente."
+  ],
+  "dica": "O kiwi nesta tigela de açaí traz acidez, cor verde e boa presença de vitamina C. A combinação com whey baunilha e frutas cria um bow! proteico, gelado e aromático."
+ },
+ {
+  "id": "pizza-de-rapl0-com-frango",
+  "nome": "Pizza de Rapl0 com Frango",
+  "descricao": "Tortilha crocante com frango desfiado e mussarela derretida em 5 minutos",
+  "refeicao": "lanche",
+  "pagina": 174,
+  "macros": {
+   "calorias": 406,
+   "proteinas": 36,
+   "carboidratos": 24,
+   "lipideos": 18
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral (Rapl0O)",
+    "qtd": "40 g (1 disco)"
+   },
+   {
+    "nome": "Frango desfiado temperado",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Queijo mussarela",
+    "qtd": "30 g (1 fatia)"
+   },
+   {
+    "nome": "Requeijão light",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "30 g (2 rodelas)"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Espalhe o requeijão light sobre toda a superfície da tortilha integral.",
+   "Distribua o frango desfiado por cima, cobrindo lo. uniformemente.",
+   "Coloque a fatia de mussarela e as rodelas de tomate. Finalize com orégano.",
+   "Leve à air fryer por 5 minutos a 180ºC até o queijo derreter e a borda ficar crocante. Sirva imediatamente."
+  ],
+  "dica": "A tortilha integral substitui a massa de pizza tradicional em uma versão rápida de frigideira. O frango desfiado e o requeijão light deixam o recheio cremoso e proteico."
+ },
+ {
+  "id": "banana-com-pasta-de-amendoim-e-granola",
+  "nome": "Banana com Pasta de Amendoim e Granola",
+  "descricao": "Lanche nutritivo com banana, pasta de amendoim e granola crocante em 3 min",
+  "refeicao": "lanche",
+  "pagina": 175,
+  "macros": {
+   "calorias": 420,
+   "proteinas": 12,
+   "carboidratos": 60,
+   "lipideos": 20
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana grande",
+    "qtd": "130 g"
+   },
+   {
+    "nome": "Pasta de amendoim integral",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Granola crocante",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Corte a banana ao meio no comprido.",
+   "Espalhe a pasta de amendoim sobre as duas metades.",
+   "Polvilhe a granola crocante por cima e regue com mel.",
+   "Finalize com canela. Coma como um barco de banana."
+  ],
+  "dica": "A banana grande é fonte de carboidrato e potássio, e combina com a gordura da pasta de amendoim e a crocância da granola. O mel e uma pitada de canela finalizam um lanche prático e saboroso."
+ },
+ {
+  "id": "rolinho-de-presunto-com-ovo-e-legumes",
+  "nome": "Rolinho de Presunto com Ovo e Legumes",
+  "descricao": "Lanche proteico com ovos e espinafre, 27 de proteína",
+  "refeicao": "lanche",
+  "pagina": 176,
+  "macros": {
+   "calorias": 437,
+   "proteinas": 27,
+   "carboidratos": 12,
+   "lipideos": 33
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Fatias de presunto grandes (1 fatia por rolinho)",
+    "qtd": "60 g (2 fatias)"
+   },
+   {
+    "nome": "Espinafre fresco",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Pimentões",
+    "qtd": "30 g (picados)"
+   },
+   {
+    "nome": "Manteiga",
+    "qtd": "15 g (1 colher de sopa)"
+   },
+   {
+    "nome": "Pimenta-do-reino moída",
+    "qtd": "1 pitada"
+   },
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 ovos)"
+   },
+   {
+    "nome": "Azeitonas",
+    "qtd": "15 g (picadas)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "50 g (1/2 tomate pequeno picado)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Aqueça uma frigideira em fogo médio-alto e derreta a manteiga.",
+   "Pique os pimentões e o tomate em cubos pequenos. Refogue com o espinafre por 2 minutos até amaciar.",
+   "Acrescente os ovos batidos temperados com sal e pimenta-do-reino à frigideira, mexendo até formarem uma massa junto dos legumes. Adicione as azeitonas picadas e misture.",
+   "Divida o recheio entre as 2 fatias de presunto, centralizando, e enrole como um charuto.",
+   "Deixe os rolinhos na frigideira, com a emenda para baixo, por 1 minuto até dourar levemente. Sirva quente."
+  ],
+  "dica": "Usar presunto como envoltório muda a textura e deixa a montagem mais compacta. Os legumes, como espinafre e pimentão, adicionam cor e frescor ao recheio. à Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "iogurte-com-mel-e-nozes",
+  "nome": "Iogurte com Mel e Nozes",
+  "descricao": "Lanche proteico com iogurte e mel, 24 de proteína",
+  "refeicao": "lanche",
+  "pagina": 177,
+  "macros": {
+   "calorias": 446,
+   "proteinas": 24,
+   "carboidratos": 28,
+   "lipideos": 30
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Nozes",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Extrato de baunilha",
+    "qtd": "2 ml"
+   }
+  ],
+  "passos": [
+   "Misture o iogurte com o extrato de baunilha.",
+   "Despeje em um bowl.",
+   "Quebre as nozes grosseiramente e disponha por cima.",
+   "Regue com mel e polvilhe a canela.",
+   "Sirva frio."
+  ],
+  "dica": "As nozes trazem crocância e sabor amanteigado. Com iogurte grego e mel, criam um lanche cremoso, doce e fácil de montar."
+ },
+ {
+  "id": "wrap-de-frango-desfiado-com-arroz-e-tomate",
+  "nome": "Wrap de Frango Desfiado com Arroz e Tomate",
+  "descricao": "Wrap integral recheado com frango, arroz e tomate, 37 de proteína",
+  "refeicao": "lanche",
+  "pagina": 178,
+  "macros": {
+   "calorias": 450,
+   "proteinas": 37,
+   "carboidratos": 52,
+   "lipideos": 13
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Wrap integral",
+    "qtd": "40 g (Rap10 ou similar)"
+   },
+   {
+    "nome": "Frango cozido desfiado",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Arroz cozido",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml (1 colher de chá)"
+   }
+  ],
+  "passos": [
+   "Aqueça o arroz cozido no micro-ondas por 1 minuto em potência alta. Corte o tomate em cubos pequenos.",
+   "Em uma tigela, misture o frango desfiado, o arroz, o tomate picado, o azeite e uma pitada de sal para á formar o recheio.",
+   "Aqueça o wrap integral por 30 segundos na frigideira ou micro-ondas para ficar maleável.",
+   "Coloque o recheio no centro do wrap, dobre as laterais e enrole firmemente. Corte na diagonal e sirva."
+  ],
+  "dica": "Este wrap reforçado combina frango, arroz e tortilha integral em uma montagem portátil. Aperte bem antes de cortar para o recheio não escapar."
+ },
+ {
+  "id": "vitamina-cremosa-de-whey-com-banana",
+  "nome": "Vitamina Cremosa de Whey com Banana",
+  "descricao": "Whey com aveia e banana em vitamina cremosa",
+  "refeicao": "lanche",
+  "pagina": 179,
+  "macros": {
+   "calorias": 458,
+   "proteinas": 53,
+   "carboidratos": 58,
+   "lipideos": 4
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o leite desnatado no liquidificador como base líquida.",
+   "Adicione o whey protein, a aveia em flocos, a banana e o. o gelo (se quiser versão gelada). 8 9 8",
+   "Bata em velocidade alta por 45 segundos a 1 minuto até obter uma textura cremosa e homogênea. Raspe as laterais se necessário.",
+   "Sirva imediatamente em copo alto."
+  ],
+  "dica": "Com whey, aveia e banana, esta vitamina fica densa, cremosa e proteica. Bata por mais tempo para dissolver bem o pó e deixar a textura uniforme."
+ },
+ {
+  "id": "torrada-com-pasta-de-amendoim-e",
+  "nome": "Torrada com Pasta de Amendoim e",
+  "descricao": "Banana Torrada crocante com pasta de amendoim e banana fresca",
+  "refeicao": "lanche",
+  "pagina": 180,
+  "macros": {
+   "calorias": 482,
+   "proteinas": 18,
+   "carboidratos": 66,
+   "lipideos": 20
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Pasta de amendoim integral",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Toste as fatias de pão integral.",
+   "Espalhe a pasta de amendoim generosamente.",
+   "Fatie a banana e disponha sobre a pasta.",
+   "Regue com mel, polvilhe canela e chia. Sirva imediatamente."
+  ],
+  "dica": "A chia na torrada com pasta de amendoim adiciona crocância e ajuda a prender melhor a cobertura. A combinação de amendoim com pão integral rende um lanche denso e prático."
+ },
+ {
+  "id": "bowl-de-cottage-com-damasco-e-linhaca",
+  "nome": "Bowl de Cottage com Damasco e Linhaça",
+  "descricao": "Bowl de cottage com damasco seco e linhaça dourada",
+  "refeicao": "lanche",
+  "pagina": 181,
+  "macros": {
+   "calorias": 493,
+   "proteinas": 29,
+   "carboidratos": 43,
+   "lipideos": 25
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo cottage",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Damasco seco",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Semente de linhaça",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Coloque o cottage em tigela.",
+   "Pique os damascos secos e as castanhas.",
+   "Adicione sobre o cottage.",
+   "Polvilhe a linhaça, a canela e finalize com o mel em fio.",
+   "Sirva fresco."
+  ],
+  "dica": "A linhaça acrescenta textura levemente granulada ao bowl de cottage. O damasco seco contribui com doçura natural, enquanto a castanha-do-pará finaliza o lanche com crocância."
+ },
+ {
+  "id": "shake-proteico-com-whey-cacau-e-canela",
+  "nome": "Shake Proteico com Whey, Cacau e Canela",
+  "descricao": "Cacau, canela e whey em shake de 2 minutos",
+  "refeicao": "lanche",
+  "pagina": 182,
+  "macros": {
+   "calorias": 496,
+   "proteinas": 27,
+   "carboidratos": 20,
+   "lipideos": 39
+  },
+  "minutos": 2,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite de coco sem açúcar",
+    "qtd": "100 ml (1/2 xícara)"
+   },
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g (1 dose)"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Coco ralado",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "1 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Coloque o leite de coco sem açúcar no liquidificador como base líquida.",
+   "Adicione o whey protein sabor chocolate, o cacau em J. pó e a canela. Bata por 30 segundos até ficar homogêneo.",
+   "Acrescente o coco ralado e pulse 2 a 3 vezes para incorporar mantendo a textura. Sirva gelado."
+  ],
+  "dica": "O leite de coco fornece ácidos graxos de cadeia média e laúrico, que podem ser usados como fonte de energia. Aporta cremosidade e sabor tropical à preparação."
+ },
+ {
+  "id": "banana-com-pasta-de-amendoim-granola-e-nibs",
+  "nome": "Banana com Pasta de Amendoim, Granola e Nibs",
+  "descricao": "Banana com amendoim, granola crocante e nibs de cacau",
+  "refeicao": "lanche",
+  "pagina": 183,
+  "macros": {
+   "calorias": 510,
+   "proteinas": 13,
+   "carboidratos": 68,
+   "lipideos": 26
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Pasta de amendoim integral",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Granola",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Nibs de cacau",
+    "qtd": "8 g"
+   }
+  ],
+  "passos": [
+   "Corte a banana ao meio no sentido do comprimento.",
+   "Espalhe a pasta de amendoim sobre cada metade.",
+   "Cubra com granola e nibs de cacau.",
+   "Finalize com mel e canela. Sirva imediatamente."
+  ],
+  "dica": "Os nibs de cacau são grãos de cacau em pedaços pequenos, com sabor intenso e amargor agradável. Na banana com amendoim, adicionam crocância sem açúcar."
+ },
+ {
+  "id": "iogurte-grego-com-granola-e-frutas",
+  "nome": "Iogurte Grego com Granola e Frutas",
+  "descricao": "Lanche proteico com banana, morango e mirtilo, 25 de proteína",
+  "refeicao": "lanche",
+  "pagina": 184,
+  "macros": {
+   "calorias": 551,
+   "proteinas": 25,
+   "carboidratos": 79,
+   "lipideos": 20
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Granola",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Mirtilo",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "8 g"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte grego em uma tigela.",
+   "Adicione a granola ao redor.",
+   "Distribua os morangos, mirtilos e fatias de banana por cima do iogurte com granola.",
+   "Polvilhe a chia e finalize com o mel em fio."
+  ],
+  "dica": "O mirtilo é uma fruta rica em antocianinas, pigmentos que dão a cor roxo-azulada e muito sabor ao iogurte grego. A granola e o morango fresco complementam o bowl com fibras, crocância e acidez equilibrada."
+ },
+ {
+  "id": "vitamina-de-amendoim-com-banana",
+  "nome": "Vitamina de Amendoim com Banana",
+  "descricao": "Amendoim e banana em vitamina calórica e cremosa",
+  "refeicao": "lanche",
+  "pagina": 185,
+  "macros": {
+   "calorias": 595,
+   "proteinas": 44,
+   "carboidratos": 64,
+   "lipideos": 23
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pasta de amendoim integral",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Banana congelada",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o leite desnatado no liquidificador como base líquida.",
+   "Adicione a pasta de amendoim, a banana congelada, o o. whe rotein, o mel, a canela e o gelo. Bata em vP 8 velocidade alta por 40 segundos até ficar cremoso.",
+   "Sirva imediatamente em copo alto."
+  ],
+  "dica": "Com pasta de amendoim, banana e whey, esta vitamina combina gordura, carboidrato e proteína em uma bebida densa. A textura cremosa funciona bem como lanche reforçado."
+ },
+ {
+  "id": "mix-de-castanhas-com-chocolate-amargo-e-frutas-secas",
+  "nome": "Mix de Castanhas com Chocolate Amargo e Frutas Secas",
+  "descricao": "Castanhas, chocolate amargo 70% e frutas secas em mix rápido",
+  "refeicao": "lanche",
+  "pagina": 186,
+  "macros": {
+   "calorias": 598,
+   "proteinas": 14,
+   "carboidratos": 57,
+   "lipideos": 39
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Castanha de caju",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Amêndoa torrada",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Chocolate amargo 70%",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Uva-passa",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Damasco seco",
+    "qtd": "20 g"
+   }
+  ],
+  "passos": [
+   "Pique grosseiramente as castanhas e amêndoas.",
+   "Quebre o chocolate amargo em pedaços pequenos.",
+   "Misture castanha de caju, amêndoa torrada, chocolate amargo 70%, uva-passa e damasco seco em um pote.",
+   "Embale em um pote com tampa para transportar como snack. Rende uma porção generosa."
+  ],
+  "dica": "O chocolate amargo 70% traz sabor intenso e combina bem com frutas secas. As amêndoas torradas adicionam crocância, enquanto o damasco seco entrega doçura e acidez."
+ }
+]

@@ -1,0 +1,3504 @@
+[
+ {
+  "id": "trufa-de-cafe-com-cacau",
+  "nome": "Trufa de Café com Cacau",
+  "descricao": "Café solúvel com cacau e whey, 28 de proteína na receita (4 trufas)",
+  "refeicao": "sobremesa",
+  "pagina": 315,
+  "macros": {
+   "calorias": 51,
+   "proteinas": 7,
+   "carboidratos": 4,
+   "lipideos": 1
+  },
+  "minutos": 7,
+  "porcoes": 4,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Café solúvel",
+    "qtd": "4 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "15 ml"
+   }
+  ],
+  "passos": [
+   "Dissolva o café no leite.",
+   "Misture o whey, a aveia e 5 de cacau em uma tigela.",
+   "Adicione o café dissolvido e misture até formar uma massa.",
+   "Modele 4 bolinhas e role no cacau restante (os 5 g)."
+  ],
+  "dica": "O café e o cacau combinam amargor, aroma tostado e sabor de chocolate. Juntos nesta trufa, criam uma sobremesa intensa sem açúcar refinado."
+ },
+ {
+  "id": "trufa-de-chocolate-tradicional",
+  "nome": "Trufa de Chocolate Tradicional",
+  "descricao": "Trufa clássica com whey, cacau e aveia: 28 de proteína na receita (4 trufas)",
+  "refeicao": "sobremesa",
+  "pagina": 316,
+  "macros": {
+   "calorias": 54,
+   "proteinas": 7,
+   "carboidratos": 4,
+   "lipideos": 1
+  },
+  "minutos": 7,
+  "porcoes": 4,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "15 ml"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Misture o whey, a aveia e 10 de cacau em uma tigela.",
+   "Adicione o leite aos poucos até formar uma massa modelável.",
+   "Divida em 4 porções e modele bolinhas com as mãos.",
+   "Role no cacau restante (5 g).",
+   "Sirva imediatamente ou leve à geladeira."
+  ],
+  "dica": "Para trufas com textura perfeita, use cacau 100% e refrigere por no mínimo 30 minutos antes de modelar. As mãos frias facilitam o manuseio da massa."
+ },
+ {
+  "id": "trufa-de-coco-com-cacau",
+  "nome": "Trufa de Coco com Cacau",
+  "descricao": "Coco ralado com whey chocolate e cacau, 28 de proteína na receita (4 trufas)",
+  "refeicao": "sobremesa",
+  "pagina": 317,
+  "macros": {
+   "calorias": 69,
+   "proteinas": 7,
+   "carboidratos": 3,
+   "lipideos": 4
+  },
+  "minutos": 7,
+  "porcoes": 4,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Coco ralado",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "15 ml"
+   }
+  ],
+  "passos": [
+   "Misture o whey protein sabor chocolate, 10 de coco ralado e o cacau em pó em uma tigela.",
+   "Adicione o leite desnatado aos poucos até formar uma massa modelável.",
+   "Divida em 4 bolinhas e role no coco ralado restante. Leve à geladeira por 15 minutos para firmar."
+  ],
+  "dica": "O coco ralado na trufa cria uma camada crocante externa que contrasta com o interior cremoso de cacau. Essa combinação entrega gordura do coco e sabor intenso de chocolate em cada mordida."
+ },
+ {
+  "id": "sorvete-de-iogurte",
+  "nome": "Sorvete de Iogurte",
+  "descricao": "logurte congelado com frutas: sobremesa gelada que substitui sorvete",
+  "refeicao": "sobremesa",
+  "pagina": 318,
+  "macros": {
+   "calorias": 71,
+   "proteinas": 2,
+   "carboidratos": 16,
+   "lipideos": 0
+  },
+  "minutos": 5,
+  "porcoes": 3,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte desnatado de morango ou natural",
+    "qtd": "170 g (1 pote)"
+   },
+   {
+    "nome": "Banana congelada",
+    "qtd": "100 g (1 banana)"
+   },
+   {
+    "nome": "Morangos congelados",
+    "qtd": "150 g (10 morangos)"
+   }
+  ],
+  "passos": [
+   "Pulse banana e morangos congelados no processador para quebrar as frutas.",
+   "Adicione o iogurte e bata em velocidade alta por 1-2 minutos até cremoso e homogêneo.",
+   "Sirva imediatamente em tigela gelada.",
+   "Se desejar, decore com granola, lascas de chocolate amargo ou frutas frescas."
+  ],
+  "dica": "Congele as frutas cortadas por pelo menos 4 horas. Bata direto do freezer para textura de sorvete cremoso sem açúcar."
+ },
+ {
+  "id": "trufa-de-coco-com-whey-baunilha",
+  "nome": "Trufa de Coco com Whey Baunilha",
+  "descricao": "Whey baunilha com coco ralado e aveia: trufa branca, cremosa e proteica",
+  "refeicao": "sobremesa",
+  "pagina": 319,
+  "macros": {
+   "calorias": 78,
+   "proteinas": 7,
+   "carboidratos": 4,
+   "lipideos": 4
+  },
+  "minutos": 7,
+  "porcoes": 4,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "15 ml"
+   },
+   {
+    "nome": "Coco ralado",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Misture o whey protein sabor baunilha, a aveia em flocos e 10 de coco ralado em uma tigela.",
+   "Adicione o leite desnatado aos poucos até obter uma J. massa firme.",
+   "Modele 4 bolinhas e role no coco ralado restante. Leve à geladeira por 15 minutos para firmar."
+  ],
+  "dica": "A aveia em flocos na trufa adiciona fibra e dá estrutura à massa sem necessidade de farinha. O whey baunilha funciona tanto como fonte proteica quanto como aromatizante natural, eliminando a necessidade de essências artificiais."
+ },
+ {
+  "id": "trufa-de-amendoim-crocante",
+  "nome": "Trufa de Amendoim Crocante",
+  "descricao": "Pasta de amendoim com whey chocolate e amendoim triturado: trufa crocante e proteica",
+  "refeicao": "sobremesa",
+  "pagina": 320,
+  "macros": {
+   "calorias": 91,
+   "proteinas": 8,
+   "carboidratos": 4,
+   "lipideos": 4
+  },
+  "minutos": 7,
+  "porcoes": 4,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Pasta de amendoim",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Amendoim triturado",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Em uma tigela, misture o whey, a pasta de amendoim e a aveia.",
+   "Amasse com as mãos até virar uma massa firme. º o.",
+   "Se necessário, adicione algumas gotas de água.",
+   "Modele 4 bolinhas e role no amendoim triturado."
+  ],
+  "dica": "Para trufas crocantes, adicione pedaços de amendoim torrado à massa antes de modelar. A textura mista, cremosa por dentro e crocante por fora, eleva a experiência sensorial."
+ },
+ {
+  "id": "doce-de-amendoim-com-chocolate",
+  "nome": "Doce de Amendoim com Chocolate",
+  "descricao": "Quadradinhos de amendoim com cobertura de chocolate amargo 2h15 no congelador)",
+  "refeicao": "sobremesa",
+  "pagina": 321,
+  "macros": {
+   "calorias": 109,
+   "proteinas": 5,
+   "carboidratos": 7,
+   "lipideos": 7
+  },
+  "minutos": 7,
+  "porcoes": 12,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pasta de amendoim",
+    "qtd": "128 g (8 colheres de sopa)"
+   },
+   {
+    "nome": "Farinha de aveia",
+    "qtd": "35 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "21 g (3 colheres de chá)"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Chocolate amargo derretido",
+    "qtd": "50 g (5 quadradinhos)"
+   }
+  ],
+  "passos": [
+   "Misture a pasta de amendoim com farinha de aveia, mel e whey até massa homogênea e firme.",
+   "Transfira para uma forma pequena (cerca de 15 15 cm) forrada com papel-manteiga e nivele com as costas de uma colher.",
+   "Leve ao congelador por 15 minutos até firmar.",
+   "Derreta o chocolate em banho-maria e espalhe uniformemente por cima.",
+   "Congele por 2 horas. Corte em 12 quadradinhos. Armazene no congelador; retire 5 minutos antes de consumir."
+  ],
+  "dica": "A pasta de amendoim combinada com chocolate amargo derretido cria uma cobertura cremosa e intensa. O mel atua como ligante natural, dispensando açúcar refinado na receita."
+ },
+ {
+  "id": "bolo-de-chocolate-no-micro-ondas",
+  "nome": "Bolo de Chocolate no Micro-ondas",
+  "descricao": "Bolo proteico com whey e aveia, 110 kcal por fatia",
+  "refeicao": "sobremesa",
+  "pagina": 322,
+  "macros": {
+   "calorias": 110,
+   "proteinas": 12,
+   "carboidratos": 11,
+   "lipideos": 2
+  },
+  "minutos": 7,
+  "porcoes": 10,
+  "dificuldade": "Médio",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Claras de ovo",
+    "qtd": "264 g (8 claras)"
+   },
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "90 g (3 doses)"
+   },
+   {
+    "nome": "Água",
+    "qtd": "250 ml"
+   },
+   {
+    "nome": "Aveia em flocos finos",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Coco ralado desidratado sem açúcar",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Essência de baunilha",
+    "qtd": "3 ml (aproximadamente ½ colher de chá)"
+   },
+   {
+    "nome": "Óleo de coco (para untar)",
+    "qtd": "3 ml"
+   }
+  ],
+  "passos": [
+   "Bata as claras em neve firme. Reserve.",
+   "No liquidificador, bata a aveia, o whey, a água e a baunilha até formar massa lisa.",
+   "Incorpore as claras em neve à massa com movimentos de baixo para cima.",
+   "Despeje em uma forma redonda para micro-ondas (-22 cm) untada com óleo de coco e polvilhe coco ralado por cima.",
+   "Leve ao micro-ondas em potência alta por 6-7 minutos (ou potência média 70% por 10-12 minutos). Teste com palito. Espere 5 minutos antes de desenformar. Rende 10 fatias."
+  ],
+  "dica": "Bater as claras em neve antes de incorporar à massa garante um bolo fofinho e aerado, mesmo sem fermento químico em excesso. Cada fatia entrega 12 de proteína com apenas 110 kcal."
+ },
+ {
+  "id": "sorvete-relampago-de-morango",
+  "nome": "Sorvete Relâmpago de Morango",
+  "descricao": "Sorvete express de morango com whey: cremoso e proteico",
+  "refeicao": "sobremesa",
+  "pagina": 323,
+  "macros": {
+   "calorias": 117,
+   "proteinas": 14,
+   "carboidratos": 10,
+   "lipideos": 2
+  },
+  "minutos": 5,
+  "porcoes": 2,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Morango congelado",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Coloque os morangos congelados, o iogurte, o whey e o mel no liquidificador.",
+   "Bata em alta velocidade por 1 minuto até obter textura homogênea e espessa, semelhante a sorvete.",
+   "Se necessário, raspe as laterais e bata por mais 20 segundos.",
+   "Sirva imediatamente em tigela gelada."
+  ],
+  "dica": "Para um sorvete relâmpago perfeito, congele os morangos cortados ao meio por no mínimo 4 horas. Bata direto do freezer com um fio de iogurte para textura cremosa instantânea."
+ },
+ {
+  "id": "chocolate-funcional-de-biomassa-de-banana-verde",
+  "nome": "Chocolate Funcional de Biomassa de Banana Verde",
+  "descricao": "Biomassa de banana verde com cacau 70%, apenas 120 kcal",
+  "refeicao": "sobremesa",
+  "pagina": 324,
+  "macros": {
+   "calorias": 120,
+   "proteinas": 3,
+   "carboidratos": 9,
+   "lipideos": 8
+  },
+  "minutos": 7,
+  "porcoes": 10,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Biomassa de banana verde",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Chocolate 70% cacau",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Leite de coco",
+    "qtd": "80 ml"
+   },
+   {
+    "nome": "Água",
+    "qtd": "15 ml (para amolecer a biomassa)"
+   }
+  ],
+  "passos": [
+   "Amoleça a biomassa de banana verde no micro-ondas por 30 segundos com 15 ml de água, mexendo para formar um creme.",
+   "Derreta o chocolate em banho-maria, mexendo para não queimar. Retire do fogo.",
+   "Adicione biomassa e leite de coco ao chocolate. Bata com mixer até homogêneo.",
+   "Despeje em forminhas de silicone e leve à geladeira por Thora até firmar.",
+   "Desenforme e sirva gelado."
+  ],
+  "dica": "O chocolate 70% cacau traz sabor intenso e amargor equilibrado. Combinado com biomassa de banana verde, forma um doce cremoso e mais estruturado."
+ },
+ {
+  "id": "nice-cream-de-menta-com-cacau",
+  "nome": "Nice Cream de Menta com Cacau",
+  "descricao": "Sorvete caseiro de menta com lascas de cacau, refrescante e leve",
+  "refeicao": "sobremesa",
+  "pagina": 325,
+  "macros": {
+   "calorias": 130,
+   "proteinas": 2,
+   "carboidratos": 29,
+   "lipideos": 1
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana congelada",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Essência de menta",
+    "qtd": "2 ml"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "20 ml"
+   }
+  ],
+  "passos": [
+   "Corte a banana congelada em rodelas e coloque no processador com o leite e a essência de menta.",
+   "Bata por 2 minutos até ficar cremoso.",
+   "Adicione o cacau em pó e pulse rapidamente para criar um efeito marmorizado.",
+   "Sirva imediatamente em uma tigela gelada, antes que derreta."
+  ],
+  "dica": "A menta combinada com cacau reproduz o clássico combo menta-chocolate em versão fitness. O frescor do mentol cria contraste com o cacau e dá sensação de sobremesa mais limpa, ajudando a dispensar adoçante extra."
+ },
+ {
+  "id": "mousse-cremosa-de-limao",
+  "nome": "Mousse Cremosa de Limão",
+  "descricao": "Mousse clássica de limão com base de iogurte e adoçante",
+  "refeicao": "sobremesa",
+  "pagina": 326,
+  "macros": {
+   "calorias": 135,
+   "proteinas": 12,
+   "carboidratos": 16,
+   "lipideos": 3
+  },
+  "minutos": 5,
+  "porcoes": 4,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Suco de limão espremido",
+    "qtd": "100 ml (3 a 4 limões)"
+   },
+   {
+    "nome": "Iogurte grego natural (sem sabor)",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Leite em pó desnatado",
+    "qtd": "90 g (9 csop)"
+   },
+   {
+    "nome": "Água gelada",
+    "qtd": "120 ml"
+   },
+   {
+    "nome": "Adoçante natural (opcional)",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o leite em pó, a água e o iogurte no liquidificador.",
+   "Comece a bater e, com o liquidificador ainda ligado, oa adicione o suco dos limões aos poucos. Acrescente o adoçante, se desejar.",
+   "Pare quando atingir uma consistência cremosa.",
+   "Passe para uma travessa ou potinhos menores.",
+   "Leve para gelar antes de servir."
+  ],
+  "dica": "O limão traz acidez e aroma cítrico à mousse. O leite em pó desnatado ajuda a dar cremosidade sem deixar a textura pesada."
+ },
+ {
+  "id": "creme-de-morango-com-grego",
+  "nome": "Creme de Morango com Grego",
+  "descricao": "Creme leve de morango com iogurte grego e eritritol, pronto em 4 minutos",
+  "refeicao": "sobremesa",
+  "pagina": 327,
+  "macros": {
+   "calorias": 139,
+   "proteinas": 12,
+   "carboidratos": 12,
+   "lipideos": 6
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Morangos",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Reserve 2 morangos para decoração.",
+   "Bata os morangos restantes no liquidificador ou processador até virar purê.",
+   "Misture o purê com o iogurte grego e o eritritol.",
+   "Sirva em uma taça e decore com os morangos reservados fatiados."
+  ],
+  "dica": "Use morangos bem maduros para doçura natural máxima. Leve à geladeira por 15-20 minutos antes de servir para intensificar o frescor e firmar a textura. O iogurte grego coado garante cremosidade sem amido nem gelatina, e o morango adiciona doçura e acidez naturais."
+ },
+ {
+  "id": "nice-cream-de-frutas-vermelhas",
+  "nome": "Nice Cream de Frutas Vermelhas",
+  "descricao": "Sorvete natural de morango e banana batidos: 3 ingredientes, zero culpa",
+  "refeicao": "sobremesa",
+  "pagina": 328,
+  "macros": {
+   "calorias": 140,
+   "proteinas": 2,
+   "carboidratos": 34,
+   "lipideos": 1
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana congelada",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Frutas vermelhas congeladas (morango, mirtilo, framboesa)",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "20 ml"
+   }
+  ],
+  "passos": [
+   "Coloque a banana congelada em rodelas e as frutas vermelhas no processador.",
+   "Adicione o leite.",
+   "Bata por 2 a 3 minutos até ficar cremoso e homogêneo, com cor roxa vibrante.",
+   "Sirva imediatamente em uma tigela."
+  ],
+  "dica": "Nice cream é sorvete feito com frutas congeladas batidas: cremoso, natural e sem açúcar adicionado. A banana é a base clássica."
+ },
+ {
+  "id": "protein-fluff-de-morango",
+  "nome": "Protein Fluff de Morango",
+  "descricao": "Mousse aerada de morango com whey: volume máximo, 148 kcal",
+  "refeicao": "sobremesa",
+  "pagina": 329,
+  "macros": {
+   "calorias": 148,
+   "proteinas": 27,
+   "carboidratos": 7,
+   "lipideos": 2
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor morango",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "80 ml"
+   }
+  ],
+  "passos": [
+   "Coloque o gelo, o whey e o leite no liquidificador.",
+   "Bata em velocidade máxima por 3 minutos.",
+   "Transfira para uma tigela grande e sirva imediatamente. A mistura vai expandir e criar uma textura aerada como sorvete fofo."
+  ],
+  "dica": "O protein fluff ganha volume ao bater whey com gelo em alta velocidade. O sabor morango do whey dá aroma e cor; para intensificar, junte 30 de morango congelado ao liquidificador."
+ },
+ {
+  "id": "protein-fluff-cookies-and-cream",
+  "nome": "Protein Fluff cookies and cream",
+  "descricao": "Protein fluff crocante sabor cookies and cream",
+  "refeicao": "sobremesa",
+  "pagina": 330,
+  "macros": {
+   "calorias": 148,
+   "proteinas": 27,
+   "carboidratos": 7,
+   "lipideos": 2
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor cookies and cream",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "80 ml"
+   }
+  ],
+  "passos": [
+   "Coloque o gelo, o whey e o leite no liquidificador.",
+   "Bata em velocidade máxima por 3 minutos até obter uma textura muito fofa e expandida.",
+   "Transfira para uma tigela grande e sirva imediatamente. O fluff perde volume se esperar."
+  ],
+  "dica": "O sabor cookies and cream já dá um toque especial. A versão fitness usa whey como base proteica e elimina a farinha branca, com sabor indulgente e perfil nutricional adequado."
+ },
+ {
+  "id": "protein-fluff-de-baunilha-cremoso",
+  "nome": "Protein Fluff de Baunilha Cremoso",
+  "descricao": "Protein fluff de baunilha aerado e ultra cremoso",
+  "refeicao": "sobremesa",
+  "pagina": 331,
+  "macros": {
+   "calorias": 148,
+   "proteinas": 27,
+   "carboidratos": 7,
+   "lipideos": 2
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "80 ml"
+   },
+   {
+    "nome": "Essência de baunilha",
+    "qtd": "2 ml"
+   }
+  ],
+  "passos": [
+   "Coloque o gelo, o whey, o leite e a essência de baunilha no liquidificador.",
+   "Bata em velocidade máxima por 3 minutos.",
+   "Transfira para uma tigela e sirva imediatamente. A massa vai expandir muito, formando uma textura aerada."
+  ],
+  "dica": "A essência de baunilha pura adiciona aroma complexo sem calorias. Use poucas gotas para não dominar o sabor do whey."
+ },
+ {
+  "id": "protein-fluff-de-chocolate-cremoso",
+  "nome": "Protein Fluff de Chocolate Cremoso",
+  "descricao": "Fluff de chocolate intenso com textura de mousse aerada",
+  "refeicao": "sobremesa",
+  "pagina": 332,
+  "macros": {
+   "calorias": 150,
+   "proteinas": 28,
+   "carboidratos": 9,
+   "lipideos": 2
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "80 ml"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Coloque o gelo o whey, o cacau e o leite no liquidificador.",
+   "Bata em velocidade máxima por 3 minutos até expandir as à À e ficar extremamente fofo e aerado.",
+   "Transfira para uma tigela grande e sirva com uma pitada de cacau por cima."
+  ],
+  "dica": "O cacau reforça o sabor de chocolate; batido com whey e gelo, cria um fluff aerado sem gordura adicional."
+ },
+ {
+  "id": "mousse-rapida-de-limao",
+  "nome": "Mousse Rápida de Limão",
+  "descricao": "Mousse aerada de limão com iogurte grego, pronta em 3 min",
+  "refeicao": "sobremesa",
+  "pagina": 333,
+  "macros": {
+   "calorias": 153,
+   "proteinas": 14,
+   "carboidratos": 8,
+   "lipideos": 8
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "150 g (¾ xíc)"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "20 ml"
+   },
+   {
+    "nome": "Raspas de limão",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "15 g (2½ cchá)"
+   }
+  ],
+  "passos": [
+   "Em uma tigela, misture o iogurte grego com o eritritol.",
+   "Adicione o suco de limão e misture vigorosamente com um fouet até ficar aerado.",
+   "Sirva em uma taça e decore com as raspas de limão por cima."
+  ],
+  "dica": "O limão é fonte de vitamina e ácido cítrico. Sua acidez realça sabores e equilibra doçura sem adição de açúcar."
+ },
+ {
+  "id": "nice-cream-de-cacau-com-banana",
+  "nome": "Nice Cream de Cacau com Banana",
+  "descricao": "Sorvete de cacau com banana congelada: textura aveludada, 158 kcal",
+  "refeicao": "sobremesa",
+  "pagina": 334,
+  "macros": {
+   "calorias": 158,
+   "proteinas": 3,
+   "carboidratos": 32,
+   "lipideos": 2
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana congelada",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "20 ml"
+   }
+  ],
+  "passos": [
+   "Corte a banana congelada em rodelas.",
+   "Coloque no processador com o cacau e o leite.",
+   "Bata por 2 a 3 minutos, raspando as laterais quando necessário, até obter uma consistência cremosa de Gal raia sorvete.",
+   "Sirva imediatamente em uma tigela gelada."
+  ],
+  "dica": "O cacau em pó sem açúcar entrega sabor de chocolate com menos gordura que o chocolate em barra. Batido com banana congelada, cria um sorvete natural cremoso."
+ },
+ {
+  "id": "mousse-de-cafe-cremosa",
+  "nome": "Mousse de Café Cremosa",
+  "descricao": "Mousse de café com iogurte e cacau: intensidade de cafeteria",
+  "refeicao": "sobremesa",
+  "pagina": 335,
+  "macros": {
+   "calorias": 158,
+   "proteinas": 14,
+   "carboidratos": 8,
+   "lipideos": 8
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "150 g (¾ xíc)"
+   },
+   {
+    "nome": "Café solúvel",
+    "qtd": "4 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g (1½ cchá)"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Água quente",
+    "qtd": "15 ml"
+   }
+  ],
+  "passos": [
+   "Dissolva o café solúvel em 15 ml de água quente (1 colher de sopa).",
+   "Misture ao iogurte grego junto com o eritritol.",
+   "Bata vigorosamente com um fouet para incorporar ar.",
+   "Sirva em taça e polvilhe o cacau em pó por cima."
+  ],
+  "dica": "O café solúvel concentrado dá intensidade e aroma marcante à mousse, enquanto o cacau em pó acrescenta profundidade de sabor. O eritritol adoça com baixo impacto calórico, combinando bem com a cremosidade do iogurte grego."
+ },
+ {
+  "id": "pacoca-com-whey-protein",
+  "nome": "Paçoca com Whey Protein",
+  "descricao": "Paçoquinha fit com whey: tradição brasileira com 161 kcal por porção",
+  "refeicao": "sobremesa",
+  "pagina": 336,
+  "macros": {
+   "calorias": 161,
+   "proteinas": 8,
+   "carboidratos": 6,
+   "lipideos": 12
+  },
+  "minutos": 5,
+  "porcoes": 20,
+  "dificuldade": "Médio",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Amendoim torrado sem pele",
+    "qtd": "500 g"
+   },
+   {
+    "nome": "Whey protein",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Açúcar mascavo",
+    "qtd": "50 g"
+   }
+  ],
+  "passos": [
+   "Pulse o amendoim torrado no processador até obter farofa grossa (não vire pasta).",
+   "Adicione o whey e o açúcar mascavo. Pulse para misturar.",
+   "Transfira para uma forma retangular pequena (aproximadamente 20x15 cm) forrada com filme plástico e compacte bem com as costas de uma colher, formando uma camada de cerca de 1,5 cm de altura.",
+   "Leve à geladeira por 30 minutos para firmar e, em seguida, corte em 20 pedaços iguais.",
+   "Armazene na geladeira em pote fechado por até 10 dias."
+  ],
+  "dica": "O amendoim torrado dá sabor clássico de paçoca e textura granulada. Com o whey, a mistura fica mais proteica e fácil de modelar."
+ },
+ {
+  "id": "pudim-de-caneca-de-baunilha",
+  "nome": "Pudim de Caneca de Baunilha",
+  "descricao": "Pudim de caneca sabor baunilha com whey, pronto em 6 min",
+  "refeicao": "sobremesa",
+  "pagina": 337,
+  "macros": {
+   "calorias": 168,
+   "proteinas": 20,
+   "carboidratos": 9,
+   "lipideos": 6
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "100 ml"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "15 g (½ scoop)"
+   },
+   {
+    "nome": "Essência de baunilha",
+    "qtd": "3 ml"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g (1½ cchá)"
+   }
+  ],
+  "passos": [
+   "Bata o ovo com o leite, o whey, a baunilha e o eritritol.",
+   "Despeje em uma caneca.",
+   "Leve ao micro-ondas em potência média (50%) por 3 minutos.",
+   "Deixe descansar 1 minuto antes de servir.",
+   "Sirva na própria caneca, morno ou gelado."
+  ],
+  "dica": "O leite espessa durante o cozimento e ajuda a dispensar amido; para textura mais densa, substitua parte do líquido por leite em pó desnatado."
+ },
+ {
+  "id": "pudim-de-caneca-de-cafe-com-calda",
+  "nome": "Pudim de Caneca de Café com Calda",
+  "descricao": "Pudim de caneca de café com calda proteica de baunilha",
+  "refeicao": "sobremesa",
+  "pagina": 338,
+  "macros": {
+   "calorias": 168,
+   "proteinas": 20,
+   "carboidratos": 9,
+   "lipideos": 6
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "100 ml"
+   },
+   {
+    "nome": "Café solúvel",
+    "qtd": "4 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "15 g (½ scoop)"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "15 g (2½ cchá)"
+   },
+   {
+    "nome": "Água (para calda)",
+    "qtd": "30 ml (2 colheres de sopa)"
+   }
+  ],
+  "passos": [
+   "Aqueça o leite no micro-ondas por 30 segundos e dissolva o café solúvel, mexendo bem.",
+   "Bata com o ovo, o whey e 10 de eritritol. ue a",
+   "Despeje em uma caneca de cerâmica de cerca de 300",
+   "Leve ao micro-ondas em potência média (50%) por 3 minutos.",
+   "Em uma panela pequena, misture os 5 restantes de eritritol com 30 ml de água. Leve ao fogo baixo, mexendo sempre, por cerca de 2 minutos, até obter consistência de xarope. Despeje sobre o pudim antes de servir."
+  ],
+  "dica": "O café adiciona sabor intenso e amargor ao pudim. Esse amargor equilibra a doçura sem precisar de açúcar extra."
+ },
+ {
+  "id": "pudim-de-whey-com-calda-de-frutas-vermelhas",
+  "nome": "Pudim de Whey com Calda de Frutas Vermelhas",
+  "descricao": "Pudim de whey com calda de frutas vermelhas caseira",
+  "refeicao": "sobremesa",
+  "pagina": 339,
+  "macros": {
+   "calorias": 168,
+   "proteinas": 19,
+   "carboidratos": 16,
+   "lipideos": 4
+  },
+  "minutos": 7,
+  "porcoes": 2,
+  "dificuldade": "Médio",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Gelatina sem sabor",
+    "qtd": "7 g (1 envelope)"
+   },
+   {
+    "nome": "Leite integral",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "15 g (2 cchá)"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "60 g (-4 un)"
+   },
+   {
+    "nome": "Mirtilo",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Água",
+    "qtd": "50 ml"
+   }
+  ],
+  "passos": [
+   "Hidrate a gelatina em 50 ml de água fria por 5 minutos. Dissolva no micro-ondas por 20 segundos, mexendo até ficar líquida.",
+   "Aqueça o leite no micro-ondas por 1 min. Misture o ques whey até dissolver completamente.",
+   "Junte a gelatina dissolvida e o mel ao leite com whey e misture bem. Despeje em 2 forminhas individuais (cerca de 150 ml cada) e leve à geladeira por no mínimo 3 horas, até firmar completamente. E ss",
+   "Prepare a calda amassando os morangos e mirtilos com um garfo e aquecendo no micro-ondas por 30 segundos até soltar o suco. Sirva sobre o pudim desenformado."
+  ],
+  "dica": "A calda de frutas vermelhas feita no micro-ondas libera os sucos e intensifica o sabor, preservando boa parte das antocianinas se o aquecimento for breve. Aqueça as frutas por 30 segundos e amasse levemente sobre o pudim."
+ },
+ {
+  "id": "protein-fluff-tropical-de-manga",
+  "nome": "Protein Fluff Tropical de Manga",
+  "descricao": "Fluff tropical de manga com whey: frescor e proteína em cada colherada",
+  "refeicao": "sobremesa",
+  "pagina": 340,
+  "macros": {
+   "calorias": 170,
+   "proteinas": 26,
+   "carboidratos": 14,
+   "lipideos": 2
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Manga congelada",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "60 ml"
+   }
+  ],
+  "passos": [
+   "Coloque o gelo, a manga congelada, o whey e o leite no liquidificador.",
+   "Bata em velocidade máxima por 3 minutos até ficar o: E dE fof dido. oto e expandido",
+   "Sirva imediatamente na tigela. O fluff perde volume se esperar. Use a manga ainda congelada para obter textura aerada e cremosa."
+  ],
+  "dica": "A manga congelada cria textura cremosa perfeita para sorvetes e smoothies sem açúcar. Bata bem para deixar o fluff mais uniforme."
+ },
+ {
+  "id": "mousse-rapida-de-maracuja",
+  "nome": "Mousse Rápida de Maracujá",
+  "descricao": "Mousse tropical de maracujá com iogurte, leve e ácida",
+  "refeicao": "sobremesa",
+  "pagina": 341,
+  "macros": {
+   "calorias": 173,
+   "proteinas": 14,
+   "carboidratos": 11,
+   "lipideos": 8
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "150 g (¾ xíc)"
+   },
+   {
+    "nome": "Polpa de maracujá",
+    "qtd": "40 g (½ un)"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g (1½ cchá)"
+   }
+  ],
+  "passos": [
+   "Em uma tigela, misture o iogurte grego com o eritritol até dissolver.",
+   "Adicione a polpa de maracujá e misture delicadamente no o para criar um efeito marmoreado.",
+   "Sirva em uma taça.",
+   "Decore com sementes de maracujá por cima (opcional)."
+  ],
+  "dica": "O maracujá acrescenta acidez marcante e aroma tropical à mousse, equilibrando muito bem a cremosidade do iogurte grego. O eritritol suaviza a acidez da polpa sem pesar na doçura, resultando em uma sobremesa leve e rápida."
+ },
+ {
+  "id": "trufa-proteica-de-maracuja",
+  "nome": "Trufa Proteica de Maracujá",
+  "descricao": "Trufa de maracujá com whey e cobertura de chocolate meio amargo, rende cerca de 5 trufas grandes",
+  "refeicao": "sobremesa",
+  "pagina": 342,
+  "macros": {
+   "calorias": 175,
+   "proteinas": 22,
+   "carboidratos": 12,
+   "lipideos": 4
+  },
+  "minutos": 7,
+  "porcoes": 5,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Suco de maracujá natural",
+    "qtd": "80 ml (concentrado, sem açúcar)"
+   },
+   {
+    "nome": "Leite em pó desnatado",
+    "qtd": "50 g (5 colheres de sopa)"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "120 g (4 scoops)"
+   },
+   {
+    "nome": "Chocolate meio amargo",
+    "qtd": "40 g (para cobertura)"
+   }
+  ],
+  "passos": [
+   "Em um recipiente, misture o leite em pó e o whey protein In.",
+   "Acrescente o suco de maracujá concentrado aos o poucos, misturando até formar uma massa densa e moldável.",
+   "Leve à geladeira por 10 minutos para firmar.",
+   "Modele 5 bolinhas grandes (aproximadamente do tamanho de uma bola de golfe).",
+   "Derreta o chocolate meio amargo em banho-maria e mergulhe cada bolinha.",
+   "Leve à geladeira até o chocolate formar casquinha. Sirva gelado."
+  ],
+  "dica": "Cada trufa entrega 22 de proteína, mais de 3 ovos inteiros. O suco de maracujá concentrado dá acidez que equilibra a doçura do whey sem precisar de açúcar."
+ },
+ {
+  "id": "bolo-de-caneca-de-morango-com-aveia",
+  "nome": "Bolo de Caneca de Morango com Aveia",
+  "descricao": "Morangos frescos na massa de aveia, pronto em 3 min no micro-ondas",
+  "refeicao": "sobremesa",
+  "pagina": 343,
+  "macros": {
+   "calorias": 185,
+   "proteinas": 11,
+   "carboidratos": 21,
+   "lipideos": 7
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Morangos picados",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Em uma caneca, bata o ovo, adicione a aveia, o eritritol e o fermento.",
+   "Misture os morangos picados por último.",
+   "Leve ao micro-ondas em potência máxima (100%) por 2 minutos e 30 segundos."
+  ],
+  "dica": "A aveia na massa do bolo de caneca ajuda na estrutura e deixa a textura mais firme. O morango fresco por cima adiciona acidez e frescor ao conjunto."
+ },
+ {
+  "id": "bolo-de-caneca-de-limao-siciliano",
+  "nome": "Bolo de Caneca de Limão Siciliano",
+  "descricao": "Suco e raspas de limão siciliano na massa, cítrico e refrescante",
+  "refeicao": "sobremesa",
+  "pagina": 344,
+  "macros": {
+   "calorias": 189,
+   "proteinas": 11,
+   "carboidratos": 20,
+   "lipideos": 7
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "15 ml"
+   },
+   {
+    "nome": "Raspas de limão",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Em uma caneca, bata o ovo com um garfo.",
+   "Adicione a aveia, o suco de limão, as raspas e o eritritol. Misture bem até formar uma massa uniforme.",
+   "Acrescente o fermento por último e mexa delicadamente, pouco antes de levar ao micro-ondas, para preservar O crescimento.",
+   "Leve ao micro-ondas por 2 minutos e 30 segundos em potência alta.",
+   "Finalize com mais raspas de limão por cima."
+  ],
+  "dica": "O suco e as raspas de limão siciliano adicionam aroma cítrico intenso. No bolo de caneca, a acidez equilibra a doçura e realça o aroma."
+ },
+ {
+  "id": "mousse-de-frutas-vermelhas-express",
+  "nome": "Mousse de Frutas Vermelhas Express",
+  "descricao": "Mousse rápida de frutas vermelhas batidas com iogurte grego",
+  "refeicao": "sobremesa",
+  "pagina": 345,
+  "macros": {
+   "calorias": 195,
+   "proteinas": 14,
+   "carboidratos": 16,
+   "lipideos": 8
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Frutas vermelhas congeladas",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Bata as frutas vermelhas congeladas no processador até virar um purê gelado. e a",
+   "Misture com o iogurte grego e o eritritol.",
+   "Leve à geladeira por 10 minutos para intensificar o frescor.",
+   "Retire da geladeira, transfira para uma taça e sirva em seguida para preservar a textura gelada."
+  ],
+  "dica": "As frutas vermelhas congeladas trazem acidez, cor intensa e textura gelada. O iogurte grego adiciona cremosidade e até 10 de proteína por porção."
+ },
+ {
+  "id": "bolo-de-caneca-de-maca-com-canela",
+  "nome": "Bolo de Caneca de Maçã com Canela",
+  "descricao": "Maçã ralada com canela na massa de aveia, aroma irresistível",
+  "refeicao": "sobremesa",
+  "pagina": 346,
+  "macros": {
+   "calorias": 195,
+   "proteinas": 11,
+   "carboidratos": 24,
+   "lipideos": 7
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Maçã ralada",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Rale a maçã com casca.",
+   "Em uma caneca, bata o ovo, junte a aveia, a maçã ralada, a canela, o eritritol e o fermento.",
+   "Misture bem até obter uma massa homogênea.",
+   "Leve ao micro-ondas em potência alta (100%) por 2 minutos e 30 segundos.",
+   "Polvilhe mais canela por cima ao servir."
+  ],
+  "dica": "A maçã traz fibra, umidade e doçura natural ao bolo. Combina naturalmente com a canela, formando um par clássico em sobremesas."
+ },
+ {
+  "id": "bolo-de-caneca-de-laranja-com-aveia",
+  "nome": "Bolo de Caneca de Laranja com Aveia",
+  "descricao": "Suco e raspas de laranja natural na massa, cítrico leve no doce",
+  "refeicao": "sobremesa",
+  "pagina": 347,
+  "macros": {
+   "calorias": 195,
+   "proteinas": 12,
+   "carboidratos": 25,
+   "lipideos": 6
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Suco de laranja",
+    "qtd": "30 ml"
+   },
+   {
+    "nome": "Raspas de laranja",
+    "qtd": "3 g (2 g para a massa + 1 g para decorar)"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Em uma caneca, bata o ovo.",
+   "Adicione a aveia, o suco de laranja, 2 das raspas, O eritritol e o fermento (reserve 1 de raspas para decorar).",
+   "Misture até ficar liso.",
+   "Leve ao micro-ondas por 2 minutos e 30 segundos.",
+   "Decore com raspas de laranja."
+  ],
+  "dica": "A laranja traz acidez, doçura natural e aroma cítrico. As raspas concentram óleos essenciais que intensificam o sabor sem calorias extras."
+ },
+ {
+  "id": "bolo-de-caneca-de-cenoura-com-cacau",
+  "nome": "Bolo de Caneca de Cenoura com Cacau",
+  "descricao": "Cenoura ralada com cacau na massa, cor vibrante e 12 de proteína",
+  "refeicao": "sobremesa",
+  "pagina": 348,
+  "macros": {
+   "calorias": 196,
+   "proteinas": 12,
+   "carboidratos": 24,
+   "lipideos": 7
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Cenoura ralada",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "8 g (5 g para a massa + 3 g para a cobertura)"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Água quente (para cobertura)",
+    "qtd": "10 ml"
+   }
+  ],
+  "passos": [
+   "Rale a cenoura finamente.",
+   "Em uma caneca, bata o ovo e misture a cenoura ralada, a aveia, 5 de cacau, o eritritol e o fermento.",
+   "Leve ao micro-ondas por 2 minutos e 30 segundos.",
+   "Misture os 3 de cacau restantes com 10 ml de água quente e despeje por cima como cobertura."
+  ],
+  "dica": "A cenoura ralada no bolo de cacau adiciona umidade, fibra e betacaroteno sem alterar o sabor chocolate. É uma forma inteligente de incluir vegetais em sobremesas."
+ },
+ {
+  "id": "mousse-de-banana-com-canela",
+  "nome": "Mousse de Banana com Canela",
+  "descricao": "Banana amassada com cottage e canela: simplicidade que conforta",
+  "refeicao": "sobremesa",
+  "pagina": 349,
+  "macros": {
+   "calorias": 197,
+   "proteinas": 15,
+   "carboidratos": 23,
+   "lipideos": 5
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo cottage",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "3 g (2gnamassa+1 g para polvilhar)"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Coloque o cottage, a banana, a canela e o eritritol no liquidificador. E RT",
+   "Bata por 2 minutos até ficar completamente liso, cremoso e homogêneo.",
+   "Sirva em taça com a canela reservada polvilhada por cima."
+  ],
+  "dica": "A canela realça a doçura natural da banana madura e adiciona aroma quente à mousse, dispensando açúcar extra. Uma pitada basta para perfumar toda a preparação e criar sensação de sobremesa."
+ },
+ {
+  "id": "nice-cream-de-pasta-de-amendoim",
+  "nome": "Nice Cream de Pasta de Amendoim",
+  "descricao": "Sorvete natural de banana com pasta de amendoim em 4 min",
+  "refeicao": "sobremesa",
+  "pagina": 350,
+  "macros": {
+   "calorias": 202,
+   "proteinas": 6,
+   "carboidratos": 31,
+   "lipideos": 8
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana congelada",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Pasta de amendoim",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "20 ml"
+   }
+  ],
+  "passos": [
+   "Corte a banana congelada em rodelas.",
+   "Coloque no processador com a pasta de amendoim e o leite.",
+   "Bata por 2 a 3 minutos até ficar bem cremoso.",
+   "Sirva imediatamente em uma tigela gelada, antes que derreta."
+  ],
+  "dica": "Nice cream de amendoim combina a cremosidade da banana congelada com a textura densa da pasta. Bata por pelo menos 1 minuto para incorporar ar e obter a consistência de sorvete."
+ },
+ {
+  "id": "bolo-de-caneca-de-coco-com-whey",
+  "nome": "Bolo de Caneca de Coco com Whey",
+  "descricao": "Farinha de coco com whey baunilha, fofinho e com 22 de proteína",
+  "refeicao": "sobremesa",
+  "pagina": 351,
+  "macros": {
+   "calorias": 209,
+   "proteinas": 22,
+   "carboidratos": 8,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Farinha de coco",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "60 ml"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Em uma caneca, bata o ovo com um garfo.",
+   "Adicione a farinha de coco, o whey, o leite, o eritritol e o fermento.",
+   "Misture até obter uma massa lisa.",
+   "Leve ao micro-ondas em potência média (70%) por 1 minuto e 30 segundos. Teste com um palito: se sair limpo, está pronto; caso contrário, adicione 10-20 segundos.",
+   "Deixe descansar 30 segundos antes de comer."
+  ],
+  "dica": "A farinha de coco é naturalmente rica em fibras e absorve bastante líquido, por isso combina com receitas de caneca. Com o whey, o bolo mantém perfil proteico e textura macia."
+ },
+ {
+  "id": "pudim-de-caneca-de-chocolate",
+  "nome": "Pudim de Caneca de Chocolate",
+  "descricao": "Pudim de caneca com chocolate intenso e whey protein",
+  "refeicao": "sobremesa",
+  "pagina": 352,
+  "macros": {
+   "calorias": 211,
+   "proteinas": 24,
+   "carboidratos": 12,
+   "lipideos": 10
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "100 ml"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Óleo de coco",
+    "qtd": "3 ml (para untar)"
+   }
+  ],
+  "passos": [
+   "Bata o ovo como leite, o cacau, o whey e o eritritol até ficar homogêneo.",
+   "Unte uma caneca média (300 ml) com o óleo de coco a e despeje a mistura.",
+   "Leve ao micro-ondas em potência média (50%) por 3 minutos.",
+   "Verifique o cozimento; se necessário, acrescente 30 segundos. Deixe descansar 1 minuto antes de servir."
+  ],
+  "dica": "O pudim de caneca concentra sabor de chocolate em porção individual, evitando excessos. Uma colher de sopa de cacau em pó (-5 g) também contribui com pequena dose de magnésio, cerca de 7% da necessidade diária."
+ },
+ {
+  "id": "nice-cream-de-baunilha-com-nozes",
+  "nome": "Nice Cream de Baunilha com Nozes",
+  "descricao": "Sorvete de baunilha com nozes crocantes, feito no processador",
+  "refeicao": "sobremesa",
+  "pagina": 353,
+  "macros": {
+   "calorias": 212,
+   "proteinas": 4,
+   "carboidratos": 30,
+   "lipideos": 10
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana congelada",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Essência de baunilha",
+    "qtd": "3 ml"
+   },
+   {
+    "nome": "Nozes picadas",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "20 ml"
+   }
+  ],
+  "passos": [
+   "Corte a banana congelada em rodelas.",
+   "Bata no processador com o leite e a baunilha por 2 a 3 minutos.",
+   "Transfira para uma tigela e misture as nozes picadas por cima.",
+   "Sirva imediatamente em um bowl, com as nozes por cima."
+  ],
+  "dica": "As nozes são ricas em ômega-3 vegetal (ALA) e adicionam crocância ao nice cream. A essência de baunilha pura realça o sabor sem calorias extras. Prefira a essência de baunilha sem álcool para melhor resultado."
+ },
+ {
+  "id": "nice-cream-de-coco-cremoso",
+  "nome": "Nice Cream de Coco Cremoso",
+  "descricao": "Sorvete de coco com banana congelada: cremosidade tropical, 213 kcal",
+  "refeicao": "sobremesa",
+  "pagina": 354,
+  "macros": {
+   "calorias": 213,
+   "proteinas": 3,
+   "carboidratos": 32,
+   "lipideos": 10
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana congelada",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Coco ralado",
+    "qtd": "15 g (10 g na massa + 5 g para decorar)"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "20 ml"
+   }
+  ],
+  "passos": [
+   "Corte a banana congelada em rodelas e coloque no processador com o leite.",
+   "Bata por 2 minutos.",
+   "Adicione 10 do coco ralado e pulse mais algumas vezes para misturar mantendo pedacinhos.",
+   "Sirva imediatamente em taça e polvilhe os 5 restantes de coco ralado por cima."
+  ],
+  "dica": "O coco traz gordura e aroma tropical ao nice cream. A banana congelada mantém a textura cremosa sem precisar de açúcar adicionado."
+ },
+ {
+  "id": "mousse-express-de-chocolate-com-abacate",
+  "nome": "Mousse Express de Chocolate com Abacate",
+  "descricao": "Abacate com cacau em mousse express: 4 minutos, textura de brigadeiro",
+  "refeicao": "sobremesa",
+  "pagina": 355,
+  "macros": {
+   "calorias": 214,
+   "proteinas": 5,
+   "carboidratos": 17,
+   "lipideos": 14
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Abacate maduro",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "20 ml"
+   }
+  ],
+  "passos": [
+   "Coloque o abacate, o cacau, o eritritol e o leite no processador.",
+   "Bata por 2 a 3 minutos até ficar extremamente o cremoso e liso.",
+   "Raspe as laterais do copo e bata novamente até atingir consistência cremosa e uniforme.",
+   "Sirva em taça individual."
+  ],
+  "dica": "O abacate substitui o creme de leite nesta mousse e entrega gorduras monoinsaturadas saudáveis. Sua textura cremosa mascara completamente o sabor do abacate, deixando apenas o chocolate em evidência."
+ },
+ {
+  "id": "mousse-de-coco-com-manga",
+  "nome": "Mousse de Coco com Manga",
+  "descricao": "Manga e coco batidos em mousse tropical aveludada",
+  "refeicao": "sobremesa",
+  "pagina": 356,
+  "macros": {
+   "calorias": 216,
+   "proteinas": 12,
+   "carboidratos": 16,
+   "lipideos": 13
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Manga picada",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Coco ralado",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Bata a manga no liquidificador até virar purê.",
+   "Misture o purê de manga com o iogurte grego e o eritritol.",
+   "Sirva em uma taça, polvilhe o coco ralado por cima e consuma imediatamente."
+  ],
+  "dica": "A manga picada (de preferência congelada) cria uma base cremosa para a mousse de coco sem amido ou gelatina. Com manga fresca, leve à geladeira por 15 min para firmar. Use fruta madura para doçura máxima."
+ },
+ {
+  "id": "pudim-de-caneca-doce-de-leite",
+  "nome": "Pudim de Caneca Doce de Leite",
+  "descricao": "Pudim de caneca sabor doce de leite, proteico e rápido",
+  "refeicao": "sobremesa",
+  "pagina": 357,
+  "macros": {
+   "calorias": 220,
+   "proteinas": 22,
+   "carboidratos": 10,
+   "lipideos": 11
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "100 ml"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Pasta de amendoim integral (sem açúcar)",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Misture o ovo, o leite, o whey, a pasta de amendoim, o eritritol e a canela em uma tigela até obter uma massa homogênea.",
+   "Despeje em uma caneca. Pe) º",
+   "Leve ao micro-ondas em potência média (50%) por 3 minutos.",
+   "Deixe descansar 1 minuto antes de servir para firmar a textura."
+  ],
+  "dica": "A pasta de amendoim combinada com whey de baunilha dá um sabor que lembra doce de leite, sem açúcar. Potência média (50%) evita que o ovo coalhe e garante textura cremosa. No micro-ondas comum, sem ajuste de potência, opere em pulsos de 30 mexendo entre eles."
+ },
+ {
+  "id": "bolo-de-caneca-red-velvet",
+  "nome": "Bolo de Caneca Red Velvet",
+  "descricao": "Beterraba e cacau na massa com iogurte grego de cobertura, cor marcante",
+  "refeicao": "sobremesa",
+  "pagina": 358,
+  "macros": {
+   "calorias": 222,
+   "proteinas": 15,
+   "carboidratos": 24,
+   "lipideos": 9
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Beterraba cozida",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Amasse a beterraba cozida na caneca.",
+   "Adicione o ovo e misture bem.",
+   "Junte a aveia, o cacau, o eritritol e o fermento.",
+   "Leve ao micro-ondas por 2 minutos e 30 segundos.",
+   "Cubra com o iogurte grego como “cream cheese”."
+  ],
+  "dica": "O Red Velvet fitness usa beterraba cozida amassada para dar cor natural à massa e cacau para sabor. Visual impressionante sem corantes artificiais."
+ },
+ {
+  "id": "bolo-de-caneca-de-chocolate-intenso",
+  "nome": "Bolo de Caneca de Chocolate Intenso",
+  "descricao": "Cacau em pó com aveia e leite, sabor intenso no micro-ondas",
+  "refeicao": "sobremesa",
+  "pagina": 359,
+  "macros": {
+   "calorias": 223,
+   "proteinas": 14,
+   "carboidratos": 28,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "30 ml"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Bata o ovo em uma caneca grande com um garfo.",
+   "Adicione a aveia o cacau, o leite o eritritol e o fermento.",
+   "Misture bem até ficar homogêneo.",
+   "Leve ao micro-ondas por 2 minutos e 30 segundos em potência alta.",
+   "Desenforme ou coma direto na caneca."
+  ],
+  "dica": "Para um bolo de caneca com sabor mais intenso, use cacau 100% e aumente a dose em cerca de 50%. O cacau puro traz amargor marcante, que combina com um toque extra de adoçante e baunilha."
+ },
+ {
+  "id": "panqueca-doce-de-chocolate-com-morango",
+  "nome": "Panqueca Doce de Chocolate com Morango",
+  "descricao": "Cacau na massa com morangos frescos fatiados por cima",
+  "refeicao": "sobremesa",
+  "pagina": 360,
+  "macros": {
+   "calorias": 225,
+   "proteinas": 12,
+   "carboidratos": 33,
+   "lipideos": 8
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Morangos fatiados",
+    "qtd": "40 g"
+   }
+  ],
+  "passos": [
+   "Amasse a banana e misture com o ovo, a aveia e o cacau até ficar homogêneo.",
+   "Aqueça uma frigideira antiaderente em fogo médio. o E AMT",
+   "Despeje metade da massa e cozinhe 2 minutos de cada lado.",
+   "Repita com o restante.",
+   "Sirva com morangos fatiados por cima."
+  ],
+  "dica": "A combinação chocolate com morango funciona pelo contraste entre amargor, acidez e doçura. A aveia com banana e ovo dá estrutura à panqueca sem precisar de farinha refinada."
+ },
+ {
+  "id": "bolo-de-caneca-de-banana-com-canela",
+  "nome": "Bolo de Caneca de Banana com Canela",
+  "descricao": "Banana madura com canela na massa, conforto em 5 minutos",
+  "refeicao": "sobremesa",
+  "pagina": 361,
+  "macros": {
+   "calorias": 230,
+   "proteinas": 11,
+   "carboidratos": 30,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "3 g (2 g para a massa +1 g para polvilhar)"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Amasse a banana na caneca com um garfo.",
+   "Adicione o ovo e misture.",
+   "Junte a aveia, 2 da canela e o fermento (reserve 1g de canela para polvilhar).",
+   "Misture até ficar homogêneo.",
+   "Leve ao micro-ondas por 2 minutos e 30 segundos e polvilhe a canela reservada por cima.",
+   "Sirva morno direto na caneca. A banana madura adoça naturalmente."
+  ],
+  "dica": "A canela realça a doçura natural da banana sem acrescentar calorias e traz aquele aroma quente típico de sobremesa caseira. Polvilhe na massa e por cima do bolo antes de levar ao micro-ondas."
+ },
+ {
+  "id": "panqueca-doce-de-limao-com-mel",
+  "nome": "Panqueca Doce de Limão com Mel",
+  "descricao": "Suco e raspas de limão na massa, finalizada com mel dourado",
+  "refeicao": "sobremesa",
+  "pagina": 362,
+  "macros": {
+   "calorias": 235,
+   "proteinas": 11,
+   "carboidratos": 34,
+   "lipideos": 7
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "15 ml"
+   },
+   {
+    "nome": "Raspas de limão",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Amasse a banana e misture com o ovo, a aveia, O suco e as raspas de limão.",
+   "Aqueça uma frigideira antiaderente.",
+   "Cozinhe metade da massa por 2 minutos de cada lado.",
+   "Repita com o restante da massa para formar a segunda panqueca.",
+   "Regue com mel e decore com mais raspas de limão."
+  ],
+  "dica": "O mel na panqueca de limão carameliza levemente na frigideira, criando uma crosta dourada e aromática. Use mel puro para valorizar o sabor floral."
+ },
+ {
+  "id": "panqueca-doce-de-mirtilo",
+  "nome": "Panqueca Doce de Mirtilo",
+  "descricao": "Panqueca com mirtilos na massa e por cima",
+  "refeicao": "sobremesa",
+  "pagina": 363,
+  "macros": {
+   "calorias": 236,
+   "proteinas": 11,
+   "carboidratos": 34,
+   "lipideos": 7
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Mirtilos (blueberry)",
+    "qtd": "40 g"
+   }
+  ],
+  "passos": [
+   "Amasse a banana e misture com o ovo e a aveia.",
+   "Adicione metade dos mirtilos à massa.",
+   "Aqueça uma frigideira antiaderente.",
+   "Cozinhe metade da massa por 2 minutos de cada lado.",
+   "Repita com o restante da massa para formar a segunda panqueca.",
+   "Sirva com os mirtilos restantes por cima."
+  ],
+  "dica": "A banana madura substitui o açúcar e funciona como liga natural na massa da panqueca. Os mirtilos adicionados inteiros mantêm textura e cor vibrante."
+ },
+ {
+  "id": "bolo-de-caneca-de-coco-tropical",
+  "nome": "Bolo de Caneca de Coco Tropical",
+  "descricao": "Farinha de coco com coco ralado e leite, sabor tropical intenso",
+  "refeicao": "sobremesa",
+  "pagina": 364,
+  "macros": {
+   "calorias": 239,
+   "proteinas": 12,
+   "carboidratos": 10,
+   "lipideos": 15
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Farinha de coco",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Coco ralado",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "60 ml"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Bata o ovo em uma caneca com um garfo.",
+   "Adicione a farinha de coco, o leite, o eritritol e o fermento.",
+   "Misture até ficar homogêneo.",
+   "Polvilhe o coco ralado por cima.",
+   "Leve ao micro-ondas em potência máxima (100%) por 2 minutos e 30 segundos."
+  ],
+  "dica": "A farinha de coco absorve muita umidade, por isso este bolo precisa de líquido extra. Para intensificar o sabor tropical, substitua o leite desnatado por leite de coco na mesma quantidade."
+ },
+ {
+  "id": "panqueca-doce-de-coco-tropical",
+  "nome": "Panqueca Doce de Coco Tropical",
+  "descricao": "Farinha de coco com coco ralado e eritritol, sabor tropical",
+  "refeicao": "sobremesa",
+  "pagina": 365,
+  "macros": {
+   "calorias": 242,
+   "proteinas": 10,
+   "carboidratos": 18,
+   "lipideos": 14
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Farinha de coco",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Coco ralado",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Amasse a banana e misture com o ovo, a farinha de coco e o eritritol até ficar homogêneo.",
+   "Aqueça uma frigideira antiaderente. É Rs",
+   "Despeje metade da massa e cozinhe 2 minutos de cada lado.",
+   "Repita com o restante da massa para formar a segunda panqueca.",
+   "Polvilhe o coco ralado por cima ao servir."
+  ],
+  "dica": "O coco ralado tostado na frigideira antes de adicionar à panqueca intensifica o aroma e a crocância. Toste em fogo baixo por 2 minutos até dourar levemente."
+ },
+ {
+  "id": "pera-assada-com-mel-e-canela",
+  "nome": "Pera Assada com Mel e Canela",
+  "descricao": "Pera no micro-ondas com mel, canela e nozes crocantes",
+  "refeicao": "sobremesa",
+  "pagina": 366,
+  "macros": {
+   "calorias": 247,
+   "proteinas": 3,
+   "carboidratos": 41,
+   "lipideos": 10
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pera grande madura",
+    "qtd": "200 g (1 pera)"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g (1 col. chá)"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g (1 col. chá)"
+   },
+   {
+    "nome": "Nozes picadas",
+    "qtd": "15 g (5 metades)"
+   },
+   {
+    "nome": "Cravo-da-índia",
+    "qtd": "2 unidades (opcional)"
+   }
+  ],
+  "passos": [
+   "Lave e corte a pera ao meio no sentido vertical. Retire o miolo com sementes usando uma colher pequena.",
+   "Coloque as metades em um refratário próprio para a micro-ondas, com a parte cortada voltada para cima.",
+   "Distribua o mel sobre as metades, polvilhe a canela em pó e adicione os cravos, se usar.",
+   "Leve ao micro-ondas em potência alta por 4 a 5 minutos, até a pera ficar macia, mas firme ao garfo.",
+   "Finalize com as nozes picadas por cima. Sirva quente."
+  ],
+  "dica": "O calor concentra os açúcares naturais da pera, criando uma sobremesa naturalmente doce sem adição de açúcar refinado. As nozes adicionam ômega-3 vegetal e textura crocante que contrasta com a maciez da fruta cozida."
+ },
+ {
+  "id": "mousse-de-chocolate-rapida",
+  "nome": "Mousse de Chocolate Rápida",
+  "descricao": "no Chocolate derretido com água e gelo: mousse instantânea, 4 ingredientes",
+  "refeicao": "sobremesa",
+  "pagina": 367,
+  "macros": {
+   "calorias": 250,
+   "proteinas": 4,
+   "carboidratos": 18,
+   "lipideos": 18
+  },
+  "minutos": 5,
+  "porcoes": 4,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Chocolate amargo 70%+ sem leite (vegano) picadinho",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Água quente",
+    "qtd": "180 ml"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "500 g (para banho de gelo)"
+   },
+   {
+    "nome": "Pimenta caiena",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Prepare um banho de gelo: em uma tigela grande, misture o gelo com água fria suficiente para cobrir parcialmente. Encaixe uma tigela média por cima, criando contato com o banho para resfriar a mistura durante a batida.",
+   "Adicione o chocolate amargo picado em uma tigela média, despeje a água quente e mexa com uma espátula.",
+   "Bata vigorosamente em velocidade máxima com mixer de mão (ou fouet de arame), adicione a pimenta caiena e desligue quando a mistura engrossar e aerar, cerca de 2 a 3 minutos.",
+   "Transfira a mousse para uma vasilha e sirva imediatamente."
+  ],
+  "dica": "A água quente derrete o chocolate e o choque térmico com o gelo ajuda a emulsificar a mistura, garantindo textura aerada. A pimenta caiena acentua a percepção do cacau. Use chocolate 70%+ sem leite para manter vegano."
+ },
+ {
+  "id": "panqueca-doce-de-banana-com-canela",
+  "nome": "Panqueca Doce de Banana com Canela",
+  "descricao": "Banana amassada com canela na massa e fio de mel para finalizar",
+  "refeicao": "sobremesa",
+  "pagina": 368,
+  "macros": {
+   "calorias": 252,
+   "proteinas": 11,
+   "carboidratos": 39,
+   "lipideos": 7
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Amasse a banana e misture com o ovo, a aveia e a canela.",
+   "Aqueça uma frigideira antiaderente em fogo médio. Ro o",
+   "Despeje toda a massa na frigideira, formando uma panqueca grande.",
+   "Cozinhe 2 minutos de cada lado.",
+   "Finalize com um fio de mel."
+  ],
+  "dica": "A canela realça o sabor da banana madura e perfuma a massa, deixando a panqueca aromática. O mel, usado com moderação, acrescenta doçura natural e dispensa adoçantes artificiais nesta preparação simples de frigideira."
+ },
+ {
+  "id": "bolo-de-caneca-de-cafe-com-whey",
+  "nome": "Bolo de Caneca de Café com Whey",
+  "descricao": "Café solúvel com whey baunilha na massa, energia e 24 de proteína",
+  "refeicao": "sobremesa",
+  "pagina": 369,
+  "macros": {
+   "calorias": 253,
+   "proteinas": 24,
+   "carboidratos": 21,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Café solúvel",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "60 ml"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Dissolva o café solúvel no leite.",
+   "Bata o ovo em uma caneca e misture a aveia, o whey, O café dissolvido e o fermento.",
+   "Mexa até ficar homogêneo.",
+   "Leve ao micro-ondas em potência máxima (100%) por 2 minutos e 30 segundos."
+  ],
+  "dica": "O café solúvel no bolo de caneca traz aroma de cafeteria e amargor suave. Combine com o whey para uma sobremesa proteica pronta em minutos no micro-ondas."
+ },
+ {
+  "id": "parfait-de-frutas-na-caneca",
+  "nome": "Parfait de Frutas na Caneca",
+  "descricao": "Camadas de iogurte grego, morango, banana e aveia com um fio de mel",
+  "refeicao": "sobremesa",
+  "pagina": 370,
+  "macros": {
+   "calorias": 260,
+   "proteinas": 15,
+   "carboidratos": 34,
+   "lipideos": 7
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Pique o morango e a banana em pedaços pequenos.",
+   "Monte camadas em uma caneca ou copo alto, alternando: iogurte, frutas e aveia.",
+   "Repita as camadas.",
+   "Finalize com um fio de mel por cima.",
+   "Sirva na própria caneca, com as camadas visíveis."
+  ],
+  "dica": "O parfait em camadas alternadas cria apresentação visual atraente. Monte em copo transparente para efeito máximo."
+ },
+ {
+  "id": "brigadeiro-de-caneca-express",
+  "nome": "Brigadeiro de Caneca Express",
+  "descricao": "Pronto no micro-ondas com whey e cacau em 4 min",
+  "refeicao": "sobremesa",
+  "pagina": 371,
+  "macros": {
+   "calorias": 268,
+   "proteinas": 26,
+   "carboidratos": 39,
+   "lipideos": 2
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite condensado desnatado",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Cacau em pó sem açúcar",
+    "qtd": "8 g (1 csop cheia)"
+   },
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Leite em pó desnatado",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Misture leite condensado desnatado, cacau em pó, whey protein chocolate e leite em pó desnatado em uma caneca grande até incorporar bem.",
+   "Leve ao micro-ondas por 1 minuto em potência média.",
+   "Retire e mexa bem.",
+   "Volte ao micro-ondas por mais 30 a 40 segundos.",
+   "Mexa novamente até obter textura cremosa.",
+   "Deixe esfriar levemente antes de comer direto da caneca."
+  ],
+  "dica": "O cacau em pó sem açúcar é a estrela deste brigadeiro, trazendo sabor intenso de chocolate. Combinado com whey chocolate e leite em pó, cria uma textura cremosa com alto teor proteico."
+ },
+ {
+  "id": "nice-cream-de-acai-com-granola",
+  "nome": "Nice Cream de Açaí com Granola",
+  "descricao": "Açaí cremoso com banana congelada, sem açúcar adicionado",
+  "refeicao": "sobremesa",
+  "pagina": 372,
+  "macros": {
+   "calorias": 270,
+   "proteinas": 5,
+   "carboidratos": 45,
+   "lipideos": 9
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana congelada",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Polpa de açaí congelada",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "20 ml"
+   },
+   {
+    "nome": "Granola sem açúcar",
+    "qtd": "30 g"
+   }
+  ],
+  "passos": [
+   "Corte a banana congelada e a polpa de açaí em pedaços.",
+   "Coloque no processador com o leite.",
+   "Bata por 3 minutos, raspando as laterais, até obter uma textura de sorvete cremoso e roxo intenso.",
+   "Sirva imediatamente em uma tigela e finalize com a granola por cima para manter a crocância."
+  ],
+  "dica": "O açaí sem açúcar traz antocianinas, pigmentos responsáveis pela cor roxa intensa. A banana congelada dá cremosidade natural e potássio, formando uma sobremesa energética para o pós-treino."
+ },
+ {
+  "id": "pudim-de-caneca-cremoso-de-baunilha",
+  "nome": "Pudim de Caneca Cremoso de Baunilha",
+  "descricao": "Pudim de caneca no micro-ondas em ciclos, textura sedosa",
+  "refeicao": "sobremesa",
+  "pagina": 373,
+  "macros": {
+   "calorias": 290,
+   "proteinas": 28,
+   "carboidratos": 30,
+   "lipideos": 7
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Leite em pó desnatado",
+    "qtd": "45 g"
+   },
+   {
+    "nome": "Essência de baunilha",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Adoçante em pó",
+    "qtd": "6 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "120 ml"
+   }
+  ],
+  "passos": [
+   "Bata o ovo com leite em pó, adoçante, baunilha e leite desnatado. Mexa até dissolver os grumos.",
+   "Despeje em caneca grande (o pudim cresce durante o cozimento).",
+   "Leve ao micro-ondas por 1 minuto em potência alta.",
+   "Continue em intervalos de 30 segundos, descansando entre cada ciclo (4-6 vezes). A pausa evita transbordar.",
+   "Verifique o ponto: quando estiver firme ao toque, está pronto. Sirva quente na caneca ou frio desenformado."
+  ],
+  "dica": "O pudim leva 3-4 min totais no micro-ondas (1 min ciclos de 30 s). A pausa entre ciclos evita transbordar. Deixe descansar 1 min antes de desenformar; o calor residual finaliza."
+ },
+ {
+  "id": "bolo-de-caneca-de-amendoim-proteico",
+  "nome": "Bolo de Caneca de Amendoim Proteico",
+  "descricao": "Pasta de amendoim com whey chocolate na massa, 26 de proteína",
+  "refeicao": "sobremesa",
+  "pagina": 374,
+  "macros": {
+   "calorias": 300,
+   "proteinas": 26,
+   "carboidratos": 19,
+   "lipideos": 14
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Pasta de amendoim",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "20 ml"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Bata o ovo e a pasta de amendoim em uma caneca até misturar.",
+   "Adicione a aveia, o whey, o leite e o fermento. E A",
+   "Misture bem até a massa ficar homogênea.",
+   "Leve ao micro-ondas em potência alta (800 W) por 2 minutos e 30 segundos. Se ainda estiver úmido no centro, acrescente 15-20 segundos."
+  ],
+  "dica": "A pasta de amendoim fornece gordura monoinsaturada e cerca de 25 de proteína por 100 g, complementando o whey neste bolo de caneca. Use a versão sem açúcar para manter o perfil nutricional adequado."
+ },
+ {
+  "id": "bolo-de-cenoura-de-caneca",
+  "nome": "Bolo de Cenoura de Caneca",
+  "descricao": "Cenoura ralada com farinha de castanha e coco, estilo caseiro",
+  "refeicao": "sobremesa",
+  "pagina": 375,
+  "macros": {
+   "calorias": 318,
+   "proteinas": 12,
+   "carboidratos": 10,
+   "lipideos": 24
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Cenoura ralada",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Óleo de coco",
+    "qtd": "13 ml"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Farinha de castanha de caju",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Farinha de coco",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Adoçante culinário",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "3 g"
+   }
+  ],
+  "passos": [
+   "Bata no liquidificador cenoura ralada, ovo e óleo de coco até liso.",
+   "Transfira para bowl, acrescente farinhas de castanha de caju e coco e adoçante. Misture.",
+   "Adicione o fermento por último e mexa delicadamente, sem bater.",
+   "Despeje em caneca grande untada com óleo de coco. Não encha mais que 23.",
+   "Leve ao micro-ondas em potência alta por 2 minutos. Teste com palito; se necessário, leve por mais 20 a 30 segundos. Sirva morno."
+  ],
+  "dica": "A cenoura no bolo de caneca contribui com cor, dulçor e umidade natural à massa. Bata bem para deixar a textura mais uniforme."
+ },
+ {
+  "id": "mousse-rapida-de-cacau-com-whey",
+  "nome": "Mousse Rápida de Cacau com Whey",
+  "descricao": "Mousse de cacau com whey batido: proteína com sabor de brigadeiro",
+  "refeicao": "sobremesa",
+  "pagina": 376,
+  "macros": {
+   "calorias": 318,
+   "proteinas": 40,
+   "carboidratos": 24,
+   "lipideos": 10
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Cacau em pó sem açúcar",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Leite",
+    "qtd": "30 ml"
+   }
+  ],
+  "passos": [
+   "Misture em uma tigela o iogurte grego com o whey 2 protein e o cacau em pó.",
+   "Adicione o mel e o leite.",
+   "Mexa vigorosamente com um garfo ou fouet até obter uma textura homogênea e aerada.",
+   "Leve à geladeira por 2 minutos ou sirva imediatamente a mousse cremosa."
+  ],
+  "dica": "Esta mousse combina whey e iogurte grego para uma textura cremosa e mais proteica. O mel adiciona doçura natural sem necessidade de adoçantes artificiais."
+ },
+ {
+  "id": "bolo-de-caneca-cremoso-com-whey",
+  "nome": "Bolo de Caneca Cremoso com Whey",
+  "descricao": "Whey chocolate com cacau e óleo de coco, cremoso e com 35 de proteína",
+  "refeicao": "sobremesa",
+  "pagina": 377,
+  "macros": {
+   "calorias": 320,
+   "proteinas": 35,
+   "carboidratos": 11,
+   "lipideos": 18
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Ovo inteiro",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "40 ml"
+   },
+   {
+    "nome": "Óleo de coco",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Adoçante eritritol",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "3 g"
+   }
+  ],
+  "passos": [
+   "Misture o whey protein, o cacau em pó, o ovo, o leite desnatado, o óleo de coco, o eritritol e o fermento em uma caneca grande com um garfo até ficar homogêneo.",
+   "Leve ao micro-ondas por 2 minutos na potência alta.",
+   "Deixe repousar 1 minuto antes de comer.",
+   "Sirva direto na caneca. Se desejar, adicione frutas ou pasta de amendoim por cima."
+  ],
+  "dica": "O cacau em pó combinado com whey chocolate intensifica o sabor sem precisar de chocolate em barra. O óleo de coco na massa ajuda a manter a umidade e a textura cremosa."
+ },
+ {
+  "id": "brownie-de-frigideira",
+  "nome": "Brownie de Frigideira",
+  "descricao": "Cacau intenso com farinha de amêndoas e chocolate 85%, feito na frigideira",
+  "refeicao": "sobremesa",
+  "pagina": 378,
+  "macros": {
+   "calorias": 322,
+   "proteinas": 13,
+   "carboidratos": 11,
+   "lipideos": 27
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Cacau em pó 100%",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Adoçante",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Creme de leite",
+    "qtd": "15 ml"
+   },
+   {
+    "nome": "Chocolate 85% cacau",
+    "qtd": "10 g (2 quadradinhos)"
+   },
+   {
+    "nome": "Farinha de amêndoas ou de coco",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Óleo de coco",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Essência de baunilha",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Fermento químico em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Bata o ovo com um garfo, adicione a farinha de amêndoas, o cacau, o adoçante, a essência de baunilha e o creme de leite. Misture bem. Por último, acrescente o fermento e mexa delicadamente.",
+   "Despeje em frigideira antiaderente pequena (15-18 cm) RE untada com óleo de coco. Tampe em fogo baixo por 4-5 minutos até o palito sair limpo.",
+   "Retire para um prato e, ainda quente, distribua o chocolate 85% picado por cima. Deixe derreter 1 minuto e espalhe."
+  ],
+  "dica": "O brownie de frigideira está pronto em 5 minutos e mantém o centro úmido. O segredo é não cozinhar demais: retire quando a superfície estiver firme, mas o interior ainda parecer levemente cremoso."
+ },
+ {
+  "id": "sorvete-de-banana-com-cacau",
+  "nome": "Sorvete de Banana com Cacau",
+  "descricao": "Cremoso, proteico e sem adição de açúcar",
+  "refeicao": "sobremesa",
+  "pagina": 379,
+  "macros": {
+   "calorias": 329,
+   "proteinas": 28,
+   "carboidratos": 57,
+   "lipideos": 3
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana madura congelada (em rodelas)",
+    "qtd": "2 unidades (≈220 g)"
+   },
+   {
+    "nome": "Whey protein isolado sabor baunilha",
+    "qtd": "1 scoop (30 g)"
+   },
+   {
+    "nome": "Cacau em pó 100%",
+    "qtd": "5 g (1 colher de sopa rasa)"
+   },
+   {
+    "nome": "Leite desnatado (ou bebida vegetal sem açúcar)",
+    "qtd": "2 colheres de sopa (30 ml)"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "1 pitada (opcional)"
+   }
+  ],
+  "passos": [
+   "Descasque as bananas, corte em rodelas e congele por pelo menos 3 horas antes do preparo.",
+   "Coloque as rodelas congeladas no processador ou liquidificador potente junto com o whey isolado, o cacau em pó e o leite desnatado.",
+   "Bata em pulsos curtos, raspando as laterais com espátula, até obter uma textura cremosa e homogênea (2 a 3 minutos).",
+   "Transfira para uma tigela, polvilhe canela a gosto e sirva imediatamente como soft-serve, ou leve ao congelador por 20 minutos para uma consistência mais firme."
+  ],
+  "dica": "Use whey isolado ou hidrolisado (praticamente sem lactose) para manter a sobremesa leve. Se preferir versão vegana, substitua por proteína vegetal de ervilha."
+ },
+ {
+  "id": "vitamina-cremosa-de-cookies",
+  "nome": "Vitamina Cremosa de Cookies",
+  "descricao": "Sabor cookies and cream com aveia e pasta de amendoim",
+  "refeicao": "sobremesa",
+  "pagina": 380,
+  "macros": {
+   "calorias": 399,
+   "proteinas": 42,
+   "carboidratos": 29,
+   "lipideos": 13
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite semidesnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Whey protein cookies and cream",
+    "qtd": "35 g"
+   },
+   {
+    "nome": "Aveia em flocos finos",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Pasta de amendoim integral (sem açúcar)",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "4 cubos"
+   }
+  ],
+  "passos": [
+   "Coloque leite semidesnatado, whey protein cookies and cream, aveia em flocos finos, pasta de amendoim e 4 cubos de gelo no liquidificador, começando pelo leite.",
+   "Bata em alta velocidade por 45 segundos até obter shake espesso e cremoso.",
+   "Prove e ajuste a consistência adicionando mais leite se necessário.",
+   "Sirva em copo alto imediatamente."
+  ],
+  "dica": "O whey sabor cookies and cream traz um perfil de sabor único que combina com a pasta de amendoim e a aveia. O gelo garante textura de milk-shake espesso, bata por pelo menos 40 segundos para cremosidade ideal."
+ },
+ {
+  "id": "cheesecake-de-iogurte-proteico",
+  "nome": "Cheesecake de Iogurte Proteico",
+  "descricao": "Cheesecake cremoso com iogurte grego e whey: 48 de proteína numa sobremesa",
+  "refeicao": "sobremesa",
+  "pagina": 381,
+  "macros": {
+   "calorias": 408,
+   "proteinas": 48,
+   "carboidratos": 23,
+   "lipideos": 14
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Biscoito integral sem açúcar adicionado",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Gelatina sem sabor",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Essência de baunilha",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Hidrate a gelatina em 2 colheres de sopa (30 ml) de água fria por 5 minutos. Derreta em banho-maria.",
+   "Misture o iogurte grego com o whey protein, o eritritol e a essência de baunilha até homogêneo.",
+   "Adicione a gelatina derretida e misture bem.",
+   "Coloque o biscoito triturado no fundo de um copo ou taça, como base.",
+   "Despeje a mistura por cima e leve à geladeira por 2 horas até firmar."
+  ],
+  "dica": "O iogurte grego combinado com whey deixa o cheesecake cremoso e proteico. Misture até ficar liso antes de montar sobre a base."
+ },
+ {
+  "id": "bolo-de-baunilha-com-nibs-de-cacau",
+  "nome": "Bolo de Baunilha com Nibs de Cacau",
+  "descricao": "Baunilha com nibs de cacau crocantes, farinha de amêndoas e MCT",
+  "refeicao": "sobremesa",
+  "pagina": 382,
+  "macros": {
+   "calorias": 471,
+   "proteinas": 15,
+   "carboidratos": 7,
+   "lipideos": 42
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Água",
+    "qtd": "70 ml"
+   },
+   {
+    "nome": "Claras de ovo",
+    "qtd": "66 g (2 claras)"
+   },
+   {
+    "nome": "Gotas de estévia",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Essência de baunilha",
+    "qtd": "3 ml"
+   },
+   {
+    "nome": "Óleo de coco",
+    "qtd": "3 ml (para untar)"
+   },
+   {
+    "nome": "Farinha de amêndoas",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "MCT (ou óleo de coco)",
+    "qtd": "20 ml"
+   },
+   {
+    "nome": "Fermento",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Nibs de cacau para polvilhar por cima",
+    "qtd": "10 g (para polvilhar)"
+   }
+  ],
+  "passos": [
+   "Bata na batedeira a água, a farinha de amêndoas, as claras de ovo, o MCT, as gotas de estévia, o fermento e a essência de baunilha até ficar homogêneo.",
+   "Unte uma forma própria para micro-ondas com óleo de coco e despeje a mistura.",
+   "Polvilhe os nibs de cacau por cima.",
+   "Asse no micro-ondas em potência máxima (100%) por 3 minutos e 30 segundos. Para versão no forno, asse a 180ºC por 15 a 18 minutos."
+  ],
+  "dica": "Os nibs de cacau polvilhados por cima adicionam crocância sem açúcar. A farinha de amêndoas na massa ajuda na estrutura e reforça o sabor do bolo de baunilha."
+ },
+ {
+  "id": "crepe-de-chocolate-com-morango-e-chantilly-proteico",
+  "nome": "Crepe de Chocolate com Morango e Chantilly Proteico",
+  "descricao": "Crepe fino recheado com morango fresco e chantilly de whey",
+  "refeicao": "sobremesa",
+  "pagina": 383,
+  "macros": {
+   "calorias": 522,
+   "proteinas": 40,
+   "carboidratos": 38,
+   "lipideos": 26
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo inteiro",
+    "qtd": "100 g (2 unidades)"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Leite integral",
+    "qtd": "60 ml"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Cream cheese",
+    "qtd": "30 g"
+   }
+  ],
+  "passos": [
+   "Bata no liquidificador o ovo, a aveia, o cacau e o leite por 20 segundos.",
+   "Aqueça uma frigideira antiaderente e faça 2 crepes NE finos (1 min de cada lado).",
+   "Prepare o chantilly proteico misturando o cream cheese com o whey baunilha até ficar cremoso.",
+   "Recheie cada crepe com o creme proteico e morangos fatiados. Dobre em triângulos e sirva."
+  ],
+  "dica": "O chantilly proteico feito com whey e cream cheese deixa o recheio mais firme e cremoso. Use o cream cheese em temperatura ambiente para facilitar a mistura. O morango fresco finaliza com acidez que equilibra a doçura do crepe."
+ },
+ {
+  "id": "bolo-de-coco-no-micro-ondas",
+  "nome": "Bolo de Coco no Micro-ondas",
+  "descricao": "Coco ralado com leite de coco e baunilha, textura aveludada na caneca",
+  "refeicao": "sobremesa",
+  "pagina": 384,
+  "macros": {
+   "calorias": 559,
+   "proteinas": 12,
+   "carboidratos": 14,
+   "lipideos": 53
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Coco ralado desidratado sem açúcar",
+    "qtd": "45 g"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Óleo de coco",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Leite de coco",
+    "qtd": "30 ml"
+   },
+   {
+    "nome": "Creme de leite sem soro",
+    "qtd": "30 ml"
+   },
+   {
+    "nome": "Sucralose",
+    "qtd": "2 g (2 sachês)"
+   },
+   {
+    "nome": "Essência de baunilha",
+    "qtd": "2 ml"
+   }
+  ],
+  "passos": [
+   "Misture o ovo, leite de coco, creme de leite, óleo de ê coco, baunilha e sucralose. Bata com garfo até homogêneo.",
+   "Adicione o coco ralado e misture. Acrescente o 63 é fermento por último e mexa delicadamente.",
+   "Despeje em caneca ou ramequim untado com óleo de coco. Não encha mais de 2/3.",
+   "Leve ao micro-ondas em potência alta por 2-3 minutos. Teste com palito. Espere 2 minutos antes de servir."
+  ],
+  "dica": "O coco ralado e o leite de coco deixam o bolinho úmido, aromático e com sabor tropical. A sucralose mantém o dulçor sem adicionar açúcar à massa."
+ },
+ {
+  "id": "bolinho-de-coco-com-xilitol-no-micro-ondas",
+  "nome": "Bolinho de Coco com Xilitol no Micro-ondas",
+  "descricao": "Versão com manteiga e xilitol, sabor de cocada na caneca",
+  "refeicao": "sobremesa",
+  "pagina": 385,
+  "macros": {
+   "calorias": 585,
+   "proteinas": 12,
+   "carboidratos": 14,
+   "lipideos": 55
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Coco ralado sem açúcar",
+    "qtd": "45 g"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Manteiga",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Fermento",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Essência de baunilha",
+    "qtd": "(opcional) 2 ml"
+   },
+   {
+    "nome": "Leite de coco",
+    "qtd": "30 ml"
+   },
+   {
+    "nome": "Creme de leite sem soro",
+    "qtd": "30 ml"
+   },
+   {
+    "nome": "Xilitol",
+    "qtd": "10 g (ajuste a gosto)"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "(opcional) a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque em uma tigela o leite de coco, o ovo batido, o creme de leite, a manteiga derretida, o xilitol e a essência de baunilha. Misture bem.",
+   "Acrescente o fermento e o coco ralado. Mexa até obter uma massa homogênea.",
+   "Despeje em caneca untada e leve ao micro-ondas por 2 a 3 minutos, dependendo da potência.",
+   "Retire do micro-ondas, polvilhe com canela em pó e sirva morno."
+  ],
+  "dica": "O coco ralado combinado com leite de coco e manteiga dá origem a um bolinho naturalmente úmido e aromático. O xilitol substitui o açúcar com doçura semelhante e sabor neutro, preservando a textura macia."
+ },
+ {
+  "id": "brownie-proteico-duplo-chocolate-no-micro-ondas",
+  "nome": "Brownie Proteico Duplo Chocolate no Micro-ondas",
+  "descricao": "Dupla camada de chocolate com banana e whey, 42 de proteína",
+  "refeicao": "sobremesa",
+  "pagina": 386,
+  "macros": {
+   "calorias": 611,
+   "proteinas": 42,
+   "carboidratos": 59,
+   "lipideos": 23
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Leite integral",
+    "qtd": "30 ml"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Ovo inteiro",
+    "qtd": "50 g (1 unidade)"
+   },
+   {
+    "nome": "Chocolate amargo 70% picado",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Óleo de coco (para untar)",
+    "qtd": "3 ml"
+   }
+  ],
+  "passos": [
+   "Amasse a banana e misture com o ovo em uma tigela.",
+   "Adicione o whey, a aveia, o cacau e o leite. Mexa até obter uma massa densa.",
+   "Incorpore os pedaços de chocolate amargo.",
+   "Unte um refratário pequeno para micro-ondas (aprox. 10x10 cm ou ramequim de 250 mil) com o óleo de coco. Despeje a massa e leve ao micro-ondas por 3 minutos em potência alta (ajuste 30 a mais se o aparelho for menos potente). Espere 2 minutos antes de cortar."
+  ],
+  "dica": "A banana madura funciona como adoçante natural e ligante, eliminando a necessidade de açúcar. Os pedaços de chocolate 70% derretem parcialmente e criam veios cremosos no brownie."
+ }
+]

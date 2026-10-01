@@ -1,0 +1,2755 @@
+[
+ {
+  "id": "carne-moida-expressa-ao-alecrim",
+  "nome": "Carne Moída Expressa ao Alecrim",
+  "descricao": "Patinho moído selado com alho e alecrim fresco em 6 minutos",
+  "refeicao": "almoco",
+  "pagina": 75,
+  "macros": {
+   "calorias": 209,
+   "proteinas": 26,
+   "carboidratos": 1,
+   "lipideos": 12
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Patinho moído",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Alho picado",
+    "qtd": "3 g (1 dente)"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "5 ml (1 col. chá)"
+   },
+   {
+    "nome": "Alecrim fresco",
+    "qtd": "2 g (1 raminho)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Pimenta-do-reino",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Aqueça o azeite em frigideira antiaderente em fogo alto. Refogue o alho picado por 30 segundos até perfumar.",
+   "Adicione o patinho moído e desmanche com um garfo. Mantenha fogo alto para selar sem soltar água.",
+   "Frite por 4-5 minutos mexendo, até toda a carne dourar e soltar aroma.",
+   "Finalize com alecrim fresco picado, sal e pimenta-do-a reino. Sirva imediatamente."
+  ],
+  "dica": "O patinho é um dos cortes bovinos mais magros (cerca de 3,5 de gordura por 100 g). O truque para não soltar água é frigideira bem quente e carne em temperatura ambiente; carne gelada baixa a temperatura da frigideira e começa a cozinhar em vez de selar."
+ },
+ {
+  "id": "salada-de-camarao-com-manga-e-abacate",
+  "nome": "Salada de Camarão com Manga e Abacate",
+  "descricao": "Camarão com manga e abacate: sofisticação em 5 minutos",
+  "refeicao": "almoco",
+  "pagina": 76,
+  "macros": {
+   "calorias": 240,
+   "proteinas": 22,
+   "carboidratos": 14,
+   "lipideos": 13
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Mix de folhas",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Camarão cozido",
+    "qtd": "90 g"
+   },
+   {
+    "nome": "Manga",
+    "qtd": "50 g (em cubos)"
+   },
+   {
+    "nome": "Abacate",
+    "qtd": "40 g (em fatias)"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Disponha o mix de folhas como base em um prato amplo.",
+   "Distribua os camarões cozidos, os cubos de manga e as o. fatias de abacate sobre as folhas. Tempere levemente com sal.",
+   "Regue com o suco de limão e o azeite. Sirva imediatamente para manter o frescor."
+  ],
+  "dica": "A manga traz doçura, acidez e cor à salada. Com camarão e abacate, cria contraste entre fruta, cremosidade e proteína leve."
+ },
+ {
+  "id": "salada-de-salmao-com-batata-doce-e-rucula",
+  "nome": "Salada de Salmão com Batata-Doce e Rúcula",
+  "descricao": "Salmão sobre rúcula com batata-doce: ômega-3 na salada",
+  "refeicao": "almoco",
+  "pagina": 77,
+  "macros": {
+   "calorias": 241,
+   "proteinas": 18,
+   "carboidratos": 24,
+   "lipideos": 8
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Rúcula",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Salmão defumado",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Batata-Doce",
+    "qtd": "100 g (micro-ondas 4 min, em cubos)"
+   },
+   {
+    "nome": "Tomate-cereja",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Corte a batata-doce em cubos e leve ao micro-ondas por 4 minutos.",
+   "Monte a salada com rúcula, salmão defumado, batata-º doce morna e tomate-cereja.",
+   "Tempere com azeite e limão."
+  ],
+  "dica": "A batata-doce fornece carboidrato complexo, cor e sabor levemente adocicado. Combinada com salmão defumado e rúcula, cria contraste entre cremosidade, sal e frescor."
+ },
+ {
+  "id": "tapioca-de-cottage-com-tomate-seco",
+  "nome": "Tapioca de Cottage com Tomate Seco",
+  "descricao": "Refeição completa com cottage e tapioca em 4 min",
+  "refeicao": "almoco",
+  "pagina": 78,
+  "macros": {
+   "calorias": 252,
+   "proteinas": 10,
+   "carboidratos": 44,
+   "lipideos": 4
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tapioca hidratada",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Queijo cottage",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Tomate seco",
+    "qtd": "15 g (picado)"
+   },
+   {
+    "nome": "Manjericão",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Em uma frigideira antiaderente em fogo médio, espalhe a tapioca formando um disco e firme por 2 minutos.",
+   "Distribua o cottage e o tomate seco.",
+   "Adicione manjericão.",
+   "Dobre a tapioca ao meio e sirva quente."
+  ],
+  "dica": "O cottage na tapioca deixa o recheio cremoso e proteico. O tomate seco concentra sabor e o manjericão adiciona aroma fresco."
+ },
+ {
+  "id": "salada-de-cottage-com-quinoa-e-legumes",
+  "nome": "Salada de Cottage com Quinoa e Legumes",
+  "descricao": "Cottage e quinoa com legumes: proteína completa em salada",
+  "refeicao": "almoco",
+  "pagina": 79,
+  "macros": {
+   "calorias": 252,
+   "proteinas": 14,
+   "carboidratos": 27,
+   "lipideos": 10
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Alface",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Quinoa cozida",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "40 g (picado)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Queijo cottage",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "40 g (picado)"
+   },
+   {
+    "nome": "Cenoura",
+    "qtd": "30 g (ralada)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Lave e rasgue a alface em pedaços e disponha como base em um prato amplo ou bowl.",
+   "Distribua a quinoa cozida, colheradas de cottage, o pepino picado, o tomate picado e a cenoura ralada sobre a alface, organizando em seções.",
+   "Regue com um fio de azeite e finalize com uma pitada de sal. Sirva em temperatura ambiente."
+  ],
+  "dica": "A quinoa é um grão que reúne os nove aminoácidos essenciais em sua composição. Combinada ao cottage e aos legumes, forma uma salada com boa densidade proteica, textura variada e bastante fibra."
+ },
+ {
+  "id": "sanduiche-de-salmao-defumado-com-cream-cheese",
+  "nome": "Sanduíche de Salmão Defumado com Cream Cheese",
+  "descricao": "Ômega-3 e cremosidade em fatias de pão integral",
+  "refeicao": "almoco",
+  "pagina": 80,
+  "macros": {
+   "calorias": 252,
+   "proteinas": 23,
+   "carboidratos": 27,
+   "lipideos": 9
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Salmão defumado",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Cream cheese light",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "20 g (fatiado)"
+   },
+   {
+    "nome": "Alcaparras",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Espalhe o cream cheese nas fatias de pão.",
+   "Disponha o salmão defumado e o pepino fatiado.",
+   "Polvilhe alcaparras.",
+   "Feche o sanduíche."
+  ],
+  "dica": "O salmão defumado traz sabor intenso e gordura natural do peixe. As alcaparras adicionam acidez, sal e um contraste ótimo com a base cremosa."
+ },
+ {
+  "id": "sanduiche-de-cottage-com-abacate-e-pepino",
+  "nome": "Sanduíche de Cottage com Abacate e Pepino",
+  "descricao": "Sanduíche leve com cottage, abacate e pepino crocante",
+  "refeicao": "almoco",
+  "pagina": 81,
+  "macros": {
+   "calorias": 253,
+   "proteinas": 12,
+   "carboidratos": 28,
+   "lipideos": 10
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Queijo cottage",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Abacate",
+    "qtd": "40 g (amassado)"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "30 g (fatiado)"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Amasse o abacate com limão e sal.",
+   "Espalhe o cottage em uma fatia e o abacate na outra.",
+   "Adicione pepino fatiado.",
+   "Feche o sanduíche."
+  ],
+  "dica": "O abacate no sanduíche com cottage cria uma camada cremosa e suave. O pepino adiciona crocância e deixa o sanduíche mais fresco."
+ },
+ {
+  "id": "wrap-de-peito-de-peru-com-cottage-e-dijon",
+  "nome": "Wrap de Peito de Peru com Cottage e Dijon",
+  "descricao": "Wrap de peito de peru com cottage cremoso e mostarda Dijon em 5 minutos",
+  "refeicao": "almoco",
+  "pagina": 82,
+  "macros": {
+   "calorias": 264,
+   "proteinas": 24,
+   "carboidratos": 30,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Wrap integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Peito de peru fatiado",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Queijo cottage",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Alface picada",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Tomate em rodelas",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Mostarda Dijon",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Estenda o wrap sobre uma superfície limpa.",
+   "Espalhe o cottage uniformemente pela superfície.",
+   "Distribua as fatias de peito de peru.",
+   "Adicione a alface e o tomate.",
+   "Finalize com a mostarda Dijon em fio.",
+   "Enrole firmemente, pressione, corte ao meio na diagonal e sirva no prato."
+  ],
+  "dica": "O peito de peru fatiado é prático, mas deve ser usado com moderação por ser processado. Com cottage e mostarda Dijon, este wrap fica cremoso, salgado e rápido. Atenção: Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "sanduiche-de-atum-com-maionese-light-e-salada",
+  "nome": "Sanduíche de Atum com Maionese Light e Salada",
+  "descricao": "Sanduíche prático de atum com maionese light",
+  "refeicao": "almoco",
+  "pagina": 83,
+  "macros": {
+   "calorias": 266,
+   "proteinas": 31,
+   "carboidratos": 24,
+   "lipideos": 6
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Atum em lata (drenado)",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Maionese light",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "30 g (fatiado)"
+   }
+  ],
+  "passos": [
+   "Escorra bem o atum e coloque em um bowl. Adicione a maionese light e misture com um garfo até obter uma pasta cremosa.",
+   "Espalhe a pasta de atum generosamente sobre uma fatia de pão integral.",
+   "Disponha a alface e as fatias de tomate sobre a pasta de atum.",
+   "Feche com a outra fatia de pão, corte ao meio e sirva."
+  ],
+  "dica": "O atum em lata drenado deixa o recheio proteico e prático. A maionese light mantém a cremosidade com menos peso que a versão tradicional."
+ },
+ {
+  "id": "sanduiche-de-peru-com-queijo-e-tomate",
+  "nome": "Sanduíche de Peru com Queijo e Tomate",
+  "descricao": "Peru com queijo e tomate em sanduíche leve",
+  "refeicao": "almoco",
+  "pagina": 84,
+  "macros": {
+   "calorias": 269,
+   "proteinas": 28,
+   "carboidratos": 27,
+   "lipideos": 8
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Peito de peru fatiado",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "25 g (fatiado)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "30 g (fatiado)"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Disponha as fatias de peito de peru e o Queijo Minas fatiado sobre uma fatia de pão integral.",
+   "Adicione as fatias de tomate e a alface por cima do ueijo.",
+   "Feche com a outra fatia de pão, corte ao meio na diagonal e sirva imediatamente."
+  ],
+  "dica": "O Queijo Minas e o peito de peru compõem um recheio prático e salgado; use o peru com moderação por ser processado. O tomate fresco acrescenta suculência e equilibra o queijo no pão. à Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "wrap-fresco-de-camarao-com-guacamole",
+  "nome": "Wrap Fresco de Camarão com Guacamole",
+  "descricao": "Wrap fresco de camarão com guacamole caseiro",
+  "refeicao": "almoco",
+  "pagina": 85,
+  "macros": {
+   "calorias": 270,
+   "proteinas": 26,
+   "carboidratos": 26,
+   "lipideos": 10
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Camarão cozido",
+    "qtd": "90 g"
+   },
+   {
+    "nome": "Abacate",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "20 g (picado)"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Amasse o abacate com um garfo em um bowl. Adicione o suco de limão, o tomate picado e uma pitada de sal. E di a Misture até formar um guacamole rústico.",
+   "Espalhe o guacamole de forma uniforme sobre a tortilha integral.",
+   "Distribua os camarões cozidos no centro e cubra com a alface fresca.",
+   "Enrole a tortilha firmemente, dobrando as laterais para dentro. Corte ao meio na diagonal e sirva."
+  ],
+  "dica": "O camarão cozido é fonte natural de iodo e proteína magra, e combina muito bem com a cremosidade do guacamole de abacate. O limão espremido na hora realça os sabores e preserva o frescor do recheio."
+ },
+ {
+  "id": "sanduiche-de-frango-com-mostarda-e-alface",
+  "nome": "Sanduíche de Frango com Mostarda e Alface",
+  "descricao": "Frango desfiado com mostarda e folhas crocantes no pão integral",
+  "refeicao": "almoco",
+  "pagina": 86,
+  "macros": {
+   "calorias": 272,
+   "proteinas": 30,
+   "carboidratos": 23,
+   "lipideos": 5
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Frango desfiado",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Mostarda",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "30 g (fatiado)"
+   }
+  ],
+  "passos": [
+   "Espalhe a mostarda de forma uniforme sobre uma fatia de pão integral.",
+   "Distribua o frango desfiado por cima da mostarda, o. cobrindo toda a superfície.",
+   "Disponha a alface e as fatias de tomate sobre o frango.",
+   "Feche com a outra fatia de pão, corte ao meio na diagonal e sirva."
+  ],
+  "dica": "A mostarda é um condimento de sabor marcante que acrescenta personalidade ao sanduíche com poucas calorias. Junto ao frango desfiado e ao pão integral, rende uma refeição prática, com proteína magra e fibras."
+ },
+ {
+  "id": "tapioca-de-ricota-com-ervas-frescas",
+  "nome": "Tapioca de Ricota com Ervas Frescas",
+  "descricao": "Tapioca recheada com ricota cremosa e ervas frescas em 5 minutos",
+  "refeicao": "almoco",
+  "pagina": 87,
+  "macros": {
+   "calorias": 273,
+   "proteinas": 7,
+   "carboidratos": 37,
+   "lipideos": 10
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tapioca hidratada",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Ricota",
+    "qtd": "60 g (amassada)"
+   },
+   {
+    "nome": "Salsa",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Cebolinha",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "3 ml"
+   }
+  ],
+  "passos": [
+   "Amasse a ricota com ervas, sal e azeite.",
+   "Em uma frigideira antiaderente em fogo médio, espalhe a tapioca formando um disco e firme por 2 minutos.",
+   "Recheie com a ricota temperada.",
+   "Dobre a tapioca ao meio e sirva em seguida."
+  ],
+  "dica": "A ricota com ervas frescas na tapioca cria um recheio com cálcio e cremosidade sem gordura excessiva. A salsa e a cebolinha adicionam frescor, vitamina e aroma herbal."
+ },
+ {
+  "id": "salada-de-atum-com-feijao-branco-e-tomate",
+  "nome": "Salada de Atum com Feijão Branco e Tomate",
+  "descricao": "Atum com feijão branco e tomate: proteína e fibras em cada garfada",
+  "refeicao": "almoco",
+  "pagina": 88,
+  "macros": {
+   "calorias": 275,
+   "proteinas": 32,
+   "carboidratos": 22,
+   "lipideos": 6
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Alface",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Atum em lata (drenado)",
+    "qtd": "90 g"
+   },
+   {
+    "nome": "Feijão branco cozido",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "60 g (picado)"
+   },
+   {
+    "nome": "Cebolaroxa",
+    "qtd": "20 g (fatiada)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Vinagre",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Lave e rasgue a alface em pedaços e disponha como base em um prato ou bowl.",
+   "Distribua o atum drenado, o feijão branco cozido, o o e tomate picado e a cebola roxa fatiada sobre a alface, arrumando em seções.",
+   "Tempere com um fio de azeite e vinagre. Misture levemente na hora de servir."
+  ],
+  "dica": "O feijão branco é uma leguminosa de textura macia que contrasta bem com o atum em lascas. O tomate acrescenta frescor, acidez e cor, completando uma salada prática e saborosa."
+ },
+ {
+  "id": "bowl-tropical-de-camarao-com-manga-e-coco",
+  "nome": "Bowl Tropical de Camarão com Manga e Coco",
+  "descricao": "Bowl tropical de camarão com manga fresca e coco ralado",
+  "refeicao": "almoco",
+  "pagina": 89,
+  "macros": {
+   "calorias": 280,
+   "proteinas": 22,
+   "carboidratos": 38,
+   "lipideos": 6
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Arroz integral cozido",
+    "qtd": "120 g (micro-ondas 2 min)"
+   },
+   {
+    "nome": "Camarão cozido",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Manga",
+    "qtd": "50 g (em cubos)"
+   },
+   {
+    "nome": "Coco ralado",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Coentro",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Aqueça o arroz no micro-ondas por 2 minutos.",
+   "Monte o bowl com arroz, camarões e cubos de manga.",
+   "Polvilhe coco ralado.",
+   "Tempere com limão e finalize com coentro."
+  ],
+  "dica": "O coco ralado adiciona gordura, aroma tropical e textura ao bowl. A manga deixa a mistura mais doce, colorida e suculenta."
+ },
+ {
+  "id": "tapioca-de-atum-com-tomate-e-queijo",
+  "nome": "Tapioca de Atum com Tomate e Queijo",
+  "descricao": "Tapioca recheada com atum, tomate e Queijo Minas em 5 minutos",
+  "refeicao": "almoco",
+  "pagina": 90,
+  "macros": {
+   "calorias": 281,
+   "proteinas": 21,
+   "carboidratos": 37,
+   "lipideos": 5
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Tapioca hidratada",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Atum em lata (drenado)",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "30 g (picado)"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "20 g (ralado)"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Espalhe a tapioca hidratada na frigideira antiaderente em fogo médio, formando um disco uniforme. Deixe firmar por 2 minutos sem mexer.",
+   "Distribua o atum drenado, o tomate picado e o Queijo Minas ralado sobre metade do disco de tapioca.",
+   "Polvilhe o orégano por cima do recheio.",
+   "Dobre a tapioca ao meio com a espátula e sirva quente."
+  ],
+  "dica": "O atum em lata drenado preserva a proteína e o selênio do atum com praticidade. Na tapioca com Queijo Minas, forma um recheio que combina ômega-3 com cálcio em 5 minutos."
+ },
+ {
+  "id": "tapioca-de-camarao-com-cream-cheese",
+  "nome": "Tapioca de Camarão com Cream Cheese",
+  "descricao": "Refeição completa com camarão e tapioca em 5 min",
+  "refeicao": "almoco",
+  "pagina": 91,
+  "macros": {
+   "calorias": 285,
+   "proteinas": 22,
+   "carboidratos": 37,
+   "lipideos": 6
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Tapioca hidratada",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Camarão (cozido previamente)",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Cream cheese light",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Cebolinha",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Em uma frigideira antiaderente em fogo médio, espalhe a tapioca formando um disco e firme por 2 minutos.",
+   "Espalhe o cream cheese, distribua os camarões e a no cebolinha, e finalize com o suco de limão.",
+   "Dobre a tapioca ao meio e sirva imediatamente."
+  ],
+  "dica": "O camarão é uma proteína leve, de sabor delicado e preparo rápido. Na tapioca com cream cheese, ganha cremosidade sem deixar o recheio pesado."
+ },
+ {
+  "id": "bowl-japones-de-salmao-com-pepino",
+  "nome": "Bowl Japonês de Salmão com Pepino",
+  "descricao": "Bowl japonês com salmão defumado e pepino em fatias finas",
+  "refeicao": "almoco",
+  "pagina": 92,
+  "macros": {
+   "calorias": 292,
+   "proteinas": 21,
+   "carboidratos": 34,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Arroz integral cozido",
+    "qtd": "120 g (micro-ondas 2 min)"
+   },
+   {
+    "nome": "Salmão defumado",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "50 g (fatiado fino)"
+   },
+   {
+    "nome": "Cenoura",
+    "qtd": "30 g (ralada)"
+   },
+   {
+    "nome": "Shoyu",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Gergelim",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Aqueça o arroz no micro-ondas por 2 minutos.",
+   "Monte o bowl com arroz na base.",
+   "Disponha o salmão defumado, pepino fatiado e cenoura ralada.",
+   "Regue com shoyu e polvilhe gergelim."
+  ],
+  "dica": "O gergelim confere aroma tostado marcante ao bowl. O shoyu, usado em pequena quantidade, intensifica o umami do salmão defumado sem pesar no sal do prato."
+ },
+ {
+  "id": "sanduiche-de-ricota-com-tomate-seco-e-manjericao",
+  "nome": "Sanduíche de Ricota com Tomate Seco e Manjericão",
+  "descricao": "Sanduíche mediterrâneo com ricota, tomate seco e ervas frescas",
+  "refeicao": "almoco",
+  "pagina": 93,
+  "macros": {
+   "calorias": 295,
+   "proteinas": 12,
+   "carboidratos": 28,
+   "lipideos": 15
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Ricota",
+    "qtd": "60 g (amassada)"
+   },
+   {
+    "nome": "Tomate seco",
+    "qtd": "15 g (picado)"
+   },
+   {
+    "nome": "Manjericão",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "3 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Amasse a ricota com sal e azeite.",
+   "Espalhe a ricota temperada sobre uma das fatias de",
+   "Distribua o tomate seco e as folhas de manjericão.",
+   "Feche o sanduíche, pressione levemente e sirva."
+  ],
+  "dica": "O tomate seco concentra umami e cria sabor intenso sem precisar de muitos temperos. A ricota com manjericão no pão integral forma um sanduíche mediterrâneo cremoso e aromático."
+ },
+ {
+  "id": "salada-de-sardinha-com-batata-e-cebola-roxa",
+  "nome": "Salada de Sardinha com Batata e Cebola Roxa",
+  "descricao": "Sardinha rústica com batata e toque de cebola roxa",
+  "refeicao": "almoco",
+  "pagina": 94,
+  "macros": {
+   "calorias": 295,
+   "proteinas": 23,
+   "carboidratos": 20,
+   "lipideos": 14
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Alface",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Sardinha em lata",
+    "qtd": "80 g (drenada)"
+   },
+   {
+    "nome": "Batata cozida",
+    "qtd": "80 g (micro-ondas 4 min, em cubos)"
+   },
+   {
+    "nome": "Cebola roxa",
+    "qtd": "20 g (fatiada)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Vinagre",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Salsa",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Corte a batata em cubos e leve ao micro-ondas por 4 minutos.",
+   "Monte a salada com alface, sardinhas, batata morna e cebola.",
+   "Tempere com azeite, vinagre e salsa."
+  ],
+  "dica": "A sardinha com batata cozida é uma combinação clássica portuguesa com proteína, gordura do peixe e carboidrato simples de preparar. O vinagre dá acidez e ajuda a equilibrar o sabor."
+ },
+ {
+  "id": "sanduiche-de-sardinha-com-cebola-e-limao",
+  "nome": "Sanduíche de Sardinha com Cebola e Limão",
+  "descricao": "Sardinha com cebola e limão: sabor mediterrâneo no pão",
+  "refeicao": "almoco",
+  "pagina": 95,
+  "macros": {
+   "calorias": 300,
+   "proteinas": 27,
+   "carboidratos": 24,
+   "lipideos": 11
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Sardinha em lata",
+    "qtd": "70 g (drenada)"
+   },
+   {
+    "nome": "Cebolaroxa",
+    "qtd": "20 g (fatiada fina)"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Salsa",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Escorra a sardinha e amasse levemente com um garfo em um bowl. Adicione o suco de limão e a salsa picada. “Ss Re. Misture bem.",
+   "Espalhe a mistura de sardinha sobre uma fatia de pão integral.",
+   "Disponha a cebola roxa fatiada fina por cima da sardinha.",
+   "Feche com a outra fatia de pão, corte ao meio e sirva."
+  ],
+  "dica": "A sardinha no pão integral traz sabor intenso, proteína e minerais dos ossos comestíveis. O limão fresco adiciona acidez e deixa o sanduíche mais leve."
+ },
+ {
+  "id": "pate-de-atum-com-torradas-integrais",
+  "nome": "Patê de Atum com Torradas Integrais",
+  "descricao": "Atum desfiado com ricota e salsinha, montagem fria em 2 minutos",
+  "refeicao": "almoco",
+  "pagina": 96,
+  "macros": {
+   "calorias": 300,
+   "proteinas": 37,
+   "carboidratos": 22,
+   "lipideos": 6
+  },
+  "minutos": 2,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Atum light em lata escorrido",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Creme de ricota light",
+    "qtd": "30 g (2 col sopa)"
+   },
+   {
+    "nome": "Salsinha picada",
+    "qtd": "5 g (1 colsopa)"
+   },
+   {
+    "nome": "Torradas integrais",
+    "qtd": "30 g (4 unidades)"
+   },
+   {
+    "nome": "Sal e pimenta",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Escorra bem o atum e transfira para uma tigela. Amasse com um garfo até desfiado.",
+   "Misture o creme de ricota, a salsinha picada, o sal e a imenta até formar uma pasta homogênea.",
+   "Distribua o patê sobre as torradas integrais e sirva imediatamente."
+  ],
+  "dica": "O atum em conserva light (em água) preserva cerca de 26 de proteína por lata com cerca dela 3 de gordura. A ricota light adiciona cremosidade sem excesso calórico. Ideal como almoço rápido ou lanche proteico."
+ },
+ {
+  "id": "tapioca-de-sardinha-com-cebola-refogada",
+  "nome": "Tapioca de Sardinha com Cebola Refogada",
+  "descricao": "Tapioca recheada com sardinha e cebola refogada em 6 minutos",
+  "refeicao": "almoco",
+  "pagina": 97,
+  "macros": {
+   "calorias": 305,
+   "proteinas": 15,
+   "carboidratos": 38,
+   "lipideos": 9
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tapioca hidratada",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Sardinha em lata",
+    "qtd": "60 g (drenada)"
+   },
+   {
+    "nome": "Cebola",
+    "qtd": "30 g (fatiada)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "3 ml"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Aqueça o azeite em uma frigideira em fogo médio e refogue a cebola fatiada por 2 minutos, até amaciar.",
+   "Reserve a cebola refogada em um prato separado.",
+   "Na mesma frigideira em fogo médio, espalhe a tapioca formando um disco e firme por 2 minutos.",
+   "Recheie com sardinha e cebola.",
+   "Finalize regando o suco de limão sobre o recheio.",
+   "Dobre a tapioca ao meio e sirva quente."
+  ],
+  "dica": "A sardinha em lata mantém os ômega-3 e o cálcio dos ossinhos comestíveis, que ficam macios durante o processo de enlatamento. A cebola refogada no azeite traz leve adocicado e contraste de sabor com o recheio da tapioca."
+ },
+ {
+  "id": "salada-de-peru-com-maca-verde-e-nozes",
+  "nome": "Salada de Peru com Maçã Verde e Nozes",
+  "descricao": "Salada refrescante com peru, maçã verde e crocância de nozes",
+  "refeicao": "almoco",
+  "pagina": 98,
+  "macros": {
+   "calorias": 314,
+   "proteinas": 22,
+   "carboidratos": 15,
+   "lipideos": 19
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Mix de folhas",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Peito de peru fatiado",
+    "qtd": "80 g (em tiras)"
+   },
+   {
+    "nome": "Maçã verde",
+    "qtd": "60 g (fatiada fina)"
+   },
+   {
+    "nome": "Nozes",
+    "qtd": "15 g (picadas)"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "20 g (em cubos)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Disponha o mix de folhas como base em um prato amplo.",
+   "Distribua o peito de peru em tiras, a maçã verde lo. º fatiada fina, as nozes picadas e os cubos de Queijo Minas sobre as folhas.",
+   "Regue com o azeite e o suco de limão. Misture levemente na hora de servir."
+  ],
+  "dica": "As nozes combinadas com maçã verde trazem crocância, acidez e gordura vegetal. O peru adiciona proteína e deixa a salada mais completa. Atenção: contém nozes e lactose (Queijo Minas); alérgicos devem substituir ou omitir. /à Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "bowl-mediterraneo-de-quinoa-e-atum",
+  "nome": "Bowl Mediterrâneo de Quinoa e Atum",
+  "descricao": "Quinoa com atum, tomate e azeitona ao estilo mediterrâneo",
+  "refeicao": "almoco",
+  "pagina": 99,
+  "macros": {
+   "calorias": 317,
+   "proteinas": 27,
+   "carboidratos": 29,
+   "lipideos": 10
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Quinoa cozida",
+    "qtd": "120 g (micro-ondas 2 min)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "50 g (picado)"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "30 g (picado)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Atum em lata (drenado)",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Azeitonas",
+    "qtd": "15 g (fatiadas)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Pimenta-do-reino moída",
+    "qtd": "1 pitada"
+   }
+  ],
+  "passos": [
+   "Aqueça a quinoa cozida no micro-ondas por 2 minutos. id Sm Transfira para um bowl e solte os grãos com um garfo.",
+   "Disponha sobre a quinoa o atum drenado, o tomate picado, as azeitonas fatiadas e o pepino picado, organizando em seções.",
+   "Regue com o azeite e finalize com uma pitada de sal e pimenta a gosto. Sirva morno ou em temperatura ambiente."
+  ],
+  "dica": "A quinoa no bowl mediterrâneo traz textura solta e sabor suave. As azeitonas adicionam gordura, sal e um toque mediterrâneo ao prato."
+ },
+ {
+  "id": "bowl-de-batata-doce-com-frango-e-brocolis",
+  "nome": "Bowl de Batata-Doce com Frango e Brócolis",
+  "descricao": "Bowl fitness com frango, batata-doce e brócolis no vapor",
+  "refeicao": "almoco",
+  "pagina": 100,
+  "macros": {
+   "calorias": 330,
+   "proteinas": 31,
+   "carboidratos": 32,
+   "lipideos": 9
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Batata-Doce",
+    "qtd": "150 g (micro-ondas 3 min)"
+   },
+   {
+    "nome": "Frango desfiado (cozido previamente)",
+    "qtd": "90 g"
+   },
+   {
+    "nome": "Brócolis",
+    "qtd": "60 g (micro-ondas 2 min)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Corte a batata-doce em pedaços e leve ao micro-ondas em potência alta por 3 minutos (coberto com E filme). Adicione o brócolis e leve mais 2 minutos para cozinhar juntos até a batata ficar macia e o brócolis al dente.",
+   "Monte o bowl com batata, frango desfiado e brócolis.",
+   "Tempere com azeite e sal."
+  ],
+  "dica": "A batata-doce com frango e brócolis é o trio clássico do fitness: carboidrato complexo, proteína magra e vegetal verde em uma montagem simples de marmita."
+ },
+ {
+  "id": "sanduiche-de-ovo-cozido-com-rucula",
+  "nome": "Sanduíche de Ovo Cozido com Rúcula",
+  "descricao": "Sanduíche de ovo cozido com rúcula no pão integral",
+  "refeicao": "almoco",
+  "pagina": 101,
+  "macros": {
+   "calorias": 330,
+   "proteinas": 24,
+   "carboidratos": 24,
+   "lipideos": 17
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Ovos cozidos",
+    "qtd": "120 g (2 unidades, amassados)"
+   },
+   {
+    "nome": "Maionese light",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Rúcula",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Pimenta",
+    "qtd": "0,5 g"
+   }
+  ],
+  "passos": [
+   "Amasse os 2 ovos cozidos com um garfo em um bowl. Adicione a maionese light, sal e pimenta e misture até formar uma pasta homogênea.",
+   "Espalhe a pasta de ovo generosamente sobre uma fatia de pão integral.",
+   "Cubra com a rúcula fresca e feche com a outra fatia de pão.",
+   "Corte ao meio na diagonal e sirva imediatamente."
+  ],
+  "dica": "O ovo cozido traz proteína completa e colina da gema em uma forma prática para sanduíche. A rúcula adiciona amargor leve, cor verde e frescor ao recheio."
+ },
+ {
+  "id": "bowl-thai-de-camarao-com-amendoim",
+  "nome": "Bowl Thai de Camarão com Amendoim",
+  "descricao": "Bowl Thai frio de camarão com amendoim crocante e limão",
+  "refeicao": "almoco",
+  "pagina": 102,
+  "macros": {
+   "calorias": 334,
+   "proteinas": 26,
+   "carboidratos": 35,
+   "lipideos": 10
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Arroz integral cozido previamente",
+    "qtd": "120 g (micro-ondas 2 min)"
+   },
+   {
+    "nome": "Camarão cozido previamente",
+    "qtd": "90 g"
+   },
+   {
+    "nome": "Amendoim torrado",
+    "qtd": "15 g (triturado)"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "30 g (em tiras)"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Molho de pimenta (Sriracha ou Sweet Chili)",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Aqueça o arroz no micro-ondas por 2 minutos.",
+   "Monte o bowl com arroz, camarões e pepino em tiras.",
+   "Polvilhe amendoim triturado.",
+   "Tempere com limão e molho de pimenta."
+  ],
+  "dica": "O amendoim torrado traz crocância e gordura vegetal ao bowl, enquanto o camarão aporta proteína magra e iodo. A combinação com arroz integral, pepino e limão reproduz o perfil fresco e levemente cítrico da cozinha tailandesa."
+ },
+ {
+  "id": "tapioca-de-frango-com-requeijao",
+  "nome": "Tapioca de Frango com Requeijão",
+  "descricao": "Refeição completa com frango e tapioca em 5 min",
+  "refeicao": "almoco",
+  "pagina": 103,
+  "macros": {
+   "calorias": 341,
+   "proteinas": 28,
+   "carboidratos": 39,
+   "lipideos": 6
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Tapioca hidratada",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Frango desfiado (cozido previamente)",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Requeijão light",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "30 g (picado)"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Espalhe a tapioca em frigideira antiaderente em fogo médio, sem gordura, e deixe firmar por cerca de 2 minutos até soltar do fundo.",
+   "Espalhe o requeijão, distribua o frango e o tomate.",
+   "Polvilhe orégano, dobre e sirva."
+  ],
+  "dica": "O requeijão light na tapioca de frango adiciona cremosidade e ajuda a unir o recheio. O tomate fresco aquece levemente na tapioca e deixa o sabor mais suculento."
+ },
+ {
+  "id": "salada-de-frango-com-croutons-e-parmesao",
+  "nome": "Salada de Frango com Croutons e Parmesão",
+  "descricao": "Frango desfiado com alface romana, croutons crocantes e parmesão",
+  "refeicao": "almoco",
+  "pagina": 104,
+  "macros": {
+   "calorias": 350,
+   "proteinas": 38,
+   "carboidratos": 19,
+   "lipideos": 13
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Alface romana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Frango desfiado (cozido previamente)",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Croutons",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Parmesão ralado",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Tomate-cereja",
+    "qtd": "40 g (cortados)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Monte uma base generosa de alface.",
+   "Distribua o frango, os tomates-cereja e os croutons.",
+   "Polvilhe parmesão.",
+   "Tempere com azeite e limão."
+  ],
+  "dica": "O parmesão ralado tem sabor intenso e salgado. Em pequenas quantidades nesta salada de frango, entrega umami sem dominar o prato."
+ },
+ {
+  "id": "crepioca-de-ovo-com-queijo-minas",
+  "nome": "Crepioca de Ovo com Queijo Minas",
+  "descricao": "Crepioca com recheio de Queijo Minas derretido, pronta em 5 min",
+  "refeicao": "almoco",
+  "pagina": 105,
+  "macros": {
+   "calorias": 351,
+   "proteinas": 20,
+   "carboidratos": 25,
+   "lipideos": 18
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tapioca hidratada",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "30 g (fatiado)"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Misture a tapioca com os ovos batidos e sal.",
+   "Despeje na frigideira antiaderente e espalhe.",
+   "Quando firmar embaixo, coloque o queijo e dobre.",
+   "Cozinhe mais 1 minuto e salpique orégano por cima antes de servir."
+  ],
+  "dica": "A crepioca combina a maciez da tapioca com a estrutura dos ovos. O Queijo Minas adiciona sabor suave e deixa o recheio mais cremoso."
+ },
+ {
+  "id": "bowl-brasileiro-classico-com-ovo",
+  "nome": "Bowl Brasileiro Clássico com Ovo",
+  "descricao": "Arroz, feijão e ovo: o prato do dia a dia com proteína completa e fibras",
+  "refeicao": "almoco",
+  "pagina": 106,
+  "macros": {
+   "calorias": 362,
+   "proteinas": 18,
+   "carboidratos": 49,
+   "lipideos": 13
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Arroz integral cozido",
+    "qtd": "120 g (micro-ondas 2 min)"
+   },
+   {
+    "nome": "Feijão cozido",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 unidade, frito 2 min)"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "30 g (picado)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Aqueça arroz e feijão no micro-ondas (2 min).",
+   "Frite o ovo na frigideira com azeite (2 min).",
+   "Monte o prato com arroz, feijão, ovo, alface e tomate."
+  ],
+  "dica": "O arroz com feijão na proporção 3:1 forma um dueto proteico complementar, com perfis de aminoácidos que se equilibram. O ovo adiciona colina e vitamina D."
+ },
+ {
+  "id": "salada-de-ovo-com-grao-de-bico-e-pepino",
+  "nome": "Salada de Ovo com Grão-de-Bico e Pepino",
+  "descricao": "Ovo cozido com grão-de-bico e pepino",
+  "refeicao": "almoco",
+  "pagina": 107,
+  "macros": {
+   "calorias": 365,
+   "proteinas": 23,
+   "carboidratos": 24,
+   "lipideos": 19
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Alface",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Ovos cozidos",
+    "qtd": "120 g (2 unidades, fatiados)"
+   },
+   {
+    "nome": "Grão-de-bico cozido",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "50 g (fatiado)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "40 g (picado)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Lave e rasgue a alface em pedaços e disponha como base no prato.",
+   "Distribua os ovos cozidos fatiados, o grão-de-bico, o lo. º epino fatiado e o tomate picado sobre a alface, Per organizando em seções.",
+   "Tempere com um fio de azeite e uma pitada de sal. Misture levemente na hora de comer."
+  ],
+  "dica": "O grão-de-bico com ovos cozidos combina proteína vegetal e animal, criando um perfil aminoacídico completo com boa complementação entre as duas fontes. O pepino adiciona hidratação e refrescância à salada."
+ },
+ {
+  "id": "bowl-mexicano-de-atum-e-guacamole",
+  "nome": "Bowl Mexicano de Atum e Guacamole",
+  "descricao": "Atum com guacamole e arroz: sabor mexicano com proteína magra",
+  "refeicao": "almoco",
+  "pagina": 108,
+  "macros": {
+   "calorias": 367,
+   "proteinas": 30,
+   "carboidratos": 47,
+   "lipideos": 8
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Arroz integral cozido",
+    "qtd": "120 g (micro-ondas 2 min)"
+   },
+   {
+    "nome": "Feijão cozido",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Atum em lata (drenado)",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Abacate",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "30 g (picado)"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "5 ml (suco, 1 col. chá)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Aqueça o arroz e o feijão no micro-ondas (2 min).",
+   "Amasse o abacate com limão e sal.",
+   "Monte o bowl com arroz, feijão, atum e guacamole.",
+   "Finalize com tomate picado."
+  ],
+  "dica": "O abacate do guacamole contribui com gordura monoinsaturada e cremosidade. Ao lado do feijão e do atum, o bowl mexicano reúne fibra, proteína e texturas variadas, com tempero fresco de limão."
+ },
+ {
+  "id": "taco-smash-de-frigideira",
+  "nome": "Taco Smash de Frigideira",
+  "descricao": "Taco smash no disco de tortilha, montagem rápida com sabor de lanchonete",
+  "refeicao": "almoco",
+  "pagina": 109,
+  "macros": {
+   "calorias": 369,
+   "proteinas": 35,
+   "carboidratos": 22,
+   "lipideos": 16
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Patinho moído",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Queijo mussarela light",
+    "qtd": "20 g (1 fatia)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "20 g (1 rodela)"
+   },
+   {
+    "nome": "Maionese light",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Mostarda",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Tortilha integral (Rap10)",
+    "qtd": "40 g (1 disco)"
+   },
+   {
+    "nome": "Alface americana",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Cebola",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Ketchup",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Abra o patinho moído diretamente sobre o disco de tortilha, espalhando bem fino até cobrir toda a superfície.",
+   "Leve à frigideira antiaderente bem quente com a carne virada para baixo. Deixe grelhar por 3 minutos sem mexer até formar crosta.",
+   "Vire o taco, coloque a fatia de mussarela sobre a carne e deixe por mais 1 minuto até o queijo derreter.",
+   "Retire da frigideira, adicione alface, tomate, cebola e finalize com maionese light, ketchup e mostarda. Dobre e sirva."
+  ],
+  "dica": "O patinho moído é um corte bovino magro, com cerca de 3-4% de gordura. Ao espalhar fino sobre a tortilha e grelhar em fogo alto, a reação de Maillard cria sabor intenso sem adição de óleo. O resultado é um taco crocante com perfil proteico e sabor de lanchonete, porém mais leve por usar patinho magro e pouco óleo."
+ },
+ {
+  "id": "sanduiche-aberto-de-sardinha",
+  "nome": "Sanduíche Aberto de Sardinha",
+  "descricao": "Sardinha no pão aberto: ômega-3 para almoço prático",
+  "refeicao": "almoco",
+  "pagina": 110,
+  "macros": {
+   "calorias": 381,
+   "proteinas": 36,
+   "carboidratos": 33,
+   "lipideos": 17
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "60 g (2 fatias)"
+   },
+   {
+    "nome": "Sardinha em azeite",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Tomate em rodelas",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Cebola roxa em tiras finas",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Salsa picada",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Sal e pimenta",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Toste as fatias de pão na torradeira.",
+   "Escorra parte do azeite da sardinha e desfaça grosseiramente com o garfo.",
+   "Tempere com limão, sal e pimenta.",
+   "Distribua as rodelas de tomate sobre o pão.",
+   "Coloque a sardinha temperada por cima.",
+   "Finalize com cebola roxa e salsa picada."
+  ],
+  "dica": "A sardinha em conserva entrega ômega-3 e cálcio (dos ossinhos) em formato prático. A cebola roxa crua e o limão trazem frescor picante que contrabalança a riqueza do peixe."
+ },
+ {
+  "id": "bowl-arabe-de-cuscuz-com-grao-de-bico-e-hortela",
+  "nome": "Bowl Arabe de Cuscuz com Grão-de-Bico e Hortelã",
+  "descricao": "Cuscuz marroquino com grão-de-bico, hortelã e um toque de limão",
+  "refeicao": "almoco",
+  "pagina": 111,
+  "macros": {
+   "calorias": 390,
+   "proteinas": 15,
+   "carboidratos": 71,
+   "lipideos": 8
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Cuscuz marroquino",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Grão-de-bico cozido",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "40 g (picado)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Água quente",
+    "qtd": "90 ml (6 csop)"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "40 g (picado)"
+   },
+   {
+    "nome": "Hortelã",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "10 ml"
+   }
+  ],
+  "passos": [
+   "Hid Erihd 3 idrate o cuscuz com água quente, cobrindo por minutos.",
+   "Solte os grãos do cuscuz com um garfo até ficar soltinho.",
+   "Monte o bowl com cuscuz, grão-de-bico, pepino e tomate.",
+   "Tempere com azeite, limão e hortelã."
+  ],
+  "dica": "O grão-de-bico deixa a salada mais densa e com textura macia, enquanto a hortelã traz frescor. O cuscuz marroquino cozinha apenas com água quente em 3 minutos."
+ },
+ {
+  "id": "salada-de-cenoura-com-coco-e-nozes",
+  "nome": "Salada de Cenoura com Coco e Nozes",
+  "descricao": "Cenoura ralada com lascas de coco e nozes crocantes",
+  "refeicao": "almoco",
+  "pagina": 112,
+  "macros": {
+   "calorias": 405,
+   "proteinas": 6,
+   "carboidratos": 38,
+   "lipideos": 28
+  },
+  "minutos": 5,
+  "porcoes": 2,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Cenoura ralada grossa",
+    "qtd": "450 g"
+   },
+   {
+    "nome": "Coco ralado sem açúcar",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Nozes quebradas",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Uva-passa",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "15 ml (1 csop)"
+   },
+   {
+    "nome": "Leite de coco",
+    "qtd": "15 ml"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "30 ml"
+   }
+  ],
+  "passos": [
+   "Rale as cenouras no ralador grosso e coloque em uma saladeira. Adicione a uva-passa e misture.",
+   "Em um bowl pequeno, prepare o molho misturando o azeite, O leite de coco e o suco de limão. Bata com um garfo até emulsionar.",
+   "Despeje o molho sobre a cenoura e mexa bem para incorporar. Adicione o coco ralado e as nozes quebradas por cima.",
+   "Sirva imediatamente ou refrigere por 15 minutos para os sabores se integrarem."
+  ],
+  "dica": "A cenoura traz cor, dulçor natural e umidade à mistura. O coco ralado adiciona textura e gordura, enquanto as nozes trazem crocância e sabor."
+ },
+ {
+  "id": "prato-rapido-de-atum-com-arroz",
+  "nome": "Prato Rápido de Atum com Arroz",
+  "descricao": "Atum natural com arroz: prato rápido e leve",
+  "refeicao": "almoco",
+  "pagina": 113,
+  "macros": {
+   "calorias": 420,
+   "proteinas": 33,
+   "carboidratos": 42,
+   "lipideos": 11
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Arroz cozido pronto",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Atum em lata ao natural",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "25 g (1/2 limão)"
+   },
+   {
+    "nome": "Cebolinha picada",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Sal e pimenta",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Aqueça o arroz pronto no micro-ondas por 1 minuto.",
+   "Escorra o atum e desfaça com um garfo.",
+   "Monte o bow!l: arroz na base, atum por cima.",
+   "Regue com azeite e suco de limão.",
+   "Finalize com cebolinha picada, sal e pimenta."
+  ],
+  "dica": "O atum em água mantém a refeição mais leve e combina bem com o arroz integral. O limão espremido adiciona acidez e deixa o sabor do peixe mais fresco."
+ },
+ {
+  "id": "bowl-proteico-de-frango-ovo-e-queijo",
+  "nome": "Bowl Proteico de Frango, Ovo e Queijo",
+  "descricao": "Frango desfiado com ovos e queijo: proteína tripla em um bowl",
+  "refeicao": "almoco",
+  "pagina": 114,
+  "macros": {
+   "calorias": 430,
+   "proteinas": 36,
+   "carboidratos": 29,
+   "lipideos": 19
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Arroz integral cozido",
+    "qtd": "120 g (micro-ondas 2 min)"
+   },
+   {
+    "nome": "Frango desfiado",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Ovo cozido",
+    "qtd": "60 g (1 unidade, cortado)"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "20 g (em cubos)"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml (1 colher de chá)"
+   }
+  ],
+  "passos": [
+   "Aqueça o arroz integral no micro-ondas por 2 minutos.",
+   "Monte o bowl com o arroz na base, o frango desfiado ao lado e o ovo cozido cortado ao meio.",
+   "Finalize com os cubos de Queijo Minas, a alface fresca, uma pitada de sal e um fio de azeite. Sirva E imediatamente."
+  ],
+  "dica": "Este bowl combina frango, ovo e queijo em uma montagem simples e proteica. Corte tudo em pedaços pequenos para facilitar a mistura com as folhas."
+ },
+ {
+  "id": "salada-caprese",
+  "nome": "Salada Caprese",
+  "descricao": "Clássica italiana com mussarela, tomate e manjericão fresco",
+  "refeicao": "almoco",
+  "pagina": 115,
+  "macros": {
+   "calorias": 437,
+   "proteinas": 18,
+   "carboidratos": 8,
+   "lipideos": 41
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tomate",
+    "qtd": "100 g (1 tomate)"
+   },
+   {
+    "nome": "Mussarela de búfala",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Manjericão",
+    "qtd": "6 g (3 folhas)"
+   },
+   {
+    "nome": "Molho pesto (opcional)",
+    "qtd": "15 ml"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Sal e orégano",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Lave o tomate e o manjericão.",
+   "Corte em rodelas o tomate e a mussarela de búfala.",
+   "Disponha alternadamente o tomate, a mussarela de búfala e o manjericão em um recipiente, criando e um a: camadas.",
+   "Regue com azeite ou molho pesto.",
+   "Tempere com sal e orégano a gosto."
+  ],
+  "dica": "A mussarela de búfala tem textura macia e sabor delicado. O tomate fresco e o azeite de oliva extravirgem formam uma combinação mediterrânea simples, suculenta e aromática."
+ },
+ {
+  "id": "salada-completa-de-frango-com-grao-de-bico",
+  "nome": "Salada Completa de Frango com Grão-de-Bico",
+  "descricao": "Frango com grão-de-bico e folhas verdes: prato completo em salada",
+  "refeicao": "almoco",
+  "pagina": 116,
+  "macros": {
+   "calorias": 458,
+   "proteinas": 38,
+   "carboidratos": 27,
+   "lipideos": 20
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Frango desfiado pronto",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Grão-de-bico cozido (lata)",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Mix de folhas verdes",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Tomate-cereja",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "15 ml"
+   },
+   {
+    "nome": "Vinagre balsâmico",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Sal e pimenta",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Escorra e lave o grão-de-bico.",
+   "Disponha as folhas verdes em uma tigela grande.",
+   "Adicione o frango desfiado, o grão-de-bico e os tomates-cereja cortados ao meio.",
+   "Misture o azeite com o vinagre, tempere com sal e pimenta.",
+   "Regue a salada e misture levemente.",
+   "Sirva em seguida."
+  ],
+  "dica": "O grão-de-bico com frango desfiado combina textura macia com proteína em uma salada prática. O vinagre balsâmico adiciona acidez e leve dulçor ao molho."
+ },
+ {
+  "id": "prato-rapido-de-frango-com-arroz",
+  "nome": "Prato Rápido de Frango com Arroz",
+  "descricao": "Arroz, feijão e frango desfiado em prato completo com 46 de proteína em poucos minutos",
+  "refeicao": "almoco",
+  "pagina": 117,
+  "macros": {
+   "calorias": 506,
+   "proteinas": 46,
+   "carboidratos": 55,
+   "lipideos": 14
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Arroz cozido pronto",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Frango desfiado pronto",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Feijão cozido (lata)",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Alface picada",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Tomate em cubos",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Aqueça o arroz e o feijão no micro-ondas por 1 minuto e 30 segundos.",
+   "Disponha no prato: arroz e feijão de um lado, frango desfiado tro. esmado do outro",
+   "Complete com alface e tomate.",
+   "Regue tudo com azeite.",
+   "Ajuste o sal e sirva."
+  ],
+  "dica": "O trio arroz-feijão-frango é a base da nutrição esportiva brasileira: carboidrato complexo, feijão com fibra e proteína vegetal, e proteína animal magra do frango. Prato completo em macros e micronutrientes."
+ },
+ {
+  "id": "bowl-nordestino-de-cuscuz-com-ovo",
+  "nome": "Bowl Nordestino de Cuscuz com Ovo",
+  "descricao": "Cuscuz nordestino com ovo e tempero caseiro",
+  "refeicao": "almoco",
+  "pagina": 118,
+  "macros": {
+   "calorias": 534,
+   "proteinas": 27,
+   "carboidratos": 58,
+   "lipideos": 21
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Flocão de milho",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   },
+   {
+    "nome": "Água",
+    "qtd": "100 ml"
+   },
+   {
+    "nome": "Ovos cozidos",
+    "qtd": "120 g (2 unidades, fatiados)"
+   },
+   {
+    "nome": "Queijo coalho",
+    "qtd": "30 g (em cubos)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "40 g (picado)"
+   },
+   {
+    "nome": "Coentro",
+    "qtd": "3 g"
+   }
+  ],
+  "passos": [
+   "Misture o flocão com a água e uma pitada de sal e leve ao micro-ondas por 3 minutos.",
+   "Solte o cuscuz com um garfo até ficar bem soltinho.",
+   "Sirva com os ovos fatiados, queijo coalho e tomate.",
+   "Finalize com coentro."
+  ],
+  "dica": "O flocão de milho deixa o cuscuz macio e rápido de preparar. O queijo coalho adiciona sal, textura firme e um sabor nordestino marcante."
+ },
+ {
+  "id": "strogonoff-express-de-frango-com-arroz",
+  "nome": "Strogonoff Express de Frango com Arroz",
+  "descricao": "Strogonoff express de frango com arroz e molho cremoso",
+  "refeicao": "almoco",
+  "pagina": 119,
+  "macros": {
+   "calorias": 627,
+   "proteinas": 52,
+   "carboidratos": 52,
+   "lipideos": 26
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Peito de frango em tiras",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Molho de tomate",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Champignon fatiado",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Ketchup",
+    "qtd": "10 g (2 colheres de chá)"
+   },
+   {
+    "nome": "Creme de leite",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Arroz branco cozido",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Mostarda",
+    "qtd": "5 g (1 colher de chá)"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Aqueça o azeite em uma frigideira em fogo alto. Sele as tiras de frango por 2-3 min até dourar.",
+   "Adicione o molho de tomate, mostarda, ketchup e champignon. Cozinhe por 2 min.",
+   "Abaixe o fogo, adicione o creme de leite e mexa por 1 min até o molho ficar cremoso e rosado.",
+   "Sirva ao lado do arroz branco."
+  ],
+  "dica": "O champignon fatiado adiciona umami e textura ao strogonoff. A mostarda reforça a acidez do molho e deixa o frango com sabor mais profundo."
+ },
+ {
+  "id": "shakshuka-mediterranea-com-pao",
+  "nome": "Shakshuka Mediterrânea com Pão",
+  "descricao": "Ovos pochados em molho de tomate mediterrâneo com pão artesanal",
+  "refeicao": "almoco",
+  "pagina": 120,
+  "macros": {
+   "calorias": 664,
+   "proteinas": 33,
+   "carboidratos": 51,
+   "lipideos": 36
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Médio",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo inteiro",
+    "qtd": "150 g (3 unidades)"
+   },
+   {
+    "nome": "Queijo feta",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Páprica defumada",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Molho de tomate",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Pão italiano",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Cebola",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Salsinha",
+    "qtd": "3 g"
+   }
+  ],
+  "passos": [
+   "Aqueça o azeite em uma frigideira, refogue a cebola picada por 1 minuto. Adicione o molho de tomate e a páprica. Cozinhe por 2 minutos.",
+   "Faça 3 cavidades no molho e quebre um ovo em cada. Tampe e cozinhe por 3 minutos até as claras firmarem.",
+   "Esfarele o queijo feta por cima, finalize com salsinha.",
+   "Sirva com o pão italiano para mergulhar no molho."
+  ],
+  "dica": "A shakshuka combina ovo, tomate e páprica em um molho rápido e aromático. O pão absorve o molho e deixa o prato mais completo."
+ },
+ {
+  "id": "wrap-de-frango-com-abacate-e-bacon",
+  "nome": "Wrap de Frango com Abacate e Bacon",
+  "descricao": "Wrap completo de frango com abacate, bacon e cream cheese",
+  "refeicao": "almoco",
+  "pagina": 121,
+  "macros": {
+   "calorias": 668,
+   "proteinas": 55,
+   "carboidratos": 30,
+   "lipideos": 39
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral grande",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Peito de frango desfiado cozido",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Abacate",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Bacon",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Cream cheese",
+    "qtd": "30 g"
+   }
+  ],
+  "passos": [
+   "Torre o bacon até ficar crocante no micro-ondas entre folhas de papel toalha por 1 minuto e 30 segundos.",
+   "Aqueça a tortilha por 15 seg no micro-ondas para ficar maleável.",
+   "Espalhe o cream cheese na tortilha, distribua o frango desfiado, abacate fatiado, tomate picado e o bacon esfarelado.",
+   "Enrole firme, corte ao meio na diagonal e sirva."
+  ],
+  "dica": "Esta versão calórica do wrap é apropriada para dias de treino mais intenso: carboidrato do wrap proteína do frango gordura boa do abacate. O bacon aparece em pequena quantidade para conferir sabor sem sobrecarregar. /à Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "torta-proteica-de-frango-no-micro-ondas",
+  "nome": "Torta Proteica de Frango no Micro-ondas",
+  "descricao": "Versão prática com frango e ovos em 7 min",
+  "refeicao": "almoco",
+  "pagina": 122,
+  "macros": {
+   "calorias": 678,
+   "proteinas": 65,
+   "carboidratos": 43,
+   "lipideos": 27
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Peito de frango desfiado cozido",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Ovo inteiro",
+    "qtd": "100 g (2 unidades)"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Queijo mussarela ralado",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite integral",
+    "qtd": "60 ml"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Tomate seco",
+    "qtd": "20 g"
+   }
+  ],
+  "passos": [
+   "Bata no liquidificador os ovos, aveia, leite e fermento por 20 segundos.",
+   "Em uma tigela refratária untada, despeje metade da 8a massa, distribua o frango desfiado, tomate seco picado e metade da mussarela.",
+   "Cubra com o restante da massa e a mussarela restante.",
+   "Leve ao micro-ondas por 5 minutos em potência alta. Espere 1 minuto antes de desenformar."
+  ],
+  "dica": "A torta no micro-ondas fica pronta em 5 minutos: praticidade máxima para uma refeição rápida e proteica."
+ },
+ {
+  "id": "macarrao-de-arroz-com-frango-e-ovo",
+  "nome": "Macarrão de Arroz com Frango e Ovo",
+  "descricao": "Macarrão de arroz com frango e ovo em 7 min",
+  "refeicao": "almoco",
+  "pagina": 123,
+  "macros": {
+   "calorias": 605,
+   "proteinas": 47,
+   "carboidratos": 75,
+   "lipideos": 12
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Macarrão de arroz (bifum)",
+    "qtd": "85 g (seco)"
+   },
+   {
+    "nome": "Peito de frango em tiras finas",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Ovo inteiro",
+    "qtd": "50 g (1 unidade)"
+   },
+   {
+    "nome": "Brócolis",
+    "qtd": "60 g (floretes pequenos, cozidos previamente no vapor por 2 min)"
+   },
+   {
+    "nome": "Molho shoyu",
+    "qtd": "15 ml"
+   },
+   {
+    "nome": "Gergelim",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Cebolinha",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Hidrate o macarrão de arroz em água fervente por 3 a 4 min até al dente. Escorra e reserve.",
+   "Enquanto isso, sele as tiras de frango em uma frigideira RE quente com um fio de shoyu por 2 a 3 minutos. Adicione o brócolis pré-cozido nos últimos 30 segundos para aquecer.",
+   "Escorra o macarrão, junte ao frango e brócolis na frigideira. Quebre o ovo por cima, tampe a frigideira e deixe cozinhar por 1-2 minutos até a clara firmar E completamente.",
+   "Finalize com o restante do shoyu, gergelim e cebolinha."
+  ],
+  "dica": "O macarrão de arroz (bifum) é leve, sem glúten e cozinha em minutos. Combinado com frango e ovo, entrega quase 50 de proteína sem ultraprocessados."
+ },
+ {
+  "id": "burrito-bowl-mexicano-de-carne-moida",
+  "nome": "Burrito Bowl Mexicano de Carne Moída",
+  "descricao": "Carne moída temperada com arroz, feijão e sour cream",
+  "refeicao": "almoco",
+  "pagina": 124,
+  "macros": {
+   "calorias": 748,
+   "proteinas": 48,
+   "carboidratos": 62,
+   "lipideos": 32
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Carne moída magra",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Feijão preto cozido",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Queijo cheddar ralado",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Páprica defumada",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada, a gosto)"
+   },
+   {
+    "nome": "Arroz branco cozido",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Milho verde",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Sour cream",
+    "qtd": "20 g (1 colher de sopa)"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Refogue a carne moída com a páprica defumada e sal por 3 a 4 minutos, quebrando os grumos, até dourar.",
+   "Monte o bow!l: arroz na base, carne moída temperada, feijão preto, milho verde.",
+   "Finalize com queijo cheddar ralado (o calor da carne vai derreter levemente) e uma colherada de sour cream no centro."
+  ],
+  "dica": "O feijão preto é rico em ferro vegetal e fibra. O arroz complementa os aminoácidos para proteína completa."
+ },
+ {
+  "id": "escondidinho-express-de-frango-no-micro-ondas",
+  "nome": "Escondidinho Express de Frango no Micro-ondas",
+  "descricao": "Pronto em 7 minutos: purê instantâneo, frango desfiado e mussarela gratinada",
+  "refeicao": "almoco",
+  "pagina": 125,
+  "macros": {
+   "calorias": 762,
+   "proteinas": 64,
+   "carboidratos": 58,
+   "lipideos": 29
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Purê de batata instantâneo",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Peito de frango desfiado cozido",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Cream cheese",
+    "qtd": "30 g (2 colheres de sopa)"
+   },
+   {
+    "nome": "Queijo mussarela ralado",
+    "qtd": "40 g (1/3 xícara)"
+   },
+   {
+    "nome": "Milho verde",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite integral",
+    "qtd": "100 ml"
+   }
+  ],
+  "passos": [
+   "Prepare o purê de batata com o leite quente (micro-ondas por 1 minuto) e misture.",
+   "Em um refratário para micro-ondas, coloque metade J. do purê na base, cubra com o frango desfiado misturado ao cream cheese e milho.",
+   "Cubra com o restante do purê e espalhe a mussarela ralada por cima.",
+   "Leve ao micro-ondas por 3 min em potência alta até o E ao queijo derreter e borbulhar."
+  ],
+  "dica": "O purê instantâneo deixa a refeição pronta em poucos minutos. Com frango, vira um almoço prático e completo; use frango previamente cozido ou sobra desfiada para manter o tempo mínimo."
+ },
+ {
+  "id": "cuscuz-nordestino-com-ovo-e-carne-seca",
+  "nome": "Cuscuz Nordestino com Ovo e Carne Seca",
+  "descricao": "Cuscuz nordestino com carne seca desfiada e ovo: tradição com alta proteína",
+  "refeicao": "almoco",
+  "pagina": 126,
+  "macros": {
+   "calorias": 848,
+   "proteinas": 44,
+   "carboidratos": 81,
+   "lipideos": 32
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Flocos de milho para cuscuz",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Ovo inteiro",
+    "qtd": "100 g (2 unidades)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Carne seca desfiada cozida",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Manteiga",
+    "qtd": "15 g (1 colher de sopa)"
+   },
+   {
+    "nome": "Coentro",
+    "qtd": "5 g (1 colher de sopa picado)"
+   },
+   {
+    "nome": "Água",
+    "qtd": "100 ml"
+   }
+  ],
+  "passos": [
+   "Hidrate os flocos de milho com 100 ml de água e uma pitada de sal. Espere 2 minutos e coloque em uma cuscuzeira (ou tigela no micro-ondas tampada por 3 minutos).",
+   "Enquanto isso, frite os 2 ovos na manteiga em uma frigideira.",
+   "Desenforme o cuscuz no prato, cubra com a carne seca desfiada (aqueça por 30 segundos no micro-ondas se necessário), os ovos fritos, tomate picado e coentro."
+  ],
+  "dica": "A carne seca traz sabor intenso e salgado ao cuscuz. Dessalgue previamente em várias trocas de água e evite adicionar sal extra. O cuscuz deixa a refeição mais completa e macia. /à Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ }
+]

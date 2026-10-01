@@ -1,9 +1,8 @@
+import { normalizar, ORDENACAO, type Ordem } from '../shared/receita'
 import { EBOOKS, PREPAROS, SECOES } from './constants'
 import type { Preparo, Receita, Tipo } from './types'
 
 export type TipoFiltro = 'todas' | Tipo
-
-export type Ordem = 'ebook' | 'proteina' | 'calorias'
 
 export type Filtro = {
   id: string
@@ -121,15 +120,6 @@ export const alternarFiltro = (ativos: string[], id: string) => {
   if (ativos.includes(id)) return ativos.filter((item) => item !== id)
   const exclui = FILTRO_POR_ID.get(id)?.exclui ?? []
   return [...ativos.filter((item) => !exclui.includes(item)), id]
-}
-
-const normalizar = (texto: string) =>
-  texto.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase()
-
-const ORDENACAO: Record<Ordem, (a: Receita, b: Receita) => number> = {
-  ebook: () => 0,
-  proteina: (a, b) => b.macros.proteinas - a.macros.proteinas,
-  calorias: (a, b) => a.macros.calorias - b.macros.calorias,
 }
 
 type Criterios = {

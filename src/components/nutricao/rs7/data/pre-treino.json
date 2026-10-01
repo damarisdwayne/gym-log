@@ -1,0 +1,1288 @@
+[
+ {
+  "id": "suco-verde-de-maca-com-gengibre",
+  "nome": "Suco Verde de Maçã com Gengibre",
+  "descricao": "Energia rápida com gengibre antes do treino",
+  "refeicao": "pre-treino",
+  "pagina": 259,
+  "macros": {
+   "calorias": 86,
+   "proteinas": 1,
+   "carboidratos": 21,
+   "lipideos": 0
+  },
+  "minutos": 5,
+  "porcoes": 3,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Maçãs médias",
+    "qtd": "300 g (2 maçãs)"
+   },
+   {
+    "nome": "Aipo",
+    "qtd": "160 g (4 talos)"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "200 g (1 pepino)"
+   },
+   {
+    "nome": "Gengibre",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Couve",
+    "qtd": "60 g (6 folhas médias, sem talo)"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Água gelada",
+    "qtd": "200 ml (se usar liquidificador)"
+   }
+  ],
+  "passos": [
+   "Lave as maçãs, o pepino e o aipo e corte em pedaços menores. Destaque as folhas de couve dos talos. Descasque o gengibre e esprema o suco do limão.",
+   "Bata todos os ingredientes na centrífuga (recomendado) ou no liquidificador; se usar liquidificador, acrescente 200 ml de água gelada para facilitar o processamento da couve e dos vegetais.",
+   "Coe se necessário e sirva imediatamente."
+  ],
+  "dica": "A couve e o pepino tornam o suco mais leve e refrescante; o gengibre adiciona picância e aroma."
+ },
+ {
+  "id": "suco-de-beterraba-cenoura-e-laranja",
+  "nome": "Suco de Beterraba, Cenoura e Laranja",
+  "descricao": "Suco colorido de beterraba para o pré-treino",
+  "refeicao": "pre-treino",
+  "pagina": 260,
+  "macros": {
+   "calorias": 107,
+   "proteinas": 2,
+   "carboidratos": 26,
+   "lipideos": 0
+  },
+  "minutos": 5,
+  "porcoes": 4,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Maçã média",
+    "qtd": "150 g (1 maçã)"
+   },
+   {
+    "nome": "Beterraba pequena",
+    "qtd": "150 g (1 beterraba)"
+   },
+   {
+    "nome": "Cenouras pequenas",
+    "qtd": "320 g (8 cenouras pequenas)"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "25 g (meio limão)"
+   },
+   {
+    "nome": "Laranjas",
+    "qtd": "300 g (2 laranjas)"
+   }
+  ],
+  "passos": [
+   "Lave e corte a maçã, a beterraba e as cenouras em pedaços. Esprema o limão e as laranjas.",
+   "Bata tudo na centrífuga (recomendado) ou no liquidificador; se usar liquidificador, adicione 200 ml de água gelada para facilitar o processamento dos vegetais duros.",
+   "Coe se necessário e sirva imediatamente. o puié é"
+  ],
+  "dica": "A beterraba com cenoura e laranja cria um suco colorido, levemente doce e cítrico. Se usar liquidificador, coe para deixar a textura mais lisa."
+ },
+ {
+  "id": "suco-de-vegetais-com-azeite",
+  "nome": "Suco de Vegetais com Azeite",
+  "descricao": "Energia rápida com brócolis e aspargos antes do treino",
+  "refeicao": "pre-treino",
+  "pagina": 261,
+  "macros": {
+   "calorias": 126,
+   "proteinas": 2,
+   "carboidratos": 21,
+   "lipideos": 5
+  },
+  "minutos": 5,
+  "porcoes": 3,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Maçã média",
+    "qtd": "150 g (1 maçã)"
+   },
+   {
+    "nome": "Aspargos",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Brócolis",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Cenouras grandes",
+    "qtd": "240 g (3 cenouras)"
+   },
+   {
+    "nome": "Talos grandes de aipo",
+    "qtd": "120 g (3 talos)"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "15 ml (1 colher de sopa)"
+   },
+   {
+    "nome": "Salsa",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Lave e corte a maçã, os aspargos, o brócolis e as cenouras em pedaços menores. Separe os talos de aipo e a salsa.",
+   "Passe todos os vegetais e a maçã na centrífuga (recomendado para extrair o suco de vegetais duros como brócolis e aspargos). Alternativamente, bata no liquidificador de alta potência com 250 ml de água gelada e coe em peneira fina.",
+   "Adicione o azeite de oliva ao suco pronto, mexa bem e sirva imediatamente."
+  ],
+  "dica": "O brócolis e os aspargos são ricos em folato e vitamina K. Os talos do aipo acrescentam água, crocância e pequenas quantidades de potássio e sódio."
+ },
+ {
+  "id": "batida-de-gengibre-e-pessego",
+  "nome": "Batida de Gengibre e Pêssego",
+  "descricao": "Gengibre, pêssego e espinafre no copo",
+  "refeicao": "pre-treino",
+  "pagina": 262,
+  "macros": {
+   "calorias": 155,
+   "proteinas": 3,
+   "carboidratos": 38,
+   "lipideos": 1
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Espinafre fresco",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Gengibre fresco ralado",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Pêssego congelado picado",
+    "qtd": "300 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Água",
+    "qtd": "300 ml"
+   }
+  ],
+  "passos": [
+   "Comece batendo o espinafre com a água no liquidificador por 30 segundos para quebrar bem as folhas.",
+   "Adicione os pêssegos congelados, o gengibre ralado e o mel. Bata por mais 1 a 2 minutos até ficar cremoso e homogêneo.",
+   "Prove e ajuste o mel se necessário.",
+   "Sirva imediatamente."
+  ],
+  "dica": "O gengibre fresco dá um toque picante antes do treino. A cor verde do espinafre é camuflada pelo pêssego, tornando a bebida alaranjada e convidativa."
+ },
+ {
+  "id": "vitamina-energetica-de-beterraba",
+  "nome": "Vitamina Energética de Beterraba",
+  "descricao": "Beterraba, vitamina e gengibre em shake pré-treino",
+  "refeicao": "pre-treino",
+  "pagina": 263,
+  "macros": {
+   "calorias": 157,
+   "proteinas": 3,
+   "carboidratos": 37,
+   "lipideos": 1
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Beterraba cozida",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Laranja",
+    "qtd": "150 g (suco de 1 laranja grande)"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Gengibre",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Esprema a laranja para suco mais limpo, ou descasque e separe os gomos para preservar fibras.",
+   "Coloque a beterraba cozida picada, a laranja, o mel e o gengibre ralado no liquidificador.",
+   "Bata por 30 segundos até ficar homogêneo.",
+   "Sirva gelada, de preferência 40 min antes do treino."
+  ],
+  "dica": "A beterraba traz cor intensa e sabor terroso ao shake. O gengibre adiciona picância e deixa a bebida mais aromática para o pré-treino."
+ },
+ {
+  "id": "batida-de-biomassa-com-frutas",
+  "nome": "Batida de Biomassa com Frutas",
+  "descricao": "Biomassa de banana verde com frutas",
+  "refeicao": "pre-treino",
+  "pagina": 264,
+  "macros": {
+   "calorias": 188,
+   "proteinas": 3,
+   "carboidratos": 35,
+   "lipideos": 4
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ameixas secas",
+    "qtd": "24 g (3 ameixas)"
+   },
+   {
+    "nome": "Mamão pequeno picado",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "12 g"
+   },
+   {
+    "nome": "Biomassa de banana verde",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Água filtrada",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Deixe as ameixas secas de molho em água morna por 10 minutos para amolecer. Escorra.",
+   "Coloque no liquidificador as ameixas, o mamão picado, a chia, a biomassa e a água filtrada.",
+   "Bata em velocidade alta por 1 a 2 minutos até ficar completamente homogêneo. Adicione gelo se preferir gelado.",
+   "Sirva sem coar para aproveitar todas as fibras."
+  ],
+  "dica": "A biomassa de banana verde deixa o creme mais espesso e neutro. Dica de preparo: hidrate as ameixas com antecedência; no dia, a montagem leva apenas 3 minutos."
+ },
+ {
+  "id": "tapioca-com-banana-e-queijo-minas",
+  "nome": "Tapioca com Banana e Queijo Minas",
+  "descricao": "Carboidrato rápido e potássio para abastecer antes do treino",
+  "refeicao": "pre-treino",
+  "pagina": 265,
+  "macros": {
+   "calorias": 193,
+   "proteinas": 6,
+   "carboidratos": 36,
+   "lipideos": 4
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tapioca",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Aqueça uma frigideira antiaderente em fogo médio.",
+   "Espalhe a goma de tapioca formando um disco fino. Cozinhe por cerca de 1 minuto, até firmar.",
+   "Fatie a banana e distribua sobre a tapioca junto com o Queijo Minas fatiado.",
+   "Regue com mel, dobre ao meio e sirva."
+  ],
+  "dica": "A tapioca é neutra, rápida e fácil de dourar na frigideira. Com queijo e banana, cria contraste entre salgado, doce e cremoso."
+ },
+ {
+  "id": "banana-com-whey-para-o-treino",
+  "nome": "Banana com Whey para o Treino",
+  "descricao": "Energia rápida com whey e banana antes do treino",
+  "refeicao": "pre-treino",
+  "pagina": 266,
+  "macros": {
+   "calorias": 194,
+   "proteinas": 25,
+   "carboidratos": 21,
+   "lipideos": 1
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Whey protein isolado",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "1 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Corte a banana em rodelas.",
+   "Misture a banana com o whey protein e a canela em um prato.",
+   "Amasse levemente com um garfo até incorporar.",
+   "Consuma imediatamente antes do treino."
+  ],
+  "dica": "A banana fornece doçura natural, textura cremosa e potássio. Com whey, vira um pré-treino prático e proteico."
+ },
+ {
+  "id": "batida-digestiva-de-ameixa",
+  "nome": "Batida Digestiva de Ameixa",
+  "descricao": "Ameixa e iogurte em vitamina cremosa",
+  "refeicao": "pre-treino",
+  "pagina": 267,
+  "macros": {
+   "calorias": 195,
+   "proteinas": 9,
+   "carboidratos": 37,
+   "lipideos": 3
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ameixas pretas sem caroço",
+    "qtd": "16 g (2 ameixas)"
+   },
+   {
+    "nome": "Iogurte desnatado de baunilha",
+    "qtd": "170 g (1 pote)"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Adoçante em gotas",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque as ameixas sem caroço, o iogurte e a aveia no liquidificador. Adicione gelo a gosto.",
+   "Bata em velocidade alta por 1 minuto até obter uma mistura cremosa e homogênea. Adicione o adoçante se necessário.",
+   "Sirva imediatamente sem coar, para manter todas as fibras que auxiliam o funcionamento intestinal."
+  ],
+  "dica": "As ameixas trazem doçura intensa e ajudam a encorpar a vitamina. Hidrate antes se quiser uma textura mais lisa."
+ },
+ {
+  "id": "vitamina-de-beterraba-e-laranja",
+  "nome": "Vitamina de Beterraba e Laranja",
+  "descricao": "Vitamina pré-treino com beterraba, laranja e gengibre",
+  "refeicao": "pre-treino",
+  "pagina": 268,
+  "macros": {
+   "calorias": 220,
+   "proteinas": 3,
+   "carboidratos": 52,
+   "lipideos": 1
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Beterraba crua",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Laranja",
+    "qtd": "150 g (1 laranja grande)"
+   },
+   {
+    "nome": "Maçã",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Gengibre fresco",
+    "qtd": "5 g (1 colher de chá de gengibre ralado)"
+   },
+   {
+    "nome": "Água de coco",
+    "qtd": "150 ml"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Descasque e corte a beterraba, a laranja (retire a casca e o bagaço) e a maçã em pedaços.",
+   "Bata beterraba crua, laranja, maçã, gengibre fresco, a o água de coco e mel no liquidificador até obter uma mistura lisa.",
+   "Se quiser mais gelado, adicione gelo.",
+   "Sirva gelada como pré-treino energizante. 8 8"
+  ],
+  "dica": "A beterraba crua preserva cor intensa e sabor terroso. A combinação com laranja e gengibre rende um pré-treino rico em carboidratos naturais e nitratos naturalmente presentes na beterraba."
+ },
+ {
+  "id": "toast-de-banana-com-mel-e-canela",
+  "nome": "Toast de Banana com Mel e Canela",
+  "descricao": "Energia rápida com banana e mel antes do treino",
+  "refeicao": "pre-treino",
+  "pagina": 269,
+  "macros": {
+   "calorias": 229,
+   "proteinas": 6,
+   "carboidratos": 51,
+   "lipideos": 2
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Toste as fatias de pão na torradeira.",
+   "Corte a banana em rodelas e distribua sobre as torradas.",
+   "Regue com o mel e polvilhe a canela.",
+   "Sirva enquanto o pão estiver crocante."
+  ],
+  "dica": "A banana com mel e canela sobre pão integral oferece carboidrato e sabor doce em uma montagem rápida. A canela reforça o aroma e combina bem com o mel."
+ },
+ {
+  "id": "tapioca-com-frango",
+  "nome": "Tapioca com Frango",
+  "descricao": "Energia rápida com frango e tapioca antes do treino",
+  "refeicao": "pre-treino",
+  "pagina": 270,
+  "macros": {
+   "calorias": 252,
+   "proteinas": 25,
+   "carboidratos": 29,
+   "lipideos": 3
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tapioca",
+    "qtd": "50 g (goma hidratada)"
+   },
+   {
+    "nome": "Frango",
+    "qtd": "80 g (desfiado)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Espalhe a goma de tapioca hidratada na frigideira antiaderente em fogo médio, formando um disco uniforme. Deixe firmar por 1a 2 minutos sem mexer.",
+   "Distribua o frango desfiado sobre metade do disco. Tempere com uma pitada de sal e orégano a gosto.",
+   "Dobre a tapioca ao meio com a ajuda de uma espátula e sirva quente."
+  ],
+  "dica": "Tapioca com frango é o pré-treino clássico brasileiro: carboidrato rápido e proteína magra em 7 minutos."
+ },
+ {
+  "id": "pao-com-ovo-pre-treino",
+  "nome": "Pão com Ovo Pré-Treino",
+  "descricao": "Pão integral com ovo: energia rápida e simples para o treino",
+  "refeicao": "pre-treino",
+  "pagina": 271,
+  "macros": {
+   "calorias": 254,
+   "proteinas": 12,
+   "carboidratos": 24,
+   "lipideos": 13
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Azeite (para untar)",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Toste o pão integral na frigideira ou torradeira.",
+   "Frite o ovo em frigideira antiaderente com um fio de azeite.",
+   "Monte o sanduíche com o ovo sobre o pão torrado.",
+   "Consuma 40 a 60 minutos antes do treino."
+  ],
+  "dica": "Pão com ovo é uma opção de pré-treino simples e rápida: carboidrato do pão e proteína do ovo prontos em poucos minutos."
+ },
+ {
+  "id": "vitamina-energetica-pre-treino",
+  "nome": "Vitamina Energética Pré-Treino",
+  "descricao": "Carboidrato rápido e whey para abastecer antes do treino",
+  "refeicao": "pre-treino",
+  "pagina": 272,
+  "macros": {
+   "calorias": 264,
+   "proteinas": 32,
+   "carboidratos": 31,
+   "lipideos": 1
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Whey protein",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o leite desnatado no liquidificador como base líquida.",
+   "Adicione o whey protein e a banana.",
+   "Bata em velocidade alta por 45 segundos a 1 minuto até obter uma textura cremosa e homogênea. Raspe as laterais se necessário.",
+   "Sirva imediatamente em copo alto. Para uma versão mais gelada, adicione 4 pedras de gelo antes de bater."
+  ],
+  "dica": "A combinação de leite, whey e banana cria uma bebida líquida, doce e fácil de preparar antes do treino. Use banana madura para deixar a textura mais cremosa."
+ },
+ {
+  "id": "mingau-de-aveia-express",
+  "nome": "Mingau de Aveia Express",
+  "descricao": "Aveia com banana amassada e canela",
+  "refeicao": "pre-treino",
+  "pagina": 273,
+  "macros": {
+   "calorias": 284,
+   "proteinas": 12,
+   "carboidratos": 53,
+   "lipideos": 2
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "150 ml"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "3 g"
+   }
+  ],
+  "passos": [
+   "Em uma panela, misture a aveia com o leite desnatado.",
+   "Cozinhe em fogo baixo por 4 minutos, mexendo sempre até engrossar.",
+   "Fatie a banana e misture ao mingau.",
+   "Polvilhe canela por cima e sirva morno."
+  ],
+  "dica": "A aveia deixa o mingau mais encorpado e cremoso. Combine com banana madura para um pré-treino mais agradável."
+ },
+ {
+  "id": "mingau-express-de-aveia-com-banana",
+  "nome": "Mingau Express de Aveia com Banana",
+  "descricao": "Aveia com banana e mel em mingau pré-treino",
+  "refeicao": "pre-treino",
+  "pagina": 274,
+  "macros": {
+   "calorias": 318,
+   "proteinas": 14,
+   "carboidratos": 56,
+   "lipideos": 2
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Misture a aveia com o leite em um bowl próprio para micro-ondas.",
+   "Aqueça por 2 minutos, mexendo na metade do tempo.",
+   "Retire, corte a banana em rodelas e coloque por cima.",
+   "Finalize com o mel.",
+   "Sirva morno."
+  ],
+  "dica": "O mel na aveia adiciona doçura e ajuda a deixar o mingau mais redondo. Use pouco para não encobrir o sabor da banana."
+ },
+ {
+  "id": "banana-com-pasta-de-amendoim-natural",
+  "nome": "Banana com Pasta de Amendoim Natural",
+  "descricao": "Potássio, gordura boa e carboidrato rápido em 3 minutos",
+  "refeicao": "pre-treino",
+  "pagina": 275,
+  "macros": {
+   "calorias": 399,
+   "proteinas": 10,
+   "carboidratos": 56,
+   "lipideos": 15
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana prata",
+    "qtd": "160 g (2 bananas)"
+   },
+   {
+    "nome": "Pasta de amendoim natural",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Descasque as bananas e corte ao meio no sentido do comprimento ou em rodelas grossas.",
+   "Disponha as bananas no prato ao lado da pasta de amendoim para mergulhar.",
+   "Regue com mel sobre a pasta e sirva."
+  ],
+  "dica": "A banana cortada deixa o pré-treino doce e prático, enquanto a pasta de amendoim adiciona gordura e sabor tostado. Ajuste o horário conforme sua tolerância antes do treino."
+ },
+ {
+  "id": "vitamina-pre-treino-de-aveia-e-frutas",
+  "nome": "Vitamina Pré-Treino de Aveia e Frutas",
+  "descricao": "Aveia com frutas em vitamina pré-treino",
+  "refeicao": "pre-treino",
+  "pagina": 276,
+  "macros": {
+   "calorias": 401,
+   "proteinas": 15,
+   "carboidratos": 83,
+   "lipideos": 4
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana",
+    "qtd": "80 g (1 banana)"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Manga",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Gengibre em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Bata a banana, a aveia em flocos, a manga, o leite desnatado, o mel e o gengibre em pó no liquidificador até obter uma vitamina cremosa e bem encorpada.",
+   "Se estiver muito grossa, adicione um pouco mais de leite.",
+   "Sirva em copo grande, imediatamente antes do treino, para fornecer energia de liberação gradual."
+  ],
+  "dica": "A manga traz doçura, acidez e cor à vitamina. Combinada com aveia, deixa o pré-treino mais cremoso e fácil de bater."
+ },
+ {
+  "id": "bowl-de-frango-teriyaki-com-batata-doce-e-brocolis",
+  "nome": "Bowl de Frango Teriyaki com Batata-Doce e Brócolis",
+  "descricao": "Proteína magra com carboidrato complexo e brócolis",
+  "refeicao": "pre-treino",
+  "pagina": 277,
+  "macros": {
+   "calorias": 487,
+   "proteinas": 52,
+   "carboidratos": 43,
+   "lipideos": 13
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Peito de frango em cubos",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Batata-Doce cozida em cubos",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Brócolis (floretes pré-cozidos al dente)",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Molho teriyaki",
+    "qtd": "20 ml"
+   },
+   {
+    "nome": "Gergelim",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Aqueça o azeite em uma frigideira em fogo alto. Sele os cubos de frango por 3 a 4 minutos até dourar.",
+   "Adicione o molho teriyaki e mexa por 30 segundos.",
+   "Aqueça a batata-doce e o brócolis (ambos já pré-cozidos) no micro-ondas por 1 minuto e meio, apenas para voltar à temperatura de servir.",
+   "Monte o bowl: batata-doce e brócolis na base, frango teriyaki por cima, finalize com gergelim."
+  ],
+  "dica": "O molho teriyaki traz dulçor, sal e brilho ao frango. Use pouco para não deixar o prato salgado demais."
+ },
+ {
+  "id": "wrap-de-banana-com-aveia-e-mel",
+  "nome": "Wrap de Banana com Aveia e Mel",
+  "descricao": "Prático e portátil com aveia e banana",
+  "refeicao": "pre-treino",
+  "pagina": 278,
+  "macros": {
+   "calorias": 495,
+   "proteinas": 14,
+   "carboidratos": 74,
+   "lipideos": 18
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g (1 banana)"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Pasta de amendoim",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Aqueça a tortilha por 30 segundos de cada lado em a ie frigideira seca.",
+   "Espalhe a pasta de amendoim sobre toda a superfície.",
+   "Distribua a aveia em flocos.",
+   "Coloque a banana inteira ou em rodelas no centro.",
+   "Regue com mel e polvilhe canela.",
+   "Enrole firmemente e sirva."
+  ],
+  "dica": "O wrap com banana e aveia combina três fontes de carboidrato (tortilha, banana, aveia) para energia escalonada no treino."
+ },
+ {
+  "id": "prato-de-tilapia-grelhada-com-pure-de-batata-doce",
+  "nome": "Prato de Tilápia Grelhada com Purê de Batata-Doce",
+  "descricao": "Energia rápida com tilápia e batata-doce antes do treino",
+  "refeicao": "pre-treino",
+  "pagina": 279,
+  "macros": {
+   "calorias": 504,
+   "proteinas": 40,
+   "carboidratos": 42,
+   "lipideos": 23
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Filé de tilápia",
+    "qtd": "180 g"
+   },
+   {
+    "nome": "Batata-Doce cozida",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Manteiga",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Leite integral",
+    "qtd": "30 ml"
+   },
+   {
+    "nome": "Sal e pimenta",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Salsinha",
+    "qtd": "3 g"
+   }
+  ],
+  "passos": [
+   "Amasse a batata-doce (já cozida) com a manteiga e o leite até formar um purê cremoso. Reserve.",
+   "Tempere a tilápia com sal, pimenta e um fio de azeite. ND Grelhe em frigideira antiaderente bem quente por 2 a 3 minutos de cada lado até dourar.",
+   "Sirva o filé sobre o purê de batata-doce e finalize com salsinha picada."
+  ],
+  "dica": "A tilápia tem sabor suave e cozinha rápido. O purê de batata-doce deixa o prato macio e levemente adocicado."
+ },
+ {
+  "id": "mingau-express-de-aveia-com-banana-e-amendoim",
+  "nome": "Mingau Express de Aveia com Banana e Amendoim",
+  "descricao": "Mingau de aveia com banana amassada e pasta de amendoim, 20 de proteína",
+  "refeicao": "pre-treino",
+  "pagina": 280,
+  "macros": {
+   "calorias": 512,
+   "proteinas": 20,
+   "carboidratos": 78,
+   "lipideos": 11
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g (1 banana)"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Pasta de amendoim",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Coloque a aveia e o leite em uma tigela de vidro.",
+   "Micro-ondas por 2 minutos, pausando para mexer na metade.",
+   "Mexa bem até obter uma consistência homogênea.",
+   "Adicione a banana amassada e misture.",
+   "Regue com mel e a pasta de amendoim.",
+   "Polvilhe canela.",
+   "Sirva morno no próprio bowl."
+  ],
+  "dica": "O mel sobre a aveia adiciona brilho e doçura. Misture bem para distribuir o sabor antes de servir."
+ },
+ {
+  "id": "risoto-express-de-camarao-com-acafrao",
+  "nome": "Risoto Express de Camarão com Açafrão",
+  "descricao": "Carboidrato inteligente com camarão e arroz",
+  "refeicao": "pre-treino",
+  "pagina": 281,
+  "macros": {
+   "calorias": 555,
+   "proteinas": 48,
+   "carboidratos": 47,
+   "lipideos": 20
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Arroz arbório cozido",
+    "qtd": "150 g (cozido previamente em água por 15 min, ou usar arroz arbório de saquinho)"
+   },
+   {
+    "nome": "Camarão limpo",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Caldo de legumes",
+    "qtd": "100 ml"
+   },
+   {
+    "nome": "Parmesão ralado",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Manteiga",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Açafrão-da-terra",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Alho",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Derreta a manteiga em uma frigideira larga em fogo pa alto, adicione o alho picado e o camarão limpo. Salteie por 2 minutos até o camarão ficar rosado. Reserve.",
+   "Na mesma frigideira, adicione o arroz arbório cozido, metade do caldo de legumes e o açafrão-da-terra. Mexa por 1 minuto, adicione o restante do caldo aos poucos e continue mexendo por mais 1-2 minutos até ficar cremoso e o caldo reduzir.",
+   "Desligue o fogo, junte o parmesão, mexa bem.",
+   "Sirva com o camarão por cima."
+  ],
+  "dica": "O arroz arbório libera amido com facilidade durante o cozimento, criando a textura cremosa clássica do risoto e fornecendo carboidrato de absorção rápida bom perfil para o pré-treino próximo ao exercício. O camarão adiciona iodo e proteína leve."
+ },
+ {
+  "id": "sanduiche-de-frango-grelhado-com-queijo-derretido",
+  "nome": "Sanduíche de Frango Grelhado com Queijo Derretido",
+  "descricao": "54 de proteína com cálcio do queijo: pré-treino completo em 5 min",
+  "refeicao": "pre-treino",
+  "pagina": 282,
+  "macros": {
+   "calorias": 573,
+   "proteinas": 54,
+   "carboidratos": 38,
+   "lipideos": 22
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Pão de forma integral",
+    "qtd": "80 g (2 fatias)"
+   },
+   {
+    "nome": "Peito de frango grelhado fatiado",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Queijo mussarela fatiado",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Mostarda",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Coloque as fatias de frango com a mussarela por cima em um prato e aqueça no micro-ondas por 40 segundos para derreter o queijo.",
+   "Regue levemente as fatias de pão com o azeite de oliva e toste na torradeira ou em uma frigideira antiaderente em fogo médio por 1 a 2 minutos de cada lado, até ficarem douradas e crocantes.",
+   "Monte: pão, mostarda, alface, tomate fatiado, frango com queijo derretido.",
+   "Feche e corte na diagonal."
+  ],
+  "dica": "O queijo derretido sobre o frango adiciona sabor e cremosidade. Para o pré-treino, mantenha a porção de queijo moderada."
+ },
+ {
+  "id": "frutas-secas-com-mel-nozes-e-amendoas",
+  "nome": "Frutas Secas com Mel, Nozes e Amêndoas",
+  "descricao": "Energia rápida com mel e canela antes do treino",
+  "refeicao": "pre-treino",
+  "pagina": 283,
+  "macros": {
+   "calorias": 585,
+   "proteinas": 10,
+   "carboidratos": 80,
+   "lipideos": 27
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tâmara sem caroço",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Damasco seco",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Passas douradas",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Nozes",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Amêndoas",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Pique as tâmaras e os damascos em pedaços menores.",
+   "Misture em uma tigela as tâmaras, os damascos, as passas douradas, as nozes e as amêndoas. Regue com o mel e polvilhe a canela.",
+   "Transfira para um recipiente portátil e consuma 20 a 30 minutos antes do treino."
+  ],
+  "dica": "As tâmaras são densas em energia: 280 kcal por 100 g, com potássio e ferro concentrados."
+ },
+ {
+  "id": "pasta-de-atum-proteica-em-pao-sirio",
+  "nome": "Pasta de Atum Proteica em Pão Sírio",
+  "descricao": "Pão sírio recheado com pasta cremosa de atum e 42 de proteína em 5 min",
+  "refeicao": "pre-treino",
+  "pagina": 284,
+  "macros": {
+   "calorias": 636,
+   "proteinas": 42,
+   "carboidratos": 54,
+   "lipideos": 27
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Atum sólido em água",
+    "qtd": "130 g (1 lata grande, escorrida)"
+   },
+   {
+    "nome": "Pão sírio integral",
+    "qtd": "80 g (2 unidades)"
+   },
+   {
+    "nome": "Cream cheese",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Cenoura ralada",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Milho verde",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Limão (suco)",
+    "qtd": "10 ml"
+   }
+  ],
+  "passos": [
+   "Escorra bem o atum e misture em uma tigela com o cream cheese, cenoura ralada, milho, azeite e suco de A limão.",
+   "Mexa até ficar uma pasta consistente.",
+   "Abra os pães sírios, recheie generosamente com a pasta de atum.",
+   "Se preferir, aqueça no micro-ondas por 30 segundos antes de servir."
+  ],
+  "dica": "O atum deixa o sanduíche salgado e proteico. O pão sírio é fino, dobra fácil e segura bem o recheio."
+ }
+]

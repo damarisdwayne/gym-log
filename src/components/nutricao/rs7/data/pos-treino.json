@@ -1,0 +1,1496 @@
+[
+ {
+  "id": "shake-refrescante-de-morango-com-mel",
+  "nome": "Shake Refrescante de Morango com Mel",
+  "descricao": "Morango com mel e whey: frescor pós-treino",
+  "refeicao": "pos-treino",
+  "pagina": 285,
+  "macros": {
+   "calorias": 198,
+   "proteinas": 25,
+   "carboidratos": 22,
+   "lipideos": 2
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor morango",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Água gelada",
+    "qtd": "250 ml"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque a água gelada, os morangos, o mel e o whey no liquidificador.",
+   "Bata por 30 segundos até ficar bem misturado.",
+   "Sirva com gelo se desejar."
+  ],
+  "dica": "O morango traz acidez, aroma fresco e cor viva ao smoothie. Com whey, deixa a bebida mais proteica e fácil de beber no pós-treino."
+ },
+ {
+  "id": "shake-energetico-de-cafe-com-banana",
+  "nome": "Shake Energético de Café com Banana",
+  "descricao": "Café com banana e whey: cafeína e proteína juntos",
+  "refeicao": "pos-treino",
+  "pagina": 286,
+  "macros": {
+   "calorias": 252,
+   "proteinas": 32,
+   "carboidratos": 30,
+   "lipideos": 2
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Café forte (resfriado)",
+    "qtd": "50 ml"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o leite, o café já resfriado, a banana picada e o whey no liquidificador.",
+   "Bata por 30 segundos.",
+   "Sirva com gelo para uma versão ainda mais refrescante."
+  ],
+  "dica": "O café no shake pós-treino traz amargor e aroma tostado, equilibrando a doçura da banana e o sabor do whey."
+ },
+ {
+  "id": "shake-tropical-de-manga-com-agua-de-coco",
+  "nome": "Shake Tropical de Manga com Água de Coco",
+  "descricao": "Manga com água de coco: hidratação tropical pós-treino",
+  "refeicao": "pos-treino",
+  "pagina": 287,
+  "macros": {
+   "calorias": 254,
+   "proteinas": 27,
+   "carboidratos": 30,
+   "lipideos": 4
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Água de coco",
+    "qtd": "250 ml"
+   },
+   {
+    "nome": "Manga",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Coloque a água de coco, a manga picada, o whey e a chia no liquidificador.",
+   "Bata por 30 segundos até ficar homogêneo.",
+   "Sirva imediatamente para aproveitar a textura fresca."
+  ],
+  "dica": "A água de coco contribui com potássio e magnésio, ajudando na hidratação após o treino."
+ },
+ {
+  "id": "tigela-de-frutas-vermelhas-com-whey-e-mel",
+  "nome": "Tigela de Frutas Vermelhas com Whey e Mel",
+  "descricao": "Recuperação com whey, morango e mirtilo: 28 de proteína",
+  "refeicao": "pos-treino",
+  "pagina": 288,
+  "macros": {
+   "calorias": 272,
+   "proteinas": 28,
+   "carboidratos": 26,
+   "lipideos": 8
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Whey protein sabor morango",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Mirtilo",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Misture o iogurte grego com o whey no bowl até ficar cremoso.",
+   "Corte os morangos ao meio e distribua junto com os mirtilos por cima.",
+   "Finalize regando com o mel.",
+   "Sirva gelado."
+  ],
+  "dica": "As frutas vermelhas trazem acidez, cor intensa e aroma fresco ao iogurte. Use congeladas para uma textura mais gelada."
+ },
+ {
+  "id": "vitamina-de-frutas-tropicais-com-whey",
+  "nome": "Vitamina de Frutas Tropicais com Whey",
+  "descricao": "Tropical com whey, manga e morango, 284 kcal",
+  "refeicao": "pos-treino",
+  "pagina": 289,
+  "macros": {
+   "calorias": 284,
+   "proteinas": 31,
+   "carboidratos": 38,
+   "lipideos": 2
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Manga",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "150 ml"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o leite desnatado no liquidificador como base líquida.",
+   "Adicione o whey protein, a manga, a banana e os morangos.",
+   "Bata em velocidade alta por 45 segundos a 1 minuto até obter uma textura cremosa e homogênea. Raspe as laterais se necessário.",
+   "Sirva imediatamente em copo alto. Para uma versão mais gelada, adicione 4 pedras de gelo antes de bater."
+  ],
+  "dica": "A combinação de manga, banana e morango entrega vitaminas A, e potássio. Com whey, a bebida fica mais proteica e prática para o pós-treino."
+ },
+ {
+  "id": "tigela-tropical-de-manga-e-coco",
+  "nome": "Tigela Tropical de Manga e Coco",
+  "descricao": "Recuperação com whey e manga: 27 de proteína",
+  "refeicao": "pos-treino",
+  "pagina": 290,
+  "macros": {
+   "calorias": 315,
+   "proteinas": 27,
+   "carboidratos": 22,
+   "lipideos": 15
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Manga",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Coco ralado",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Misture o iogurte grego com o whey em um bowl até ficar homogêneo.",
+   "Corte a manga em cubinhos e distribua por cima.",
+   "Finalize com o coco ralado.",
+   "Sirva gelado."
+  ],
+  "dica": "A manga traz doçura natural, aroma tropical e cor intensa. O coco ralado adiciona textura e gordura ao shake."
+ },
+ {
+  "id": "acai-proteico-com-banana-e-granola",
+  "nome": "Açaí Proteico com Banana e Granola",
+  "descricao": "Bowl de açaí com whey e granola, 318 kcal",
+  "refeicao": "pos-treino",
+  "pagina": 291,
+  "macros": {
+   "calorias": 318,
+   "proteinas": 15,
+   "carboidratos": 40,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Polpa de açaí",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Granola",
+    "qtd": "20 g"
+   }
+  ],
+  "passos": [
+   "Bata a polpa de açaí com metade da banana e o whey no liquidificador por 30 segundos até ficar cremoso e espesso.",
+   "Transfira para um bowl.",
+   "Corte o restante da banana em rodelas e distribua por cima junto com a granola."
+  ],
+  "dica": "O açaí é rico em antocianinas, pigmentos responsáveis pela cor roxa intensa. Com whey, banana e granola, vira uma tigela energética e mais proteica."
+ },
+ {
+  "id": "batida-de-whey-protein-com-amendoas",
+  "nome": "Batida de Whey Protein com Amêndoas",
+  "descricao": "Amêndoas e whey: gordura boa e leucina no pós-treino",
+  "refeicao": "pos-treino",
+  "pagina": 292,
+  "macros": {
+   "calorias": 319,
+   "proteinas": 35,
+   "carboidratos": 25,
+   "lipideos": 9
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Amêndoas (cerca de 10 unidades)",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o leite desnatado no liquidificador junto com as amêndoas. Bata por 30 segundos para triturar as amêndoas e criar uma base cremosa.",
+   "Adicione o whey protein, a banana e o gelo. Bata em YP 8 velocidade alta por mais 1 minuto até ficar espesso e homogêneo.",
+   "Prove e ajuste a consistência com mais leite se preferir menos espesso.",
+   "Sirva imediatamente em copo alto. As amêndoas adicionam gorduras boas e textura crocante ao shake."
+  ],
+  "dica": "As amêndoas adicionam crocância e sabor tostado à batida. Use laminadas para distribuir melhor em cada gole."
+ },
+ {
+  "id": "wrap-pos-treino-de-ovo-e-queijo-minas",
+  "nome": "Wrap Pós-Treino de Ovo e Queijo Minas",
+  "descricao": "Wrap proteico com ovo mexido e Queijo Minas, 21g de proteína",
+  "refeicao": "pos-treino",
+  "pagina": 293,
+  "macros": {
+   "calorias": 330,
+   "proteinas": 21,
+   "carboidratos": 24,
+   "lipideos": 18
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "100 g (2 unidades)"
+   },
+   {
+    "nome": "Queijo Minas frescal",
+    "qtd": "30 g"
+   }
+  ],
+  "passos": [
+   "Quebre os ovos em uma frigideira antiaderente em fogo médio-baixo.",
+   "Mexa constantemente com uma espátula por 2 minutos até formar ovos mexidos cremosos.",
+   "Aqueça a tortilha no micro-ondas por 15 segundos.",
+   "Coloque os ovos mexidos na tortilha, adicione o Queijo Minas ralado ou em fatias finas e enrole.",
+   "Sirva quente."
+  ],
+  "dica": "O ovo mexido em fogo baixo, com mexidas lentas e constantes, resulta em textura cremosa que combina perfeitamente com o Queijo Minas no wrap. Para mais proteína, adicione uma clara extra."
+ },
+ {
+  "id": "tigela-energetica-de-aveia-banana-e-chia",
+  "nome": "Tigela Energética de Aveia, Banana e Chia",
+  "descricao": "Recuperação com aveia e banana: 18 de proteína",
+  "refeicao": "pos-treino",
+  "pagina": 294,
+  "macros": {
+   "calorias": 340,
+   "proteinas": 18,
+   "carboidratos": 51,
+   "lipideos": 10
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte grego no bowl.",
+   "Adicione a aveia e misture levemente.",
+   "Corte a banana em rodelas e distribua por cima.",
+   "Polvilhe a chia e regue com o mel.",
+   "Sirva no bowl e consuma logo após o treino."
+  ],
+  "dica": "A banana é prática, doce e combina muito bem com iogurte grego no pós-treino. Use bem madura para deixar a tigela mais cremosa."
+ },
+ {
+  "id": "escondidinho-de-frigideira",
+  "nome": "Escondidinho de Frigideira",
+  "descricao": "Purê de batata com frango e mussarela gratinada direto na frigideira",
+  "refeicao": "pos-treino",
+  "pagina": 295,
+  "macros": {
+   "calorias": 343,
+   "proteinas": 34,
+   "carboidratos": 26,
+   "lipideos": 11
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Batata inglesa cozida",
+    "qtd": "150 g (1 batata média, cozida previamente em água até macia, cerca de 20 min)"
+   },
+   {
+    "nome": "Requeijão light",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Frango desfiado",
+    "qtd": "80 g (cozido previamente e desfiado)"
+   },
+   {
+    "nome": "Queijo mussarela",
+    "qtd": "20 g (1 fatia)"
+   },
+   {
+    "nome": "Sal e temperos",
+    "qtd": "a gosto (sal, alho em pó e salsinha picada)"
+   }
+  ],
+  "passos": [
+   "Amasse a batata cozida com um garfo e misture com o requeijão, sal, alho em pó e salsinha até formar um purê cremoso.",
+   "Em uma frigideira antiaderente, espalhe metade do purê cobrindo o fundo.",
+   "Distribua o frango desfiado por cima e cubra com o restante do purê.",
+   "Coloque a fatia de mussarela por cima, tampe e deixe em fogo baixo por 5 a 6 minutos até o queijo derreter e o recheio aquecer bem."
+  ],
+  "dica": "A batata inglesa cozida deixa o escondidinho macio e familiar. Combinada com frango desfiado, cria uma refeição simples de pós-treino. O requeijão light adiciona cremosidade sem pesar."
+ },
+ {
+  "id": "shake-de-chocolate-intenso-com-pasta-de-amendoim",
+  "nome": "Shake de Chocolate Intenso com Pasta de Amendoim",
+  "descricao": "Chocolate intenso com pasta de amendoim e whey",
+  "refeicao": "pos-treino",
+  "pagina": 296,
+  "macros": {
+   "calorias": 352,
+   "proteinas": 38,
+   "carboidratos": 23,
+   "lipideos": 12
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "250 ml"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Pasta de amendoim",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o leite o whey, o cacau e a pasta de amendoim no liquidificador.",
+   "Bata por 40 segundos até ficar cremoso.",
+   "Para um shake mais gelado, adicione 3 a 4 cubos de gelo antes de bater."
+  ],
+  "dica": "O whey protein no pós-treino deixa a vitamina prática e proteica. A pasta de amendoim ajuda na textura cremosa e no sabor encorpado."
+ },
+ {
+  "id": "shake-classico-de-banana-com-aveia",
+  "nome": "Shake Clássico de Banana com Aveia",
+  "descricao": "O clássico shake de banana e aveia que nunca falha",
+  "refeicao": "pos-treino",
+  "pagina": 297,
+  "macros": {
+   "calorias": 360,
+   "proteinas": 35,
+   "carboidratos": 52,
+   "lipideos": 4
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "250 ml"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "20 g"
+   }
+  ],
+  "passos": [
+   "Coloque o leite, a banana picada, a aveia e o whey no liquidificador.",
+   "Bata por 40 segundos até ficar cremoso e homogêneo.",
+   "Sirva em um copo grande ou coqueteleira."
+  ],
+  "dica": "O whey pós-treino deixa a bebida rápida, proteica e fácil de preparar."
+ },
+ {
+  "id": "panqueca-de-whey-com-banana",
+  "nome": "Panqueca de Whey com Banana",
+  "descricao": "Apenas 4 ingredientes (ovo, aveia, whey e banana): pronta em 6 minutos",
+  "refeicao": "pos-treino",
+  "pagina": 298,
+  "macros": {
+   "calorias": 370,
+   "proteinas": 31,
+   "carboidratos": 33,
+   "lipideos": 12
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "100 g (2 unidades)"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "60 g"
+   }
+  ],
+  "passos": [
+   "Bata ovo, aveia em flocos, whey protein baunilha e banana no liquidificador por 20 segundos.",
+   "Aqueça uma frigideira antiaderente em fogo médio. É Rs ua",
+   "Despeje a massa formando 2 a 3 panquecas.",
+   "Cozinhe 1 minuto e meio de cada lado até dourar.",
+   "Sirva empilhadas."
+  ],
+  "dica": "O ovo é uma proteína de alto valor biológico. Barato, versátil e completo em aminoácidos."
+ },
+ {
+  "id": "vitamina-proteica-de-banana-com-maracuja",
+  "nome": "Vitamina Proteica de Banana com Maracujá",
+  "descricao": "Banana com maracujá e whey: shake pós-treino rico em vitamina e proteína",
+  "refeicao": "pos-treino",
+  "pagina": 299,
+  "macros": {
+   "calorias": 374,
+   "proteinas": 32,
+   "carboidratos": 54,
+   "lipideos": 5
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Suco de maracujá",
+    "qtd": "120 ml"
+   },
+   {
+    "nome": "Whey protein",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "120 ml"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Coloque o leite desnatado e o suco de maracujá no liquidificador como base líquida.",
+   "Adicione a banana em pedaços, o whey protein e a J. aveia em flocos.",
+   "Bata em velocidade alta por 45 segundos a 1 minuto até obter uma textura cremosa e homogênea.",
+   "Sirva imediatamente em copo alto. Para uma versão mais gelada, adicione pedras de gelo antes de bater."
+  ],
+  "dica": "O maracujá traz acidez e aroma marcante ao shake. A combinação de whey com banana deixa a bebida proteica, cremosa e prática para o pós-treino."
+ },
+ {
+  "id": "vitamina-de-morango-com-whey",
+  "nome": "Vitamina de Morango com Whey",
+  "descricao": "Morango fresco com whey: vitamina e proteína completa",
+  "refeicao": "pos-treino",
+  "pagina": 300,
+  "macros": {
+   "calorias": 392,
+   "proteinas": 49,
+   "carboidratos": 35,
+   "lipideos": 6
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "40 g (1⅓ scoop)"
+   },
+   {
+    "nome": "Morango fresco",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "250 ml"
+   },
+   {
+    "nome": "Iogurte grego",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "100 g (5-6 cubos)"
+   }
+  ],
+  "passos": [
+   "Bata o whey protein, os morangos frescos, o leite desnatado, o iogurte grego, o mel e o gelo no liquidificador até obter um shake cremoso, frio e espumoso.",
+   "Sirva imediatamente em um copo grande.",
+   "Consuma em até 30 minutos após o exercício."
+  ],
+  "dica": "Bater o morango fresco com whey e gelo cria um shake encorpado, sem necessidade de muitas adições. A fruta deixa a bebida ácida, aromática e mais colorida."
+ },
+ {
+  "id": "vitamina-tropical-de-coco-com-whey",
+  "nome": "Vitamina Tropical de Coco com Whey",
+  "descricao": "Tropical com água de coco, abacaxi e whey",
+  "refeicao": "pos-treino",
+  "pagina": 301,
+  "macros": {
+   "calorias": 411,
+   "proteinas": 35,
+   "carboidratos": 46,
+   "lipideos": 12
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Água de coco",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "40 g (1⅓ scoop)"
+   },
+   {
+    "nome": "Abacaxi",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Coco ralado sem açúcar",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "100 g (5-6 cubos)"
+   }
+  ],
+  "passos": [
+   "Coloque a água de coco, o whey protein, o abacaxi em pedaços, a banana e o gelo no liquidificador. a E RE",
+   "Bata em velocidade alta até obter um shake tropical, cremoso e bem gelado.",
+   "Sirva em copo alto e finalize com o coco ralado sem açúcar salpicado por cima."
+  ],
+  "dica": "Boa opção leve para hidratação após o treino. A água de coco contribui principalmente com potássio e ajuda a repor líquidos."
+ },
+ {
+  "id": "shake-proteico-com-whey-espinafre-e-frutas",
+  "nome": "Shake Proteico com Whey, Espinafre e Frutas",
+  "descricao": "Shake verde com whey, espinafre e abacate",
+  "refeicao": "pos-treino",
+  "pagina": 302,
+  "macros": {
+   "calorias": 413,
+   "proteinas": 30,
+   "carboidratos": 54,
+   "lipideos": 13
+  },
+  "minutos": 2,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Abacate",
+    "qtd": "40 g (1/4 unidade pequena)"
+   },
+   {
+    "nome": "Espinafre",
+    "qtd": "60 g (2 xícaras de folhas)"
+   },
+   {
+    "nome": "Maçã verde",
+    "qtd": "150 g (1 maçã)"
+   },
+   {
+    "nome": "Banana congelada",
+    "qtd": "100 g (1 banana)"
+   },
+   {
+    "nome": "Água",
+    "qtd": "480 ml"
+   },
+   {
+    "nome": "Whey protein",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "12 g (1 colher de sopa)"
+   }
+  ],
+  "passos": [
+   "No liquidificador, coloque a água, o espinafre, a maçã verde cortada, a banana congelada, o abacate e a chia.",
+   "Adicione o whey protein. o E",
+   "Bata por 30 a 40 segundos até ficar cremoso e homogêneo.",
+   "Sirva gelado."
+  ],
+  "dica": "O espinafre no shake é quase indetectável no sabor e adiciona cor verde à bebida. Bata bem para não deixar fibras aparentes."
+ },
+ {
+  "id": "vitamina-de-manga-com-whey",
+  "nome": "Vitamina de Manga com Whey",
+  "descricao": "Manga e whey: betacaroteno e proteína em textura tropical",
+  "refeicao": "pos-treino",
+  "pagina": 303,
+  "macros": {
+   "calorias": 414,
+   "proteinas": 42,
+   "carboidratos": 32,
+   "lipideos": 15
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Manga Tommy",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "40 g (1⅓ scoop)"
+   },
+   {
+    "nome": "Iogurte grego",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Leite de coco light",
+    "qtd": "100 ml"
+   },
+   {
+    "nome": "Cúrcuma em pó",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Gengibre em pó",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Corte a manga em cubos.",
+   "Bata a manga, o whey protein, o iogurte grego, o leite de coco, a cúrcuma, o gengibre e o gelo no liquidificador até obter um smoothie cremoso, espesso e bem homogêneo.",
+   "Sirva em copo alto."
+  ],
+  "dica": "A manga é uma fruta doce, aromática e fonte de vitamina A, que combina muito bem com whey batido. A cúrcuma e o gengibre trazem toque especiado sutil, deixando a vitamina com sabor mais interessante."
+ },
+ {
+  "id": "batida-de-whey-protein-com-banana-e-canela",
+  "nome": "Batida de Whey Protein com Banana e Canela",
+  "descricao": "Banana com canela e whey: recuperação com sabor de torta",
+  "refeicao": "pos-treino",
+  "pagina": 304,
+  "macros": {
+   "calorias": 415,
+   "proteinas": 34,
+   "carboidratos": 63,
+   "lipideos": 3
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "3 g (1 colher de chá)"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "21 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   }
+  ],
+  "passos": [
+   "Coloque whey, banana, canela, mel, aveia e leite no liquidificador, começando pelo leite.",
+   "Bata em velocidade alta por 1 minuto até cremoso. A a aveia engrossará a textura.",
+   "Sirva imediatamente em copo alto.",
+   "Para mais cremosidade, congele a banana antes de usar."
+  ],
+  "dica": "A combinação de whey, banana e canela compõe uma batida prática com proteína e carboidrato para o pós-exercício."
+ },
+ {
+  "id": "cookie-de-frigideira-com-cacau",
+  "nome": "Cookie de Frigideira com Cacau",
+  "descricao": "Cookie proteico feito na frigideira em 5 minutos, crocante por fora, macio por dentro",
+  "refeicao": "pos-treino",
+  "pagina": 305,
+  "macros": {
+   "calorias": 415,
+   "proteinas": 18,
+   "carboidratos": 39,
+   "lipideos": 23
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Pasta de amendoim",
+    "qtd": "15 g (1 colher de sopa)"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g (½ colher de sopa)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   },
+   {
+    "nome": "Óleo de coco (para untar)",
+    "qtd": "2 ml (fio)"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "30 g (3 colheres de sopa)"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "5 g (1 colher de chá)"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "2 g (½ colher de chá)"
+   },
+   {
+    "nome": "Chocolate amargo",
+    "qtd": "10 g (1 quadradinho)"
+   }
+  ],
+  "passos": [
+   "Misture o ovo, a aveia, a pasta de amendoim, o cacau, o a mel, o fermento e uma pitada de sal até formar massa homogênea.",
+   "Aqueça uma frigideira antiaderente em fogo baixo, untada com um fio de óleo de coco, e despeje a massa, modelando em formato de cookie.",
+   "Coloque o quadradinho de chocolate amargo no centro da massa.",
+   "Tampe a frigideira e cozinhe por 3 a 4 minutos em fogo baixo até firmar e dourar levemente. Não precisa virar."
+  ],
+  "dica": "A aveia na massa do cookie ajuda a dar estrutura e textura mais firme. A pasta de amendoim adiciona gordura e sabor tostado, enquanto o cacau deixa o cookie mais intenso."
+ },
+ {
+  "id": "batida-proteica-de-morango-banana-e-mel",
+  "nome": "Batida Proteica de Morango, Banana e Mel",
+  "descricao": "Batida cremosa com iogurte grego, morango e whey: 47 de proteína",
+  "refeicao": "pos-treino",
+  "pagina": 306,
+  "macros": {
+   "calorias": 417,
+   "proteinas": 47,
+   "carboidratos": 58,
+   "lipideos": 3
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego light",
+    "qtd": "170 g (1 pote)"
+   },
+   {
+    "nome": "Morangos frescos ou congelados",
+    "qtd": "150 g (10 morangos)"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "100 ml"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "20 g (1 colher de sopa)"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Whey protein sabor morango",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto (opcional, para textura mais gelada)"
+   }
+  ],
+  "passos": [
+   "Bata leite, iogurte grego e morangos no liquidificador E E o por 30 segundos.",
+   "Adicione banana, whey, chia e mel. Bata por 1-2 minutos até cremoso.",
+   "Adicione gelo a gosto. Para menos espesso, acrescente água filtrada.",
+   "Sirva imediatamente sem coar para preservar as fibras."
+  ],
+  "dica": "O morango traz acidez, cor e aroma fresco ao shake. Congele os morangos para textura de sorvete sem adição de açúcar."
+ },
+ {
+  "id": "batida-de-whey-protein-com-manteiga-de-amendoim",
+  "nome": "Batida de Whey Protein com Manteiga de Amendoim",
+  "descricao": "Manteiga de amendoim com whey em shake denso",
+  "refeicao": "pos-treino",
+  "pagina": 307,
+  "macros": {
+   "calorias": 442,
+   "proteinas": 41,
+   "carboidratos": 44,
+   "lipideos": 12
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Manteiga de amendoim",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "300 ml"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "100 g (1 banana)"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o leite desnatado, a banana madura e a manteiga de amendoim no liquidificador.",
+   "Adicione o whey protein e bata por 30 segundos até ficar cremoso.",
+   "Acrescente o gelo a gosto, bata rapidamente e sirva em copo alto."
+  ],
+  "dica": "A manteiga de amendoim no shake adiciona gordura, sabor tostado e textura mais cremosa. Bata bem para não grudar no copo."
+ },
+ {
+  "id": "shake-proteico-com-whey-morango-banana-e",
+  "nome": "Shake Proteico com Whey, Morango, Banana e",
+  "descricao": "Coco Morango, banana e coco: vitaminas e B6 em cada gole",
+  "refeicao": "pos-treino",
+  "pagina": 308,
+  "macros": {
+   "calorias": 443,
+   "proteinas": 26,
+   "carboidratos": 32,
+   "lipideos": 25
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite de coco sem açúcar",
+    "qtd": "240 ml"
+   },
+   {
+    "nome": "Morangos",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Banana congelada",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Whey protein sabor morango",
+    "qtd": "30 g (1 dose)"
+   },
+   {
+    "nome": "Coco ralado",
+    "qtd": "20 g"
+   }
+  ],
+  "passos": [
+   "Coloque o leite de coco, os morangos, a banana congelada e o whey protein no liquidificador.",
+   "Bata em velocidade alta até ficar homogêneo e E a cremoso.",
+   "Adicione o coco ralado e pulse 2 a 3 vezes para incorporar. Sirva imediatamente."
+  ],
+  "dica": "O leite de coco com morango e banana cria um shake tropical completo em macros: carboidrato proteína gordura boa."
+ },
+ {
+  "id": "vitamina-de-abacate-com-whey",
+  "nome": "Vitamina de Abacate com Whey",
+  "descricao": "Abacate com cacau e whey: gordura boa e sabor intenso",
+  "refeicao": "pos-treino",
+  "pagina": 309,
+  "macros": {
+   "calorias": 447,
+   "proteinas": 40,
+   "carboidratos": 40,
+   "lipideos": 17
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Abacate",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "40 g (1⅓ scoop)"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "80 g (4-5 cubos)"
+   }
+  ],
+  "passos": [
+   "Bata o abacate, o whey, o leite, o mel, o cacau e o gelo no liquidificador até obter um shake muito cremoso e aveludado.",
+   "Ajuste a doçura com mais mel se necessário.",
+   "Sirva em copo alto imediatamente após o treino."
+  ],
+  "dica": "O abacate traz gordura, cremosidade e sabor suave ao mousse. O cacau em pó intensifica o sabor de chocolate sem adicionar açúcar."
+ },
+ {
+  "id": "tigela-mista-de-frutas-com-whey",
+  "nome": "Tigela Mista de Frutas com Whey",
+  "descricao": "Banana, morango, kiwi e laranja com 41g de proteína pós-treino",
+  "refeicao": "pos-treino",
+  "pagina": 310,
+  "macros": {
+   "calorias": 447,
+   "proteinas": 41,
+   "carboidratos": 67,
+   "lipideos": 6
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "40 g (1⅓ scoop)"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "100 ml"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Kiwi",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Laranja",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Granola",
+    "qtd": "25 g"
+   }
+  ],
+  "passos": [
+   "Em uma tigela pequena, misture o whey com o leite usando um garfo ou batedor de arame, batendo até dissolver completamente e formar uma base cremosa sem grãos.",
+   "Despeje em uma tigela.",
+   "Distribua todas as frutas fatiadas por cima: banana, morango, kiwi e gomos de laranja.",
+   "Finalize com a granola salpicada."
+  ],
+  "dica": "A combinação de proteína, carboidrato e frutas deixa o pós-treino completo, cremoso e fácil de beber."
+ },
+ {
+  "id": "vitamina-de-banana-com-cacau-e-whey",
+  "nome": "Vitamina de Banana com Cacau e Whey",
+  "descricao": "Banana com cacau e whey: o sabor de achocolatado proteico",
+  "refeicao": "pos-treino",
+  "pagina": 311,
+  "macros": {
+   "calorias": 504,
+   "proteinas": 41,
+   "carboidratos": 62,
+   "lipideos": 13
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana",
+    "qtd": "160 g (2 bananas)"
+   },
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "15 g (2 colheres de sopa rasas)"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "250 ml"
+   },
+   {
+    "nome": "Pasta de amendoim",
+    "qtd": "16 g (1 colher de sopa)"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Bata as bananas, o whey protein, o cacau em pó, o leite desnatado, a pasta de amendoim e o gelo no liquidificador.",
+   "Processe até obter uma bebida cremosa, espessa e bem gelada.",
+   "Sirva imediatamente em copo grande.",
+   "Substitua as bananas por bananas congeladas se ai 8 preferir textura mais espessa."
+  ],
+  "dica": "O cacau em pó intensifica o sabor de chocolate desta vitamina sem adicionar açúcar. Com banana e whey, cria um shake doce, cremoso e proteico."
+ },
+ {
+  "id": "batida-de-whey-protein-aveia-e-banana",
+  "nome": "Batida de Whey Protein, Aveia e Banana",
+  "descricao": "Whey, aveia e banana batidos: simples e eficiente",
+  "refeicao": "pos-treino",
+  "pagina": 312,
+  "macros": {
+   "calorias": 551,
+   "proteinas": 44,
+   "carboidratos": 81,
+   "lipideos": 7
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite desnatado",
+    "qtd": "300 ml"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "100 g (1 banana)"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Bata leite e aveia no liquidificador por 30 segundos para triturar a aveia.",
+   "Adicione banana, whey e gelo. Bata em velocidade alta o. E or 1 minuto até espesso e homogêneo.",
+   "Despeje no copo e polvilhe cacau em pó por cima como finalização.",
+   "Sirva imediatamente em copo alto."
+  ],
+  "dica": "A banana madura traz doçura natural e potássio; se quiser textura mais cremosa, congele-a antes de bater com o leite desnatado, a aveia e o whey."
+ },
+ {
+  "id": "bowl-de-salmao-teriyaki-com-arroz",
+  "nome": "Bowl de Salmão Teriyaki com Arroz",
+  "descricao": "Salmão com arroz em bowl pós-treino",
+  "refeicao": "pos-treino",
+  "pagina": 313,
+  "macros": {
+   "calorias": 624,
+   "proteinas": 41,
+   "carboidratos": 56,
+   "lipideos": 27
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Salmão fresco em cubos",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Arroz branco cozido",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Molho teriyaki",
+    "qtd": "20 ml"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Edamame cozido",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Gergelim",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Cebolinha",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Sele os cubos de salmão em uma frigideira antiaderente bem quente por 1 minuto de cada lado (dourado por fora, rosado por dentro).",
+   "Adicione o molho teriyaki na frigideira e envolva os cubos por 30 segundos.",
+   "Monte o bowl: arroz na base, salmão teriyaki, pepino em meias-luas, edamame.",
+   "Finalize com gergelim e cebolinha picada."
+  ],
+  "dica": "O salmão traz gordura natural, sabor marcante e textura macia. O arroz branco deixa o bowl simples, neutro e fácil de combinar no pós-treino."
+ },
+ {
+  "id": "iogurte-com-whey-e-granola-crocante",
+  "nome": "Iogurte com Whey e Granola Crocante",
+  "descricao": "Granola crocante com 50 de proteína do whey e das castanhas",
+  "refeicao": "pos-treino",
+  "pagina": 314,
+  "macros": {
+   "calorias": 666,
+   "proteinas": 50,
+   "carboidratos": 60,
+   "lipideos": 26
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural sem açúcar",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g (1 scoop)"
+   },
+   {
+    "nome": "Granola",
+    "qtd": "40 g (4 colheres de sopa)"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "14 g (2 colheres de chá)"
+   },
+   {
+    "nome": "Castanha de caju",
+    "qtd": "20 g"
+   }
+  ],
+  "passos": [
+   "Misture o whey protein ao iogurte grego até incorporar completamente.",
+   "Coloque em uma tigela funda.",
+   "Distribua a granola os morangos fatiados e as castanhas de caju picadas.",
+   "Finalize com mel."
+  ],
+  "dica": "A granola adiciona crocância e carboidratos complexos, enquanto a castanha de caju traz zinco, magnésio e gordura boa. O morango fresco equilibra com acidez e aroma."
+ }
+]

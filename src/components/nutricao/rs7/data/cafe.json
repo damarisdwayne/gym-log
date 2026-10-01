@@ -1,0 +1,2805 @@
+[
+ {
+  "id": "cappuccino-com-whey",
+  "nome": "Cappuccino com Whey",
+  "descricao": "13 de proteína com whey e cacau para sua manhã",
+  "refeicao": "cafe",
+  "pagina": 22,
+  "macros": {
+   "calorias": 68,
+   "proteinas": 13,
+   "carboidratos": 2,
+   "lipideos": 1
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Café quente (não fervendo)",
+    "qtd": "150 ml"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Prepare o café e deixe amornar por 2 minutos antes de usar.",
+   "Coloque o café morno em copo alto. Adicione whey e cacau em pó.",
+   "Bata com mixer ou mini fouet por 30 segundos até formar espuma cremosa.",
+   "Sirva imediatamente. Para versão gelada, espere o café esfriar e adicione gelo."
+  ],
+  "dica": "O cacau em pó puro traz sabor intenso e amargor elegante ao café. O whey suporta o calor quando misturado aos poucos, mantendo a bebida cremosa."
+ },
+ {
+  "id": "vitamina-de-pessego",
+  "nome": "Vitamina de Pêssego",
+  "descricao": "Suavidade de pêssego com toque de óleo de linhaça",
+  "refeicao": "cafe",
+  "pagina": 23,
+  "macros": {
+   "calorias": 80,
+   "proteinas": 4,
+   "carboidratos": 12,
+   "lipideos": 2
+  },
+  "minutos": 2,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite desnatado",
+    "qtd": "100 ml"
+   },
+   {
+    "nome": "Pêssego fresco (sem caroço, em pedaços)",
+    "qtd": "75 g"
+   },
+   {
+    "nome": "Óleo de linhaça",
+    "qtd": "2 ml (1/2 colher de chá rasa)"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "No liquidificador, coloque o leite desnatado e o pêssego fresco cortado em pedaços. Bata em velocidade alta por 30 segundos até obter uma bebida omogênea e sem pedaços.",
+   "Adicione o óleo de linhaça e bata por mais 5 segundos apenas para incorporar, sem aquecer o óleo.",
+   "Sirva imediatamente em um copo alto. Pode adicionar gelo para uma versão mais refrescante."
+  ],
+  "dica": "O óleo de linhaça é uma fonte vegetal concentrada de ômega-3 (ALA), com alto teor de ácido alfa-linolênico. Adicione ao final para preservar melhor seus ácidos graxos."
+ },
+ {
+  "id": "omelete-de-banana",
+  "nome": "Omelete de Banana",
+  "descricao": "Omelete doce de banana com whey: sabor de panqueca",
+  "refeicao": "cafe",
+  "pagina": 24,
+  "macros": {
+   "calorias": 110,
+   "proteinas": 13,
+   "carboidratos": 15,
+   "lipideos": 1
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Claras de ovos",
+    "qtd": "66 g (2 claras)"
+   },
+   {
+    "nome": "Banana amassada",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Farelo de aveia",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Whey protein (sabor baunilha ou neutro)",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Óleo de coco (para untar)",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Em uma tigela, junte as claras de ovos, a banana amassada, o farelo de aveia, a canela a gosto e o whey protein. Misture bem até obter uma massa homogênea.",
+   "Unte uma frigideira antiaderente pequena (cerca de 18 cm) com óleo de coco e aqueça em fogo médio-baixo.",
+   "Acrescente a massa e deixe cozinhar por 2 a 3 minutos, até dourar a base.",
+   "Vire com cuidado e doure o outro lado por mais 1 a 2 minutos.",
+   "Transfira para o prato e sirva ainda quente."
+  ],
+  "dica": "O whey protein na omelete de banana reforça o teor proteico e combina bem com a doçura da fruta. A canela deixa o aroma mais quente e ajuda a lembrar panqueca doce."
+ },
+ {
+  "id": "vitamina-de-melancia",
+  "nome": "Vitamina de Melancia",
+  "descricao": "Cremosa e hidratante, com melancia e leite desnatado",
+  "refeicao": "cafe",
+  "pagina": 25,
+  "macros": {
+   "calorias": 132,
+   "proteinas": 6,
+   "carboidratos": 28,
+   "lipideos": 1
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Melancia sem semente picada",
+    "qtd": "300 g"
+   },
+   {
+    "nome": "Leite desnatado gelado",
+    "qtd": "120 ml"
+   },
+   {
+    "nome": "Gelo em cubos",
+    "qtd": "3 cubos (aprox. 40 g)"
+   }
+  ],
+  "passos": [
+   "No copo do liquidificador, adicione a melancia picada e bata em velocidade alta por 20 segundos, até obter um líquido homogêneo.",
+   "Acrescente o leite desnatado gelado e os cubos de gelo. Bata por mais 15 segundos, até o gelo triturar e a vitamina ficar cremosa.",
+   "Transfira para um copo alto de 400 ml e sirva imediatamente para preservar o frescor e a textura."
+  ],
+  "dica": "A melancia deixa a vitamina leve, fresca e naturalmente adocicada. Combinada com o leite desnatado, cria uma bebida clara, suave e boa para dias quentes."
+ },
+ {
+  "id": "panquequinha-de-claras",
+  "nome": "Panquequinha de Claras",
+  "descricao": "Panquequinha leve de claras com cottage: proteína matinal rápida em 5 minutos",
+  "refeicao": "cafe",
+  "pagina": 26,
+  "macros": {
+   "calorias": 137,
+   "proteinas": 9,
+   "carboidratos": 1,
+   "lipideos": 11
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Claras",
+    "qtd": "66 g (2 claras)"
+   },
+   {
+    "nome": "Queijo cottage",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "10 ml (2 colheres de chá)"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Em uma tigela pequena, bata levemente as duas claras com um garfo até ficarem espumosas. Aqueça uma 5 5 frigideira antiaderente pequena (cerca de 18 cm) untada com o azeite em fogo médio-baixo e despeje as claras.",
+   "Cozinhe por 1a 2 minutos, até a base firmar. Vire com cuidado e doure o outro lado por mais 1 minuto.",
+   "Transfira para o prato, distribua o cottage e o tomate picado em cubinhos por cima e salpique orégano a gosto.",
+   "Enrole como panqueca e sirva."
+  ],
+  "dica": "O queijo cottage deixa a omelete mais cremosa e reforça o teor proteico. Combinado com claras, cria uma refeição leve e fácil de preparar no café da manhã."
+ },
+ {
+  "id": "vitamina-de-framboesa-com-baunilha",
+  "nome": "Vitamina de Framboesa com Baunilha",
+  "descricao": "Framboesa e baunilha batidas com iogurte gelado",
+  "refeicao": "cafe",
+  "pagina": 27,
+  "macros": {
+   "calorias": 153,
+   "proteinas": 15,
+   "carboidratos": 22,
+   "lipideos": 1
+  },
+  "minutos": 2,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite desnatado",
+    "qtd": "120 ml"
+   },
+   {
+    "nome": "Iogurte grego zero sabor baunilha",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Framboesas frescas",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o leite desnatado no liquidificador como base líquida.",
+   "Adicione iogurte grego baunilha e framboesas.",
+   "Bata em velocidade alta por 45-60 segundos até cremoso. Raspe as laterais se necessário.",
+   "Sirva em copo alto. Para uma versão mais gelada, adicione gelo antes de bater."
+  ],
+  "dica": "A framboesa traz acidez, cor viva e boa presença de fibras para a vitamina. O iogurte grego zero adiciona cremosidade sem açúcar extra."
+ },
+ {
+  "id": "mamao-com-sementes",
+  "nome": "Mamão com Sementes",
+  "descricao": "Mamão papaia com psyllium, semente de girassol e castanha-do-pará",
+  "refeicao": "cafe",
+  "pagina": 28,
+  "macros": {
+   "calorias": 165,
+   "proteinas": 4,
+   "carboidratos": 19,
+   "lipideos": 8
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Mamão",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Psyllium",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Semente de girassol",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Descasque o mamão, retire as sementes e corte a polpa em cubos médios. Disponha em um bowil.",
+   "Polvilhe o psyllium, as sementes de girassol e a castanha-do-pará picada por cima dos cubos de mamão.",
+   "Coma imediatamente: o psyllium absorve líquido e endurece rapidamente, alterando a textura se demorar."
+  ],
+  "dica": "O psyllium é uma fibra solúvel que deixa o mamão mais encorpado e aumenta a presença de fibras da receita. A castanha-do-pará adiciona selênio e crocância. Contém castanhas, alérgicos devem omitir."
+ },
+ {
+  "id": "vitamina-verde-de-maca-com-gengibre",
+  "nome": "Vitamina Verde de Maçã com Gengibre",
+  "descricao": "Verde e nutritiva, com água de coco, gengibre e toque de mel",
+  "refeicao": "cafe",
+  "pagina": 29,
+  "macros": {
+   "calorias": 168,
+   "proteinas": 5,
+   "carboidratos": 39,
+   "lipideos": 0
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Espinafre fresco",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Maçã verde",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Suco de limão-taiti",
+    "qtd": "20 ml"
+   },
+   {
+    "nome": "Água de coco",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Couve-folha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Gengibre fresco",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Lave bem todos os vegetais e frutas.",
+   "Descarte o miolo e as sementes da maçã e corte-a em pedaços com a casca. Corte o pepino em pedaços, preferencialmente com a casca (se for orgânico) para preservar as fibras.",
+   "No liquidificador, bata o espinafre, a couve-folha, a maçã, o pepino, o suco de limão, o gengibre, a água de coco e o mel por cerca de 40 a 60 segundos, até obter uma mistura lisa e homogênea.",
+   "Coe, se preferir, ou sirva com a fibra.",
+   "Sirva gelado."
+  ],
+  "dica": "O gengibre fresco dá picância e ajuda a deixar a vitamina mais aromática. A couve, o espinafre e o limão criam uma bebida verde, ácida e refrescante."
+ },
+ {
+  "id": "omelete-de-aipo",
+  "nome": "Omelete de Aipo",
+  "descricao": "Omelete leve com aipo crocante, tomate fresco e gema para café da manhã proteico",
+  "refeicao": "cafe",
+  "pagina": 30,
+  "macros": {
+   "calorias": 172,
+   "proteinas": 12,
+   "carboidratos": 9,
+   "lipideos": 10
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Aipo (salsão) fatiado",
+    "qtd": "20 g (1/2 talo)"
+   },
+   {
+    "nome": "Gema",
+    "qtd": "18 g (1 gema)"
+   },
+   {
+    "nome": "Cebola ralada",
+    "qtd": "38 g (1/2 cebola pequena)"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Claras",
+    "qtd": "66 g (2 claras)"
+   },
+   {
+    "nome": "Tomate picado",
+    "qtd": "100 g (1 tomate)"
+   },
+   {
+    "nome": "Salsa",
+    "qtd": "1 g (1/2 colher de sopa picada)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Fatie o aipo (salsão) em pedaços finos.",
+   "Bata as claras e a gema com sal até ficar levemente espumoso.",
+   "Adicione o aipo, o tomate picado, a cebola ralada e a salsa.",
+   "A Aqueça o azeite em uma frigideira antiaderente média (cerca de 20 cm) em fogo baixo. Despeje a mistura.",
+   "Tampe e cozinhe por 4 a 5 minutos, até a base firmar. Vire com cuidado e doure o outro lado por mais 2 a 3 minutos.",
+   "Sirva quente com orégano por cima."
+  ],
+  "dica": "O aipo é uma hortaliça leve, rica em água e com crocância marcante. Na omelete, contribui com volume e frescor, equilibrando a textura das claras com a gema."
+ },
+ {
+  "id": "panqueca-proteica",
+  "nome": "Panqueca Proteica",
+  "descricao": "Clássica de aveia com chia, dourada na frigideira em 7 min",
+  "refeicao": "cafe",
+  "pagina": 31,
+  "macros": {
+   "calorias": 177,
+   "proteinas": 14,
+   "carboidratos": 12,
+   "lipideos": 8
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Clara de ovo",
+    "qtd": "33 g (1 clara)"
+   },
+   {
+    "nome": "Ovo inteiro",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Aveia em flocos finos",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Óleo de coco (para untar)",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Bata o ovo e a clara, adicione aveia, chia e sal. Misture e descanse 2 minutos para hidratar.",
+   "Aqueça frigideira antiaderente pequena em fogo ssa a médio-baixo com óleo de coco. Despeje toda a massa.",
+   "Cozinhe 2-3 minutos até dourar a base. Vire e doure o outro lado por 1-2 minutos.",
+   "Sirva quente. Combina bem com frutas frescas, pasta de amendoim ou um fio de mel."
+  ],
+  "dica": "A chia hidrata e forma um gel que ajuda a dar liga à massa. Na panqueca com aveia, cria uma textura mais úmida e reforça o perfil de fibras da receita."
+ },
+ {
+  "id": "omelete-de-abobrinha",
+  "nome": "Omelete de Abobrinha",
+  "descricao": "Suavidade do vegetal com claras macias e gema dourada",
+  "refeicao": "cafe",
+  "pagina": 32,
+  "macros": {
+   "calorias": 187,
+   "proteinas": 13,
+   "carboidratos": 12,
+   "lipideos": 11
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Abobrinha cortada em rodelas (cozida previamente)",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Gema",
+    "qtd": "18 g (1 gema)"
+   },
+   {
+    "nome": "Cebola ralada",
+    "qtd": "38 g (1/2 cebola pequena)"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Claras",
+    "qtd": "66 g (2 claras)"
+   },
+   {
+    "nome": "Tomate picado",
+    "qtd": "100 g (1 tomate)"
+   },
+   {
+    "nome": "Salsa",
+    "qtd": "1 g (1/2 colher de sopa picada)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Corte a abobrinha pré-cozida em rodelas finas.",
+   "Em uma tigela, bata as claras e a gema com uma pitada de sal até ficar leve e levemente espumoso.",
+   "Acrescente a abobrinha, o tomate picado, a cebola ralada e a salsa.",
+   "Aqueça uma frigideira antiaderente média (cerca de 20 cm) com o azeite em fogo baixo e despeje a mistura.",
+   "Cozinhe tampado por 4 a 5 minutos, até a base firmar. Vire com a ajuda de um prato e doure o outro lado por mais 2 a 3 minutos. Finalize polvilhando o orégano sobre a omelete pronta e sirva imediatamente."
+  ],
+  "dica": "A abobrinha é uma das hortaliças mais versáteis do fitness: 17 kcal por 100 g, rica em potássio e vitamina C. Pré-cozida, integra-se à omelete sem liberar excesso de água."
+ },
+ {
+  "id": "pao-de-caneca-de-abobora-micro-ondas",
+  "nome": "Pão de Caneca de Abóbora (Micro- ondas)",
+  "descricao": "Pão rápido de caneca com abóbora e ovo, feito no micro-ondas em poucos minutos",
+  "refeicao": "cafe",
+  "pagina": 33,
+  "macros": {
+   "calorias": 193,
+   "proteinas": 10,
+   "carboidratos": 9,
+   "lipideos": 14
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Abóbora cozida",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Farinha de linhaça",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Fermento em pó",
+    "qtd": "1 g (~1/4 colher de chá)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Xilitol (ou 3 gotas de stévia; opcional)",
+    "qtd": "3 g (1 colher de chá rasa)"
+   },
+   {
+    "nome": "Azeite (para untar)",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Amasse a abóbora com um garfo.",
+   "Adicione o ovo, a farinha de linhaça, o fermento, o sal e o adoçante. Misture até obter uma massa homogênea.",
+   "Unte uma caneca grande (250 a 300 ml) com o azeite e despeje a massa, preenchendo até a metade para ter espaço de crescimento.",
+   "Leve ao micro-ondas em potência alta (cerca de 800 W) por 2 minutos. Se ainda estiver úmido no centro, acrescente 20 a 30 segundos.",
+   "Desenforme com cuidado e, se quiser, acrescente o Ê recheio de sua preferência (sugestão não contabilizada nas calorias)."
+  ],
+  "dica": "A abóbora traz cor, doçura leve e umidade natural à massa. A farinha de linhaça ajuda na estrutura e deixa o pão mais interessante sem necessidade de gordura extra."
+ },
+ {
+  "id": "omelete-de-espinafre",
+  "nome": "Omelete de Espinafre",
+  "descricao": "Espinafre salteado com ovos: ferro e proteína no café",
+  "refeicao": "cafe",
+  "pagina": 34,
+  "macros": {
+   "calorias": 196,
+   "proteinas": 10,
+   "carboidratos": 5,
+   "lipideos": 15
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Espinafre fresco",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Tomate picado",
+    "qtd": "100 g (1 tomate)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "15 ml (1 colher de sopa)"
+   },
+   {
+    "nome": "Claras de ovo",
+    "qtd": "66 g (2 claras)"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "15 ml"
+   },
+   {
+    "nome": "Ervas frescas (salsinha e cebolinha)",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Em uma frigideira antiaderente média (cerca de 20 cm), aqueça o azeite e refogue o espinafre e o tomate por 1a 2 minutos.",
+   "Adicione as claras, o leite desnatado e uma pitada de sal. Misture bem.",
+   "Deixe cozinhar em fogo baixo por 2 a 3 minutos, até a base firmar. Vire a omelete com o auxílio de um prato e doure o outro lado por mais 1a 2 minutos.",
+   "Adicione as ervas frescas picadas (salsinha e cebolinha) e cozinhe por mais 1 a 2 minutos, até firmar bem e dourar."
+  ],
+  "dica": "O espinafre refogado fica com volume menor e se mistura bem aos ovos. O azeite entra pelo sabor e deixa a omelete mais úmida."
+ },
+ {
+  "id": "omelete-de-aspargos",
+  "nome": "Omelete de Aspargos",
+  "descricao": "Omelete proteica com aspargos verdes, tomate e ervas para um café da manhã gourmet",
+  "refeicao": "cafe",
+  "pagina": 35,
+  "macros": {
+   "calorias": 200,
+   "proteinas": 15,
+   "carboidratos": 15,
+   "lipideos": 10
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Aspargos verdes picados (cozidos previamente)",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Gema",
+    "qtd": "18 g (1 gema)"
+   },
+   {
+    "nome": "Cebola ralada",
+    "qtd": "38 g (1/2 cebola pequena)"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Claras",
+    "qtd": "66 g (2 claras)"
+   },
+   {
+    "nome": "Tomate picado",
+    "qtd": "100 g (1 tomate)"
+   },
+   {
+    "nome": "Salsa",
+    "qtd": "1 g (1/2 colher de sopa picada)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Pique os aspargos pré-cozidos em rodelas de 2 cm.",
+   "Bata as claras e a gema com sal.",
+   "Misture os aspargos, o tomate, a cebola e a salsa.",
+   "Unte uma frigideira antiaderente média (cerca de 22 cm) com o azeite e despeje a mistura em fogo baixo.",
+   "Tampe e deixe cozinhar por 4 a 5 minutos, até a base firmar. Vire com cuidado.",
+   "Doure o outro lado por mais 2 a 3 minutos e sirva com orégano polvilhado por cima."
+  ],
+  "dica": "Os aspargos trazem compostos sulfurados, folato e vitamina K. No omelete, combinam com as claras para uma refeição leve, rica em vegetais e com boa presença de proteína."
+ },
+ {
+  "id": "omelete-de-brocolis",
+  "nome": "Omelete de Brócolis",
+  "descricao": "Verde, nutritiva e pronta num instante",
+  "refeicao": "cafe",
+  "pagina": 36,
+  "macros": {
+   "calorias": 205,
+   "proteinas": 14,
+   "carboidratos": 18,
+   "lipideos": 11
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Brócolis picados (cozidos previamente)",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Gema",
+    "qtd": "18 g (1 gema)"
+   },
+   {
+    "nome": "Cebola ralada",
+    "qtd": "38 g"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Claras",
+    "qtd": "66 g (2 claras)"
+   },
+   {
+    "nome": "Tomate picado",
+    "qtd": "100 g (1 tomate)"
+   },
+   {
+    "nome": "Salsa",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Pique os brócolis pré-cozidos em floretes pequenos.",
+   "Bata as claras com a gema e sal até espumar levemente.",
+   "Incorpore os brócolis, tomate, cebola e salsa, misturando suavemente.",
+   "Unte uma frigideira antiaderente média (cerca de 22 cm) com o azeite, aqueça em fogo baixo e despeje tudo.",
+   "Tampe e cozinhe por 4 a 5 minutos, até a base firmar. Vire com cuidado e doure o outro lado por mais 2 a 3 minutos. Finalize polvilhando orégano a gosto e sirva quente."
+  ],
+  "dica": "O brócolis é um vegetal crucífero com compostos sulfurados e sabor marcante. Cozinhe brevemente para manter textura, cor e frescor no omelete."
+ },
+ {
+  "id": "pao-de-frigideira-rapido",
+  "nome": "Pão de Frigideira Rápido",
+  "descricao": "Pão rápido com ovo e aveia, 214 kcal por porção",
+  "refeicao": "cafe",
+  "pagina": 37,
+  "macros": {
+   "calorias": 214,
+   "proteinas": 13,
+   "carboidratos": 12,
+   "lipideos": 12
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Farelo de aveia",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Farinha de coco",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Água",
+    "qtd": "30 ml (2 colheres de sopa)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Óleo de coco ou azeite (para untar)",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Farinha de linhaça dourada",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Fermento em pó químico",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Cúrcuma",
+    "qtd": "(opcional) a gosto"
+   }
+  ],
+  "passos": [
+   "E gua ist isrolo uma tigela, misture com o garfo o farelo de aveia, a farinha de linhaça, a farinha de coco, o ovo, o fermento, o sal, a cúrcuma e a água. Bata até obter uma massa homogênea e levemente úmida (a farinha de coco absorve bastante líquido).",
+   "Aqueça uma frigideira antiaderente pequena (cerca de 18 cm) em fogo médio-baixo com um fio de óleo de AA coco ou azeite.",
+   "Despeje a mistura, espalhe em círculo e asse por 3 a 4 minutos, até firmar a base e dourar as bordas. Vire com cuidado e asse o outro lado por mais 2 a 3 minutos.",
+   "Retire da frigideira.",
+   "Corte ao meio e recheie a gosto (sugestão: queijo coalho, alface, tomate e orégano)."
+  ],
+  "dica": "A cúrcuma opcional aporta cor e sabor terroso ao pão. A farinha de coco é altamente absorvente, por isso a água garante uma massa macia; sem ela, o pão pode ficar quebradiço."
+ },
+ {
+  "id": "batata-doce-com-cottage-e-mel",
+  "nome": "Batata-Doce com Cottage e Mel",
+  "descricao": "Batata-doce assada recheada com cottage cremoso e mel",
+  "refeicao": "cafe",
+  "pagina": 38,
+  "macros": {
+   "calorias": 215,
+   "proteinas": 10,
+   "carboidratos": 41,
+   "lipideos": 2
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Batata-Doce",
+    "qtd": "150 g (micro-ondas 5 min)"
+   },
+   {
+    "nome": "Queijo cottage",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Lave a batata-doce e fure com um garfo em vários pontos para o vapor escapar. Leve ao micro-ondas em 5 potência alta por 5 minutos até ficar macia por dentro.",
+   "Abra a batata ao meio com uma faca e pressione as extremidades para abrir espaço. Recheie com o cottage generosamente.",
+   "Regue com o mel por cima e polvilhe a canela. Sirva quente."
+  ],
+  "dica": "A batata-doce com cottage e mel combina doçura, cremosidade e contraste salgado. A canela acrescenta aroma e deixa o café da manhã com perfil doce."
+ },
+ {
+  "id": "pao-de-micro-ondas-com-aveia",
+  "nome": "Pão de Micro-ondas com Aveia",
+  "descricao": "Aveia deixa o pão mais macio e saciante em 5 min",
+  "refeicao": "cafe",
+  "pagina": 39,
+  "macros": {
+   "calorias": 220,
+   "proteinas": 12,
+   "carboidratos": 14,
+   "lipideos": 12
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Aveia em flocos finos",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Farinha de linhaça",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Iogurte natural",
+    "qtd": "30 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Bata o ovo e misture aveia, farinha de linhaça, iogurte e sal até massa homogênea.",
+   "Espalhe em prato raso próprio para micro-ondas em o. to redondo. otmato redondo",
+   "Leve ao micro-ondas em potência alta por 2 minutos e 30 segundos até firmar ao toque.",
+   "Corte ao meio. Para crocância extra, toste na frigideira seca por 1 minuto de cada lado.",
+   "Sirva quente. Sugestão de recheio: queijo branco, cottage ou pasta de amendoim."
+  ],
+  "dica": "A combinação de aveia e linhaça deixa o pão mais macio e com sabor integral. O iogurte natural adiciona acidez suave e ajuda na umidade da massa."
+ },
+ {
+  "id": "bolinho-de-caneca",
+  "nome": "Bolinho de Caneca",
+  "descricao": "Pronto no micro-ondas com banana e aveia em 5 min",
+  "refeicao": "cafe",
+  "pagina": 40,
+  "macros": {
+   "calorias": 237,
+   "proteinas": 14,
+   "carboidratos": 34,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana",
+    "qtd": "80 g (amassada)"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Farelo de aveia",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "3 g"
+   }
+  ],
+  "passos": [
+   "Amasse a banana com um garfo em uma caneca. Adicione o ovo, o farelo de aveia e a canela. Misture bem.",
+   "Leve ao micro-ondas por 2 minutos em potência alta.",
+   "Desenforme e sirva morno."
+  ],
+  "dica": "A banana madura funciona como liga e adoçante natural no bolinho, eliminando a necessidade de açúcar. O farelo de aveia deixa a massa mais estruturada e com sabor integral."
+ },
+ {
+  "id": "crepioca-basica",
+  "nome": "Crepioca Básica",
+  "descricao": "Tapioca com ovo e chia, crocante por fora e macia por dentro",
+  "refeicao": "cafe",
+  "pagina": 41,
+  "macros": {
+   "calorias": 243,
+   "proteinas": 12,
+   "carboidratos": 27,
+   "lipideos": 10
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Clara",
+    "qtd": "33 g (1 clara)"
+   },
+   {
+    "nome": "Goma de tapioca",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Sal e orégano",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Óleo de coco (para untar)",
+    "qtd": "3 ml"
+   }
+  ],
+  "passos": [
+   "Bata o ovo e a clara com garfo. Adicione goma de tapioca, chia, sal e orégano. Misture até homogêneo.",
+   "Aqueça frigideira antiaderente em fogo médio com óleo de coco.",
+   "Despeje a massa formando disco fino. Cozinhe 2-3 minutos até a base firmar e desgrudar.",
+   "Vire e doure o outro lado por 1-2 minutos.",
+   "Dobre ao meio e sirva quente. Sugestão de recheio: queijo branco, cottage ou tomate."
+  ],
+  "dica": "A goma de tapioca deixa a base elástica e neutra, enquanto o ovo e a chia dão estrutura. É uma opção rápida de frigideira, pronta em cerca de 7 minutos."
+ },
+ {
+  "id": "omelete-de-berinjela-e-alho-poro",
+  "nome": "Omelete de Berinjela e Alho-Poró",
+  "descricao": "Berinjela e alho-poró dourados com ovos batidos",
+  "refeicao": "cafe",
+  "pagina": 42,
+  "macros": {
+   "calorias": 246,
+   "proteinas": 14,
+   "carboidratos": 8,
+   "lipideos": 17
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 ovos)"
+   },
+   {
+    "nome": "Óleo de coco",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Berinjela em cubinhos (refogada previamente)",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Alho-poró em rodelas finas",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   },
+   {
+    "nome": "Salsinha",
+    "qtd": "3 g (1 colher de sopa picada)"
+   }
+  ],
+  "passos": [
+   "Bata os ovos com uma pitada de sal em uma tigela. Acrescente a berinjela refogada e a salsinha picada, reservando o alho-poró para refogar em seguida.",
+   "Aqueça o óleo de coco em uma frigideira antiaderente média (cerca de 20 cm) em fogo médio e refogue o alho-poró por 1a 2 minutos, até amaciar.",
+   "Despeje a mistura de ovos sobre o alho-poró refogado e cozinhe com tampa em fogo baixo por 4 a 5 minutos, até a base firmar.",
+   "Vire com cuidado (use um prato se preferir) e doure o outro lado por mais 2 a 3 minutos.",
+   "Sirva quente."
+  ],
+  "dica": "O óleo de coco traz aroma e ajuda a saltear a berinjela rapidamente. A berinjela refogada fica macia, absorve bem os temperos e combina com o ovo."
+ },
+ {
+  "id": "pao-integral-com-peru",
+  "nome": "Pão Integral com Peru",
+  "descricao": "Pão saudável pronto em 2 min",
+  "refeicao": "cafe",
+  "pagina": 43,
+  "macros": {
+   "calorias": 260,
+   "proteinas": 16,
+   "carboidratos": 28,
+   "lipideos": 9
+  },
+  "minutos": 2,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Pão de forma integral",
+    "qtd": "60 g (2 fatias)"
+   },
+   {
+    "nome": "Blanquet de peru",
+    "qtd": "30 g (1 fatia)"
+   },
+   {
+    "nome": "Queijo Branco",
+    "qtd": "30 g (1 fatia)"
+   },
+   {
+    "nome": "Requeijão light",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Espalhe o requeijão light de forma uniforme em cada fatia de pão de forma integral.",
+   "Sobre uma das fatias, disponha o blanquet de peru e o ueijo branco.",
+   "Feche com a outra fatia de pão, corte ao meio na diagonal e sirva imediatamente."
+  ],
+  "dica": "O blanquet de peru é prático e deixa o sanduíche proteico sem pesar. O pão integral adiciona fibra e uma mastigação mais firme. à Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "vitamina-de-cafe-com-whey",
+  "nome": "Vitamina de Café com Whey",
+  "descricao": "Café, banana e whey: energia para começar o dia",
+  "refeicao": "cafe",
+  "pagina": 44,
+  "macros": {
+   "calorias": 260,
+   "proteinas": 31,
+   "carboidratos": 32,
+   "lipideos": 3
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Café passado frio",
+    "qtd": "150 ml"
+   },
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "150 ml"
+   },
+   {
+    "nome": "Banana congelada",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Bata o café passado frio, o whey protein chocolate, o leite desnatado, a banana congelada, o cacau em pó e E 2 o gelo no liquidificador até obter uma bebida cremosa, encorpada e gelada.",
+   "Prove e, se necessário, bata mais alguns segundos para intensificar o sabor do cacau.",
+   "Sirva imediatamente em copo alto."
+  ],
+  "dica": "O café frio combinado com whey chocolate cria uma vitamina cremosa, gelada e com sabor de mocha. O cacau intensifica o amargor e equilibra a banana."
+ },
+ {
+  "id": "vitamina-matinal-de-whey",
+  "nome": "Vitamina Matinal de Whey",
+  "descricao": "Dose matinal de proteína com morango fresco",
+  "refeicao": "cafe",
+  "pagina": 45,
+  "macros": {
+   "calorias": 269,
+   "proteinas": 35,
+   "carboidratos": 31,
+   "lipideos": 2
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite desnatado",
+    "qtd": "300 ml"
+   },
+   {
+    "nome": "Whey protein",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Psyllium",
+    "qtd": "5 g (1 csop)"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "3 g (1 cchá)"
+   }
+  ],
+  "passos": [
+   "Coloque o leite desnatado, o whey protein e os morangos no liquidificador. Bata por 30 segundos em velocidade alta até ficar homogêneo.",
+   "Adicione o psyllium e a canela. Bata rapidamente por mais 10 segundos apenas para incorporar.",
+   "Sirva imediatamente, pois o psyllium espessa rápido."
+  ],
+  "dica": "O psyllium deixa a vitamina mais espessa e aumenta o teor de fibras da preparação. A canela reforça o aroma e combina bem com o morango. Pode trocar morango por banana ou mamão."
+ },
+ {
+  "id": "vitamina-de-framboesa-com-linhaca-e-espinafre",
+  "nome": "Vitamina de Framboesa com Linhaça e Espinafre",
+  "descricao": "Ômega-3 vegetal em textura aveludada de iogurte",
+  "refeicao": "cafe",
+  "pagina": 46,
+  "macros": {
+   "calorias": 270,
+   "proteinas": 13,
+   "carboidratos": 22,
+   "lipideos": 15
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Espinafre",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Framboesas congeladas",
+    "qtd": "75 g"
+   },
+   {
+    "nome": "Iogurte grego",
+    "qtd": "120 ml"
+   },
+   {
+    "nome": "Leite de amêndoas",
+    "qtd": "120 ml"
+   },
+   {
+    "nome": "Linhaça moída",
+    "qtd": "16 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "3 g"
+   }
+  ],
+  "passos": [
+   "Coloque o leite de amêndoas, o espinafre lavado e as framboesas congeladas no liquidificador.",
+   "Adicione o iogurte grego, a linhaça moída e a canela. J. Bata em velocidade alta por 30 segundos até ficar homogêneo.",
+   "Sirva imediatamente em copo alto."
+  ],
+  "dica": "A linhaça moída na hora se mistura melhor à vitamina e evita grãos inteiros no fundo do copo. Com espinafre e framboesas, cria uma bebida verde, ácida e encorpada."
+ },
+ {
+  "id": "vitamina-de-mamao-com-linhaca",
+  "nome": "Vitamina de Mamão com Linhaça",
+  "descricao": "Mamão e linhaça batidos com iogurte para o café",
+  "refeicao": "cafe",
+  "pagina": 47,
+  "macros": {
+   "calorias": 277,
+   "proteinas": 14,
+   "carboidratos": 47,
+   "lipideos": 7
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Mamão formosa",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Iogurte natural desnatado",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Linhaça dourada triturada",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Gengibre fresco",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Corte o mamão em cubos.",
+   "Bata todos os ingredientes no liquidificador até obter uma vitamina cremosa e homogênea.",
+   "Sirva gelado em copo alto.",
+   "Se desejar mais gelado, adicione 2 cubos de gelo antes de bater."
+  ],
+  "dica": "O mamão formosa deixa a vitamina naturalmente doce e cremosa. A linhaça dourada triturada reforça a textura, enquanto o gengibre dá um toque picante e fresco."
+ },
+ {
+  "id": "omelete-de-salmao",
+  "nome": "Omelete de Salmão",
+  "descricao": "Salmão desfiado envolvido em ovos: ômega-3 no café da manhã",
+  "refeicao": "cafe",
+  "pagina": 48,
+  "macros": {
+   "calorias": 284,
+   "proteinas": 30,
+   "carboidratos": 8,
+   "lipideos": 15
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Salmão defumado desfiado",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Gema",
+    "qtd": "18 g (1 gema)"
+   },
+   {
+    "nome": "Cebola ralada",
+    "qtd": "38 g"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Claras",
+    "qtd": "66 g (2 claras)"
+   },
+   {
+    "nome": "Tomate picado",
+    "qtd": "100 g (1 tomate)"
+   },
+   {
+    "nome": "Salsa",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Desfie o salmão defumado e reserve.",
+   "Bata as claras com a gema e sal.",
+   "Acrescente o salmão desfiado, tomate, cebola ralada, salsa e orégano.",
+   "Aqueça o azeite em uma frigideira antiaderente média em fogo médio e despeje a mistura.",
+   "Cozinhe com tampa em fogo baixo por 3-4 minutos. Quando a base firmar, vire com cuidado.",
+   "Doure do outro lado por mais 1-2 minutos e sirva quente."
+  ],
+  "dica": "O salmão defumado é rico em ômega-3 (EPA/DHA) e vitamina D. Contém peixe; consumir com moderação devido ao sódio do processo de defumação."
+ },
+ {
+  "id": "crepioca-vegana-de-banana-com-melado",
+  "nome": "Crepioca Vegana de Banana com Melado",
+  "descricao": "Sem ovos nem leite, com melado e canela para adoçar naturalmente",
+  "refeicao": "cafe",
+  "pagina": 49,
+  "macros": {
+   "calorias": 284,
+   "proteinas": 2,
+   "carboidratos": 72,
+   "lipideos": 0
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Goma de tapioca",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Banana esmagada",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Água",
+    "qtd": "15 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Banana em rodelas",
+    "qtd": "100 g (1 banana)"
+   },
+   {
+    "nome": "Melado",
+    "qtd": "20 g (1 csop)"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Misture a goma de tapioca com banana esmagada, água e sal até massa uniforme. Se necessário, adicione a e ab mais água.",
+   "Despeje em frigideira antiaderente com fogo médio, formando disco fino. Grelhe 2 minutos de cada lado até dourar.",
+   "Aqueça rodelas de banana com melado em panelinha por 1 minuto, mexendo para caramelizar.",
+   "Coloque o recheio no centro, polvilhe canela e dobre ao meio. Sirva quente."
+  ],
+  "dica": "O melado de cana traz sabor profundo e cor escura aos dadinhos. A banana funciona como liga e adoçante natural na goma de tapioca, dispensando açúcar refinado."
+ },
+ {
+  "id": "overnight-oats-com-morango",
+  "nome": "Overnight Oats com Morango",
+  "descricao": "Aveia com iogurte e morangos: prepare à noite, coma pela manhã",
+  "refeicao": "cafe",
+  "pagina": 50,
+  "macros": {
+   "calorias": 293,
+   "proteinas": 14,
+   "carboidratos": 43,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Iogurte natural",
+    "qtd": "170 ml"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Misture a aveia, o iogurte e a chia em um pote de vidro com tampa. Mexa bem até ficar homogêneo.",
+   "Leve à geladeira tampado por pelo menos 6 horas ou durante a noite toda. A aveia hidrata e a chia forma um",
+   "Retire da geladeira pela manhã e adicione os morangos picados por cima. Sirva gelado direto do pote."
+  ],
+  "dica": "A aveia hidratada no overnight fica macia sem precisar de cozimento, preservando o sabor natural dos flocos e a fibra solúvel. A chia forma um gel característico que deixa a mistura mais cremosa e encorpada."
+ },
+ {
+  "id": "ovos-mexidos-com-torradas",
+  "nome": "Ovos Mexidos com Torradas",
+  "descricao": "Ovos cremosos em fogo baixo sobre torradas integrais crocantes",
+  "refeicao": "cafe",
+  "pagina": 51,
+  "macros": {
+   "calorias": 300,
+   "proteinas": 17,
+   "carboidratos": 22,
+   "lipideos": 14
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 ovos)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   },
+   {
+    "nome": "Cebolinha ou salsinha picada",
+    "qtd": "2 g (1 colher de chá)"
+   },
+   {
+    "nome": "Torradas integrais",
+    "qtd": "30 g (2 torradas)"
+   }
+  ],
+  "passos": [
+   "Em uma tigela, quebre os ovos, adicione o sal e metade da cebolinha picada. Bata levemente com um garfo por 15 segundos, apenas para misturar gema e clara.",
+   "ques 8 pes Aqueça uma frigideira antiaderente pequena (20 cm em fogo baixo por 1 minuto, sem adicionar gordura.",
+   "Despeje os ovos batidos na frigideira. Com uma espátula de silicone, mexa continuamente em movimentos circulares por 2 a 3 minutos, trazendo as bordas para o centro, até formar cachos cremosos e ainda levemente brilhantes.",
+   "Desligue o fogo assim que os ovos estiverem firmes, porém úmidos (eles terminam de cozinhar no calor residual). Finalize com a cebolinha restante por cima.",
+   "Sirva imediatamente ao lado das torradas integrais."
+  ],
+  "dica": "Cozinhar ovos mexidos em fogo baixo e com mexida contínua preserva a textura cremosa. As torradas integrais complementam o prato com fibras e crocância."
+ },
+ {
+  "id": "omelete-matinal",
+  "nome": "Omelete Matinal",
+  "descricao": "Queijo Minas com tomate em café da manhã rápido",
+  "refeicao": "cafe",
+  "pagina": 52,
+  "macros": {
+   "calorias": 307,
+   "proteinas": 19,
+   "carboidratos": 4,
+   "lipideos": 22
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "120 g (2 inteiros)"
+   },
+   {
+    "nome": "Queijo Minas frescal",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Tomate-cereja",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Café (para acompanhar)",
+    "qtd": "150 ml (preto)"
+   },
+   {
+    "nome": "Azeite (para untar)",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Bata os ovos com garfo, tempere com sal e orégano.",
+   "Aqueça frigideira antiaderente em fogo médio com um fio de azeite.",
+   "Despeje os ovos e cozinhe 1-2 minutos sem mexer, até as bordas firmarem.",
+   "Distribua o Queijo Minas em cubos e os tomates-cereja cortados ao meio sobre metade da omelete.",
+   "Dobre ao meio, abaixe o fogo e tampe por 1 minuto para o queijo derreter.",
+   "Sirva imediatamente com café preto sem açúcar."
+  ],
+  "dica": "O Queijo Minas frescal tem sabor suave e textura macia. Combinado com tomate-cereja, cria um café salgado simples, fresco e colorido."
+ },
+ {
+  "id": "pao-integral-com-ovos",
+  "nome": "Pão Integral com Ovos",
+  "descricao": "Sanduíche integral com ovos mexidos cremosos e tomate fresco para começar o dia",
+  "refeicao": "cafe",
+  "pagina": 53,
+  "macros": {
+   "calorias": 309,
+   "proteinas": 18,
+   "carboidratos": 25,
+   "lipideos": 13
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "120 g (2 ovos)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Prepare os 2 ovos mexidos em frigideira antiaderente em fogo médio-baixo, mexendo com espátula por 2 minutos até ficarem cremosos. Tempere com sal.",
+   "Disponha o tomate fatiado sobre uma fatia de pão integral e cubra com os ovos mexidos.",
+   "Feche com a outra fatia de pão e sirva imediatamente."
+  ],
+  "dica": "O pão integral com ovo combina fibra, proteína e uma textura simples de café da manhã. O tomate adiciona acidez e cor ao recheio, dando um toque de frescor."
+ },
+ {
+  "id": "vitamina-cremosa-de-abacate",
+  "nome": "Vitamina Cremosa de Abacate",
+  "descricao": "Abacate batido com whey: cremosidade e proteína",
+  "refeicao": "cafe",
+  "pagina": 54,
+  "macros": {
+   "calorias": 355,
+   "proteinas": 32,
+   "carboidratos": 41,
+   "lipideos": 12
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Abacate",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Whey protein",
+    "qtd": "30 g (baunilha)"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Cacau em pó 100%",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Bata leite desnatado e whey no liquidificador por 10 segundos para dissolver.",
+   "Adicione abacate em pedaços, banana em rodelas e J. cacau em pó.",
+   "Acrescente 3-4 pedras de gelo e bata em velocidade alta por 40-60 segundos até cremoso.",
+   "Sirva imediatamente em copo grande."
+  ],
+  "dica": "O abacate contribui com gordura monoinsaturada e textura cremosa, harmonizando muito bem com o sabor intenso do cacau em pó. O whey completa o shake com aporte proteico para um café reforçado."
+ },
+ {
+  "id": "pao-de-caneca-de-nozes-tostado",
+  "nome": "Pão de Caneca de Nozes Tostado",
+  "descricao": "Pão de caneca de nozes dourado na frigideira, crocante e sem lactose",
+  "refeicao": "cafe",
+  "pagina": 55,
+  "macros": {
+   "calorias": 370,
+   "proteinas": 15,
+   "carboidratos": 11,
+   "lipideos": 32
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Farinha de nozes",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Farinha de linhaça",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Linhaça",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Fermento químico em pó",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Misture o ovo, a farinha de nozes, a farinha de linhaça, a linhaça, o fermento e sal.",
+   "Despeje a massa em uma caneca grande ou ramequim próprio para micro-ondas (250-300 ml) e leve em potência alta (800 W) por 2 minutos.",
+   "Corte ao meio, recheie como preferir e leve a uma frigideira antiaderente em fogo médio (sem óleo) para dourar por 1-2 minutos de cada lado. Sugestão: queijo mussarela com manjericão, ou cottage por cima."
+  ],
+  "dica": "As nozes trazem crocância e gordura vegetal ao pão. A dupla de linhaça, inteira e em farinha, ajuda na textura e reforça o sabor integral. Contém nozes; alérgicos devem substituir por farinha de aveia."
+ },
+ {
+  "id": "pao-de-tapioca-de-frigideira",
+  "nome": "Pão de Tapioca de Frigideira",
+  "descricao": "Pão rápido com ovos e tapioca, 376 kcal por porção",
+  "refeicao": "cafe",
+  "pagina": 56,
+  "macros": {
+   "calorias": 376,
+   "proteinas": 9,
+   "carboidratos": 54,
+   "lipideos": 13
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Goma de tapioca",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 ovo)"
+   },
+   {
+    "nome": "Requeijão light",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Azeite (para untar)",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Misture goma de tapioca com ovo, requeijão e sal até massa pegajosa e uniforme.",
+   "Aqueça frigideira antiaderente em fogo médio-baixo com azeite.",
+   "Despeje a massa formando um disco. Cozinhe 3-4 minutos em fogo baixo até dourar e desgrudar.",
+   "Vire com espátula e doure o outro lado por 2-3 minutos.",
+   "Sirva quente, cortado em triângulos, crocante por fora, macio por dentro."
+  ],
+  "dica": "A goma de tapioca com ovo e requeijão light lembra o sabor e a textura do pão de queijo mineiro em uma versão de frigideira mais leve. O amido da tapioca é naturalmente isento de glúten."
+ },
+ {
+  "id": "cafe-reforcado-com-ovos-e-pao",
+  "nome": "Café Reforçado com Ovos e Pão",
+  "descricao": "Ovos mexidos, pão integral, banana e café preto",
+  "refeicao": "cafe",
+  "pagina": 57,
+  "macros": {
+   "calorias": 378,
+   "proteinas": 19,
+   "carboidratos": 40,
+   "lipideos": 13
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo",
+    "qtd": "120 g (2 inteiros)"
+   },
+   {
+    "nome": "Pão integral",
+    "qtd": "50 g (2 fatias)"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Café",
+    "qtd": "150 ml (preto)"
+   }
+  ],
+  "passos": [
+   "Prepare os ovos mexidos em frigideira antiaderente com fogo baixo, mexendo suavemente até ficarem cremosos.",
+   "Toste o pão integral.",
+   "Fatie a banana em rodelas finas.",
+   "Sirva os ovos no prato com o pão torrado e a banana fatiada ao lado. Acompanhe com o café preto."
+  ],
+  "dica": "O café preto traz amargor e aroma para acompanhar os ovos e o pão integral. A banana completa o prato com doçura natural."
+ },
+ {
+  "id": "pao-de-micro-ondas",
+  "nome": "Pão de Micro-ondas",
+  "descricao": "Pronto no micro-ondas com ovos em 4 min",
+  "refeicao": "cafe",
+  "pagina": 58,
+  "macros": {
+   "calorias": 387,
+   "proteinas": 20,
+   "carboidratos": 7,
+   "lipideos": 31
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 ovos)"
+   },
+   {
+    "nome": "Requeijão",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Fermento químico",
+    "qtd": "4 g (1 colher de chá)"
+   },
+   {
+    "nome": "Sementes de gergelim preto (ou branco)",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Pimenta",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Em uma tigela, misture os ovos, o requeijão, o fermento, sal e pimenta. Bata bem até formar um creme homogêneo.",
+   "Espalhe a mistura em um prato raso grande e polvilhe o gergelim.",
+   "Leve ao micro-ondas por 1 minuto e meio ou até o pão secar.",
+   "Espere esfriar por 2 minutos antes de desenformar.",
+   "Corte em duas partes, recheie a gosto e, se quiser, doure na sanduicheira ou na frigideira quente por 2 a 3 id A ai minutos (opcional)."
+  ],
+  "dica": "O gergelim preto adiciona crocância, cor e sabor tostado. O requeijão deixa o pão rápido mais cremoso e fácil de servir."
+ },
+ {
+  "id": "tigela-de-acai-com-banana-e-whey",
+  "nome": "Tigela de Açaí com Banana e Whey",
+  "descricao": "27 de proteína com whey e banana para sua manhã",
+  "refeicao": "cafe",
+  "pagina": 59,
+  "macros": {
+   "calorias": 397,
+   "proteinas": 27,
+   "carboidratos": 50,
+   "lipideos": 9
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Polpa de açaí sem açúcar",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Whey protein",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Granola sem açúcar",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque a polpa de açaí metade da banana em rodelas, o whey protein e 3 pedras de gelo no liquidificador. Bata em velocidade alta por 30 segundos.",
+   "Verifique a textura: deve ficar espessa como sorvete. Se necessário, adicione mais gelo e bata novamente. Transfira para uma tigela.",
+   "Decore com a outra metade da banana fatiada, os morangos cortados e a granola sem açúcar por cima. Sirva imediatamente."
+  ],
+  "dica": "O açaí sem açúcar traz cor roxa intensa e sabor marcante. O whey transforma a tigela em uma refeição mais proteica, sem perder a textura cremosa."
+ },
+ {
+  "id": "overnight-oats-tropical",
+  "nome": "Overnight Oats Tropical",
+  "descricao": "Aveia com frutas tropicais preparada na noite anterior",
+  "refeicao": "cafe",
+  "pagina": 60,
+  "macros": {
+   "calorias": 404,
+   "proteinas": 15,
+   "carboidratos": 63,
+   "lipideos": 12
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Manga",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Mamão",
+    "qtd": "50 g (papaia)"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Iogurte natural",
+    "qtd": "170 ml"
+   },
+   {
+    "nome": "Maracujá",
+    "qtd": "30 g (polpa)"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Em um pote de vidro, misture a aveia, o iogurte natural e a chia. Mexa bem.",
+   "Distribua por cima a manga, o mamão e a polpa de 8 Rio maracujá em camadas. Finalize com mel.",
+   "Tampe e leve à geladeira por pelo menos 6 horas. Pela manhã, finalize com a castanha-do-pará picada e sirva gelado."
+  ],
+  "dica": "O maracujá traz acidez, aroma tropical e fibra à preparação. A aveia hidratada na geladeira fica macia sem cozimento, criando uma textura prática de overnight."
+ },
+ {
+  "id": "omelete-de-ricota-com-tomates-secos",
+  "nome": "Omelete de Ricota com Tomates Secos",
+  "descricao": "Ricota derretida com tomates secos em omelete cremosa",
+  "refeicao": "cafe",
+  "pagina": 61,
+  "macros": {
+   "calorias": 418,
+   "proteinas": 24,
+   "carboidratos": 20,
+   "lipideos": 26
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 ovos)"
+   },
+   {
+    "nome": "Ricota esmagada",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Tomate seco picado",
+    "qtd": "50 g (2 unidades)"
+   },
+   {
+    "nome": "Salsinha picada",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Azeite (para untar)",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Bata os ovos e misture ricota esmagada, salsinha e sal com garfo.",
+   "Aqueça frigideira antiaderente em fogo médio-baixo a ear: com azeite. Despeje a mistura e espalhe.",
+   "Quando a base firmar (-2 minutos), distribua os tomates secos sobre a superfície.",
+   "Tampe e cozinhe em fogo baixo por 2-3 minutos até a parte superior firmar.",
+   "Vire com auxílio de um prato e doure o outro lado por 1 minuto. Sirva imediatamente."
+  ],
+  "dica": "O tomate seco concentra sabor, acidez e umami. A ricota adiciona cremosidade e suaviza o sal do tomate na omelete."
+ },
+ {
+  "id": "vitamina-reforcada-para-massa",
+  "nome": "Vitamina Reforçada para Massa",
+  "descricao": "Vitamina encorpada com whey, aveia e banana para ganho de massa",
+  "refeicao": "cafe",
+  "pagina": 62,
+  "macros": {
+   "calorias": 440,
+   "proteinas": 42,
+   "carboidratos": 57,
+   "lipideos": 4
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque leite desnatado no liquidificador como base líquida.",
+   "Adicione whey, banana e aveia em flocos.",
+   "Bata em velocidade alta por 45-60 segundos até cremoso. Raspe as laterais se necessário.",
+   "Polvilhe canela e sirva em copo alto. Para mais gelada, adicione gelo antes de bater."
+  ],
+  "dica": "Com whey, aveia e banana, esta vitamina fica densa, cremosa e reforçada em proteína. Funciona bem para quem precisa de um café reforçado e prático."
+ },
+ {
+  "id": "omelete-vegana-de-tofu-e-grao-de-bico",
+  "nome": "Omelete Vegana de Tofu e Grão-de-Bico",
+  "descricao": "Tofu e grão-de-bico: omelete 100% vegana com sabor",
+  "refeicao": "cafe",
+  "pagina": 63,
+  "macros": {
+   "calorias": 469,
+   "proteinas": 21,
+   "carboidratos": 46,
+   "lipideos": 24
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegana",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tofu firme amassado",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Polvilho doce",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "13 ml"
+   },
+   {
+    "nome": "Cúrcuma (também conhecida como açafrão-da-terra)",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Grão-de-bico cozido esmagado",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Alho grande picado",
+    "qtd": "5 g (1 dente)"
+   },
+   {
+    "nome": "Água",
+    "qtd": "30 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Amasse o tofu firme com um garfo em uma tigela.",
+   "Adicione o grão-de-bico cozido esmagado, a cúrcuma, o alho picado e o sal. Adicione o polvilho doce e a água, misture até dar liga.",
+   "Aqueça o azeite em frigideira antiaderente em fogo médio.",
+   "Despeje a mistura e espalhe formando um disco. Cozinhe por 3 a 4 minutos.",
+   "Vire com cuidado e doure do outro lado por mais 2 minutos. Sirva quente."
+  ],
+  "dica": "O tofu firme amassado fornece isoflavonas e proteína vegetal completa. O grão-de-bico adiciona fibra e ferro, e o polvilho doce dá a liga sem glúten. Refeição completa 100% vegetal. Contém soja, alérgicos devem evitar."
+ },
+ {
+  "id": "pao-integral-com-pasta-de-amendoim-e",
+  "nome": "Pão Integral com Pasta de Amendoim e",
+  "descricao": "Banana Energia rápida com gorduras boas e potássio natural",
+  "refeicao": "cafe",
+  "pagina": 64,
+  "macros": {
+   "calorias": 494,
+   "proteinas": 18,
+   "carboidratos": 67,
+   "lipideos": 20
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "60 g (2 fatias)"
+   },
+   {
+    "nome": "Pasta de amendoim natural",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g (1 unidade)"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Granola",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Toste as fatias de pão integral até ficarem crocantes.",
+   "Espalhe generosamente a pasta de amendoim em cada fatia.",
+   "Disponha as rodelas de banana por cima.",
+   "Salpique a granola, polvilhe a canela e finalize com um fio de mel."
+  ],
+  "dica": "A pasta de amendoim no pão integral combina gordura, fibra e sabor tostado. A banana fornece doçura natural e potássio, enquanto a granola adiciona crocância sem frituras."
+ },
+ {
+  "id": "tigela-de-frutas-com-grego",
+  "nome": "Tigela de Frutas com Grego",
+  "descricao": "24 de proteína com morango e manga para sua manhã",
+  "refeicao": "cafe",
+  "pagina": 65,
+  "macros": {
+   "calorias": 520,
+   "proteinas": 24,
+   "carboidratos": 68,
+   "lipideos": 18
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural sem açúcar",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Mirtilo",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Manga",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Granola",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Sementes de chia",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte grego em uma tigela funda.",
+   "Organize as frutas cortadas harmoniosamente por cima: morangos fatiados, mirtilos inteiros e cubos de dial tod",
+   "Salpique a granola e as sementes de chia.",
+   "Finalize com um fio de mel."
+  ],
+  "dica": "O mirtilo traz cor intensa e acidez delicada ao bowl. Com iogurte grego e chia, cria uma tigela cremosa, fresca e com boa textura."
+ },
+ {
+  "id": "torrada-integral-com-ovo-e-pasta-de-amendoim",
+  "nome": "Torrada Integral com Ovo e Pasta de Amendoim",
+  "descricao": "Torrada com ovo mexido e pasta de amendoim: combo salgado e doce",
+  "refeicao": "cafe",
+  "pagina": 66,
+  "macros": {
+   "calorias": 527,
+   "proteinas": 27,
+   "carboidratos": 54,
+   "lipideos": 21
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "75 g (3 fatias)"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "100 g (2 inteiros)"
+   },
+   {
+    "nome": "Pasta de amendoim sem açúcar",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Toste as fatias de pão integral até ficarem crocantes e douradas.",
+   "Faça ovos mexidos em frigideira antiaderente, fogo médio-baixo, por 2-3 minutos. Retire ainda úmidos.",
+   "Espalhe a pasta de amendoim sobre as torradas quentes.",
+   "Distribua os ovos mexidos sobre as torradas, adicione banana fatiada e polvilhe canela.",
+   "Sirva imediatamente."
+  ],
+  "dica": "A pasta de amendoim junto ao ovo combina gordura insaturada com proteína, deixando a torrada mais consistente. A banana acrescenta potássio e carboidrato, boa opção para começar o dia. Como pré-treino, pode ser consumido 30 a 40 minutos antes do exercício."
+ },
+ {
+  "id": "bowl-de-cottage-com-granola-e-frutas",
+  "nome": "Bowl de Cottage com Granola e Frutas",
+  "descricao": "Cottage cremoso sobre granola crocante e frutas frescas",
+  "refeicao": "cafe",
+  "pagina": 67,
+  "macros": {
+   "calorias": 576,
+   "proteinas": 32,
+   "carboidratos": 68,
+   "lipideos": 21
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo cottage",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Granola",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Mamão",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Maracujá",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Sementes de abóbora",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Coloque o cottage em uma tigela funda.",
+   "Distribua a granola ao redor.",
+   "Adicione o mamão cortado em cubos no centro.",
+   "Despeje a polpa do maracujá sobre tudo.",
+   "Salpique as sementes de abóbora e finalize com mel."
+  ],
+  "dica": "As sementes de abóbora são boas fontes vegetais de zinco e dão crocância ao bowl. Combinadas com cottage, mamão e maracujá, formam um conjunto com proteína láctea, vitamina e fibras para o café da manhã."
+ },
+ {
+  "id": "iogurte-grego-com-mel-e-castanhas",
+  "nome": "Iogurte Grego com Mel e Castanhas",
+  "descricao": "26 de proteína com banana e castanhas para sua manhã",
+  "refeicao": "cafe",
+  "pagina": 68,
+  "macros": {
+   "calorias": 578,
+   "proteinas": 26,
+   "carboidratos": 51,
+   "lipideos": 32
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural integral",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Castanha de caju",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte grego em uma tigela.",
+   "Corte a banana em rodelas e disponha sobre o iogurte.",
+   "Pique grosseiramente as castanhas e salpique por cima.",
+   "Regue com mel e finalize com uma pitada de canela."
+  ],
+  "dica": "Duas castanhas-do-pará deixam o iogurte mais crocante e acrescentam selênio, mineral naturalmente concentrado nesse ingrediente. O iogurte grego integral traz textura espessa e boa presença de proteína."
+ },
+ {
+  "id": "tapioca-recheada-de-carne-seca-com-cream-cheese",
+  "nome": "Tapioca Recheada de Carne Seca com Cream Cheese",
+  "descricao": "43 de proteína com carne seca, tapioca e ovo para sua manhã",
+  "refeicao": "cafe",
+  "pagina": 69,
+  "macros": {
+   "calorias": 615,
+   "proteinas": 43,
+   "carboidratos": 47,
+   "lipideos": 31
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Goma de tapioca hidratada",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Carne seca desfiada cozida",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Cream cheese",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Ovo inteiro",
+    "qtd": "50 g (1 unidade)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Cebolinha",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Aqueça uma frigideira antiaderente em fogo médio. Espalhe a goma de tapioca formando um disco e deixe firmar por 1 min.",
+   "Enquanto isso aqueça a carne seca desfiada qHes (previamente dessalgada por 12 horas em água trocada 3 vezes) no micro-ondas por 30 segundos.",
+   "Vire a tapioca, deixe firmar por mais 30 segundos, transfira para um prato e espalhe o cream cheese. Distribua a carne seca, o tomate picado e a cebolinha sobre metade do disco.",
+   "Na mesma frigideira, frite o ovo por 1 a 2 minutos, coloque sobre o recheio e dobre a tapioca ao meio."
+  ],
+  "dica": "A carne seca é uma proteína intensa e salgada. Combinada à tapioca com cream cheese e ovo, rende uma"
+ },
+ {
+  "id": "sanduiche-integral-de-ovo-abacate-e-peru",
+  "nome": "Sanduíche Integral de Ovo, Abacate e Peru",
+  "descricao": "Pão integral completo com ovo, abacate e peito de peru",
+  "refeicao": "cafe",
+  "pagina": 70,
+  "macros": {
+   "calorias": 620,
+   "proteinas": 38,
+   "carboidratos": 52,
+   "lipideos": 28
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "100 g (2 fatias grandes)"
+   },
+   {
+    "nome": "Ovo inteiro",
+    "qtd": "100 g (2 unidades)"
+   },
+   {
+    "nome": "Abacate",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Peito de peru defumado",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Frite os 2 ovos em uma frigideira antiaderente com o azeite, deixando a gema levemente cremosa (2 min).",
+   "Amasse o abacate com um garfo e espalhe nas fatias E de pão integral.",
+   "Monte o sanduíche: pão, abacate amassado, fatias de peito de peru, tomate fatiado e os ovos fritos por cima.",
+   "Feche e sirva imediatamente."
+  ],
+  "dica": "O abacate é rico em fibras e fornece ácido oleico (mesma gordura do azeite). Com ovo, peru e pão integral, este sanduíche entrega todos os macronutrientes em proporção equilibrada. Atenção: Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "bowl-de-acai-proteico-com-granola-e-banana",
+  "nome": "Bowl de Açaí Proteico com Granola e Banana",
+  "descricao": "Açaí sem açúcar com whey e banana: energia roxa para começar o dia",
+  "refeicao": "cafe",
+  "pagina": 71,
+  "macros": {
+   "calorias": 648,
+   "proteinas": 36,
+   "carboidratos": 73,
+   "lipideos": 24
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Polpa de açaí sem açúcar",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Granola crocante",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Pasta de amendoim integral",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Água",
+    "qtd": "30 ml (se necessário)"
+   }
+  ],
+  "passos": [
+   "Bata no liquidificador a polpa de açaí com metade da banana e o whey protein até obter uma consistência cremosa e espessa (adicione 30 ml de água se necessário).",
+   "Despeje em um bowl.",
+   "Decore com a outra metade da banana fatiada, granola, pasta de amendoim em fio e regue com mel."
+  ],
+  "dica": "A polpa de açaí sem açúcar traz cor intensa e textura cremosa. Com whey e pasta de amendoim, este bowl fica mais denso, calórico e com sabor marcante."
+ },
+ {
+  "id": "mingau-proteico-de-aveia-com-whey-e-castanhas",
+  "nome": "Mingau Proteico de Aveia com Whey e Castanhas",
+  "descricao": "Mingau quente com whey, castanhas e 43 de proteína",
+  "refeicao": "cafe",
+  "pagina": 72,
+  "macros": {
+   "calorias": 715,
+   "proteinas": 43,
+   "carboidratos": 89,
+   "lipideos": 24
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite integral",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "15 g (3 unidades)"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Em uma tigela para micro-ondas, misture a aveia e o leite.",
+   "Leve ao micro-ondas por 2 minutos em potência alta, mexendo na metade do tempo.",
+   "Retire, adicione o whey protein e mexa vigorosamente até incorporar.",
+   "Cubra com rodelas de banana, castanhas-do-pará picadas, canela e mel."
+  ],
+  "dica": "Com whey e leite integral, este mingau fica proteico e encorpado para café da manhã ou pós-treino. A castanha-do-pará aporta selênio e crocância, enquanto a canela reforça o aroma."
+ },
+ {
+  "id": "overnight-proats-de-chocolate-com-frutas-vermelhas",
+  "nome": "Overnight Proats de Chocolate com Frutas Vermelhas",
+  "descricao": "Proats gelado de chocolate com frutas vermelhas e 50 de proteína",
+  "refeicao": "cafe",
+  "pagina": 73,
+  "macros": {
+   "calorias": 799,
+   "proteinas": 50,
+   "carboidratos": 87,
+   "lipideos": 30
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite integral",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "80 g (4-5 unidades)"
+   },
+   {
+    "nome": "Pasta de amendoim integral",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Na noite anterior, misture a aveia, whey, cacau, chia e leite em um pote com tampa. Mexa bem até ficar homogêneo.",
+   "Tampe e leve à geladeira por pelo menos 6 horas.",
+   "Na manhã seguinte, retire da geladeira, adicione os morangos fatiados por cima e finalize com a pasta de amendoim."
+  ],
+  "dica": "O cacau em pó combinado com whey chocolate intensifica o sabor da receita. A chia nestes proats hidrata overnight, formando um gel que deixa a textura mais cremosa."
+ },
+ {
+  "id": "torre-de-panquecas-proteicas-com-banana-e-pasta-de-amendoim",
+  "nome": "Torre de Panquecas Proteicas com Banana e Pasta de Amendoim",
+  "descricao": "Torre de panquecas proteicas com pasta de amendoim e mel",
+  "refeicao": "cafe",
+  "pagina": 74,
+  "macros": {
+   "calorias": 962,
+   "proteinas": 60,
+   "carboidratos": 110,
+   "lipideos": 35
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Pasta de amendoim integral",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Ovo inteiro",
+    "qtd": "100 g (2 unidades)"
+   },
+   {
+    "nome": "Leite integral",
+    "qtd": "100 ml"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Bata no liquidificador a aveia, whey, banana, ovos, leite e canela por 30 segundos até formar uma massa lisa.",
+   "Aqueça uma frigideira antiaderente em fogo médio e despeje porções da massa (uma concha cada), formando 4 panquecas.",
+   "Cozinhe 1-2 min de cada lado até dourar.",
+   "Empilhe as panquecas, cubra com pasta de amendoim e regue com mel."
+  ],
+  "dica": "Esta torre de panquecas entrega cerca de 60 de proteína completa combinando whey, ovo, aveia, leite e pasta de amendoim. A banana madura funciona como agente de liga e adoçante, eliminando farinha branca e açúcar refinado."
+ }
+]

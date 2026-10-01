@@ -1,7 +1,8 @@
 import { useMemo, useState } from 'react'
 import { useStoredState } from '@/hooks/use-stored-state'
 import { RECEITAS } from './data'
-import { alternarFiltro, filtrarReceitas, type Ordem, type TipoFiltro } from './filtros'
+import type { Ordem } from '../shared/receita'
+import { alternarFiltro, filtrarReceitas, type TipoFiltro } from './filtros'
 
 const STORAGE_KEY = 'gym-log:receitas-filtros:v1'
 

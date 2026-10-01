@@ -1,0 +1,1534 @@
+[
+ {
+  "id": "ovo-cozido-com-pepino-crocante",
+  "nome": "Ovo Cozido com Pepino Crocante",
+  "descricao": "Ovo cozido fatiado com pepino fresco",
+  "refeicao": "ceia",
+  "pagina": 225,
+  "macros": {
+   "calorias": 84,
+   "proteinas": 6,
+   "carboidratos": 2,
+   "lipideos": 5
+  },
+  "minutos": 2,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovo cozido",
+    "qtd": "50 g (1 unidade)"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Sal rosa",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Pimenta-do-reino",
+    "qtd": "0,3 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Corte o ovo cozido ao meio.",
+   "Fatie o pepino em rodelas.",
+   "Disponha o ovo e o pepino no prato, tempere com sal rosa e pimenta-do-reino.",
+   "Sirva frio."
+  ],
+  "dica": "O ovo cozido preserva bem a colina e a biotina da gema. O pepino adiciona hidratação, crocância e fibra com apenas 16 kcal por 100 g."
+ },
+ {
+  "id": "leite-morno-com-canela-e-mel",
+  "nome": "Leite Morno com Canela e Mel",
+  "descricao": "Leite morno adoçado com mel e canela: ritual noturno que acalma",
+  "refeicao": "ceia",
+  "pagina": 226,
+  "macros": {
+   "calorias": 106,
+   "proteinas": 7,
+   "carboidratos": 19,
+   "lipideos": 0
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Aqueça o leite no micro-ondas por 1 minuto e 30 segundos.",
+   "Adicione o mel e a canela, mexendo bem com uma J. colher até dissolver.",
+   "Sirva morno em uma caneca."
+  ],
+  "dica": "A canela perfuma o leite morno e dá sensação de doçura sem precisar aumentar o açúcar. Sirva quente para uma ceia simples e aconchegante."
+ },
+ {
+  "id": "golden-milk-relaxante",
+  "nome": "Golden Milk Relaxante",
+  "descricao": "Leite dourado com cúrcuma, gengibre e mel",
+  "refeicao": "ceia",
+  "pagina": 227,
+  "macros": {
+   "calorias": 113,
+   "proteinas": 8,
+   "carboidratos": 21,
+   "lipideos": 0
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Cúrcuma em pó",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Gengibre em pó",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Pimenta-do-reino",
+    "qtd": "0,1 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Aqueça o leite no micro-ondas por 1 minuto e 30 segundos.",
+   "Adicione a cúrcuma, o gengibre, o mel e a pitada de imenta-do-reino.",
+   "Mexa bem até dissolver completamente.",
+   "Sirva morno em uma caneca."
+  ],
+  "dica": "A pimenta-do-reino combina com a cúrcuma e reforça o perfil clássico do golden milk. O gengibre adiciona aroma picante e calor, completando esta bebida reconfortante."
+ },
+ {
+  "id": "iogurte-noturno",
+  "nome": "Iogurte Noturno",
+  "descricao": "logurte com castanha-do-pará e toque de canela",
+  "refeicao": "ceia",
+  "pagina": 228,
+  "macros": {
+   "calorias": 122,
+   "proteinas": 7,
+   "carboidratos": 12,
+   "lipideos": 6
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte natural",
+    "qtd": "170 ml"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "1,5 g (meia colher de chá)"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte natural em uma tigela ou bow! fundo.",
+   "Polvilhe a canela uniformemente sobre o iogurte.",
+   "Finalize com a castanha-do-pará picada por cima para manter a textura crocante ao comer.",
+   "Sirva imediatamente ou refrigere por 10 minutos para os sabores se integrarem. Pode ser preparado na noite anterior para consumir no dia seguinte."
+  ],
+  "dica": "O iogurte natural à noite deixa a ceia cremosa e prática, com boa presença de proteína. A castanha-do-pará adiciona selênio, crocância e sabor marcante."
+ },
+ {
+  "id": "queijo-minas-com-geleia-sem-acucar",
+  "nome": "Queijo Minas com Geleia Sem Açúcar",
+  "descricao": "Queijo frescal com geleia sem açúcar em ceia rápida",
+  "refeicao": "ceia",
+  "pagina": 229,
+  "macros": {
+   "calorias": 132,
+   "proteinas": 7,
+   "carboidratos": 8,
+   "lipideos": 7
+  },
+  "minutos": 2,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo Minas frescal",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Geleia de frutas vermelhas sem açúcar",
+    "qtd": "20 g"
+   }
+  ],
+  "passos": [
+   "Corte o Queijo Minas em fatias médias e disponha em um pratinho.",
+   "Coloque a geleia em uma pequena porção ao lado ou por cima das fatias.",
+   "Sirva frio."
+  ],
+  "dica": "O Queijo Minas frescal tem sabor suave e combina bem com geleia sem açúcar. As frutas vermelhas deixam a ceia mais ácida e colorida."
+ },
+ {
+  "id": "torrada-integral-com-cottage-e-tomate",
+  "nome": "Torrada Integral com Cottage e Tomate",
+  "descricao": "Cottage com pão integral em ceia salgada",
+  "refeicao": "ceia",
+  "pagina": 230,
+  "macros": {
+   "calorias": 148,
+   "proteinas": 10,
+   "carboidratos": 15,
+   "lipideos": 6
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Pão integral",
+    "qtd": "25 g (1 fatia)"
+   },
+   {
+    "nome": "Queijo cottage",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "3 ml"
+   }
+  ],
+  "passos": [
+   "Toste o pão integral na torradeira ou no micro-ondas por 30 segundos.",
+   "Espalhe o cottage sobre a torrada.",
+   "Corte o tomate em rodelas finas e coloque por cima.",
+   "Finalize com um fio de azeite e orégano."
+  ],
+  "dica": "O cottage deixa a ceia salgada simples, cremosa e proteica. O pão integral adiciona estrutura e facilita comer com as mãos."
+ },
+ {
+  "id": "bowl-de-cottage-com-canela-e-mel",
+  "nome": "Bowl de Cottage com Canela e Mel",
+  "descricao": "Bowl de cottage com mel e canela para uma ceia proteica",
+  "refeicao": "ceia",
+  "pagina": 231,
+  "macros": {
+   "calorias": 148,
+   "proteinas": 13,
+   "carboidratos": 14,
+   "lipideos": 5
+  },
+  "minutos": 2,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo cottage",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Coloque o cottage em um potinho ou bowl pequeno.",
+   "Regue com o mel por cima e finalize polvilhando a canela.",
+   "Misture levemente com uma colher e sirva gelado."
+  ],
+  "dica": "A canela na ceia reforça o aroma doce sem precisar aumentar o açúcar. Use uma pitada para realçar o cottage com mel sem dominar a doçura natural."
+ },
+ {
+  "id": "bowl-de-cottage-com-castanhas-e-especiarias",
+  "nome": "Bowl de Cottage com Castanhas e Especiarias",
+  "descricao": "Cottage com castanha-do-pará e amêndoas",
+  "refeicao": "ceia",
+  "pagina": 232,
+  "macros": {
+   "calorias": 159,
+   "proteinas": 12,
+   "carboidratos": 5,
+   "lipideos": 11
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo cottage",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "8 g (2 unidades)"
+   },
+   {
+    "nome": "Amêndoas",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Cardamomo em pó",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Coloque o cottage em uma tigela.",
+   "Distribua as castanhas e amêndoas picadas grosseiramente por cima.",
+   "Polvilhe canela e cardamomo por cima.",
+   "Sirva como ceia cremosa e prática."
+  ],
+  "dica": "A castanha-do-pará é naturalmente rica em selênio; uma unidade já deixa o bowl mais marcante e crocante. Use com moderação, porque o sabor e os minerais são concentrados."
+ },
+ {
+  "id": "bowl-de-iogurte-com-frutas-e-especiarias",
+  "nome": "Bowl de Iogurte com Frutas e Especiarias",
+  "descricao": "logurte com morango, mirtilo e um toque de cardamomo",
+  "refeicao": "ceia",
+  "pagina": 233,
+  "macros": {
+   "calorias": 162,
+   "proteinas": 7,
+   "carboidratos": 19,
+   "lipideos": 6
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte natural",
+    "qtd": "170 ml"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Mirtilo",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Cardamomo em pó",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte natural no bowil.",
+   "Distribua os morangos, os mirtilos e a castanha picada por cima.",
+   "Polvilhe canela e cardamomo a gosto.",
+   "Regue com um fio de mel por cima e sirva."
+  ],
+  "dica": "O mirtilo traz cor intensa, acidez leve e aroma de fruta fresca. Com iogurte e castanha-do-pará, deixa a ceia cremosa e nutritiva."
+ },
+ {
+  "id": "chocolate-quente-proteico",
+  "nome": "Chocolate Quente Proteico",
+  "descricao": "Achocolatado quente com whey em versão proteica",
+  "refeicao": "ceia",
+  "pagina": 234,
+  "macros": {
+   "calorias": 173,
+   "proteinas": 21,
+   "carboidratos": 19,
+   "lipideos": 2
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite desnatado",
+    "qtd": "250 ml"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Aqueça o leite no micro-ondas por 1 minuto e 30 segundos.",
+   "Adicione o cacau, o whey e o eritritol.",
+   "Mexa vigorosamente com um fouet ou mixer até dissolver tudo e ficar cremoso.",
+   "Sirva quente."
+  ],
+  "dica": "O cacau em pó sem açúcar dá sabor de chocolate à ceia sem precisar de barra de chocolate. Misture bem para não formar grumos."
+ },
+ {
+  "id": "omelete-leve-da-noite",
+  "nome": "Omelete Leve da Noite",
+  "descricao": "Omelete simples e leve para encerrar o dia sem peso",
+  "refeicao": "ceia",
+  "pagina": 235,
+  "macros": {
+   "calorias": 180,
+   "proteinas": 16,
+   "carboidratos": 2,
+   "lipideos": 11
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 ovos)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Bata os ovos com sal.",
+   "Aqueça uma frigideira antiaderente em fogo médio-baixo.",
+   "Despeje os ovos e cozinhe sem mexer por 2 minutos até a base firmar.",
+   "Corte o tomate em cubos e distribua sobre metade da omelete.",
+   "Dobre a omelete e sirva assim que o centro firmar."
+  ],
+  "dica": "A omelete leve com poucos ingredientes funciona bem para uma ceia salgada. Use fogo baixo para manter textura macia."
+ },
+ {
+  "id": "bowl-cremoso-de-cottage-com-abacate",
+  "nome": "Bowl Cremoso de Cottage com Abacate",
+  "descricao": "Cottage com abacate em ceia cremosa",
+  "refeicao": "ceia",
+  "pagina": 236,
+  "macros": {
+   "calorias": 183,
+   "proteinas": 13,
+   "carboidratos": 8,
+   "lipideos": 12
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo cottage",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Abacate",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Sal rosa",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Corte o abacate em cubinhos pequenos.",
+   "Em uma tigela, amasse metade do abacate com o garfo até formar um creme; reserve o restante em cubinhos.",
+   "Adicione o cottage ao abacate amassado e misture bem até obter textura cremosa. Incorpore os cubinhos reservados, finalize com a pitada de sal rosa e sirva."
+  ],
+  "dica": "O abacate no cottage deixa a ceia cremosa e mais densa. Amasse bem para misturar sem pedaços grandes."
+ },
+ {
+  "id": "bowl-de-ricota-com-cacau-e-eritritol",
+  "nome": "Bowl de Ricota com Cacau e Eritritol",
+  "descricao": "Ricota com cacau e eritritol: ceia doce sem açúcar",
+  "refeicao": "ceia",
+  "pagina": 237,
+  "macros": {
+   "calorias": 188,
+   "proteinas": 13,
+   "carboidratos": 8,
+   "lipideos": 12
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ricota fresca",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Eritritol",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Amasse a ricota com um garfo até ficar cremosa.",
+   "Adicione o cacau em pó e o eritritol, misturando bem até obter consistência de mousse.",
+   "Sirva em um potinho pequeno."
+  ],
+  "dica": "O cacau deixa a ricota com sabor de chocolate. Misture até dissolver o pó completamente e atingir textura uniforme."
+ },
+ {
+  "id": "mix-de-castanhas-com-logurte",
+  "nome": "Mix de Castanhas com logurte",
+  "descricao": "logurte com castanhas em porção prática para a ceia",
+  "refeicao": "ceia",
+  "pagina": 238,
+  "macros": {
+   "calorias": 188,
+   "proteinas": 11,
+   "carboidratos": 9,
+   "lipideos": 13
+  },
+  "minutos": 2,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "100 g (aprox. 6 csop)"
+   },
+   {
+    "nome": "Castanhas mistas",
+    "qtd": "15 g (8-10 unidades)"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte grego em um potinho.",
+   "Quebre levemente as castanhas com as mãos e distribua por cima do iogurte.",
+   "Sirva gelado como ceia leve."
+  ],
+  "dica": "As castanhas mistas combinam crocância, gordura e sabor tostado. Uma mão fechada é uma medida prática para servir."
+ },
+ {
+  "id": "bowl-grego-com-chia-e-morango",
+  "nome": "Bowl Grego com Chia e Morango",
+  "descricao": "Chia com iogurte e frutas vermelhas para a noite",
+  "refeicao": "ceia",
+  "pagina": 239,
+  "macros": {
+   "calorias": 204,
+   "proteinas": 15,
+   "carboidratos": 16,
+   "lipideos": 10
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "60 g"
+   }
+  ],
+  "passos": [
+   "Corte os morangos em fatias finas.",
+   "Coloque o iogurte grego no potinho, polvilhe a chia por cima e distribua as fatias de morango.",
+   "Sirva imediatamente ou deixe na geladeira 5 minutos para a chia hidratar levemente."
+  ],
+  "dica": "A chia hidratada no iogurte forma uma textura de pudim e deixa a ceia mais encorpada. Prepare alguns minutos antes para a semente amaciar."
+ },
+ {
+  "id": "vitamina-noturna-de-cacau",
+  "nome": "Vitamina Noturna de Cacau",
+  "descricao": "Cacau e canela na ceia: aconchego noturno com proteína",
+  "refeicao": "ceia",
+  "pagina": 240,
+  "macros": {
+   "calorias": 213,
+   "proteinas": 33,
+   "carboidratos": 19,
+   "lipideos": 3
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Adoçante natural (opcional)",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque todos os ingredientes no liquidificador e bata até obter uma mistura cremosa e homogênea.",
+   "Sirva imediatamente, gelado ou em temperatura a ambiente."
+  ],
+  "dica": "O cacau em pó traz sabor intenso e combina bem com leite quente. Com o whey, forma uma bebida proteica e reconfortante para o fim do dia."
+ },
+ {
+  "id": "whey-da-noite",
+  "nome": "Whey da Noite",
+  "descricao": "Shake noturno de whey com canela e castanha-do-pará",
+  "refeicao": "ceia",
+  "pagina": 241,
+  "macros": {
+   "calorias": 222,
+   "proteinas": 32,
+   "carboidratos": 13,
+   "lipideos": 5
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "2 g (meia colher de chá)"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Gelo",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Coloque o leite desnatado no liquidificador como base líquida.",
+   "Adicione o whey protein, a canela e a castanha-do-o.",
+   "Bata em velocidade alta por 45 segundos a 1 minuto até obter uma textura cremosa e homogênea. Raspe as laterais se necessário.",
+   "Sirva imediatamente em copo alto. Para uma versão ua mais gelada, adicione 4 pedras de gelo antes de bater."
+  ],
+  "dica": "Uma dose de whey deixa a ceia prática e proteica. Bata bem para dissolver e evitar grumos no copo."
+ },
+ {
+  "id": "bowl-de-com-pasta-de-amendoim-e-banana",
+  "nome": "Bowl de com Pasta de Amendoim e Banana",
+  "descricao": "Banana com amendoim em ceia doce e cremosa",
+  "refeicao": "ceia",
+  "pagina": 242,
+  "macros": {
+   "calorias": 226,
+   "proteinas": 14,
+   "carboidratos": 18,
+   "lipideos": 11
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Pasta de amendoim",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "50 g"
+   }
+  ],
+  "passos": [
+   "Corte a banana em rodelas.",
+   "Coloque o iogurte grego no potinho, distribua as rodelas de banana por cima e finalize com a pasta de amendoim em fio.",
+   "Sirva gelado no próprio bowl."
+  ],
+  "dica": "A pasta de amendoim no iogurte adiciona gordura, cremosidade e sabor tostado. Misture antes de colocar a banana para não formar grumos."
+ },
+ {
+  "id": "cottage-tropical-com-abacate-e-chia",
+  "nome": "Cottage Tropical com Abacate e Chia",
+  "descricao": "Abacate, chia e cottage em ceia cremosa",
+  "refeicao": "ceia",
+  "pagina": 243,
+  "macros": {
+   "calorias": 236,
+   "proteinas": 15,
+   "carboidratos": 9,
+   "lipideos": 16
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo cottage",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Abacate",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "5 g (1 unidade)"
+   },
+   {
+    "nome": "Sal rosa",
+    "qtd": "1 g (1 pitada)"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Coloque o cottage em uma tigela.",
+   "Adicione o abacate fatiado ou parcialmente amassado.",
+   "Polvilhe a chia por cima.",
+   "Quebre a castanha-do-pará e distribua os pedaços por cima.",
+   "Finalize com uma pitada de sal rosa e um fio de limão."
+  ],
+  "dica": "A combinação de abacate, chia e cottage cria uma ceia cremosa, densa e fácil de montar. Deixe a chia hidratar por alguns minutos antes de servir."
+ },
+ {
+  "id": "banana-com-canela-mel-e-amendoim",
+  "nome": "Banana com Canela, Mel e Amendoim",
+  "descricao": "Banana madura com canela, mel e amendoim: doçura natural na ceia (com variação caramelizada opcional)",
+  "refeicao": "ceia",
+  "pagina": 244,
+  "macros": {
+   "calorias": 239,
+   "proteinas": 6,
+   "carboidratos": 38,
+   "lipideos": 7
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Amendoim natural",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Fatie a banana em rodelas.",
+   "Polvilhe a canela e regue com o mel.",
+   "Adicione o amendoim por cima.",
+   "Sirva frio."
+  ],
+  "dica": "A banana à noite vira uma ceia doce, rápida e fácil de preparar. Variação caramelizada: leve a banana à frigideira antiaderente em fogo médio com o mel, deixando dourar por 1 a 2 minutos de cada lado até caramelizar levemente; só então finalize com a canela e o amendoim."
+ },
+ {
+  "id": "cottage-doce-com-mel-canela-e-granola",
+  "nome": "Cottage Doce com Mel, Canela e Granola",
+  "descricao": "Cottage adoçado com mel e polvilhado de canela",
+  "refeicao": "ceia",
+  "pagina": 245,
+  "macros": {
+   "calorias": 241,
+   "proteinas": 20,
+   "carboidratos": 23,
+   "lipideos": 9
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo cottage",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Granola sem açúcar",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Coloque o cottage em uma tigela.",
+   "Regue com o mel, polvilhe a canela e adicione a granola por cima.",
+   "Consuma imediatamente para manter a crocância da granola."
+  ],
+  "dica": "A granola sem açúcar adiciona crocância ao cottage. Use uma porção pequena para manter a ceia leve."
+ },
+ {
+  "id": "omelete-de-claras-com-espinafre-e-queijo-minas",
+  "nome": "Omelete de Claras com Espinafre e Queijo Minas",
+  "descricao": "30 de proteína magra com ferro do espinafre para a ceia",
+  "refeicao": "ceia",
+  "pagina": 246,
+  "macros": {
+   "calorias": 256,
+   "proteinas": 30,
+   "carboidratos": 6,
+   "lipideos": 12
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Claras de ovo",
+    "qtd": "200 g (6 claras)"
+   },
+   {
+    "nome": "Espinafre baby",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Queijo Minas frescal",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Bata as claras com uma pitada de sal.",
+   "Aqueça o azeite em uma frigideira antiaderente, despeje as claras.",
+   "Quando começar a firmar (2 min), distribua o espinafre, tomate picado e Queijo Minas em cubos sobre metade da omelete.",
+   "Dobre, cozinhe mais 1 min e sirva com orégano."
+  ],
+  "dica": "Claras na ceia fornecem proteína com textura leve e pouca gordura. O espinafre baby adiciona cor, volume e sabor vegetal ao omelete."
+ },
+ {
+  "id": "cottage-refrescante-com-abacate",
+  "nome": "Cottage Refrescante com Abacate",
+  "descricao": "Abacate e cottage em creme noturno",
+  "refeicao": "ceia",
+  "pagina": 247,
+  "macros": {
+   "calorias": 273,
+   "proteinas": 16,
+   "carboidratos": 13,
+   "lipideos": 19
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo cottage",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Abacate",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Pimenta-do-reino",
+    "qtd": "1 g (1 pitada)"
+   },
+   {
+    "nome": "Chia",
+    "qtd": "5 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Amasse levemente o abacate com o limão, sal e pimenta.",
+   "Coloque o cottage em uma tigela, distribua o abacate Cu rs temperado por cima e finalize com a chia.",
+   "Consuma imediatamente."
+  ],
+  "dica": "O limão no cottage não é só sabor: ele realça o frescor e equilibra a cremosidade do abacate. Sirva bem gelado para ficar mais agradável."
+ },
+ {
+  "id": "vitamina-de-kiwi-da-noite",
+  "nome": "Vitamina de Kiwi da Noite",
+  "descricao": "Kiwi com iogurte e whey para uma noite de recuperação",
+  "refeicao": "ceia",
+  "pagina": 248,
+  "macros": {
+   "calorias": 288,
+   "proteinas": 29,
+   "carboidratos": 32,
+   "lipideos": 6
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Kiwi",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Iogurte grego",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "100 ml"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Whey protein sabor baunilha",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Hortelã",
+    "qtd": "3 g"
+   }
+  ],
+  "passos": [
+   "Bata o kiwi descascado, iogurte, leite e mel no liquidificador até ficar liso.",
+   "Adicione o whey e bata por mais 10 segundos.",
+   "Sirva gelado em copo alto com folhas de hortelã."
+  ],
+  "dica": "O kiwi traz acidez, cor verde e aroma fresco. Na vitamina com iogurte grego e whey, deixa a ceia mais leve e refrescante."
+ },
+ {
+  "id": "vitamina-noturna-de-banana",
+  "nome": "Vitamina Noturna de Banana",
+  "descricao": "Banana madura com mel em vitamina noturna",
+  "refeicao": "ceia",
+  "pagina": 249,
+  "macros": {
+   "calorias": 305,
+   "proteinas": 29,
+   "carboidratos": 47,
+   "lipideos": 1
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Banana",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Caseína em pó",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "8 g"
+   }
+  ],
+  "passos": [
+   "Bata a banana com o leite no liquidificador.",
+   "Adicione a caseína e bata por mais 20 segundos.",
+   "Adicione o mel e a canela e bata brevemente para incorporar.",
+   "Sirva gelado."
+  ],
+  "dica": "A banana combinada com caseína deixa a vitamina noturna mais cremosa e de digestão lenta. Use banana bem madura para adoçar naturalmente."
+ },
+ {
+  "id": "bolo-de-caneca-de-caseina-no-micro-ondas",
+  "nome": "Bolo de Caneca de Caseína no Micro-ondas",
+  "descricao": "Pronto no micro-ondas com ovo e aveia em 5 min",
+  "refeicao": "ceia",
+  "pagina": 250,
+  "macros": {
+   "calorias": 310,
+   "proteinas": 35,
+   "carboidratos": 35,
+   "lipideos": 6
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Caseína em pó sabor baunilha",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Banana madura",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Ovo inteiro",
+    "qtd": "50 g (1 unidade)"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Amasse a banana com um garfo em uma caneca grande.",
+   "Adicione o ovo, a caseína, a aveia e a canela. Misture o. bem até homogêneo.",
+   "Leve ao micro-ondas por 2 minutos e 30 segundos em potência alta.",
+   "Desenforme e consuma morno."
+  ],
+  "dica": "O bolo de caneca é uma alternativa criativa para a ceia: fica doce, quente e com perfil proteico adequado."
+ },
+ {
+  "id": "vitamina-noturna-de-banana-com-aveia-e-caseina",
+  "nome": "Vitamina Noturna de Banana com Aveia e Caseína",
+  "descricao": "Aveia, banana e caseína em vitamina de ceia",
+  "refeicao": "ceia",
+  "pagina": 251,
+  "macros": {
+   "calorias": 310,
+   "proteinas": 34,
+   "carboidratos": 41,
+   "lipideos": 3
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Caseína",
+    "qtd": "30 g"
+   }
+  ],
+  "passos": [
+   "Coloque o leite, a banana picada, a aveia e a caseína no liquidificador.",
+   "Bata por 30 segundos até ficar homogêneo e cremoso.",
+   "Sirva em um copo grande."
+  ],
+  "dica": "A aveia na vitamina noturna adiciona fibra solúvel e deixa a bebida mais espessa. A banana ajuda na cremosidade e combina bem com a caseína, ideal para a digestão lenta da ceia."
+ },
+ {
+  "id": "bowl-de-ricota-com-mel-e-frutas",
+  "nome": "Bowl de Ricota com Mel e Frutas",
+  "descricao": "Ricota fresca com mel e morangos: ceia leve e reconfortante",
+  "refeicao": "ceia",
+  "pagina": 252,
+  "macros": {
+   "calorias": 317,
+   "proteinas": 18,
+   "carboidratos": 20,
+   "lipideos": 18
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ricota fresca",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Morango",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Amora",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Menta",
+    "qtd": "1 g (5 folhas)"
+   }
+  ],
+  "passos": [
+   "Coloque a ricota amassada levemente em uma tigela.",
+   "Distribua os morangos fatiados e as amoras por cima.",
+   "Regue generosamente com o mel e finalize com folhas de menta fresca."
+  ],
+  "dica": "A ricota fresca tem sabor suave e textura leve. A menta adiciona frescor e deixa a pasta mais aromática."
+ },
+ {
+  "id": "mousse-proteica-de-abacate-com-cacau",
+  "nome": "Mousse Proteica de Abacate com Cacau",
+  "descricao": "Abacate batido com whey e cacau: mousse proteica para a noite",
+  "refeicao": "ceia",
+  "pagina": 253,
+  "macros": {
+   "calorias": 360,
+   "proteinas": 24,
+   "carboidratos": 26,
+   "lipideos": 20
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Abacate maduro",
+    "qtd": "120 g"
+   },
+   {
+    "nome": "Whey protein sabor chocolate",
+    "qtd": "25 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Leite integral",
+    "qtd": "40 ml"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   }
+  ],
+  "passos": [
+   "Bata no liquidificador o abacate, whey, cacau, leite e mel por 30 segundos até ficar um creme liso e espesso.",
+   "Despeje em uma taça ou bowl.",
+   "Leve à geladeira por 5 min se quiser mais firme (opcional).",
+   "Consuma como sobremesa ou ceia."
+  ],
+  "dica": "O abacate com cacau cria uma mousse naturalmente cremosa e com sabor intenso. Sirva gelada para ficar mais firme."
+ },
+ {
+  "id": "iogurte-grego-com-pasta-de-amendoim-e-cacau",
+  "nome": "Iogurte Grego com Pasta de Amendoim e Cacau",
+  "descricao": "Bowl proteico com iogurte, amendoim e cacau",
+  "refeicao": "ceia",
+  "pagina": 254,
+  "macros": {
+   "calorias": 395,
+   "proteinas": 25,
+   "carboidratos": 39,
+   "lipideos": 20
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural integral",
+    "qtd": "170 g"
+   },
+   {
+    "nome": "Pasta de amendoim integral",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Cacau em pó",
+    "qtd": "8 g"
+   },
+   {
+    "nome": "Banana",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte grego em um bowl.",
+   "Misture o cacau em pó até ficar com cor de chocolate.",
+   "Adicione rodelas de banana, aveia e a pasta de amendoim em fio por cima.",
+   "Consuma gelado."
+  ],
+  "dica": "O cacau com pasta de amendoim entrega magnésio e gorduras boas com sabor de chocolate, satisfazendo sem excesso calórico."
+ },
+ {
+  "id": "mingau-noturno-reforcado",
+  "nome": "Mingau Noturno Reforçado",
+  "descricao": "Mingau quente de aveia com whey e canela",
+  "refeicao": "ceia",
+  "pagina": 255,
+  "macros": {
+   "calorias": 427,
+   "proteinas": 43,
+   "carboidratos": 47,
+   "lipideos": 6
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Whey protein",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Aveia em flocos",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Leite desnatado",
+    "qtd": "200 ml"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "3 g"
+   }
+  ],
+  "passos": [
+   "Aqueça o leite com a aveia por 2 minutos no micro-ondas até engrossar.",
+   "Quando a mistura estiver morna (não fervente), incorpore o whey.",
+   "Polvilhe canela por cima e sirva morno."
+  ],
+  "dica": "O mingau noturno combina aveia e whey em uma preparação quente, cremosa e simples. A canela reforça o aroma e deixa o sabor mais aconchegante."
+ },
+ {
+  "id": "iogurte-com-mix-premium-de-castanhas-e-mel",
+  "nome": "Iogurte com Mix Premium de Castanhas e Mel",
+  "descricao": "logurte proteico com castanhas crocantes, 23 de proteína",
+  "refeicao": "ceia",
+  "pagina": 256,
+  "macros": {
+   "calorias": 427,
+   "proteinas": 23,
+   "carboidratos": 22,
+   "lipideos": 32
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Iogurte grego natural",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Castanha de caju",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Amêndoas",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "8 g"
+   }
+  ],
+  "passos": [
+   "Coloque o iogurte grego em uma tigela.",
+   "Pique grosseiramente as castanhas e distribua por cima.",
+   "Regue com o mel e sirva imediatamente."
+  ],
+  "dica": "O mix de castanhas fornece selênio (castanha-do-pará), magnésio (caju) e vitamina E (amêndoa) em cada porção."
+ },
+ {
+  "id": "cottage-com-abacate-nozes-e-mel",
+  "nome": "Cottage com Abacate, Nozes e Mel",
+  "descricao": "Cottage, abacate e nozes em ceia cremosa",
+  "refeicao": "ceia",
+  "pagina": 257,
+  "macros": {
+   "calorias": 436,
+   "proteinas": 22,
+   "carboidratos": 24,
+   "lipideos": 28
+  },
+  "minutos": 3,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo cottage",
+    "qtd": "150 g"
+   },
+   {
+    "nome": "Abacate",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Nozes",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Canela em pó",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Coloque o cottage em um bowl.",
+   "Corte o abacate em fatias e disponha ao redor do cottage.",
+   "Quebre as nozes em pedaços e espalhe por cima.",
+   "Regue com mel e polvilhe canela. Consuma frio antes de dormir."
+  ],
+  "dica": "As nozes adicionam crocância e sabor amanteigado ao cottage com abacate. Use picadas para distribuir melhor em cada colherada."
+ },
+ {
+  "id": "queijo-minas-com-mel-e-castanhas",
+  "nome": "Queijo Minas com Mel e Castanhas",
+  "descricao": "Queijo Minas com castanhas em ceia rápida",
+  "refeicao": "ceia",
+  "pagina": 258,
+  "macros": {
+   "calorias": 490,
+   "proteinas": 23,
+   "carboidratos": 18,
+   "lipideos": 37
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Queijo Minas frescal",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Castanha-do-pará",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Castanha de caju",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Canela",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Fatie o Queijo Minas frescal e disponha em um prato.",
+   "Pique as castanhas grosseiramente e distribua por cima.",
+   "Regue com o mel e polvilhe a canela.",
+   "Sirva em temperatura ambiente ou levemente gelado."
+  ],
+  "dica": "O Queijo Minas frescal traz cremosidade e sabor suave para a ceia. As castanhas fornecem crocância, gordura boa e um contraste agradável com o mel e a canela."
+ }
+]

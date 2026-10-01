@@ -1,0 +1,1875 @@
+[
+ {
+  "id": "omelete-de-cogumelo-com-espinafre",
+  "nome": "Omelete de Cogumelo com Espinafre",
+  "descricao": "Cogumelo e espinafre: omelete terrosa e nutritiva em poucos minutos",
+  "refeicao": "jantar",
+  "pagina": 187,
+  "macros": {
+   "calorias": 235,
+   "proteinas": 15,
+   "carboidratos": 3,
+   "lipideos": 17
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Cogumelo champignon fatiado",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Espinafre",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Refogue rapidamente os cogumelos na frigideira com azeite por 1 minuto.",
+   "Adicione o espinafre e mexa por 30 segundos.",
+   "Bata os ovos com sal e despeje sobre os vegetais.",
+   "Deixe firmar, dobre e sirva."
+  ],
+  "dica": "O champignon acrescenta umami e micronutrientes ao omelete. Com espinafre e ovos, cria uma preparação densa, úmida e mais interessante que um omelete simples."
+ },
+ {
+  "id": "salada-de-sardinha-com-tomate-e-cebola",
+  "nome": "Salada de Sardinha com Tomate e Cebola",
+  "descricao": "Sardinha em conserva com tomate fresco e cebola crocante",
+  "refeicao": "jantar",
+  "pagina": 188,
+  "macros": {
+   "calorias": 240,
+   "proteinas": 20,
+   "carboidratos": 6,
+   "lipideos": 15
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Alface",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Sardinha em lata",
+    "qtd": "80 g (drenada)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "60 g (picado)"
+   },
+   {
+    "nome": "Cebola",
+    "qtd": "20 g (fatiada)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml (1 colher de chá)"
+   },
+   {
+    "nome": "Vinagre",
+    "qtd": "5 ml (1 colher de chá)"
+   }
+  ],
+  "passos": [
+   "Lave e rasgue a alface em pedaços e disponha como base em um prato.",
+   "Escorra bem as sardinhas e disponha-as sobre a alface, distribuindo uniformemente.",
+   "Adicione o tomate picado e a cebola fatiada ao redor das sardinhas.",
+   "Tempere com um fio de azeite e vinagre. Misture levemente na hora de servir."
+  ],
+  "dica": "A sardinha com vinagre fica mais ácida e equilibrada. O tomate adiciona suculência e a cebola crua traz crocância e sabor mais vivo."
+ },
+ {
+  "id": "tapioca-recheada-com-ovo-e-queijo",
+  "nome": "Tapioca Recheada com Ovo e Queijo",
+  "descricao": "Tapioca crocante recheada com ovo mexido e Queijo Minas derretido",
+  "refeicao": "jantar",
+  "pagina": 189,
+  "macros": {
+   "calorias": 245,
+   "proteinas": 10,
+   "carboidratos": 22,
+   "lipideos": 13
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tapioca hidratada",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 unidade)"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "25 g (fatiado)"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "3 ml"
+   }
+  ],
+  "passos": [
+   "Aqueça a frigideira em fogo médio, espalhe a tapioca formando um disco e deixe firmar por 2 minutos.",
+   "Em outra frigideira, aqueça o azeite e prepare o ovo ças mexido, mexendo suavemente até firmar, mas ainda cremoso.",
+   "Recheie a tapioca com o ovo mexido e as fatias de Queijo Minas. Tampe a frigideira por 30 segundos para o queijo derreter com o vapor.",
+   "Polvilhe o orégano, dobre ao meio e sirva imediatamente."
+  ],
+  "dica": "A tapioca com ovo e Queijo Minas combina uma base neutra com recheio macio e salgado. O orégano adiciona aroma e deixa a receita com cara de jantar prático de frigideira."
+ },
+ {
+  "id": "omelete-de-tomate-seco-com-rucula",
+  "nome": "Omelete de Tomate Seco com Rúcula",
+  "descricao": "Tomate seco com rúcula: sabores intensos na omelete",
+  "refeicao": "jantar",
+  "pagina": 190,
+  "macros": {
+   "calorias": 245,
+   "proteinas": 14,
+   "carboidratos": 5,
+   "lipideos": 20
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Tomate seco",
+    "qtd": "20 g (picado)"
+   },
+   {
+    "nome": "Rúcula",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Bata os ovos com sal.",
+   "Aqueça a frigideira antiaderente com azeite.",
+   "Despeje os ovos e distribua o tomate seco picado.",
+   "Quando firmar, adicione a rúcula fresca sobre metade e da omelete.",
+   "Dobre a omelete ao meio e sirva no prato."
+  ],
+  "dica": "O tomate seco na omelete concentra umami e acidez. A rúcula fresca entra no final para manter cor, frescor e leve amargor."
+ },
+ {
+  "id": "salada-de-cottage-com-frutas-secas-e-folhas",
+  "nome": "Salada de Cottage com Frutas Secas e Folhas",
+  "descricao": "Cottage com frutas secas sobre folhas verdes",
+  "refeicao": "jantar",
+  "pagina": 191,
+  "macros": {
+   "calorias": 247,
+   "proteinas": 11,
+   "carboidratos": 15,
+   "lipideos": 15
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Mix de folhas (alface, rúcula, agrião)",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Queijo cottage",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Uvas-passas",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Nozes",
+    "qtd": "10 g (picadas)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "5 ml (1 colher de chá)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Monte a base em um prato com as folhas de alface, rúcula e agrião.",
+   "Distribua o cottage em colheradas sobre as folhas.",
+   "Espalhe as uvas-passas e as nozes picadas por cima.",
+   "Regue com o azeite e o suco de limão, tempere com uma pitada de sal e sirva."
+  ],
+  "dica": "As uvas-passas trazem doçura concentrada e textura mastigável. Com cottage e nozes, esta salada combina cremosidade, crocância e contraste agridoce."
+ },
+ {
+  "id": "salada-caprese-com-peito-de-peru",
+  "nome": "Salada Caprese com Peito de Peru",
+  "descricao": "Caprese turbinada com peito de peru fatiado e azeite",
+  "refeicao": "jantar",
+  "pagina": 192,
+  "macros": {
+   "calorias": 249,
+   "proteinas": 19,
+   "carboidratos": 5,
+   "lipideos": 17
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Tomate",
+    "qtd": "100 g (fatiado)"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "40 g (fatiado)"
+   },
+   {
+    "nome": "Peito de peru fatiado",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Manjericão fresco",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml (1 colher de chá)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Fatie o tomate e o Queijo Minas em rodelas de espessura similar. Alterne as fatias de tomate, queijo e Anis E peito de peru em um prato, formando fileiras sobrepostas.",
+   "Decore com as folhas de manjericão fresco entre as fatias para aroma e cor.",
+   "Regue com um fio de azeite e finalize com uma pitada de sal. Sirva em temperatura ambiente."
+  ],
+  "dica": "O manjericão fresco na salada caprese traz aroma herbal e combina com a acidez do tomate. O azeite ajuda a unir os sabores e deixa a salada mais brilhante. Atenção: Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "omelete-de-queijo-com-ervas-finas",
+  "nome": "Omelete de Queijo com Ervas Finas",
+  "descricao": "Queijo derretido com ervas finas: omelete clássica renovada",
+  "refeicao": "jantar",
+  "pagina": 193,
+  "macros": {
+   "calorias": 255,
+   "proteinas": 19,
+   "carboidratos": 2,
+   "lipideos": 19
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "30 g (picado)"
+   },
+   {
+    "nome": "Ervas finas (salsa, cebolinha, manjericão)",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Bata os ovos com sal e ervas finas.",
+   "Aqueça a frigideira antiaderente com azeite em fogo médio.",
+   "Despeje os ovos e, quando começar a firmar, espalhe o Queijo Minas picado.",
+   "Dobre ao meio, finalize por mais 30 segundos e sirva."
+  ],
+  "dica": "As ervas finas frescas, como salsa, cebolinha e manjericão, deixam a omelete mais aromática. O Queijo Minas adiciona cremosidade e sabor suave."
+ },
+ {
+  "id": "quinoa-pronta-com-camarao-e-limao",
+  "nome": "Quinoa Pronta com Camarão e Limão",
+  "descricao": "Bowl morno de quinoa com camarão, pepino, tomate-cereja e limão",
+  "refeicao": "jantar",
+  "pagina": 194,
+  "macros": {
+   "calorias": 260,
+   "proteinas": 22,
+   "carboidratos": 24,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Quinoa cozida",
+    "qtd": "100 g (aquecer no micro-ondas)"
+   },
+   {
+    "nome": "Camarão cozido",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "30 g (picado)"
+   },
+   {
+    "nome": "Tomate-cereja",
+    "qtd": "30 g (cortados)"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "10 ml (2 colheres de chá de suco)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml (1 colher de chá)"
+   }
+  ],
+  "passos": [
+   "Aqueça a quinoa cozida no micro-ondas em potência alta por 2 minutos e deixe esfriar levemente até ficar E morna.",
+   "Monte o prato com quinoa, camarões, pepino e tomate-cereja.",
+   "Tempere com limão e azeite."
+  ],
+  "dica": "A quinoa com camarão combina a textura do grão com o sabor delicado do crustáceo. O limão fresco dá acidez e deixa a salada mais viva."
+ },
+ {
+  "id": "wrap-rapido-de-salmao-com-cream-cheese",
+  "nome": "Wrap Rápido de Salmão com Cream Cheese",
+  "descricao": "Wrap rápido de salmão com cream cheese, rúcula e alcaparras",
+  "refeicao": "jantar",
+  "pagina": 195,
+  "macros": {
+   "calorias": 260,
+   "proteinas": 17,
+   "carboidratos": 25,
+   "lipideos": 10
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Salmão defumado",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Cream cheese light",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Rúcula",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Alcaparras",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Espalhe o cream cheese sobre a tortilha.",
+   "Disponha o salmão defumado e a rúcula.",
+   "Finalize com alcaparras.",
+   "Enrole e corte ao meio."
+  ],
+  "dica": "O salmão defumado no wrap traz sabor intenso e textura macia. A rúcula adiciona frescor e amargor leve ao recheio."
+ },
+ {
+  "id": "salada-de-ovos-cozidos-com-legumes",
+  "nome": "Salada de Ovos Cozidos com Legumes",
+  "descricao": "Frescos Ovos cozidos picados com legumes frescos e temperados",
+  "refeicao": "jantar",
+  "pagina": 196,
+  "macros": {
+   "calorias": 262,
+   "proteinas": 14,
+   "carboidratos": 11,
+   "lipideos": 17
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Alface",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Ovos cozidos",
+    "qtd": "120 g (2 unidades, cortados)"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "50 g (fatiado)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "50 g (picado)"
+   },
+   {
+    "nome": "Cenoura ralada",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml (1 colher de chá)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Monte a base de alface.",
+   "Distribua os ovos cortados ao meio, o pepino fatiado, o tomate e a cenoura ralada.",
+   "Tempere com azeite e sal."
+  ],
+  "dica": "Os ovos cozidos trazem colina da gema e proteína completa, enquanto a cenoura ralada adiciona cor e betacaroteno. O azeite no molho ajuda a deixar a salada mais macia e saborosa."
+ },
+ {
+  "id": "wrap-de-ricota-com-tomate-seco",
+  "nome": "Wrap de Ricota com Tomate Seco",
+  "descricao": "Wrap vegetariano de ricota com tomate seco e manjericão",
+  "refeicao": "jantar",
+  "pagina": 197,
+  "macros": {
+   "calorias": 264,
+   "proteinas": 14,
+   "carboidratos": 28,
+   "lipideos": 10
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Ricota",
+    "qtd": "60 g (amassada)"
+   },
+   {
+    "nome": "Tomate seco",
+    "qtd": "20 g (picado)"
+   },
+   {
+    "nome": "Manjericão",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Em um bowl, amasse a ricota com um garfo. Adicione uma pitada de sal e o manjericão picado. Misture até Eneas A ficar homogêneo.",
+   "Espalhe a mistura de ricota de forma uniforme sobre toda a superfície da tortilha integral.",
+   "Distribua o tomate seco picado por cima da ricota.",
+   "Enrole a tortilha firmemente e corte ao meio na diagonal. Sirva imediatamente."
+  ],
+  "dica": "O tomate seco na ricota cria sabor intenso e levemente ácido. A tortilha integral segura bem o recheio cremoso e facilita o preparo rápido."
+ },
+ {
+  "id": "salada-de-atum-com-grao-de-bico",
+  "nome": "Salada de Atum com Grão-de-Bico",
+  "descricao": "Atum com grão-de-bico: leguminosa e peixe juntos na salada",
+  "refeicao": "jantar",
+  "pagina": 198,
+  "macros": {
+   "calorias": 264,
+   "proteinas": 29,
+   "carboidratos": 20,
+   "lipideos": 8
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Alface",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Atum em lata (drenado)",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Grão-de-Bico cozido",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "50 g (picado)"
+   },
+   {
+    "nome": "Cebolaroxa",
+    "qtd": "20 g (fatiada)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "10 ml"
+   }
+  ],
+  "passos": [
+   "Monte a base com alface rasgada.",
+   "Distribua o atum, o grão-de-bico, o tomate picado e a cebola roxa.",
+   "Tempere com azeite e suco de limão."
+  ],
+  "dica": "O grão-de-bico combina com atum para criar uma salada densa e proteica. A cebola roxa crua adiciona crocância e sabor mais vivo."
+ },
+ {
+  "id": "wrap-de-peru-com-cream-cheese",
+  "nome": "Wrap de Peru com Cream Cheese",
+  "descricao": "Peru com cream cheese enrolado em tortilha integral",
+  "refeicao": "jantar",
+  "pagina": 199,
+  "macros": {
+   "calorias": 269,
+   "proteinas": 21,
+   "carboidratos": 27,
+   "lipideos": 10
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Peito de peru fatiado",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Cream cheese light",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Pepino",
+    "qtd": "30 g (em tiras)"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Espalhe o cream cheese light de forma uniforme sobre toda a superfície da tortilha integral.",
+   "Disponha as fatias de peito de peru no centro, adicione o. as tiras de pepino e a alface por cima.",
+   "Enrole a tortilha firmemente, dobrando as laterais para dentro. Corte ao meio na diagonal e sirva."
+  ],
+  "dica": "O cream cheese light com peru deixa o wrap cremoso e salgado. O pepino adiciona frescor; use o peru com moderação por ser processado. à Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "crepioca-recheada-com-frango-desfiado",
+  "nome": "Crepioca Recheada com Frango Desfiado",
+  "descricao": "Massa de tapioca com ovo recheada de frango e requeijão, pronta na frigideira",
+  "refeicao": "jantar",
+  "pagina": 200,
+  "macros": {
+   "calorias": 275,
+   "proteinas": 18,
+   "carboidratos": 27,
+   "lipideos": 9
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Tapioca goma",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Ovo",
+    "qtd": "60 g (1 unidade)"
+   },
+   {
+    "nome": "Frango desfiado",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Requeijão light",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Misture a goma de tapioca com o ovo batido até formar uma massa homogênea.",
+   "Despeje a massa em uma frigideira antiaderente aquecida em fogo médio e espalhe bem.",
+   "Quando a base estiver firme, distribua o frango desfiado e o requeijão sobre metade da massa.",
+   "Dobre ao meio e deixe mais 1 minuto de cada lado até dourar levemente."
+  ],
+  "dica": "A tapioca deixa a crepioca elástica, enquanto o ovo garante estrutura. O frango desfiado pode ser preparado em lote no domingo e congelado em porções para a semana toda."
+ },
+ {
+  "id": "arroz-integral-com-atum-e-salada-verde",
+  "nome": "Arroz Integral com Atum e Salada Verde",
+  "descricao": "Arroz integral com atum: prato completo e equilibrado",
+  "refeicao": "jantar",
+  "pagina": 201,
+  "macros": {
+   "calorias": 275,
+   "proteinas": 24,
+   "carboidratos": 29,
+   "lipideos": 7
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Arroz integral cozido",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Atum em lata (drenado)",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "40 g (picado)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Aqueça o arroz integral no micro-ondas por 2 minutos.",
+   "Monte o prato com o arroz, o atum drenado e a salada de alface com tomate.",
+   "Regue com azeite."
+  ],
+  "dica": "O arroz integral preserva o germe e a casca do grão, fornecendo mais fibra, magnésio e vitaminas do complexo que o branco. Com atum drenado, cria uma refeição completa em proteína e carboidrato complexo."
+ },
+ {
+  "id": "wrap-de-sardinha-com-tomate-fresco",
+  "nome": "Wrap de Sardinha com Tomate Fresco",
+  "descricao": "Sardinha com tomate fresco em wrap integral macio",
+  "refeicao": "jantar",
+  "pagina": 202,
+  "macros": {
+   "calorias": 277,
+   "proteinas": 19,
+   "carboidratos": 26,
+   "lipideos": 10
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Sardinha em lata",
+    "qtd": "60 g (drenada e amassada)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "40 g (picado)"
+   },
+   {
+    "nome": "Cebola",
+    "qtd": "15 g (picada)"
+   },
+   {
+    "nome": "Limão",
+    "qtd": "5 ml (1 colher de chá de suco)"
+   }
+  ],
+  "passos": [
+   "Escorra bem a sardinha e amasse com um garfo em um bowl. Adicione o tomate picado, a cebola picada e o ea À suco de limão. Misture bem.",
+   "Espalhe a mistura de sardinha de forma uniforme sobre a tortilha integral, cobrindo toda a superfície.",
+   "Enrole a tortilha firmemente e corte ao meio na diagonal. Sirva imediatamente."
+  ],
+  "dica": "A sardinha em lata traz sabor intenso, proteína e minerais dos ossos comestíveis. No wrap com tomate e limão, o resultado fica ácido, fresco e fácil de montar."
+ },
+ {
+  "id": "wrap-de-atum-com-salada-crocante",
+  "nome": "Wrap de Atum com Salada Crocante",
+  "descricao": "Atum enrolado em wrap integral com salada fresca",
+  "refeicao": "jantar",
+  "pagina": 203,
+  "macros": {
+   "calorias": 278,
+   "proteinas": 24,
+   "carboidratos": 26,
+   "lipideos": 8
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Atum em lata (drenado)",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Alface",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "30 g (picado)"
+   },
+   {
+    "nome": "Maionese light",
+    "qtd": "15 g"
+   }
+  ],
+  "passos": [
+   "Misture o atum drenado com a maionese light.",
+   "Espalhe sobre a tortilha.",
+   "Adicione alface e tomate picado.",
+   "Enrole firmemente e corte ao meio."
+  ],
+  "dica": "O atum drenado deixa o wrap salgado, prático e proteico. A alface adiciona volume e crocância sem alterar muito o sabor."
+ },
+ {
+  "id": "pure-instantaneo-com-frango-e-cebolinha",
+  "nome": "Purê Instantâneo com Frango e Cebolinha",
+  "descricao": "Purê express de batata instantânea com frango desfiado (opção rápida)",
+  "refeicao": "jantar",
+  "pagina": 204,
+  "macros": {
+   "calorias": 280,
+   "proteinas": 30,
+   "carboidratos": 26,
+   "lipideos": 5
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Purê de batata instantâneo",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Leite",
+    "qtd": "80 ml"
+   },
+   {
+    "nome": "Frango desfiado",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Cebolinha",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Prepare o purê instantâneo com leite quente no micro-ondas (2 min).",
+   "Misture bem até o purê ficar cremoso e homogêneo. Tempere com sal.",
+   "Sirva com frango desfiado por cima.",
+   "Finalize com cebolinha."
+  ],
+  "dica": "O purê instantâneo com frango desfiado e cebolinha é uma opção emergencial que entrega carboidrato e proteína em 3 minutos. A cebolinha adiciona frescor, vitamina e aroma herbal."
+ },
+ {
+  "id": "omelete-de-abobrinha-com-queijo-minas",
+  "nome": "Omelete de Abobrinha com Queijo Minas",
+  "descricao": "Abobrinha fatiada fina com Queijo Minas derretido na omelete",
+  "refeicao": "jantar",
+  "pagina": 205,
+  "macros": {
+   "calorias": 290,
+   "proteinas": 18,
+   "carboidratos": 3,
+   "lipideos": 21
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Abobrinha",
+    "qtd": "60 g (ralada ou fatiada fina)"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "25 g (picado)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Refogue a abobrinha fatiada fina na frigideira com azeite por 1 minuto.",
+   "Bata os ovos com sal e despeje sobre a abobrinha refogada.",
+   "Distribua o Queijo Minas.",
+   "Dobre quando firmar e sirva."
+  ],
+  "dica": "A abobrinha é leve, úmida e fácil de incorporar ao ovo. Na omelete com Queijo Minas, adiciona volume e deixa a preparação mais macia."
+ },
+ {
+  "id": "omelete-cremosa-de-ricota-com-ervas",
+  "nome": "Omelete Cremosa de Ricota com Ervas",
+  "descricao": "Ricota com ervas frescas: omelete leve e aromática",
+  "refeicao": "jantar",
+  "pagina": 206,
+  "macros": {
+   "calorias": 295,
+   "proteinas": 21,
+   "carboidratos": 3,
+   "lipideos": 18
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Ricota",
+    "qtd": "50 g (amassada)"
+   },
+   {
+    "nome": "Salsa picada",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Cebolinha",
+    "qtd": "3 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Misture a ricota amassada com as ervas.",
+   "Bata os ovos com sal e despeje na frigideira com azeite.",
+   "Espalhe a ricota temperada.",
+   "Dobre quando firmar e sirva."
+  ],
+  "dica": "A ricota na omelete deixa a textura mais cremosa e suave. As ervas frescas, como salsa e cebolinha, adicionam aroma e cor sem pesar no preparo."
+ },
+ {
+  "id": "camarao-refogado",
+  "nome": "Camarão Refogado",
+  "descricao": "Camarão refogado com gengibre e mostarda em óleo de coco",
+  "refeicao": "jantar",
+  "pagina": 207,
+  "macros": {
+   "calorias": 299,
+   "proteinas": 40,
+   "carboidratos": 0,
+   "lipideos": 17
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Camarão cru",
+    "qtd": "200 g"
+   },
+   {
+    "nome": "Gengibre picado",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Mostarda em pó",
+    "qtd": "2 g (1 colher de café)"
+   },
+   {
+    "nome": "Pimenta-do-reino",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Sal marinho",
+    "qtd": "2 g"
+   },
+   {
+    "nome": "Óleo de coco",
+    "qtd": "15 ml (1 colher de sopa)"
+   }
+  ],
+  "passos": [
+   "Limpe os camarões: retire a casca e a cabeça e, com a ponta de uma faca, faça um corte raso nas costas para remover a tripa escura. Lave em água corrente e seque com papel-toalha.",
+   "Tempere com gengibre, mostarda, pimenta-do-reino e sal e reserve.",
+   "Em uma frigideira, coloque o óleo de coco e deixe aquecer.",
+   "Adicione o camarão e refogue por 3 a 4 minutos até ficar rosado e cozido por completo.",
+   "Sirva em seguida. Se desejar, acompanhe com uma salada de folhas verdes."
+  ],
+  "dica": "O gengibre no camarão refogado traz picância fresca e aroma marcante. A mostarda em pó adiciona pungência e ajuda a dar mais profundidade ao tempero."
+ },
+ {
+  "id": "omelete-de-atum-com-cebola-roxa",
+  "nome": "Omelete de Atum com Cebola Roxa",
+  "descricao": "Atum com cebola roxa fresca na omelete: 30 de proteína",
+  "refeicao": "jantar",
+  "pagina": 208,
+  "macros": {
+   "calorias": 300,
+   "proteinas": 30,
+   "carboidratos": 2,
+   "lipideos": 18
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Atum em lata (drenado)",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Cebola roxa",
+    "qtd": "20 g (picada fina)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 pitada (atum já é salgado)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Bata os ovos com uma pitada leve de sal.",
+   "Aqueça a frigideira antiaderente com azeite em fogo médio e despeje os ovos.",
+   "Distribua o atum drenado e a cebola roxa picada.",
+   "Dobre ao meio quando firmar e sirva."
+  ],
+  "dica": "A cebola roxa traz cor, crocância e sabor mais marcante que a branca. Na omelete de atum, ajuda a quebrar o sabor do peixe."
+ },
+ {
+  "id": "wrap-de-frango-com-queijo-e-rucula",
+  "nome": "Wrap de Frango com Queijo e Rúcula",
+  "descricao": "Wrap fresco de frango com Queijo Minas, rúcula e mostarda",
+  "refeicao": "jantar",
+  "pagina": 209,
+  "macros": {
+   "calorias": 312,
+   "proteinas": 29,
+   "carboidratos": 24,
+   "lipideos": 9
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Frango desfiado",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "20 g (ralado)"
+   },
+   {
+    "nome": "Rúcula",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Mostarda",
+    "qtd": "10 g (2 colheres de chá)"
+   }
+  ],
+  "passos": [
+   "Espalhe a mostarda de forma uniforme sobre toda a superfície da tortilha integral.",
+   "Distribua o frango desfiado no centro, polvilhe o Queijo co. E Minas ralado por cima e finalize com a rúcula fresca.",
+   "Enrole a tortilha firmemente, dobrando as laterais para dentro. Corte ao meio na diagonal e sirva."
+  ],
+  "dica": "A rúcula no wrap de frango adiciona amargor leve e frescor. A mostarda reforça a acidez do recheio e combina bem com a cremosidade do queijo Minas."
+ },
+ {
+  "id": "salada-caesar-com-frango-desfiado",
+  "nome": "Salada Caesar com Frango Desfiado",
+  "descricao": "Caesar leve com frango desfiado, finalizada com croutons crocantes",
+  "refeicao": "jantar",
+  "pagina": 210,
+  "macros": {
+   "calorias": 317,
+   "proteinas": 38,
+   "carboidratos": 15,
+   "lipideos": 11
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Alface romana",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Frango desfiado",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Parmesão ralado",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Croutons",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Molho Caesar light",
+    "qtd": "20 g"
+   }
+  ],
+  "passos": [
+   "Lave e rasgue a alface romana.",
+   "Distribua em um prato grande.",
+   "Coloque o frango desfiado por cima.",
+   "Polvilhe o parmesão ralado sobre o frango.",
+   "Regue com o molho Caesar light e finalize com os croutons por último, para manter a crocância. Sirva imediatamente."
+  ],
+  "dica": "O molho Caesar light substitui gema crua e anchovas por iogurte ou maionese light, mantendo a cremosidade. O parmesão ralado no topo intensifica o sabor umami característico."
+ },
+ {
+  "id": "batata-doce-recheada-com-frango-desfiado",
+  "nome": "Batata-Doce Recheada com Frango Desfiado",
+  "descricao": "Batata-doce no micro-ondas recheada com frango e temperos caseiros",
+  "refeicao": "jantar",
+  "pagina": 211,
+  "macros": {
+   "calorias": 325,
+   "proteinas": 29,
+   "carboidratos": 31,
+   "lipideos": 8
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Batata-doce",
+    "qtd": "150 g (furar e levar ao micro-ondas 5 min)"
+   },
+   {
+    "nome": "Frango desfiado",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Requeijão light",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Cebolinha",
+    "qtd": "2 g"
+   }
+  ],
+  "passos": [
+   "Fure a batata-doce com garfo e leve ao micro-ondas por 5 minutos.",
+   "Abra ao meio, recheie com frango desfiado e requeijão.",
+   "Finalize com cebolinha."
+  ],
+  "dica": "A batata-doce recheada combina doçura, textura macia e frango desfiado. O requeijão light adiciona cremosidade e ajuda a unir o recheio."
+ },
+ {
+  "id": "wrap-noturno-de-atum-com-cream-cheese",
+  "nome": "Wrap Noturno de Atum com Cream Cheese",
+  "descricao": "Wrap noturno de atum com cream cheese, 36 de proteína",
+  "refeicao": "jantar",
+  "pagina": 212,
+  "macros": {
+   "calorias": 333,
+   "proteinas": 36,
+   "carboidratos": 22,
+   "lipideos": 10
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Wrap integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Atum em lata ao natural",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Cream cheese light",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Pepino em rodelas finas",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Rúcula",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Pimenta",
+    "qtd": "a gosto"
+   }
+  ],
+  "passos": [
+   "Escorra o atum e tempere com limão e pimenta.",
+   "Espalhe o cream cheese uniformemente sobre o wrap.",
+   "Distribua a rúcula, o pepino e o atum temperado.",
+   "Enrole firmemente e corte ao meio.",
+   "Sirva frio."
+  ],
+  "dica": "O atum com cream cheese no wrap noturno cria um recheio salgado e cremoso. O pepino e a rúcula deixam a montagem mais fresca e leve."
+ },
+ {
+  "id": "omelete-de-presunto-com-queijo-derretido",
+  "nome": "Omelete de Presunto com Queijo Derretido",
+  "descricao": "Queijo Minas derretido sobre presunto: omelete clássica",
+  "refeicao": "jantar",
+  "pagina": 213,
+  "macros": {
+   "calorias": 340,
+   "proteinas": 27,
+   "carboidratos": 2,
+   "lipideos": 24
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Presunto magro",
+    "qtd": "40 g (picado)"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "25 g (ralado)"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Bata os ovos e despeje na frigideira antiaderente com azeite.",
+   "Espalhe o presunto picado e o queijo ralado.",
+   "Polvilhe orégano.",
+   "Dobre ao meio quando firmar e deixe mais 30 segundos para derreter o queijo.",
+   "Sirva quente."
+  ],
+  "dica": "O Queijo Minas derretido sobre presunto e ovos cria a reação de Maillard que intensifica sabor e aroma sem adição de temperos artificiais. O orégano complementa com carvacrol e aroma característico. à Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "arroz-com-ovo-mexido-e-legumes-salteados",
+  "nome": "Arroz com Ovo Mexido e Legumes Salteados",
+  "descricao": "Legumes salteados com ovo mexido: prato colorido e completo em 6 min",
+  "refeicao": "jantar",
+  "pagina": 214,
+  "macros": {
+   "calorias": 340,
+   "proteinas": 19,
+   "carboidratos": 29,
+   "lipideos": 19
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose",
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Arroz integral cozido",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Abobrinha",
+    "qtd": "40 g (picada)"
+   },
+   {
+    "nome": "Cenoura",
+    "qtd": "30 g (ralada)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Aqueça o arroz no micro-ondas (2 min).",
+   "Refogue rapidamente a abobrinha e a cenoura em frigideira com azeite (1 min).",
+   "Adicione os ovos e mexa (2 min).",
+   "Sirva sobre o arroz."
+  ],
+  "dica": "Os legumes salteados, como abobrinha e cenoura, ficam mais firmes que os cozidos em água. O azeite ajuda no sabor e deixa o prato mais brilhante."
+ },
+ {
+  "id": "omelete-de-calabresa-com-pimentao",
+  "nome": "Omelete de Calabresa com Pimentão",
+  "descricao": "Calabresa com pimentão colorido na omelete rústica",
+  "refeicao": "jantar",
+  "pagina": 215,
+  "macros": {
+   "calorias": 353,
+   "proteinas": 19,
+   "carboidratos": 3,
+   "lipideos": 27
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Calabresa defumada fatiada",
+    "qtd": "40 g"
+   },
+   {
+    "nome": "Pimentão",
+    "qtd": "30 g (em tiras finas)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Refogue a calabresa (pré-cozida/defumada) e o pimentão na frigideira com azeite por 2-3 minutos, até dourar levemente e soltar gordura.",
+   "Bata os ovos com sal e despeje sobre a calabresa e o pimentão refogados.",
+   "Deixe firmar, dobre e sirva."
+  ],
+  "dica": "A calabresa traz sabor defumado e intensidade à omelete. O pimentão vermelho adiciona doçura, cor viva e crocância ao prato. à Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "pastel-de-frango-na-air-fryer",
+  "nome": "Pastel de Frango na Air Fryer",
+  "descricao": "Massa crocante recheada com frango e ricota: air fryer, sem fritura em óleo",
+  "refeicao": "jantar",
+  "pagina": 216,
+  "macros": {
+   "calorias": 355,
+   "proteinas": 39,
+   "carboidratos": 19,
+   "lipideos": 14
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Disco de massa de pastel",
+    "qtd": "30 g (1 disco grande)"
+   },
+   {
+    "nome": "Frango desfiado temperado",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Creme de ricota light",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Gema de ovo",
+    "qtd": "18 g (1 gema, apenas para pincelar)"
+   },
+   {
+    "nome": "Gergelim",
+    "qtd": "2 g (1 pitada)"
+   }
+  ],
+  "passos": [
+   "Abra o disco de massa de pastel sobre uma superfície limpa.",
+   "Recheie com o frango desfiado e o creme de ricota no centro.",
+   "Feche o pastel e pressione bem as bordas com um garfo para selar.",
+   "Pincele a gema de ovo por cima e finalize com gergelim.",
+   "Leve à air fryer a 180ºC por 10 minutos. Vire e deixe mais 5 minutos até dourar e ficar crocante.",
+   "Sirva quente, cortado ao meio para mostrar o recheio."
+  ],
+  "dica": "A air fryer dispensa fritura em óleo e deixa o frango dourado por fora. A dica é pincelar gema de ovo antes de assar para garantir cor e textura crocante."
+ },
+ {
+  "id": "salada-caesar-express-com-frango",
+  "nome": "Salada Caesar Express com Frango",
+  "descricao": "A clássica Caesar com frango desfiado, pronta em minutos",
+  "refeicao": "jantar",
+  "pagina": 217,
+  "macros": {
+   "calorias": 356,
+   "proteinas": 40,
+   "carboidratos": 19,
+   "lipideos": 13
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Alface romana picada",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Frango desfiado pronto",
+    "qtd": "100 g"
+   },
+   {
+    "nome": "Queijo Parmesão ralado",
+    "qtd": "15 g"
+   },
+   {
+    "nome": "Croutons integrais",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Molho Caesar light",
+    "qtd": "20 g"
+   },
+   {
+    "nome": "Suco de limão",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Disponha a alface romana em uma tigela funda.",
+   "Adicione o frango desfiado por cima.",
+   "Regue com o molho Caesar e o suco de limão.",
+   "Misture levemente.",
+   "Finalize com parmesão ralado e croutons integrais.",
+   "Sirva imediatamente para manter a crocância."
+  ],
+  "dica": "O parmesão na salada Caesar traz sal, umami e aroma marcante. Use ralado fino para espalhar melhor o sabor sem exagerar na quantidade."
+ },
+ {
+  "id": "wrap-de-ovo-mexido-com-queijo",
+  "nome": "Wrap de Ovo Mexido com Queijo",
+  "descricao": "Jantar leve e prático com 22 de proteína em 5 minutos",
+  "refeicao": "jantar",
+  "pagina": 218,
+  "macros": {
+   "calorias": 363,
+   "proteinas": 22,
+   "carboidratos": 24,
+   "lipideos": 22
+  },
+  "minutos": 5,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Tortilha integral",
+    "qtd": "40 g (1 unidade)"
+   },
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Queijo Minas",
+    "qtd": "20 g (picado)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "3 ml"
+   }
+  ],
+  "passos": [
+   "Faça ovos mexidos na frigideira com azeite e sal (2 minutos).",
+   "Coloque sobre a tortilha, adicione o queijo picado.",
+   "Enrole e sirva quente."
+  ],
+  "dica": "Os ovos mexidos no wrap integral combinam proteína completa de alto valor biológico com fibra da tortilha. O Queijo Minas adiciona cálcio sem excesso de sódio encontrado em queijos curados."
+ },
+ {
+  "id": "prato-leve-da-noite-com-ovo-e-queijo",
+  "nome": "Prato Leve da Noite com Ovo e Queijo",
+  "descricao": "Ovos cozidos com cottage e vegetais frescos: noite leve, proteína completa",
+  "refeicao": "jantar",
+  "pagina": 219,
+  "macros": {
+   "calorias": 372,
+   "proteinas": 24,
+   "carboidratos": 10,
+   "lipideos": 24
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos cozidos",
+    "qtd": "120 g (2 ovos)"
+   },
+   {
+    "nome": "Queijo cottage",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Alface picada",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Tomate-cereja",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Pepino em rodelas",
+    "qtd": "50 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Sal e pimenta",
+    "qtd": "1 g (1 pitada sal + pimenta a gosto)"
+   }
+  ],
+  "passos": [
+   "Corte os ovos cozidos ao meio.",
+   "Monte o prato com a alface como base.",
+   "Adicione os ovos, o cottage em colheradas, o tomate-cereja cortado ao meio e o pepino.",
+   "Regue com azeite.",
+   "Tempere com sal e pimenta.",
+   "Sirva frio."
+  ],
+  "dica": "O cottage à noite é prático, cremoso e rico em proteína. O pepino e o tomate-cereja completam com frescor, crocância e cor."
+ },
+ {
+  "id": "omelete-gourmet-de-brie-com-mel-e-nozes",
+  "nome": "Omelete Gourmet de Brie com Mel e Nozes",
+  "descricao": "Brie derretido com mel e nozes: omelete sofisticada",
+  "refeicao": "jantar",
+  "pagina": 220,
+  "macros": {
+   "calorias": 403,
+   "proteinas": 22,
+   "carboidratos": 11,
+   "lipideos": 31
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Queijo brie",
+    "qtd": "25 g (fatiado)"
+   },
+   {
+    "nome": "Mel",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Nozes",
+    "qtd": "10 g (picadas)"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Bata os ovos com sal e despeje na frigideira com azeite.",
+   "Distribua o brie fatiado sobre os ovos.",
+   "Dobre a omelete quando firmar e transfira para o prato.",
+   "Regue com mel e polvilhe as nozes picadas."
+  ],
+  "dica": "O brie fornece cremosidade e sabor lácteo marcante, enquanto as nozes adicionam crocância. O mel finaliza com dulçor e brilho."
+ },
+ {
+  "id": "omelete-de-frango-com-requeijao",
+  "nome": "Omelete de Frango com Requeijão",
+  "descricao": "Frango desfiado com requeijão em omelete recheada",
+  "refeicao": "jantar",
+  "pagina": 221,
+  "macros": {
+   "calorias": 410,
+   "proteinas": 37,
+   "carboidratos": 2,
+   "lipideos": 26
+  },
+  "minutos": 4,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "120 g (2 unidades)"
+   },
+   {
+    "nome": "Frango desfiado",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Requeijão light",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Sal",
+    "qtd": "1 g"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Bata os ovos com sal e despeje na frigideira com azeite.",
+   "Espalhe o frango desfiado sobre os ovos.",
+   "Adicione o requeijão em pontos quando firmar.",
+   "Dobre e sirva quente."
+  ],
+  "dica": "O requeijão light na omelete de frango adiciona cálcio e cremosidade com cerca de metade da gordura do requeijão tradicional."
+ },
+ {
+  "id": "macarrao-integral-rapido-com-atum",
+  "nome": "Macarrão Integral Rápido com Atum",
+  "descricao": "Pasta nutritiva de atum em 7 min",
+  "refeicao": "jantar",
+  "pagina": 222,
+  "macros": {
+   "calorias": 412,
+   "proteinas": 30,
+   "carboidratos": 58,
+   "lipideos": 9
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Macarrão integral instantâneo",
+    "qtd": "80 g"
+   },
+   {
+    "nome": "Atum em lata (drenado)",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "40 g (picado)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   },
+   {
+    "nome": "Orégano",
+    "qtd": "1 g"
+   }
+  ],
+  "passos": [
+   "Prepare o macarrão integral instantâneo no micro-ondas conforme instrução da embalagem (3-4 minutos). Escorra a água.",
+   "Adicione o atum drenado e o tomate picado ao macarrão.",
+   "Regue com o azeite, polvilhe o orégano, misture bem e sirva."
+  ],
+  "dica": "O macarrão integral pode conter até 2x mais fibras que o comum e libera energia de forma gradual. O atum drenado adiciona cerca de 17 de proteína magra por porção."
+ },
+ {
+  "id": "cuscuz-de-micro-ondas-com-sardinha",
+  "nome": "Cuscuz de Micro-ondas com Sardinha",
+  "descricao": "Pronto no micro-ondas em 6 min, sem sujeira",
+  "refeicao": "jantar",
+  "pagina": 223,
+  "macros": {
+   "calorias": 420,
+   "proteinas": 22,
+   "carboidratos": 53,
+   "lipideos": 15
+  },
+  "minutos": 6,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "semLactose"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Flocão de milho",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Água",
+    "qtd": "80 ml"
+   },
+   {
+    "nome": "Sardinha em lata",
+    "qtd": "70 g (drenada)"
+   },
+   {
+    "nome": "Tomate",
+    "qtd": "40 g (picado)"
+   },
+   {
+    "nome": "Cebola",
+    "qtd": "15 g (picada)"
+   },
+   {
+    "nome": "Azeite",
+    "qtd": "5 ml"
+   }
+  ],
+  "passos": [
+   "Misture o flocão com água e leve ao micro-ondas por 3 minutos.",
+   "Solte o cuscuz com um garfo até desgrudar.",
+   "Sirva com sardinha drenada, tomate picado e cebola.",
+   "Regue com azeite."
+  ],
+  "dica": "A sardinha no cuscuz de micro-ondas fornece cálcio dos ossos comestíveis, ômega-3 e vitamina numa combinação de inspiração nordestina, prática e rápida. O flocão de milho é fonte de carboidrato sem glúten."
+ },
+ {
+  "id": "omelete-recheada-de-peru-e-queijo",
+  "nome": "Omelete Recheada de Peru e Queijo",
+  "descricao": "Recheio generoso com 41 de proteína pura",
+  "refeicao": "jantar",
+  "pagina": 224,
+  "macros": {
+   "calorias": 499,
+   "proteinas": 41,
+   "carboidratos": 2,
+   "lipideos": 33
+  },
+  "minutos": 7,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "180 g (3 ovos)"
+   },
+   {
+    "nome": "Peito de peru fatiado",
+    "qtd": "60 g"
+   },
+   {
+    "nome": "Queijo mussarela light",
+    "qtd": "30 g"
+   },
+   {
+    "nome": "Azeite de oliva",
+    "qtd": "10 ml"
+   },
+   {
+    "nome": "Sal e pimenta",
+    "qtd": "1 g de sal + 0,3 g de pimenta"
+   },
+   {
+    "nome": "Cebolinha picada",
+    "qtd": "5 g"
+   }
+  ],
+  "passos": [
+   "Bata os ovos com sal, pimenta e cebolinha.",
+   "Aqueça o azeite em frigideira antiaderente em fogo médio.",
+   "Despeje os ovos batidos e deixe firmar levemente.",
+   "Distribua o peito de peru e o queijo sobre metade da omelete.",
+   "Dobre ao meio, tampe e deixe o queijo derreter por 1 minuto.",
+   "Sirva a omelete dobrada ainda quente no prato."
+  ],
+  "dica": "A combinação de peru com mussarela light nesta omelete deixa o recheio salgado e cremoso. Como o peito de peru e a mussarela já são salgados, ajuste o sal com cuidado. Atenção: Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ }
+]

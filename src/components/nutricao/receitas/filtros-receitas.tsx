@@ -1,24 +1,12 @@
-import type { ReactNode } from 'react'
 import { SearchField } from '@/components/ui/search-field'
+import { FiltroChip, LinhaChips } from '../shared/receita'
 import { TIPOS } from './constants'
-import { FiltroChip } from './filtro-chip'
 import { GRUPOS_FILTRO, type TipoFiltro } from './filtros'
 
 const OPCOES_TIPO = [
   { id: 'todas', label: 'Todas', emoji: '📖' },
   ...Object.entries(TIPOS).map(([id, { label, emoji }]) => ({ id, label, emoji })),
 ] as { id: TipoFiltro; label: string; emoji: string }[]
-
-const LinhaChips = ({ titulo, children }: { titulo: string; children: ReactNode }) => (
-  <div className="flex flex-col gap-1.5">
-    <span className="px-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
-      {titulo}
-    </span>
-    <div className="-mx-4 flex gap-1.5 overflow-x-auto px-4 pb-1 scrollbar-none">
-      {children}
-    </div>
-  </div>
-)
 
 type FiltrosReceitasProps = {
   busca: string

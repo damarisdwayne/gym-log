@@ -1,13 +1,20 @@
-import type { ReactNode } from 'react'
+import { lazy, Suspense, type ReactNode } from 'react'
 import { CaloriasForm } from './calculadora'
 import { ComposicaoPagina } from './composicao-pagina'
 import { GorduraPagina } from './gordura-pagina'
 import { PLANO, PlanoAlimentar } from './plano'
 import { EBOOKS, RECEITAS, Receitas } from './receitas'
 
+const ReceitasRS7 = lazy(() => import('./rs7'))
+
+const Carregando = () => (
+  <p className="px-1 py-6 text-center text-sm text-muted-foreground">Carregando receitas…</p>
+)
+
 export type PaginaNutricao =
   | 'plano'
   | 'receitas'
+  | 'receitas-dia'
   | 'gordura'
   | 'calorias'
   | 'composicao'
@@ -38,6 +45,17 @@ export const PAGINAS: DefinicaoPagina[] = [
     titulo: 'Receitas fit',
     descricao: `${RECEITAS.length} receitas de ${Object.keys(EBOOKS).length} ebooks, com macros`,
     render: () => <Receitas />,
+  },
+  {
+    id: 'receitas-dia',
+    emoji: '🕗',
+    titulo: 'Receitas do dia a dia',
+    descricao: '365 receitas por refeição, prontas em até 7 min',
+    render: () => (
+      <Suspense fallback={<Carregando />}>
+        <ReceitasRS7 />
+      </Suspense>
+    ),
   },
   {
     id: 'gordura',
