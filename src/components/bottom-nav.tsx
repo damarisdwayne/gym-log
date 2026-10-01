@@ -1,4 +1,4 @@
-import { Plus } from 'lucide-react'
+import { Menu, Plus } from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 import { cn } from '@/lib/utils'
 
@@ -14,10 +14,31 @@ type BottomNavProps<T extends string> = {
   onChange: (value: T) => void
   onRegister: () => void
   registerLabel?: string
+  onMenu?: () => void
 }
 
-const half = <T extends string>(items: NavItem<T>[]) =>
-  Math.ceil(items.length / 2)
+type NavButtonProps = {
+  icon: LucideIcon
+  label: string
+  ativo: boolean
+  onClick: () => void
+}
+
+const NavButton = ({ icon: Icon, label, ativo, onClick }: NavButtonProps) => (
+  <button
+    type="button"
+    role="tab"
+    aria-selected={ativo}
+    onClick={onClick}
+    className={cn(
+      'flex flex-1 flex-col items-center justify-center gap-1 rounded-lg py-2 text-[10px] font-medium transition-colors',
+      ativo ? 'text-primary' : 'text-muted-foreground hover:text-foreground',
+    )}
+  >
+    <Icon className={cn('size-5', ativo && 'stroke-[2.5]')} />
+    {label}
+  </button>
+)
 
 export const BottomNav = <T extends string>({
   items,
@@ -25,34 +46,23 @@ export const BottomNav = <T extends string>({
   onChange,
   onRegister,
   registerLabel = 'Registrar',
+  onMenu,
 }: BottomNavProps<T>) => {
-  const meio = half(items)
+  const total = items.length + (onMenu ? 1 : 0)
+  const meio = Math.ceil(total / 2)
   const esquerda = items.slice(0, meio)
   const direita = items.slice(meio)
+  const menuAtivo = !items.some((item) => item.value === value)
 
-  const renderItem = (item: NavItem<T>) => {
-    const Icon = item.icon
-    const ativo = value === item.value
-
-    return (
-      <button
-        key={item.value}
-        type="button"
-        role="tab"
-        aria-selected={ativo}
-        onClick={() => onChange(item.value)}
-        className={cn(
-          'flex flex-1 flex-col items-center justify-center gap-1 rounded-lg py-2 text-[10px] font-medium transition-colors',
-          ativo
-            ? 'text-primary'
-            : 'text-muted-foreground hover:text-foreground',
-        )}
-      >
-        <Icon className={cn('size-5', ativo && 'stroke-[2.5]')} />
-        {item.label}
-      </button>
-    )
-  }
+  const renderItem = (item: NavItem<T>) => (
+    <NavButton
+      key={item.value}
+      icon={item.icon}
+      label={item.label}
+      ativo={value === item.value}
+      onClick={() => onChange(item.value)}
+    />
+  )
 
   return (
     <nav
@@ -74,6 +84,9 @@ export const BottomNav = <T extends string>({
         </div>
 
         {direita.map(renderItem)}
+        {onMenu && (
+          <NavButton icon={Menu} label="Menu" ativo={menuAtivo} onClick={onMenu} />
+        )}
       </div>
     </nav>
   )

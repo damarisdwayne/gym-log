@@ -1,31 +1,48 @@
 import { useMemo, useState } from 'react'
-import { CalendarDays, FolderOpen, HeartPulse, TrendingUp } from 'lucide-react'
+import {
+  CalendarDays,
+  FolderOpen,
+  HeartPulse,
+  TrendingUp,
+  UtensilsCrossed,
+} from 'lucide-react'
 import { AppHeader } from '@/components/app-header'
+import { AppMenu } from '@/components/app-menu'
 import { BottomNav, type NavItem } from '@/components/bottom-nav'
 import { DataActions } from '@/components/data-actions'
 import { ExerciseForm } from '@/components/exercise-form'
 import { Fichas } from '@/components/fichas'
 import { History } from '@/components/history'
+import { Nutricao } from '@/components/nutricao'
 import { Progress } from '@/components/progress'
 import { Saude } from '@/components/saude'
 import { Sheet } from '@/components/ui/sheet'
 import { todayISO } from '@/lib/date'
 import { buildHistories } from '@/lib/progress'
+import { useHashRoute } from '@/hooks/use-hash-route'
 import { useSessions } from '@/hooks/use-sessions'
 import type { ExerciseEntry } from '@/types'
 
-type TabValue = 'history' | 'progress' | 'fichas' | 'saude'
+type TabValue = 'history' | 'progress' | 'nutricao' | 'fichas' | 'saude'
 
-const NAV: NavItem<TabValue>[] = [
+const SECOES: NavItem<TabValue>[] = [
   { value: 'history', label: 'Histórico', icon: CalendarDays },
   { value: 'progress', label: 'Evolução', icon: TrendingUp },
+  { value: 'nutricao', label: 'Nutrição', icon: UtensilsCrossed },
   { value: 'fichas', label: 'Fichas', icon: FolderOpen },
   { value: 'saude', label: 'Saúde', icon: HeartPulse },
 ]
 
+const NA_BARRA = new Set<TabValue>(['history', 'progress', 'nutricao'])
+const BARRA = SECOES.filter((secao) => NA_BARRA.has(secao.value))
+
+const ehTab = (valor: string | undefined): valor is TabValue =>
+  SECOES.some((secao) => secao.value === valor)
+
 export const App = () => {
-  const [tab, setTab] = useState<TabValue>('history')
+  const { segmentos, navegar, voltar } = useHashRoute()
   const [formOpen, setFormOpen] = useState(false)
+  const [menuOpen, setMenuOpen] = useState(false)
   const {
     sessions,
     orderedSessions,
@@ -36,12 +53,19 @@ export const App = () => {
     clearAll,
   } = useSessions()
 
+  const [primeiro, subpagina] = segmentos
+  const tab: TabValue = ehTab(primeiro) ? primeiro : 'history'
   const histories = useMemo(() => buildHistories(sessions), [sessions])
+
+  const irPara = (destino: TabValue) => {
+    setMenuOpen(false)
+    if (destino !== tab || subpagina) navegar(destino)
+  }
 
   const handleSubmit = (date: string, entry: ExerciseEntry) => {
     addExercise(date, entry)
     setFormOpen(false)
-    setTab('history')
+    irPara('history')
   }
 
   return (
@@ -56,26 +80,43 @@ export const App = () => {
         />
       )}
       {tab === 'progress' && <Progress histories={histories} />}
+      {tab === 'nutricao' && (
+        <Nutricao
+          pagina={subpagina}
+          onAbrir={(pagina) => navegar(`nutricao/${pagina}`)}
+          onVoltar={() => voltar('nutricao')}
+        />
+      )}
       {tab === 'fichas' && <Fichas />}
       {tab === 'saude' && <Saude />}
 
-      <footer className="mt-auto flex flex-col gap-2 border-t border-border pt-4">
-        <p className="text-[11px] text-muted-foreground">
-          Os dados ficam salvos apenas neste dispositivo. Exporte de tempos em
-          tempos para não perder o histórico.
-        </p>
-        <DataActions
-          sessions={sessions}
-          onReplace={replaceAll}
-          onClear={clearAll}
-        />
-      </footer>
-
       <BottomNav
-        items={NAV}
+        items={BARRA}
         value={tab}
-        onChange={setTab}
+        onChange={irPara}
         onRegister={() => setFormOpen(true)}
+        onMenu={() => setMenuOpen(true)}
+      />
+
+      <AppMenu
+        open={menuOpen}
+        items={SECOES}
+        value={tab}
+        onChange={irPara}
+        onClose={() => setMenuOpen(false)}
+        rodape={
+          <>
+            <p className="text-[11px] text-muted-foreground">
+              Os dados ficam salvos apenas neste dispositivo. Exporte de tempos
+              em tempos para não perder o histórico.
+            </p>
+            <DataActions
+              sessions={sessions}
+              onReplace={replaceAll}
+              onClear={clearAll}
+            />
+          </>
+        }
       />
 
       <Sheet

@@ -9,6 +9,19 @@ type SheetProps = {
   onClose: () => void
   children: ReactNode
   className?: string
+  side?: 'bottom' | 'right'
+}
+
+const POSICAO = {
+  bottom: 'items-end justify-center sm:items-center',
+  right: 'items-stretch justify-end',
+}
+
+const PAINEL = {
+  bottom:
+    'max-h-[92dvh] w-full max-w-2xl rounded-t-2xl [animation:sheet-in_220ms_cubic-bezier(0.22,1,0.36,1)] sm:rounded-2xl',
+  right:
+    'h-dvh w-[min(20rem,85vw)] rounded-l-2xl pt-[env(safe-area-inset-top)] [animation:drawer-in_220ms_cubic-bezier(0.22,1,0.36,1)]',
 }
 
 const stack: symbol[] = []
@@ -19,6 +32,7 @@ export const Sheet = ({
   onClose,
   children,
   className,
+  side = 'bottom',
 }: SheetProps) => {
   useEffect(() => {
     if (!open) return
@@ -44,7 +58,7 @@ export const Sheet = ({
   if (!open) return null
 
   return (
-    <div className="fixed inset-0 z-50 flex items-end justify-center sm:items-center">
+    <div className={cn('fixed inset-0 z-50 flex', POSICAO[side])}>
       <div
         className="absolute inset-0 bg-black/70 backdrop-blur-sm [animation:overlay-in_180ms_ease-out]"
         onClick={onClose}
@@ -55,7 +69,8 @@ export const Sheet = ({
         aria-modal="true"
         aria-label={title}
         className={cn(
-          'relative flex max-h-[92dvh] w-full max-w-2xl flex-col rounded-t-2xl border border-border bg-card [animation:sheet-in_220ms_cubic-bezier(0.22,1,0.36,1)] sm:rounded-2xl',
+          'relative flex flex-col border border-border bg-card',
+          PAINEL[side],
           className,
         )}
       >
@@ -70,7 +85,7 @@ export const Sheet = ({
             <X className="size-4" />
           </Button>
         </div>
-        <div className="overflow-y-auto overflow-x-hidden px-4 py-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
+        <div className="flex-1 overflow-y-auto overflow-x-hidden px-4 py-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
           {children}
         </div>
       </div>

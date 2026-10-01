@@ -1,11 +1,8 @@
-export type LinhaComposicao = {
-  parametro: string
-  valores: string[]
-}
+import type { LinhaEvolucao } from '../evolucao-table'
 
 export type Composicao = {
   datas: string[]
-  linhas: LinhaComposicao[]
+  linhas: LinhaEvolucao[]
   arquivo?: string
   nota: string
 }
@@ -32,9 +29,22 @@ export const COMPOSICAO: Composicao = {
     { parametro: 'Busto', valores: ['87 cm', '87 cm', '84,5 cm', '83 cm'] },
     { parametro: 'Quadril', valores: ['97,9 cm', '97 cm', '94 cm', '93,5 cm'] },
     {
+      parametro: 'Abdômen',
+      valores: ['82,5 cm', '81,5 cm', '80 cm', '78,5 cm'],
+    },
+    {
+      parametro: 'Coxa (dir.)',
+      valores: ['54 cm', '55 cm', '56 cm', '50,9 cm'],
+    },
+    {
+      parametro: 'Braço (dir.)',
+      valores: ['27,5 cm', '27,5 cm', '28,5 cm', '26 cm'],
+    },
+    { parametro: 'Pescoço', valores: ['-', '-', '-', '29,8 cm'] },
+    {
       parametro: 'Relação cintura/quadril',
       valores: ['0,74', '0,75', '0,77', '0,73'],
     },
   ],
-  nota: 'Altura 1,61 m. IMC classificado como Adequado em todas as datas. "Busto" = circunferência do tórax do laudo. Medidas completas (dobras e circunferências por membro) estão no PDF.',
+  nota: 'Altura 1,61 m. IMC classificado como Adequado em todas as datas. "Busto" = circunferência do tórax do laudo. Coxa e braço são do lado direito (relaxado). Dobras e o lado esquerdo estão no PDF.',
 }

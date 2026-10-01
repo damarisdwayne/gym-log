@@ -11,7 +11,6 @@ import {
   planilhaReduzida,
 } from './builders'
 import { treinoEmCasa } from './builders-casa'
-import { evolucaoCorporal, planoAlimentar } from './builders-nutricao'
 import {
   cardapio as cardapioTay,
   mes as mesTay,
@@ -221,20 +220,5 @@ export const CURSOS: Curso[] = [
       mesTay(5, { academia4x: '260 KB', academia5x: '260 KB', casa5x: '329 KB' }),
       mesTay(6, { academia4x: '260 KB', academia5x: '260 KB', casa5x: '358 KB' }),
     ],
-  },
-  {
-    id: 'nutricao',
-    nome: 'Nutrição',
-    descricao: 'Acompanhamento com a nutri Naiara Alves',
-    geral: [
-      planoAlimentar(
-        '02/06/2026',
-        1579,
-        { proteinas: 114, carboidratos: 170, lipideos: 52 },
-        '61 KB',
-      ),
-      evolucaoCorporal('jun/2025 a jun/2026', '149 KB'),
-    ],
-    meses: [],
   },
 ]
