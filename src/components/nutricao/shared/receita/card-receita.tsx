@@ -50,7 +50,7 @@ export const CardReceita = ({
       <BotaoFavorito
         favorita={favorita}
         onClick={onFavoritar}
-        className="absolute right-1.5 top-1.5 size-8 bg-black/45 text-white backdrop-blur-sm hover:bg-black/60"
+        className="absolute right-1.5 top-1.5 size-8 bg-black/55 text-white hover:bg-black/70"
       />
     )}
   </div>
