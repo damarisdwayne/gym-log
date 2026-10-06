@@ -1,11 +1,25 @@
 import { Badge } from '@/components/ui/badge'
 import { Sheet } from '@/components/ui/sheet'
 import { MacroStats } from '../macro-stats'
-import { Dica, LinkEbook, ListaIngredientes, ListaPassos, SecaoDetalhe } from '../shared/receita'
+import {
+  AcoesReceita,
+  Dica,
+  LinkEbook,
+  ListaIngredientes,
+  ListaPassos,
+  SecaoDetalhe,
+  type ReceitaCompartilhavel,
+} from '../shared/receita'
 import { EBOOK_RS7, fotoRS7, REFEICOES, TAGS } from './constants'
 import type { ReceitaRS7 } from './types'
 
 const plural = (n: number, singular: string, plural: string) => `${n} ${n === 1 ? singular : plural}`
+
+const paraCompartilhar = (receita: ReceitaRS7): ReceitaCompartilhavel => ({
+  ...receita,
+  porcao: receita.porcoes > 1 ? 'Valores por porção' : undefined,
+  ingredientes: [{ itens: receita.ingredientes.map(({ nome, qtd }) => `${nome} — ${qtd}`) }],
+})
 
 const ConteudoRS7 = ({ receita }: { receita: ReceitaRS7 }) => {
   const refeicao = REFEICOES.find((item) => item.id === receita.refeicao)
@@ -66,11 +80,31 @@ const ConteudoRS7 = ({ receita }: { receita: ReceitaRS7 }) => {
 
 type ReceitaRS7DetalheProps = {
   receita?: ReceitaRS7
+  favorita: boolean
+  onFavoritar: (id: string) => void
   onFechar: () => void
 }
 
-export const ReceitaRS7Detalhe = ({ receita, onFechar }: ReceitaRS7DetalheProps) => (
-  <Sheet open={Boolean(receita)} title={receita?.nome ?? ''} onClose={onFechar}>
+export const ReceitaRS7Detalhe = ({
+  receita,
+  favorita,
+  onFavoritar,
+  onFechar,
+}: ReceitaRS7DetalheProps) => (
+  <Sheet
+    open={Boolean(receita)}
+    title={receita?.nome ?? ''}
+    onClose={onFechar}
+    actions={
+      receita && (
+        <AcoesReceita
+          receita={paraCompartilhar(receita)}
+          favorita={favorita}
+          onFavoritar={() => onFavoritar(receita.id)}
+        />
+      )
+    }
+  >
     {receita && <ConteudoRS7 receita={receita} />}
   </Sheet>
 )

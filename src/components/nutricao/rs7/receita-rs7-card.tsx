@@ -4,10 +4,12 @@ import type { ReceitaRS7 } from './types'
 
 type ReceitaRS7CardProps = {
   receita: ReceitaRS7
+  favorita: boolean
+  onFavoritar: () => void
   onAbrir: (receita: ReceitaRS7) => void
 }
 
-export const ReceitaRS7Card = ({ receita, onAbrir }: ReceitaRS7CardProps) => (
+export const ReceitaRS7Card = ({ receita, favorita, onFavoritar, onAbrir }: ReceitaRS7CardProps) => (
   <CardReceita
     foto={
       <img
@@ -23,6 +25,8 @@ export const ReceitaRS7Card = ({ receita, onAbrir }: ReceitaRS7CardProps) => (
     calorias={receita.macros.calorias}
     proteinas={receita.macros.proteinas}
     extra={`⏱ ${receita.minutos} min`}
+    favorita={favorita}
+    onFavoritar={onFavoritar}
     onClick={() => onAbrir(receita)}
   />
 )

@@ -1,5 +1,5 @@
-import { useCallback, useState } from 'react'
-import { Resultados, SeletorOrdem } from '../shared/receita'
+import { useCallback, useMemo, useState } from 'react'
+import { favoritasPrimeiro, Resultados, SeletorOrdem, useFavoritas } from '../shared/receita'
 import { FiltrosReceitas } from './filtros-receitas'
 import { ReceitaCard } from './receita-card'
 import { ReceitaDetalhe } from './receita-detalhe'
@@ -9,10 +9,17 @@ import { useFiltroReceitas } from './use-filtro-receitas'
 export { EBOOKS } from './constants'
 export { RECEITAS } from './data'
 
+const FAVORITAS_KEY = 'gym-log:receitas-favoritas:v1'
+
 export const Receitas = () => {
   const filtro = useFiltroReceitas()
   const [aberta, setAberta] = useState<Receita>()
   const fechar = useCallback(() => setAberta(undefined), [])
+  const { favoritas, alternar } = useFavoritas(FAVORITAS_KEY)
+  const receitas = useMemo(
+    () => favoritasPrimeiro(filtro.receitas, favoritas),
+    [filtro.receitas, favoritas],
+  )
 
   return (
     <div className="flex flex-col gap-4">
@@ -26,18 +33,29 @@ export const Receitas = () => {
       />
 
       <Resultados
-        visiveis={filtro.receitas.length}
+        visiveis={receitas.length}
         total={filtro.total}
         temFiltro={filtro.temFiltro}
         onLimpar={filtro.limpar}
         acoes={<SeletorOrdem valor={filtro.ordem} onChange={filtro.setOrdem} />}
       >
-        {filtro.receitas.map((receita) => (
-          <ReceitaCard key={receita.id} receita={receita} onAbrir={setAberta} />
+        {receitas.map((receita) => (
+          <ReceitaCard
+            key={receita.id}
+            receita={receita}
+            favorita={favoritas.has(receita.id)}
+            onFavoritar={() => alternar(receita.id)}
+            onAbrir={setAberta}
+          />
         ))}
       </Resultados>
 
-      <ReceitaDetalhe receita={aberta} onFechar={fechar} />
+      <ReceitaDetalhe
+        receita={aberta}
+        favorita={Boolean(aberta && favoritas.has(aberta.id))}
+        onFavoritar={alternar}
+        onFechar={fechar}
+      />
     </div>
   )
 }

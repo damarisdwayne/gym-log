@@ -1,10 +1,26 @@
 import { Badge } from '@/components/ui/badge'
 import { Sheet } from '@/components/ui/sheet'
 import { MacroStats } from '../macro-stats'
-import { Dica, LinkEbook, ListaIngredientes, ListaPassos, SecaoDetalhe } from '../shared/receita'
+import {
+  AcoesReceita,
+  Dica,
+  LinkEbook,
+  ListaIngredientes,
+  ListaPassos,
+  SecaoDetalhe,
+  type ReceitaCompartilhavel,
+} from '../shared/receita'
 import { EBOOKS, LEGENDA_MEDIDAS, PREPAROS, SECOES, TIPOS } from './constants'
 import { ReceitaFoto } from './receita-foto'
 import type { Receita } from './types'
+
+const legendaPorcao = (receita: Receita) =>
+  receita.rende ? `Por porção · rende ${receita.rende}` : 'Receita inteira'
+
+const paraCompartilhar = (receita: Receita): ReceitaCompartilhavel => ({
+  ...receita,
+  porcao: legendaPorcao(receita),
+})
 
 const ConteudoReceita = ({ receita }: { receita: Receita }) => {
   const secao = SECOES[receita.secao]
@@ -33,7 +49,7 @@ const ConteudoReceita = ({ receita }: { receita: Receita }) => {
       <div className="flex flex-col gap-1.5">
         <MacroStats calorias={receita.macros.calorias} macros={receita.macros} />
         <p className="px-1 text-xs text-muted-foreground">
-          {receita.rende ? `Por porção · rende ${receita.rende}` : 'Receita inteira'}
+          {legendaPorcao(receita)}
         </p>
       </div>
 
@@ -65,11 +81,31 @@ const ConteudoReceita = ({ receita }: { receita: Receita }) => {
 
 type ReceitaDetalheProps = {
   receita?: Receita
+  favorita: boolean
+  onFavoritar: (id: string) => void
   onFechar: () => void
 }
 
-export const ReceitaDetalhe = ({ receita, onFechar }: ReceitaDetalheProps) => (
-  <Sheet open={Boolean(receita)} title={receita?.nome ?? ''} onClose={onFechar}>
+export const ReceitaDetalhe = ({
+  receita,
+  favorita,
+  onFavoritar,
+  onFechar,
+}: ReceitaDetalheProps) => (
+  <Sheet
+    open={Boolean(receita)}
+    title={receita?.nome ?? ''}
+    onClose={onFechar}
+    actions={
+      receita && (
+        <AcoesReceita
+          receita={paraCompartilhar(receita)}
+          favorita={favorita}
+          onFavoritar={() => onFavoritar(receita.id)}
+        />
+      )
+    }
+  >
     {receita && <ConteudoReceita receita={receita} />}
   </Sheet>
 )

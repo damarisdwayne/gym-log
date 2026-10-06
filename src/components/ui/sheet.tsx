@@ -8,6 +8,7 @@ type SheetProps = {
   title: string
   onClose: () => void
   children: ReactNode
+  actions?: ReactNode
   className?: string
   side?: 'bottom' | 'right'
 }
@@ -31,6 +32,7 @@ export const Sheet = ({
   title,
   onClose,
   children,
+  actions,
   className,
   side = 'bottom',
 }: SheetProps) => {
@@ -76,14 +78,17 @@ export const Sheet = ({
       >
         <div className="flex items-center justify-between gap-2 border-b border-border px-4 py-3">
           <h2 className="text-base font-semibold">{title}</h2>
-          <Button
-            variant="ghost"
-            size="icon"
-            onClick={onClose}
-            aria-label="Fechar"
-          >
-            <X className="size-4" />
-          </Button>
+          <div className="flex shrink-0 items-center gap-1">
+            {actions}
+            <Button
+              variant="ghost"
+              size="icon"
+              onClick={onClose}
+              aria-label="Fechar"
+            >
+              <X className="size-4" />
+            </Button>
+          </div>
         </div>
         <div className="flex-1 overflow-y-auto overflow-x-hidden px-4 py-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
           {children}

@@ -5,10 +5,12 @@ import type { Receita } from './types'
 
 type ReceitaCardProps = {
   receita: Receita
+  favorita: boolean
+  onFavoritar: () => void
   onAbrir: (receita: Receita) => void
 }
 
-export const ReceitaCard = ({ receita, onAbrir }: ReceitaCardProps) => (
+export const ReceitaCard = ({ receita, favorita, onFavoritar, onAbrir }: ReceitaCardProps) => (
   <CardReceita
     foto={
       <ReceitaFoto
@@ -20,6 +22,8 @@ export const ReceitaCard = ({ receita, onAbrir }: ReceitaCardProps) => (
     nome={receita.nome}
     calorias={receita.macros.calorias}
     proteinas={receita.macros.proteinas}
+    favorita={favorita}
+    onFavoritar={onFavoritar}
     onClick={() => onAbrir(receita)}
   />
 )
