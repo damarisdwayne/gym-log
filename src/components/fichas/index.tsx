@@ -2,6 +2,7 @@ import { Badge } from '@/components/ui/badge'
 import { Collapsible } from '@/components/ui/collapsible'
 import { CURSOS } from './data'
 import { FichaItem } from './ficha-item'
+import { MeuTreino } from './meu-treino'
 import type { Ficha } from './types'
 
 export { FichaItem } from './ficha-item'
@@ -15,8 +16,14 @@ const FichaList = ({ fichas }: { fichas: Ficha[] }) => (
   </div>
 )
 
-export const Fichas = () => (
+type FichasProps = {
+  exerciseNames: string[]
+}
+
+export const Fichas = ({ exerciseNames }: FichasProps) => (
   <div className="flex flex-col gap-6">
+    <MeuTreino exerciseNames={exerciseNames} />
+
     {CURSOS.map((curso) => (
       <section key={curso.id} className="flex flex-col gap-2">
         <div className="flex flex-col gap-0.5 px-1">
@@ -44,7 +51,6 @@ export const Fichas = () => (
             <FichaList fichas={grupo.fichas} />
           </Collapsible>
         ))}
-
       </section>
     ))}
   </div>

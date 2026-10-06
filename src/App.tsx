@@ -87,7 +87,7 @@ export const App = () => {
           onVoltar={() => voltar('nutricao')}
         />
       )}
-      {tab === 'fichas' && <Fichas />}
+      {tab === 'fichas' && <Fichas exerciseNames={exerciseNames} />}
       {tab === 'saude' && <Saude />}
 
       <BottomNav
