@@ -47,10 +47,22 @@ export type ReceitaBase = {
   ingredientes: GrupoIngredientes[]
   passos: string[]
   dica?: string
+  macrosEstimadas?: boolean
 }
 
-export type Receita = ReceitaBase & {
-  ebook: EbookId
+export type ReceitaMinha = Omit<ReceitaBase, 'pagina'> & {
+  link: string
+  autor: string
+}
+
+export type OrigemReceita =
+  | { tipo: 'ebook'; ebook: EbookId; pagina: number }
+  | { tipo: 'minhas'; link: string; autor: string }
+
+export type OrigemId = EbookId | 'minhas'
+
+export type Receita = Omit<ReceitaBase, 'pagina'> & {
+  origem: OrigemReceita
 }
 
 export type Secao = {

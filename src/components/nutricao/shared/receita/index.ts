@@ -5,6 +5,8 @@ export { textoReceita, useCompartilhar, type ReceitaCompartilhavel } from './com
 export {
   Dica,
   LinkEbook,
+  LinkFonte,
+  LinkOriginal,
   ListaIngredientes,
   ListaPassos,
   SecaoDetalhe,
@@ -12,6 +14,7 @@ export {
 } from './detalhe'
 export { favoritasPrimeiro, useFavoritas } from './favoritas'
 export { FiltroChip } from './filtro-chip'
+export { fotoReceita } from './foto'
 export { LinhaChips } from './linha-chips'
 export { normalizar, ORDENACAO, SeletorOrdem, type Ordem } from './ordem'
 export { Resultados } from './resultados'

@@ -1,6 +1,6 @@
 import { normalizar, ORDENACAO, type Ordem } from '../shared/receita'
-import { EBOOKS, PREPAROS, SECOES } from './constants'
-import type { Preparo, Receita, Tipo } from './types'
+import { ORIGENS, PREPAROS, SECOES } from './constants'
+import type { OrigemId, Preparo, Receita, Tipo } from './types'
 
 export type TipoFiltro = 'todas' | Tipo
 
@@ -95,21 +95,24 @@ export const FILTROS_PREPARO: Filtro[] = (
   teste: (receita) => receita.preparo.includes(id),
 }))
 
-export const FILTROS_EBOOK: Filtro[] = Object.values(EBOOKS).map((ebook) => ({
-  id: `ebook-${ebook.id}`,
-  label: ebook.titulo,
-  emoji: '📕',
-  teste: (receita) => receita.ebook === ebook.id,
-  exclui: Object.keys(EBOOKS)
-    .filter((id) => id !== ebook.id)
-    .map((id) => `ebook-${id}`),
+const origemDe = ({ origem }: Receita): OrigemId =>
+  origem.tipo === 'ebook' ? origem.ebook : origem.tipo
+
+const idFiltroOrigem = (id: OrigemId) => `ebook-${id}`
+
+export const FILTROS_ORIGEM: Filtro[] = ORIGENS.map((origem) => ({
+  id: idFiltroOrigem(origem.id),
+  label: origem.titulo,
+  emoji: origem.emoji,
+  teste: (receita) => origemDe(receita) === origem.id,
+  exclui: ORIGENS.filter(({ id }) => id !== origem.id).map(({ id }) => idFiltroOrigem(id)),
 }))
 
 export const GRUPOS_FILTRO = [
   { titulo: 'Ingredientes', filtros: FILTROS_INGREDIENTE },
   { titulo: 'Dieta', filtros: FILTROS_DIETA },
   { titulo: 'Preparo', filtros: FILTROS_PREPARO },
-  { titulo: 'Ebook', filtros: FILTROS_EBOOK },
+  { titulo: 'Origem', filtros: FILTROS_ORIGEM },
 ]
 
 const TODOS_FILTROS = GRUPOS_FILTRO.flatMap((grupo) => grupo.filtros)

@@ -1,4 +1,4 @@
-import type { Ebook, EbookId, Preparo, Secao, SecaoId, Tipo } from './types'
+import type { Ebook, EbookId, OrigemId, Preparo, Secao, SecaoId, Tipo } from './types'
 
 export const EBOOKS: Record<EbookId, Ebook> = {
   natflix: {
@@ -15,7 +15,10 @@ export const EBOOKS: Record<EbookId, Ebook> = {
   },
 }
 
-export const fotoReceita = (id: string) => `/receitas/${id}.webp`
+export const ORIGENS: { id: OrigemId; titulo: string; emoji: string }[] = [
+  ...Object.values(EBOOKS).map(({ id, titulo }) => ({ id, titulo, emoji: '📕' })),
+  { id: 'minhas', titulo: 'Minhas receitas', emoji: '📌' },
+]
 
 const LISTA_SECOES: Secao[] = [
   { id: 'frango', titulo: 'Com frango', tipo: 'salgada', emoji: '🍗' },

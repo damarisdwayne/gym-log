@@ -4,8 +4,9 @@ import { formatarGramas } from './card-receita'
 
 export type ReceitaCompartilhavel = {
   nome: string
-  macros: MacrosReceita
+  macros?: MacrosReceita
   porcao?: string
+  link?: string
   ingredientes: { titulo?: string; itens: string[] }[]
   passos: string[]
   dica?: string
@@ -14,10 +15,18 @@ export type ReceitaCompartilhavel = {
 const linhaMacros = ({ calorias, proteinas, carboidratos, lipideos }: MacrosReceita) =>
   `🔥 ${calorias} kcal · 💪 ${formatarGramas(proteinas)} prot · 🍞 ${formatarGramas(carboidratos)} carb · 🥑 ${formatarGramas(lipideos)} gord`
 
-export const textoReceita = ({ nome, macros, porcao, ingredientes, passos, dica }: ReceitaCompartilhavel) =>
+export const textoReceita = ({
+  nome,
+  macros,
+  porcao,
+  link,
+  ingredientes,
+  passos,
+  dica,
+}: ReceitaCompartilhavel) =>
   [
     `*${nome}*`,
-    linhaMacros(macros),
+    macros && linhaMacros(macros),
     porcao && `_${porcao}_`,
     '',
     '*Ingredientes*',
@@ -29,6 +38,7 @@ export const textoReceita = ({ nome, macros, porcao, ingredientes, passos, dica 
       ? ['', '*Modo de preparo*', ...passos.map((passo, indice) => `${indice + 1}. ${passo}`)]
       : []),
     ...(dica ? ['', `💡 ${dica}`] : []),
+    ...(link ? ['', `🔗 ${link}`] : []),
   ]
     .filter((linha) => linha !== undefined)
     .join('\n')

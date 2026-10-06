@@ -1,5 +1,5 @@
 import type { ReactNode } from 'react'
-import { FileText, Lightbulb } from 'lucide-react'
+import { ExternalLink, FileText, Lightbulb, type LucideIcon } from 'lucide-react'
 
 export type ItemIngrediente = {
   nome: string
@@ -58,6 +58,33 @@ export const Dica = ({ children }: { children: ReactNode }) => (
   </p>
 )
 
+type LinkFonteProps = {
+  href: string
+  icon?: LucideIcon
+  children: ReactNode
+}
+
+export const LinkFonte = ({ href, icon: Icon = ExternalLink, children }: LinkFonteProps) => (
+  <a
+    href={href}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-flex items-center justify-center gap-1.5 rounded-lg border border-border px-3 py-2 text-xs text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+  >
+    <Icon className="size-3.5" />
+    {children}
+  </a>
+)
+
+type LinkOriginalProps = {
+  link: string
+  autor: string
+}
+
+export const LinkOriginal = ({ link, autor }: LinkOriginalProps) => (
+  <LinkFonte href={link}>Ver original · {autor}</LinkFonte>
+)
+
 type LinkEbookProps = {
   arquivo: string
   pagina: number
@@ -65,13 +92,7 @@ type LinkEbookProps = {
 }
 
 export const LinkEbook = ({ arquivo, pagina, children }: LinkEbookProps) => (
-  <a
-    href={`${arquivo}#page=${pagina}`}
-    target="_blank"
-    rel="noopener noreferrer"
-    className="inline-flex items-center justify-center gap-1.5 rounded-lg border border-border px-3 py-2 text-xs text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
-  >
-    <FileText className="size-3.5" />
+  <LinkFonte href={`${arquivo}#page=${pagina}`} icon={FileText}>
     {children}
-  </a>
+  </LinkFonte>
 )

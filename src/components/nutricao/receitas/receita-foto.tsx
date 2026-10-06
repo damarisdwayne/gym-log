@@ -1,5 +1,6 @@
 import { cn } from '@/lib/utils'
-import { fotoReceita, SECOES } from './constants'
+import { fotoReceita } from '../shared/receita'
+import { SECOES } from './constants'
 import type { Receita } from './types'
 
 type ReceitaFotoProps = {

@@ -4,27 +4,35 @@ import { MacroStats } from '../macro-stats'
 import {
   AcoesReceita,
   Dica,
-  LinkEbook,
   ListaIngredientes,
   ListaPassos,
   SecaoDetalhe,
   type ReceitaCompartilhavel,
 } from '../shared/receita'
-import { EBOOKS, LEGENDA_MEDIDAS, PREPAROS, SECOES, TIPOS } from './constants'
+import { LEGENDA_MEDIDAS, PREPAROS, SECOES, TIPOS } from './constants'
+import { LinkOrigem } from './link-origem'
 import { ReceitaFoto } from './receita-foto'
 import type { Receita } from './types'
 
 const legendaPorcao = (receita: Receita) =>
-  receita.rende ? `Por porção · rende ${receita.rende}` : 'Receita inteira'
+  [
+    receita.rende ? `Por porção · rende ${receita.rende}` : 'Receita inteira',
+    receita.macrosEstimadas && 'macros estimadas',
+  ]
+    .filter(Boolean)
+    .join(' · ')
+
+const usaAbreviacoes = (receita: Receita) =>
+  receita.ingredientes.some((grupo) => grupo.itens.some((item) => /\b(cs|cc)\b/.test(item)))
 
 const paraCompartilhar = (receita: Receita): ReceitaCompartilhavel => ({
   ...receita,
   porcao: legendaPorcao(receita),
+  link: receita.origem.tipo === 'minhas' ? receita.origem.link : undefined,
 })
 
 const ConteudoReceita = ({ receita }: { receita: Receita }) => {
   const secao = SECOES[receita.secao]
-  const ebook = EBOOKS[receita.ebook]
 
   return (
     <div className="flex flex-col gap-5">
@@ -61,7 +69,9 @@ const ConteudoReceita = ({ receita }: { receita: Receita }) => {
             itens={grupo.itens.map((nome) => ({ nome }))}
           />
         ))}
-        <p className="text-[11px] text-muted-foreground">{LEGENDA_MEDIDAS}</p>
+        {usaAbreviacoes(receita) && (
+          <p className="text-[11px] text-muted-foreground">{LEGENDA_MEDIDAS}</p>
+        )}
       </SecaoDetalhe>
 
       {receita.passos.length > 0 && (
@@ -72,9 +82,7 @@ const ConteudoReceita = ({ receita }: { receita: Receita }) => {
 
       {receita.dica && <Dica>{receita.dica}</Dica>}
 
-      <LinkEbook arquivo={ebook.arquivo} pagina={receita.pagina}>
-        Ebook {ebook.titulo} ({ebook.autora}) · pág. {receita.pagina}
-      </LinkEbook>
+      <LinkOrigem origem={receita.origem} />
     </div>
   )
 }
