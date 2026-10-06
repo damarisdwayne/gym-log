@@ -8,8 +8,8 @@ type CardReceitaProps = {
   foto: ReactNode
   rotulo: string
   nome: string
-  calorias: number
-  proteinas: number
+  calorias?: number
+  proteinas?: number
   extra?: ReactNode
   favorita?: boolean
   onFavoritar?: () => void
@@ -40,8 +40,10 @@ export const CardReceita = ({
         </span>
         <span className="line-clamp-2 text-sm font-semibold leading-snug">{nome}</span>
         <span className="mt-auto flex items-baseline gap-2 pt-1 text-xs tabular-nums">
-          <span className="font-semibold">{calorias} kcal</span>
-          <span className="text-primary">{formatarGramas(proteinas)} prot</span>
+          {calorias !== undefined && <span className="font-semibold">{calorias} kcal</span>}
+          {proteinas !== undefined && (
+            <span className="text-primary">{formatarGramas(proteinas)} prot</span>
+          )}
           {extra && <span className="ml-auto text-muted-foreground">{extra}</span>}
         </span>
       </div>

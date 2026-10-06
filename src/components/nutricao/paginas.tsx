@@ -4,6 +4,7 @@ import { ComposicaoPagina } from './composicao-pagina'
 import { GorduraPagina } from './gordura-pagina'
 import { PLANO, PlanoAlimentar } from './plano'
 import { EBOOKS, RECEITAS, Receitas } from './receitas'
+import { RECEITAS_SABOROSAS, ReceitasSaborosas } from './saborosas'
 
 const ReceitasRS7 = lazy(() => import('./rs7'))
 
@@ -15,6 +16,7 @@ export type PaginaNutricao =
   | 'plano'
   | 'receitas'
   | 'receitas-dia'
+  | 'saborosas'
   | 'gordura'
   | 'calorias'
   | 'composicao'
@@ -43,7 +45,7 @@ export const PAGINAS: DefinicaoPagina[] = [
     id: 'receitas',
     emoji: '👩‍🍳',
     titulo: 'Receitas fit',
-    descricao: `${RECEITAS.length} receitas de ${Object.keys(EBOOKS).length} ebooks, com macros`,
+    descricao: `${RECEITAS.length} receitas dos ${Object.keys(EBOOKS).length} ebooks e minhas, com macros`,
     render: () => <Receitas />,
   },
   {
@@ -56,6 +58,13 @@ export const PAGINAS: DefinicaoPagina[] = [
         <ReceitasRS7 />
       </Suspense>
     ),
+  },
+  {
+    id: 'saborosas',
+    emoji: '😋',
+    titulo: 'Receitas saborosas',
+    descricao: `${RECEITAS_SABOROSAS.length} ${RECEITAS_SABOROSAS.length === 1 ? 'receita' : 'receitas'} sem compromisso com a dieta`,
+    render: () => <ReceitasSaborosas />,
   },
   {
     id: 'gordura',
