@@ -21,6 +21,14 @@ export type CampoNumerico =
   | 'abdomen'
   | 'coxa'
   | 'braco'
+  | 'bracoEsquerdo'
+  | 'bracoDireito'
+  | 'ombro'
+  | 'torax'
+  | 'coxaProximal'
+  | 'panturrilha'
+  | 'antebraco'
+  | 'punho'
   | 'gordura'
 
 export type DadosCalculadora = Record<CampoNumerico, string> & {

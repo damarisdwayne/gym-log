@@ -22,6 +22,14 @@ export const DADOS_INICIAIS: DadosCalculadora = {
   abdomen: '',
   coxa: '',
   braco: '',
+  bracoEsquerdo: '',
+  bracoDireito: '',
+  ombro: '',
+  torax: '',
+  coxaProximal: '',
+  panturrilha: '',
+  antebraco: '',
+  punho: '',
   gordura: '',
 }
 
@@ -78,14 +86,18 @@ export const MEDIDAS: Record<Sexo, Medida[]> = {
   ],
 }
 
+const MEDIDAS_PROTOCOLO: Medida[] = [
+  { campo: 'bracoEsquerdo', label: 'Braço esq. relaxado' },
+  { campo: 'bracoDireito', label: 'Braço dir. relaxado' },
+  { campo: 'ombro', label: 'Ombro' },
+  { campo: 'torax', label: 'Tórax' },
+  { campo: 'coxaProximal', label: 'Coxa proximal esq.' },
+  { campo: 'panturrilha', label: 'Panturrilha relaxada' },
+  { campo: 'antebraco', label: 'Antebraço' },
+  { campo: 'punho', label: 'Punho' },
+]
+
 export const MEDIDAS_EXTRAS: Record<Sexo, Medida[]> = {
-  feminino: [
-    { campo: 'abdomen', label: 'Abdômen' },
-    { campo: 'coxa', label: 'Coxa' },
-    { campo: 'braco', label: 'Braço' },
-  ],
-  masculino: [
-    { campo: 'coxa', label: 'Coxa' },
-    { campo: 'braco', label: 'Braço' },
-  ],
+  feminino: [{ campo: 'abdomen', label: 'Abdômen' }, ...MEDIDAS_PROTOCOLO],
+  masculino: MEDIDAS_PROTOCOLO,
 }

@@ -7,6 +7,14 @@ export type CampoMedicao =
   | 'abdomen'
   | 'coxa'
   | 'braco'
+  | 'bracoEsquerdo'
+  | 'bracoDireito'
+  | 'ombro'
+  | 'torax'
+  | 'coxaProximal'
+  | 'panturrilha'
+  | 'antebraco'
+  | 'punho'
 
 export type Medicao = {
   data: string

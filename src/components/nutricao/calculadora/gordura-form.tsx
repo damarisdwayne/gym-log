@@ -74,8 +74,8 @@ export const GorduraForm = ({
         <div className="flex flex-col gap-0.5">
           <span className="text-sm font-medium">Medidas extras</span>
           <span className="text-xs text-muted-foreground">
-            Só pra acompanhar — não entram no cálculo. Coxa no meio da coxa e
-            braço relaxado, sempre do mesmo lado.
+            Protocolo da nutri, só pra acompanhar — não entram no cálculo.
+            Antebraço e punho do lado não dominante.
           </span>
         </div>
         <div className="grid grid-cols-2 gap-3">
