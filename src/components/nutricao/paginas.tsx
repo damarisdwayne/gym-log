@@ -2,7 +2,7 @@ import { lazy, Suspense, type ReactNode } from 'react'
 import { CaloriasForm } from './calculadora'
 import { ComposicaoPagina } from './composicao-pagina'
 import { GorduraPagina } from './gordura-pagina'
-import { PLANO, PlanoAlimentar } from './plano'
+import { DIETA_PADRAO, PlanoAlimentar } from './plano'
 import { EBOOKS, RECEITAS, Receitas } from './receitas'
 import { RECEITAS_SABOROSAS, ReceitasSaborosas } from './saborosas'
 
@@ -38,7 +38,7 @@ export const PAGINAS: DefinicaoPagina[] = [
     id: 'plano',
     emoji: '🍽️',
     titulo: 'Meu plano alimentar',
-    descricao: `Refeições e trocas · ${PLANO.calorias} kcal`,
+    descricao: `Refeições e trocas por dia · ${DIETA_PADRAO.calorias} kcal em Seg–Sex`,
     render: () => <PlanoAlimentar />,
   },
   {

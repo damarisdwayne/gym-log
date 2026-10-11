@@ -1,6 +1,6 @@
 import { Segmented } from '@/components/ui/segmented'
 import { MacroStats } from '../macro-stats'
-import { PLANO } from '../plano'
+import { DIETA_PADRAO } from '../plano'
 import { ATIVIDADES, OBJETIVOS, SEXOS } from './constants'
 import { calcularCalorias } from './formulas'
 import { NumberField } from './number-field'
@@ -57,8 +57,10 @@ export const CaloriasForm = () => {
             {' · '}gasto total {formatar(resultado.gastoTotal, 0)} kcal
           </p>
           <p className="text-xs text-muted-foreground">
-            Plano da nutri: {PLANO.calorias} kcal · P {PLANO.macros.proteinas}g ·
-            C {PLANO.macros.carboidratos}g · G {PLANO.macros.lipideos}g
+            Plano da nutri ({DIETA_PADRAO.titulo}): {DIETA_PADRAO.calorias} kcal · P{' '}
+            {Math.round(DIETA_PADRAO.macros.proteinas)}g · C{' '}
+            {Math.round(DIETA_PADRAO.macros.carboidratos)}g · G{' '}
+            {Math.round(DIETA_PADRAO.macros.lipideos)}g
           </p>
         </div>
       ) : (

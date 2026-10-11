@@ -3,16 +3,26 @@ import { PLANO } from './plano'
 import { EBOOKS } from './receitas'
 import { EBOOK_RS7 } from './rs7/constants'
 
-const { proteinas, carboidratos, lipideos } = PLANO.macros
+const PLANOS_ALIMENTARES: Ficha[] = PLANO.dietas.map(
+  ({ id, titulo, calorias, macros, tamanho, arquivo }) => ({
+    id: `nutricao-plano-alimentar-${id}`,
+    titulo: `Plano alimentar · ${titulo}`,
+    descricao: `${PLANO.prescritoEm} · ${calorias} kcal · P ${Math.round(macros.proteinas)}g · C ${Math.round(macros.carboidratos)}g · L ${Math.round(macros.lipideos)}g`,
+    tipo: 'cardapio',
+    tamanho,
+    arquivo,
+  }),
+)
 
 export const ARQUIVOS: Ficha[] = [
+  ...PLANOS_ALIMENTARES,
   {
-    id: 'nutricao-plano-alimentar',
-    titulo: 'Plano alimentar',
-    descricao: `${PLANO.prescritoEm} · ${PLANO.calorias} kcal · P ${proteinas}g · C ${carboidratos}g · L ${lipideos}g`,
+    id: 'nutricao-plano-alimentar-anterior',
+    titulo: 'Plano alimentar anterior',
+    descricao: '02/06/2026 · 1579 kcal · P 114g · C 170g · L 52g',
     tipo: 'cardapio',
     tamanho: '61 KB',
-    arquivo: PLANO.arquivo,
+    arquivo: '/fichas/nutricao/plano-alimentar-2026-06.pdf',
   },
   {
     id: 'nutricao-evolucao-corporal',

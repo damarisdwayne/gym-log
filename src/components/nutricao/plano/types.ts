@@ -18,6 +18,8 @@ export type Opcao = {
   id: string
   titulo: string
   alimentos: Alimento[]
+  calorias?: number
+  macros?: Macros
 }
 
 export type Bloco = {
@@ -28,7 +30,7 @@ export type Bloco = {
 
 export type Refeicao = {
   id: string
-  horario: string
+  horario?: string
   nome: string
   atalho: string
   emoji: string
@@ -36,12 +38,20 @@ export type Refeicao = {
   blocos?: Bloco[]
 }
 
-export type Plano = {
-  prescritoEm: string
-  nutricionista: string
-  foco: string
+export type Dieta = {
+  id: string
+  titulo: string
+  dias: number[]
   calorias: number
   macros: Macros
   arquivo: string
+  tamanho: string
   refeicoes: Refeicao[]
+}
+
+export type Plano = {
+  prescritoEm: string
+  nutricionista: string
+  orientacoes: string[]
+  dietas: Dieta[]
 }
