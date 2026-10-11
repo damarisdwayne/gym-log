@@ -1,3 +1,4 @@
+import { arrayMove } from '@dnd-kit/sortable'
 import { useStoredState } from '@/hooks/use-stored-state'
 import type { ExercicioTreino, Treino } from './types'
 
@@ -31,5 +32,12 @@ export const useMeuTreino = () => {
         ...treino,
         exercicios: treino.exercicios.filter((exercicio) => exercicio.id !== id),
       })),
+    moverExercicio: (treinoId: string, deId: string, paraId: string) =>
+      alterarTreino(treinoId, (treino) => {
+        const de = treino.exercicios.findIndex((exercicio) => exercicio.id === deId)
+        const para = treino.exercicios.findIndex((exercicio) => exercicio.id === paraId)
+        if (de < 0 || para < 0) return treino
+        return { ...treino, exercicios: arrayMove(treino.exercicios, de, para) }
+      }),
   }
 }

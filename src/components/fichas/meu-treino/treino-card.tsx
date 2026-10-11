@@ -2,7 +2,7 @@ import { Pencil, Plus } from 'lucide-react'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Collapsible } from '@/components/ui/collapsible'
-import { ExercicioItem } from './exercicio-item'
+import { ListaExercicios } from './lista-exercicios'
 import type { ExercicioTreino, Treino } from './types'
 import { letraTreino } from './utils'
 
@@ -11,25 +11,27 @@ type TreinoCardProps = {
   treino: Treino
   onEditar: () => void
   onExercicio: (exercicio?: ExercicioTreino) => void
+  onMoverExercicio: (deId: string, paraId: string) => void
 }
 
-export const TreinoCard = ({ indice, treino, onEditar, onExercicio }: TreinoCardProps) => (
+export const TreinoCard = ({
+  indice,
+  treino,
+  onEditar,
+  onExercicio,
+  onMoverExercicio,
+}: TreinoCardProps) => (
   <Collapsible
     title={`${letraTreino(indice)} · ${treino.nome}`}
     meta={<Badge>{treino.exercicios.length} exercícios</Badge>}
   >
     <div className="flex flex-col gap-3">
       {treino.exercicios.length > 0 && (
-        <ol className="flex flex-col divide-y divide-border/60">
-          {treino.exercicios.map((exercicio, posicao) => (
-            <ExercicioItem
-              key={exercicio.id}
-              posicao={posicao + 1}
-              exercicio={exercicio}
-              onEditar={onExercicio}
-            />
-          ))}
-        </ol>
+        <ListaExercicios
+          exercicios={treino.exercicios}
+          onEditar={onExercicio}
+          onMover={onMoverExercicio}
+        />
       )}
       <div className="flex gap-2">
         <Button variant="outline" size="sm" className="flex-1" onClick={() => onExercicio()}>

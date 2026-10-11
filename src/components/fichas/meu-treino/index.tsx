@@ -47,6 +47,7 @@ export const MeuTreino = ({ exerciseNames }: MeuTreinoProps) => {
             treino={treino}
             onEditar={() => setEdicaoTreino({ treino })}
             onExercicio={(exercicio) => setEdicaoExercicio({ treinoId: treino.id, exercicio })}
+            onMoverExercicio={(deId, paraId) => meuTreino.moverExercicio(treino.id, deId, paraId)}
           />
         ))
       ) : (
