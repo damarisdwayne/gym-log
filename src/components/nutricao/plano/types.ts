@@ -17,6 +17,7 @@ export type Alimento = Porcao & {
 export type Opcao = {
   id: string
   titulo: string
+  nome?: string
   alimentos: Alimento[]
   calorias?: number
   macros?: Macros

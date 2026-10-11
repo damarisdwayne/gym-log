@@ -42,9 +42,16 @@ const CASTANHA: Alimento = {
 const CASTANHA_CALORIAS = 73
 const CASTANHA_MACROS = macros(2.3, 3.8, 5.5)
 
-const lanche = (numero: number, calorias: number, valores: Macros, alimentos: Alimento[]): Opcao => ({
+const lanche = (
+  numero: number,
+  nome: string,
+  calorias: number,
+  valores: Macros,
+  alimentos: Alimento[],
+): Opcao => ({
   id: `lanche-${numero}`,
   titulo: `Opção ${numero}`,
+  nome,
   calorias: calorias + CASTANHA_CALORIAS,
   macros: macros(
     valores.proteinas + CASTANHA_MACROS.proteinas,
@@ -60,7 +67,7 @@ const LANCHE_DA_TARDE: Refeicao = {
   atalho: 'Lanche',
   emoji: '🥪',
   opcoes: [
-    lanche(1, 266, macros(15.6, 19.9, 14.3), [
+    lanche(1, 'Toast de ovos', 266, macros(15.6, 19.9, 14.3), [
       porcao('Pão de forma integral', '1 fatia', '25 g'),
       porcao('Ovo de galinha cozido', '1 unidade média', '50 g'),
       TOMATE,
@@ -68,13 +75,13 @@ const LANCHE_DA_TARDE: Refeicao = {
       REQUEIJAO,
       MUCARELA,
     ]),
-    lanche(2, 278, macros(21.4, 22.9, 11.1), [
+    lanche(2, 'Crepioca recheada com frango', 278, macros(21.4, 22.9, 11.1), [
       porcao('Goma de tapioca', '30 g'),
       porcao('Frango desfiado', '2 colheres de sopa cheias', '40 g'),
       OVO,
       REQUEIJAO,
     ]),
-    lanche(3, 341, macros(34.6, 23, 12.6), [
+    lanche(3, 'Torta cremosa de frango', 341, macros(34.6, 23, 12.6), [
       porcao('Frango desfiado', '4 colheres de sopa cheias', '80 g'),
       OVO,
       REQUEIJAO,
@@ -83,7 +90,7 @@ const LANCHE_DA_TARDE: Refeicao = {
       TOMATE,
       porcao('Milho verde', '1 colher de sopa cheia', '24 g'),
     ]),
-    lanche(4, 291, macros(21.5, 21.1, 13.3), [
+    lanche(4, 'Pizza de Rap 10 com frango', 291, macros(21.5, 21.1, 13.3), [
       porcao('Rap 10 tradicional', '1 unidade', '40 g'),
       porcao('Frango desfiado', '2 colheres de sopa cheias', '40 g'),
       MUCARELA,

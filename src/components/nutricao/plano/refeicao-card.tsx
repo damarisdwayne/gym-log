@@ -54,6 +54,8 @@ export const RefeicaoCard = ({ refeicao }: { refeicao: Refeicao }) => {
           />
         )}
 
+        {opcao.nome && <p className="text-sm font-semibold">{opcao.nome}</p>}
+
         <MacrosOpcao opcao={opcao} />
 
         <ul className="flex flex-col divide-y divide-border/60">
