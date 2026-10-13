@@ -1,6 +1,7 @@
 import { useCallback, useMemo, useState } from 'react'
 import { SearchField } from '@/components/ui/search-field'
-import { favoritasPrimeiro, normalizar, Resultados, useFavoritas } from '../shared/receita'
+import { normalizar } from '@/lib/utils'
+import { favoritasPrimeiro, Resultados, useFavoritas } from '../shared/receita'
 import { RECEITAS_SABOROSAS } from './data'
 import { ReceitaSaborosaCard } from './receita-saborosa-card'
 import { ReceitaSaborosaDetalhe } from './receita-saborosa-detalhe'

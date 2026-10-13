@@ -8,6 +8,7 @@ import { TreinoCard } from './treino-card'
 import { TreinoForm } from './treino-form'
 import type { ExercicioTreino, Treino } from './types'
 import { useMeuTreino } from './use-meu-treino'
+import { VolumeSemanal } from './volume'
 
 type EdicaoTreino = { treino?: Treino }
 
@@ -38,6 +39,8 @@ export const MeuTreino = ({ exerciseNames }: MeuTreinoProps) => {
           </Button>
         )}
       </div>
+
+      <VolumeSemanal treinos={meuTreino.treinos} />
 
       {meuTreino.treinos.length ? (
         meuTreino.treinos.map((treino, indice) => (

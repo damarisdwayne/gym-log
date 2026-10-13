@@ -1,4 +1,5 @@
-import { normalizar, ORDENACAO, type Ordem } from '../shared/receita'
+import { normalizar } from '@/lib/utils'
+import { ORDENACAO, type Ordem } from '../shared/receita'
 import { nivelDe } from './constants'
 import type { NivelId, ReceitaRS7, RefeicaoId, TagRS7 } from './types'
 

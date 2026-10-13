@@ -23,7 +23,14 @@ export const TreinoCard = ({
 }: TreinoCardProps) => (
   <Collapsible
     title={`${letraTreino(indice)} · ${treino.nome}`}
-    meta={<Badge>{treino.exercicios.length} exercícios</Badge>}
+    meta={
+      <>
+        {(treino.vezesPorSemana ?? 1) > 1 && (
+          <Badge variant="primary">{treino.vezesPorSemana}×/sem</Badge>
+        )}
+        <Badge>{treino.exercicios.length} exercícios</Badge>
+      </>
+    }
   >
     <div className="flex flex-col gap-3">
       {treino.exercicios.length > 0 && (

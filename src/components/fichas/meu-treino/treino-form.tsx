@@ -12,9 +12,12 @@ type TreinoFormProps = {
 
 export const TreinoForm = ({ treino, onSalvar, onRemover }: TreinoFormProps) => {
   const [nome, setNome] = useState(treino?.nome ?? '')
+  const [vezes, setVezes] = useState(String(treino?.vezesPorSemana ?? 1))
+
+  const vezesPorSemana = Number.parseInt(vezes, 10)
 
   const salvar = () =>
-    onSalvar({ id: createId(), exercicios: [], ...treino, nome: nome.trim() })
+    onSalvar({ id: createId(), exercicios: [], ...treino, nome: nome.trim(), vezesPorSemana })
 
   const remover = () => {
     if (!treino) return
@@ -32,9 +35,17 @@ export const TreinoForm = ({ treino, onSalvar, onRemover }: TreinoFormProps) => 
         onChange={setNome}
         autoFocus
       />
+      <Campo
+        id="treino-vezes"
+        label="Vezes por semana"
+        inputMode="numeric"
+        className="tabular-nums"
+        value={vezes}
+        onChange={(valor) => setVezes(valor.replace(/\D/g, ''))}
+      />
       <AcoesForm
         rotulo={treino ? 'Salvar treino' : 'Criar treino'}
-        podeSalvar={Boolean(nome.trim())}
+        podeSalvar={Boolean(nome.trim()) && vezesPorSemana > 0}
         onSalvar={salvar}
         onRemover={treino && remover}
       />

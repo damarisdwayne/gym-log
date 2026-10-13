@@ -3,6 +3,9 @@ import { NameField } from '@/components/exercise-form/name-field'
 import { createId } from '@/lib/utils'
 import { AcoesForm } from './acoes-form'
 import { Campo } from './campo'
+import type { Musculo, Musculos } from './musculos'
+import { MusculosField } from './musculos-field'
+import { musculosDe, sugerirMusculos } from './sugestoes'
 import type { ExercicioTreino } from './types'
 import { opcional } from './utils'
 
@@ -26,6 +29,13 @@ export const ExercicioForm = ({
   const [reps, setReps] = useState(exercicio?.reps ?? '')
   const [descanso, setDescanso] = useState(exercicio?.descanso ?? '')
   const [obs, setObs] = useState(exercicio?.obs ?? '')
+  const [escolhidos, setEscolhidos] = useState<Musculos | undefined>(
+    exercicio && musculosDe(exercicio),
+  )
+  const { foco, auxiliares } = escolhidos ?? sugerirMusculos(nome)
+
+  const alterarMusculos = (campo: keyof Musculos) => (lista: Musculo[]) =>
+    setEscolhidos({ foco, auxiliares, [campo]: lista })
 
   const numeroSeries = Number.parseInt(series, 10)
   const podeSalvar = Boolean(nome.trim()) && numeroSeries > 0
@@ -38,6 +48,8 @@ export const ExercicioForm = ({
       reps: opcional(reps),
       descanso: opcional(descanso),
       obs: opcional(obs),
+      foco,
+      auxiliares,
     })
 
   return (
@@ -62,6 +74,14 @@ export const ExercicioForm = ({
           onChange={setDescanso}
         />
       </div>
+
+      <MusculosField label="Foco" selecionados={foco} bloqueados={auxiliares} onChange={alterarMusculos('foco')} />
+      <MusculosField
+        label="Também trabalha"
+        selecionados={auxiliares}
+        bloqueados={foco}
+        onChange={alterarMusculos('auxiliares')}
+      />
 
       <Campo
         id="exercicio-obs"

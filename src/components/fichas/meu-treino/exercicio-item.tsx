@@ -3,7 +3,7 @@ import { CSS } from '@dnd-kit/utilities'
 import { ChevronRight, GripVertical } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import type { ExercicioTreino } from './types'
-import { resumoExercicio } from './utils'
+import { resumoExercicio, resumoMusculos } from './utils'
 
 type ExercicioItemProps = {
   posicao: number
@@ -47,6 +47,9 @@ export const ExercicioItem = ({ posicao, exercicio, onEditar }: ExercicioItemPro
           <span className="text-xs tabular-nums text-muted-foreground">
             {resumoExercicio(exercicio)}
           </span>
+          {resumoMusculos(exercicio) && (
+            <span className="text-xs text-primary">{resumoMusculos(exercicio)}</span>
+          )}
           {exercicio.obs && <span className="text-xs italic text-accent">{exercicio.obs}</span>}
         </span>
         <ChevronRight className="ml-auto size-4 shrink-0 text-muted-foreground" />

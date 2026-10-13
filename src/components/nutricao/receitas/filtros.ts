@@ -1,4 +1,5 @@
-import { normalizar, ORDENACAO, type Ordem } from '../shared/receita'
+import { normalizar } from '@/lib/utils'
+import { ORDENACAO, type Ordem } from '../shared/receita'
 import { ORIGENS, PREPAROS, SECOES } from './constants'
 import type { OrigemId, Preparo, Receita, Tipo } from './types'
 
