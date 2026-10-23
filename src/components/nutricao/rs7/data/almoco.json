@@ -2751,5 +2751,58 @@
    "Desenforme o cuscuz no prato, cubra com a carne seca desfiada (aqueça por 30 segundos no micro-ondas se necessário), os ovos fritos, tomate picado e coentro."
   ],
   "dica": "A carne seca traz sabor intenso e salgado ao cuscuz. Dessalgue previamente em várias trocas de água e evite adicionar sal extra. O cuscuz deixa a refeição mais completa e macia. /à Embutidos contêm sódio e conservantes elevados. Prefira consumo ocasional e em pequenas porções."
+ },
+ {
+  "id": "ovos-parmegiana-arroz",
+  "nome": "Ovos à Parmegiana com Arroz",
+  "descricao": "Ovos cozidos no molho de tomate com queijo gratinado, servidos com arroz e brócolis",
+  "refeicao": "almoco",
+  "link": "https://www.instagram.com/p/C0ALx8ZuWFN/",
+  "autor": "@ceciliamaiac",
+  "macros": {
+   "calorias": 349,
+   "proteinas": 17,
+   "carboidratos": 37,
+   "lipideos": 15
+  },
+  "minutos": 15,
+  "porcoes": 1,
+  "dificuldade": "Fácil",
+  "tags": [
+   "vegetariana"
+  ],
+  "ingredientes": [
+   {
+    "nome": "Ovos",
+    "qtd": "2 unidades"
+   },
+   {
+    "nome": "Molho de tomate caseiro temperado",
+    "qtd": "150 ml"
+   },
+   {
+    "nome": "Queijo ralado",
+    "qtd": "10 g"
+   },
+   {
+    "nome": "Orégano, sal e cebolinha picada",
+    "qtd": "a gosto"
+   },
+   {
+    "nome": "Arroz cozido",
+    "qtd": "70 g"
+   },
+   {
+    "nome": "Brócolis cozido",
+    "qtd": "80 g"
+   }
+  ],
+  "passos": [
+   "Aqueça o molho numa frigideira e quebre os ovos por cima. Tempere os ovos com um pouco de sal.",
+   "Tampe e cozinhe até as claras firmarem.",
+   "Cubra com o queijo ralado, o orégano e a cebolinha e tampe até o queijo derreter.",
+   "Sirva com o arroz e o brócolis."
+  ],
+  "dica": "Versão para ganho de massa: 3 ovos, 15 g de queijo, 150 g de arroz e 120 g de brócolis (551 kcal). Calorias, proteína e carbo são do post, para a versão de perda de gordura; a gordura foi estimada."
  }
 ]

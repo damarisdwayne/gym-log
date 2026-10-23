@@ -19,12 +19,15 @@ export type IngredienteRS7 = {
   qtd: string
 }
 
-export type ReceitaRS7 = {
+type OrigemRS7 =
+  | { pagina: number; link?: undefined; autor?: undefined }
+  | { pagina?: undefined; link: string; autor: string }
+
+export type ReceitaRS7 = OrigemRS7 & {
   id: string
   nome: string
   descricao: string
   refeicao: RefeicaoId
-  pagina: number
   macros: MacrosReceita
   minutos: number
   porcoes: number

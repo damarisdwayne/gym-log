@@ -5,6 +5,7 @@ import {
   AcoesReceita,
   Dica,
   LinkEbook,
+  LinkOriginal,
   ListaIngredientes,
   ListaPassos,
   SecaoDetalhe,
@@ -20,6 +21,17 @@ const paraCompartilhar = (receita: ReceitaRS7): ReceitaCompartilhavel => ({
   porcao: receita.porcoes > 1 ? 'Valores por porção' : undefined,
   ingredientes: [{ itens: receita.ingredientes.map(({ nome, qtd }) => `${nome} — ${qtd}`) }],
 })
+
+const FonteRS7 = ({ receita }: { receita: ReceitaRS7 }) => {
+  if (receita.pagina === undefined)
+    return <LinkOriginal link={receita.link} autor={receita.autor} />
+
+  return (
+    <LinkEbook arquivo={EBOOK_RS7.arquivo} pagina={receita.pagina}>
+      {EBOOK_RS7.titulo} ({EBOOK_RS7.autor}) · pág. {receita.pagina}
+    </LinkEbook>
+  )
+}
 
 const ConteudoRS7 = ({ receita }: { receita: ReceitaRS7 }) => {
   const refeicao = REFEICOES.find((item) => item.id === receita.refeicao)
@@ -71,9 +83,7 @@ const ConteudoRS7 = ({ receita }: { receita: ReceitaRS7 }) => {
 
       {receita.dica && <Dica>{receita.dica}</Dica>}
 
-      <LinkEbook arquivo={EBOOK_RS7.arquivo} pagina={receita.pagina}>
-        {EBOOK_RS7.titulo} ({EBOOK_RS7.autor}) · pág. {receita.pagina}
-      </LinkEbook>
+      <FonteRS7 receita={receita} />
     </div>
   )
 }
