@@ -1,5 +1,6 @@
 import { arrayMove } from '@dnd-kit/sortable'
 import { useStoredState } from '@/hooks/use-stored-state'
+import { createId } from '@/lib/utils'
 import type { ExercicioTreino, Treino } from './types'
 
 const STORAGE_KEY = 'gym-log:meu-treino:v1'
@@ -11,6 +12,12 @@ const salvarNaLista = <T extends { id: string }>(lista: T[], item: T) =>
     ? lista.map((atual) => (atual.id === item.id ? item : atual))
     : [...lista, item]
 
+const copiarTreino = (treino: Treino): Treino => ({
+  ...treino,
+  id: createId(),
+  exercicios: treino.exercicios.map((exercicio) => ({ ...exercicio, id: createId() })),
+})
+
 export const useMeuTreino = () => {
   const [{ treinos }, atualizar] = useStoredState(STORAGE_KEY, INICIAL)
 
@@ -20,6 +27,8 @@ export const useMeuTreino = () => {
   return {
     treinos,
     salvarTreino: (treino: Treino) => atualizar({ treinos: salvarNaLista(treinos, treino) }),
+    importarTreinos: (novos: Treino[]) =>
+      atualizar({ treinos: [...treinos, ...novos.map(copiarTreino)] }),
     removerTreino: (id: string) =>
       atualizar({ treinos: treinos.filter((treino) => treino.id !== id) }),
     salvarExercicio: (treinoId: string, exercicio: ExercicioTreino) =>
@@ -41,3 +50,5 @@ export const useMeuTreino = () => {
       }),
   }
 }
+
+export type MeuTreinoEstado = ReturnType<typeof useMeuTreino>

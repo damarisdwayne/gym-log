@@ -7,19 +7,25 @@ import { ExercicioForm } from './exercicio-form'
 import { TreinoCard } from './treino-card'
 import { TreinoForm } from './treino-form'
 import type { ExercicioTreino, Treino } from './types'
-import { useMeuTreino } from './use-meu-treino'
+import type { MeuTreinoEstado } from './use-meu-treino'
 import { VolumeSemanal } from './volume'
 
 type EdicaoTreino = { treino?: Treino }
 
 type EdicaoExercicio = { treinoId: string; exercicio?: ExercicioTreino }
 
+export { ExercicioResumo } from './exercicio-resumo'
+export type { ExercicioTreino, Treino } from './types'
+export { useMeuTreino } from './use-meu-treino'
+export { letraTreino } from './utils'
+export { VolumeSemanal } from './volume'
+
 type MeuTreinoProps = {
+  meuTreino: MeuTreinoEstado
   exerciseNames: string[]
 }
 
-export const MeuTreino = ({ exerciseNames }: MeuTreinoProps) => {
-  const meuTreino = useMeuTreino()
+export const MeuTreino = ({ meuTreino, exerciseNames }: MeuTreinoProps) => {
   const [edicaoTreino, setEdicaoTreino] = useState<EdicaoTreino>()
   const [edicaoExercicio, setEdicaoExercicio] = useState<EdicaoExercicio>()
 
