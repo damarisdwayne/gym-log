@@ -1,8 +1,11 @@
 import { musculosDe } from './sugestoes'
 import { resumoTecnica } from './tecnica'
-import type { ExercicioTreino } from './types'
+import type { ExercicioTreino, Treino } from './types'
 
-export const letraTreino = (indice: number) => String.fromCharCode(65 + indice)
+export const rotuloTreino = (treino: Treino, indice: number) =>
+  treino.rotulo ?? String.fromCharCode(65 + indice)
+
+export const formatarVezes = (vezes: number) => vezes.toLocaleString('pt-BR')
 
 export const resumoExercicio = ({ series, reps, descanso, tecnica }: ExercicioTreino) =>
   [

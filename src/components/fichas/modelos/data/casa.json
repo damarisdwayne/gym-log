@@ -1,0 +1,722 @@
+[
+ {
+  "id": "natflix-casa",
+  "origem": "natflix",
+  "grupo": "casa",
+  "titulo": "Treino em casa",
+  "arquivo": "/fichas/casa/geral/divisao-treinos.pdf",
+  "treinos": [
+   {
+    "rotulo": "A",
+    "nome": "Inferiores com foco em quadríceps",
+    "exercicios": [
+     {
+      "nome": "Agachamento com insistência",
+      "series": 3,
+      "reps": "12",
+      "descanso": "1 a 1:10 min",
+      "obs": "Bloco 1 (3 séries): bombeia 2 em cada repetição. Em sequência com retrocesso alternado com step e afundo + meio agachamento, depois descansa.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Retrocesso alternado com step na frente",
+      "series": 3,
+      "reps": "10/10 / 8/8 / 6/6",
+      "descanso": "1 a 1:10 min",
+      "obs": "Bloco 1: feito logo após o agachamento com insistência, sem descanso.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Afundo + meio agachamento",
+      "series": 3,
+      "reps": "10",
+      "descanso": "1 a 1:10 min",
+      "obs": "Bloco 1: 10x afundo/afundo + 2 repetições de meio agachamento, sem peso, fechando a sequência do bloco.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Agachamento completo com isometria",
+      "series": 1,
+      "reps": "10 + 10 s / 8 + 8 s / 6 + 6 s",
+      "obs": "Só na 3ª série do bloco 1, sem peso: cada bloco de repetições seguido de isometria pelo mesmo número de segundos.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Agachamento insistido com salto",
+      "series": 1,
+      "reps": "15",
+      "descanso": "2 min",
+      "obs": "Só na 3ª série do bloco 1, sem peso, fechando a sequência. Descanse 2 min antes do bloco 2."
+     },
+     {
+      "nome": "Afundo base parada com step na frente",
+      "series": 3,
+      "reps": "12",
+      "descanso": "1 min",
+      "obs": "Bloco 2 (3 séries), com barra nas costas: faz a sequência afundo + avanço no step + lado e atrás no step com o lado direito e depois com o esquerdo, então descansa.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Avanço em cima do step com halteres",
+      "series": 3,
+      "reps": "12",
+      "descanso": "1 min",
+      "obs": "Bloco 2: em sequência com o afundo base parada, cada lado.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Lado + atrás no step",
+      "series": 3,
+      "reps": "10 / 12 / 15",
+      "descanso": "1 min",
+      "obs": "Bloco 2: sem peso, fechando a sequência de cada lado. Após a 3ª série, descanse 2 min antes do bloco 3."
+     },
+     {
+      "nome": "Goblet squat",
+      "series": 3,
+      "reps": "15 / 12 / 10",
+      "descanso": "40 s a 1 min",
+      "obs": "Bloco 3 (3 séries): descida em 4 segundos, em sequência com o salto no step.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Salto no step com insistência progressivo",
+      "series": 3,
+      "reps": "10",
+      "descanso": "40 s a 1 min",
+      "obs": "Bloco 3: logo após o goblet squat; cada repetição aumenta uma bombeada, até 10 bombeadas."
+     }
+    ]
+   },
+   {
+    "rotulo": "B1",
+    "nome": "Ombro, peito, tríceps + cardio e abdômen",
+    "exercicios": [
+     {
+      "nome": "Elevação frontal alternada com halteres",
+      "series": 3,
+      "reps": "20",
+      "descanso": "45 s",
+      "obs": "Bloco 1 (3 séries): sequência elevação frontal + desenvolvimento aberto + desenvolvimento fechado + tríceps mergulho/burpees, depois descansa.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Desenvolvimento aberto com halteres",
+      "series": 3,
+      "reps": "12",
+      "descanso": "45 s",
+      "obs": "Bloco 1: em sequência, sem descanso.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Desenvolvimento fechado com halteres",
+      "series": 3,
+      "reps": "20",
+      "descanso": "45 s",
+      "obs": "Bloco 1: movimento parcial, em sequência, sem descanso.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Tríceps mergulho no banco",
+      "series": 3,
+      "reps": "3 × 10",
+      "descanso": "45 s",
+      "obs": "Bloco 1: em cada série, 3x a sequência 10 tríceps mergulho + 8 burpees no chão, sem descanso."
+     },
+     {
+      "nome": "Elevação lateral sentada com halter",
+      "series": 3,
+      "reps": "12–15",
+      "descanso": "40 s",
+      "obs": "Bloco 2 (3 séries): depois reduz o peso e segue direto para a elevação lateral em pé, crucifixo inverso e a parte com peso corporal.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Elevação lateral em pé com halter",
+      "series": 3,
+      "reps": "8–10",
+      "descanso": "40 s",
+      "obs": "Bloco 2: com peso reduzido e pausa de 3 segundos em cada repetição.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Crucifixo inverso",
+      "series": 3,
+      "reps": "12",
+      "descanso": "40 s",
+      "obs": "Bloco 2: em sequência, sem descanso.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Flexão toca ombro no chão",
+      "series": 3,
+      "reps": "8 / 10 / 12",
+      "descanso": "40 s",
+      "obs": "Bloco 2, parte com peso corporal: flexão toca ombro + toca ombro + flexão no chão.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Toca ombro",
+      "series": 3,
+      "reps": "8/8 / 10/10 / 12/12",
+      "descanso": "40 s",
+      "obs": "Bloco 2, parte com peso corporal, em sequência.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Flexão no chão",
+      "series": 3,
+      "reps": "8 / 10 / 12",
+      "descanso": "40 s",
+      "obs": "Bloco 2: fecha a sequência. Após a 3ª série, descanse 1 min."
+     },
+     {
+      "nome": "Abdominal bike",
+      "series": 1,
+      "reps": "30",
+      "obs": "Cardio de transição antes do bloco 3: 50 polichinelos + 40 skipping + abdominal bike + russian twist + abdominal remador, depois descansa 2 min.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Abdominal russian twist com peso",
+      "series": 1,
+      "reps": "20",
+      "obs": "Cardio de transição antes do bloco 3, em sequência.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Abdominal remador",
+      "series": 1,
+      "reps": "10",
+      "descanso": "2 min",
+      "obs": "Cardio de transição antes do bloco 3, fecha a sequência.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Crucifixo com halteres",
+      "series": 3,
+      "reps": "6 × 2",
+      "descanso": "40 s",
+      "obs": "Bloco 3 (3 séries): 6x a combinação 2 crucifixos + 2 tríceps testa, depois supino alternado e tríceps francês.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Tríceps testa",
+      "series": 3,
+      "reps": "6 × 2",
+      "descanso": "40 s",
+      "obs": "Bloco 3: alternado com o crucifixo (2 crucifixos + 2 tríceps testa, 6x).",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Supino alternado com isometria com halter",
+      "series": 3,
+      "reps": "8/8",
+      "descanso": "40 s",
+      "obs": "Bloco 3: um braço sobe enquanto o outro segura em isometria em cima.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Tríceps francês com halteres",
+      "series": 3,
+      "reps": "12 / 15 / 20",
+      "descanso": "40 s",
+      "obs": "Bloco 3: fecha a sequência. Descanse 1 min após finalizar."
+     }
+    ]
+   },
+   {
+    "rotulo": "B2",
+    "nome": "Costas, bíceps + cardio e abdômen",
+    "exercicios": [
+     {
+      "nome": "Remada com barra pegada supinada",
+      "series": 3,
+      "reps": "12",
+      "obs": "Bloco 1 (3 passagens): remada supinada + remada neutra + bíceps alternado + cardio (sprawl, escalador), depois repete.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Remada com halteres pegada neutra",
+      "series": 3,
+      "reps": "6 + 6 + 6",
+      "obs": "Bloco 1: 6 repetições, descansa 10 s, 6 repetições, descansa 10 s, 6 repetições.",
+      "tecnica": {
+       "tipo": "rest-pause",
+       "extensoes": 2,
+       "series": 3
+      },
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Bíceps alternado com halteres",
+      "series": 3,
+      "reps": "20",
+      "obs": "Bloco 1: em sequência, antes do cardio do bloco."
+     },
+     {
+      "nome": "Remada pronada unilateral",
+      "series": 3,
+      "reps": "12 / 12 / 12 + 10",
+      "obs": "Bloco 2 (3 passagens): cada braço faz remada + crucifixo inverso unilateral, depois pullover. Na 3ª passagem, drop set: 12 repetições, reduz o peso e faz mais 10.",
+      "tecnica": {
+       "tipo": "drop-set",
+       "extensoes": 1,
+       "series": 1
+      },
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Crucifixo inverso unilateral",
+      "series": 3,
+      "reps": "12",
+      "obs": "Bloco 2: logo após a remada pronada, mesmo braço.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Pullover",
+      "series": 3,
+      "reps": "12–15",
+      "obs": "Bloco 2: fecha cada passagem, depois dos dois braços."
+     },
+     {
+      "nome": "Bíceps martelo unilateral",
+      "series": 3,
+      "reps": "15 / 12 / 10",
+      "obs": "Bloco 3 (3 passagens): cada lado faz martelo (+ snatch na 2ª e snatch + devil press na 3ª), depois bíceps com barra com os dois braços.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Bíceps com barra livre",
+      "series": 3,
+      "reps": "10",
+      "obs": "Bloco 3: fecha cada passagem, com os dois braços."
+     }
+    ]
+   },
+   {
+    "rotulo": "B3",
+    "nome": "Superior completo + abdômen e cardio",
+    "exercicios": [
+     {
+      "nome": "Remada alta",
+      "series": 3,
+      "reps": "10",
+      "descanso": "1 min",
+      "obs": "Bloco 1 (3 séries): 10 repetições totais alternando 1 remada alta + 1 elevação lateral, depois drop set de elevação lateral e crucifixo inverso + tríceps coice.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Elevação lateral",
+      "series": 3,
+      "reps": "10",
+      "descanso": "1 min",
+      "obs": "Bloco 1: alternada com a remada alta (1 + 1, 10 repetições totais).",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Elevação lateral em drop set",
+      "series": 3,
+      "reps": "8 + 8 + 8",
+      "descanso": "1 min",
+      "obs": "Bloco 1: carga alta, média e leve. Quem não pode mudar o peso faz isometria na 2ª parte e segue com o mesmo peso na 3ª.",
+      "tecnica": {
+       "tipo": "drop-set",
+       "extensoes": 2,
+       "series": 3
+      },
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Crucifixo inverso",
+      "series": 3,
+      "reps": "8",
+      "descanso": "1 min",
+      "obs": "Bloco 1: 8x a combinação 1 crucifixo inverso + 1 tríceps coice.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Tríceps coice com halteres",
+      "series": 3,
+      "reps": "8",
+      "descanso": "1 min",
+      "obs": "Bloco 1: alternado com o crucifixo inverso (1 + 1, 8x)."
+     },
+     {
+      "nome": "Remada inclinada pegada supinada com barra",
+      "series": 3,
+      "reps": "12",
+      "obs": "Bloco 2 (3 séries): descida em 2 segundos. Sequência com remada pronada, remada em prancha e bíceps alternado; após as 3 séries vem o cardio.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Remada inclinada pegada pronada com barra",
+      "series": 3,
+      "reps": "12",
+      "obs": "Bloco 2: em sequência, sem descanso.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Remada alternada em prancha no chão",
+      "series": 3,
+      "reps": "8/8",
+      "obs": "Bloco 2: em sequência, sem descanso.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Bíceps alternado com halter",
+      "series": 3,
+      "reps": "15/15",
+      "obs": "Bloco 2: fecha a sequência."
+     },
+     {
+      "nome": "Crucifixo em cima do step",
+      "series": 3,
+      "reps": "12",
+      "descanso": "1 min",
+      "obs": "Bloco 3 (3 séries): 12x a combinação crucifixo + supino fechado, depois tríceps testa e flexão + mountain climber.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Supino fechado em cima do step",
+      "series": 3,
+      "reps": "12",
+      "descanso": "1 min",
+      "obs": "Bloco 3: alternado com o crucifixo (1 + 1, 12x).",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Tríceps testa",
+      "series": 3,
+      "reps": "12",
+      "descanso": "1 min",
+      "obs": "Bloco 3: em sequência, sem descanso.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Flexão com pés apoiados no step",
+      "series": 3,
+      "reps": "12",
+      "descanso": "1 min",
+      "obs": "Bloco 3: 12x a combinação 1 flexão + 1 mountain climber cruzado, com os pés no step.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Mountain climber cruzado com pés no step",
+      "series": 3,
+      "reps": "12",
+      "descanso": "1 min",
+      "obs": "Bloco 3: alternado com a flexão (1 + 1, 12x)."
+     },
+     {
+      "nome": "Bíceps com barra pegada supinada",
+      "series": 3,
+      "reps": "15",
+      "descanso": "40 s",
+      "obs": "Bloco 4 (série regressiva, 3 passagens): bíceps supinado + bíceps pegada inversa + martelo alternado, descansa 40 s e repete.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Bíceps pegada inversa com barra",
+      "series": 3,
+      "reps": "10",
+      "descanso": "40 s",
+      "obs": "Bloco 4: em sequência, sem descanso.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Bíceps martelo alternado com halter",
+      "series": 3,
+      "reps": "15/15 / 20/20 / 30/30",
+      "descanso": "40 s",
+      "obs": "Bloco 4: fecha cada passagem. Descanse 1 min no final."
+     },
+     {
+      "nome": "Remada unilateral alternada curvada",
+      "series": 5,
+      "reps": "20/20 / 18/18 / 16/16 / 14/14 / 12/12",
+      "obs": "Cardio de finalização regressivo: remada + abdominal remador no banco + burpees (10, 8, 6, 4, 2), sem descanso."
+     },
+     {
+      "nome": "Abdominal remador no banco",
+      "series": 5,
+      "reps": "20 / 18 / 16 / 14 / 12",
+      "obs": "Cardio de finalização regressivo, em sequência com a remada e os burpees."
+     }
+    ]
+   },
+   {
+    "rotulo": "C",
+    "nome": "Glúteo e posterior",
+    "exercicios": [
+     {
+      "nome": "Elevação pélvica",
+      "series": 3,
+      "reps": "10 + 10 + 10 + 10",
+      "descanso": "40 s",
+      "obs": "Bloco 1 (3 séries), sequência direta: 10 com 3 s em cima + 10 do meio para cima + 10 de baixo para o meio + 10 completas.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Ponte de glúteo com band com pés no step",
+      "series": 1,
+      "reps": "15 + 12 + 10 + 8",
+      "obs": "Só na 3ª série do bloco 1: alternando com a ponte de glúteo com pés no chão (15/15, 12/12, 10/10, 8/8).",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Ponte de glúteo com pés no chão",
+      "series": 1,
+      "reps": "15 + 12 + 10 + 8",
+      "descanso": "2 min",
+      "obs": "Só na 3ª série do bloco 1, alternando com a ponte com pés no step. Descanse 2 min antes do bloco 2."
+     },
+     {
+      "nome": "Stiff com halteres",
+      "series": 3,
+      "reps": "12",
+      "obs": "Bloco 2 (1 série direta): desce em 2–3 s e sobe direto. Sequência stiff + good morning, posterior com caneleira perna direita, stiff + good morning, perna esquerda, stiff + good morning.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Good morning com barra nas costas",
+      "series": 3,
+      "reps": "15 / 10 / 15",
+      "obs": "Bloco 2: logo após cada stiff.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Posterior com caneleira",
+      "series": 1,
+      "reps": "20 + 15 + 10",
+      "obs": "Bloco 2, cada perna: 20 repetições + 20 s isometria, 15 + 15 s, 10 + 10 s, sem descanso."
+     },
+     {
+      "nome": "RDL com joelho apoiado no step",
+      "series": 1,
+      "reps": "15",
+      "obs": "Bloco 3 (1 série cada lado): abre a sequência do lado, seguido da sequência em 4 apoios e do recuo.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Caneleira 4 apoios perna estendida sobe e desce + flexiona joelho",
+      "series": 3,
+      "reps": "10 / 8 / 6",
+      "obs": "Bloco 3, cada lado: alternado com os chutes de perna flexionada (10 + 10, 8 + 8, 6 + 6).",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Chute com perna flexionada",
+      "series": 3,
+      "reps": "10 / 8 / 6",
+      "obs": "Bloco 3, cada lado: logo após a caneleira em 4 apoios, com caneleira.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Recuo com step no pé da frente",
+      "series": 1,
+      "reps": "15",
+      "obs": "Bloco 3: fecha a sequência de cada lado."
+     }
+    ]
+   },
+   {
+    "rotulo": "D",
+    "nome": "Inferior completo (quadríceps, posterior e glúteo)",
+    "exercicios": [
+     {
+      "nome": "Agachamento livre com calço",
+      "series": 4,
+      "reps": "10 / 12 / 15 / 15 + 12 + 10 + 8",
+      "descanso": "1 a 1:10 min",
+      "obs": "Bloco 1 (4 séries): calcanhar em cima da anilha, descendo em 2 s com pausa embaixo, em sequência com o avanço. 4ª série até a falha: 15, descansa 15 s, 12, 15 s, 10, 15 s, 8.",
+      "tecnica": {
+       "tipo": "rest-pause",
+       "extensoes": 3,
+       "series": 1
+      },
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Avanço alternado com barra nas costas",
+      "series": 4,
+      "reps": "20",
+      "descanso": "1 a 1:10 min",
+      "obs": "Bloco 1: logo após o agachamento com calço.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Avanço + retrocesso alternando com salto",
+      "series": 1,
+      "reps": "20",
+      "descanso": "2 min",
+      "obs": "Só na 4ª série do bloco 1, fechando a sequência (conta 1,1… 2,2… 3,3…). Descanse 2 min antes do bloco 2."
+     },
+     {
+      "nome": "Stiff unilateral com pé de trás no step",
+      "series": 3,
+      "reps": "12 / 10 / 8",
+      "descanso": "15–20 s",
+      "obs": "Bloco 2 (3 séries diretas com a mesma perna, depois troca): com barra ou halteres, descida em 3 s, em sequência com a elevação pélvica unilateral.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Elevação pélvica unilateral no banco com halter",
+      "series": 3,
+      "reps": "12 / 10 / 8 + 16",
+      "descanso": "15–20 s",
+      "obs": "Bloco 2: pés mais afastados, halter no quadril, logo após o stiff. Na última série, emenda 16 repetições sem peso.",
+      "tecnica": {
+       "tipo": "drop-set",
+       "extensoes": 1,
+       "series": 1
+      }
+     },
+     {
+      "nome": "Sumô no step",
+      "series": 3,
+      "reps": "12–15 / 12–15 / 12–15 + 15",
+      "obs": "Bloco 3: abre, intercala e fecha o bloco, com 2 s embaixo. Na última, emenda 15 repetições sem peso até a falha.",
+      "tecnica": {
+       "tipo": "drop-set",
+       "extensoes": 1,
+       "series": 1
+      },
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Chute com perna flexionada em 4 apoios",
+      "series": 2,
+      "reps": "20 + 10 s isometria + 10",
+      "obs": "Bloco 3: 2 séries de cada lado após o sumô; 20 chutes, 10 s de isometria em cima e mais 10 chutes."
+     }
+    ]
+   },
+   {
+    "rotulo": "E",
+    "nome": "Fullbody",
+    "exercicios": [
+     {
+      "nome": "Agachamento com halteres nos ombros",
+      "series": 3,
+      "reps": "10",
+      "obs": "Bloco 1 (3 séries): 10x a combinação 1 agachamento + 1 retrocesso alternado em cima do step (cada perna), depois afundo com joelho no alto de cada lado.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Retrocesso alternado em cima do step",
+      "series": 3,
+      "reps": "10/10",
+      "obs": "Bloco 1: alternado com o agachamento com halteres nos ombros.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Afundo levando o joelho no alto",
+      "series": 3,
+      "reps": "10 / 12 / 15",
+      "obs": "Bloco 1: movimento explosivo, lado direito e depois esquerdo. Após o bloco vem um cardio e 2 min de descanso."
+     },
+     {
+      "nome": "Around the world",
+      "series": 2,
+      "reps": "40 s",
+      "descanso": "20 s",
+      "obs": "Bloco 2 (2 séries, por tempo): 40 s around the world + elevação lateral, depois 30 s de deslocamento lateral tocando o chão.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Elevação lateral",
+      "series": 2,
+      "reps": "40 s",
+      "descanso": "20 s",
+      "obs": "Bloco 2: combinada com o around the world nos mesmos 40 s.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Desenvolvimento unilateral alternado",
+      "series": 2,
+      "reps": "20 s",
+      "descanso": "20 s",
+      "obs": "Bloco 2: 20 s alternado + 20 s bilateral, depois 30 s de abdominal infra com salto.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Desenvolvimento bilateral",
+      "series": 2,
+      "reps": "20 s",
+      "descanso": "20 s",
+      "obs": "Bloco 2: logo após o desenvolvimento alternado.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Abdominal infra indo para o salto (roll com salto)",
+      "series": 2,
+      "reps": "30 s",
+      "descanso": "20 s",
+      "obs": "Bloco 2: logo após os desenvolvimentos.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Supino aberto em elevação pélvica",
+      "series": 2,
+      "reps": "40 s",
+      "descanso": "20 s",
+      "obs": "Bloco 2: 40 s alternando supino aberto e fechado, depois 30 s de sprawl com snatch.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Supino fechado em elevação pélvica",
+      "series": 2,
+      "reps": "40 s",
+      "descanso": "20 s",
+      "obs": "Bloco 2: combinado com o supino aberto nos mesmos 40 s.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Tríceps testa",
+      "series": 2,
+      "reps": "40 s",
+      "descanso": "20 s",
+      "obs": "Bloco 2: 40 s alternando 2 tríceps testa + 2 flexões de tronco com peso, depois 30 s de snatch. Descanse 2 min antes do bloco 3.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Flexão de tronco com peso",
+      "series": 2,
+      "reps": "40 s",
+      "descanso": "20 s",
+      "obs": "Bloco 2: bombeando, alternada com o tríceps testa (2 + 2)."
+     },
+     {
+      "nome": "Deslocamento lateral com band",
+      "series": 2,
+      "reps": "45 s / 1 min",
+      "obs": "Bloco 3: abre a 1ª série (45 s) e fecha a 2ª série (1 min).",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Elevação pélvica com band",
+      "series": 2,
+      "reps": "15 + 12 + 10",
+      "obs": "Bloco 3 (2 séries): cada bloco de repetições seguido de isometria em cima (15 s, 12 s, 10 s), depois o stiff.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Stiff unilateral",
+      "series": 2,
+      "reps": "8/8",
+      "obs": "Bloco 3: 8x a combinação 1 stiff unilateral (uma perna) + 1 stiff unilateral (outra perna) + 1 stiff bilateral.",
+      "conjugadoComProximo": true
+     },
+     {
+      "nome": "Stiff bilateral",
+      "series": 2,
+      "reps": "8",
+      "descanso": "2 min",
+      "obs": "Bloco 3: alternado com o stiff unilateral."
+     }
+    ]
+   }
+  ]
+ }
+]

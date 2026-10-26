@@ -3,7 +3,16 @@ import { Collapsible } from '@/components/ui/collapsible'
 import { CURSOS } from './data'
 import { FichaItem } from './ficha-item'
 import { MeuTreino, useMeuTreino } from './meu-treino'
-import { TreinadorPk } from './treinador-pk'
+import {
+  ajusteDivisao,
+  DIVISAO_PADRAO,
+  DivisaoField,
+  opcoesDivisao,
+  paraAtivar,
+  TreinosProntos,
+  useModelos,
+  type Modelo,
+} from './modelos'
 import type { Ficha } from './types'
 
 export { FichaItem } from './ficha-item'
@@ -23,12 +32,45 @@ type FichasProps = {
 
 export const Fichas = ({ exerciseNames }: FichasProps) => {
   const meuTreino = useMeuTreino()
+  const modelos = useModelos()
+
+  const atual = meuTreino.atual
+  const modeloAtual = modelos?.find(({ id }) => id === atual?.id)
+  const divisaoAtual = atual?.divisao ?? DIVISAO_PADRAO
+  const opcoesAtual = modeloAtual && opcoesDivisao(modeloAtual, divisaoAtual)
+
+  const restaurar = (modelo: Modelo) =>
+    meuTreino.restaurarModelo(
+      paraAtivar(modelo, opcoesAtual && divisaoAtual),
+      opcoesAtual && ajusteDivisao(modelo, divisaoAtual),
+    )
 
   return (
     <div className="flex flex-col gap-6">
-      <MeuTreino meuTreino={meuTreino} exerciseNames={exerciseNames} />
+      <MeuTreino
+        meuTreino={meuTreino}
+        exerciseNames={exerciseNames}
+        onRestaurar={modeloAtual && (() => restaurar(modeloAtual))}
+        ajustesAtual={
+          modeloAtual &&
+          opcoesAtual && (
+            <DivisaoField
+              value={divisaoAtual}
+              opcoes={opcoesAtual}
+              onChange={(divisao) => meuTreino.definirDivisao(divisao, ajusteDivisao(modeloAtual, divisao))}
+            />
+          )
+        }
+      />
 
-      <TreinadorPk onUsar={meuTreino.importarTreinos} />
+      <TreinosProntos
+        modelos={modelos}
+        atualId={atual?.id}
+        divisaoAtual={atual?.divisao}
+        onUsar={(modelo, divisao) =>
+          meuTreino.usarModelo(paraAtivar(modelo, divisao), divisao && ajusteDivisao(modelo, divisao))
+        }
+      />
 
       {CURSOS.map((curso) => (
         <section key={curso.id} className="flex flex-col gap-2">

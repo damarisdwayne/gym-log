@@ -9,6 +9,7 @@ export type TecnicaExercicio = {
 type Extensao = {
   singular: string
   plural: string
+  pergunta: string
   bonus: number
 }
 
@@ -30,7 +31,7 @@ export const TECNICAS: Tecnica[] = [
       'Repita 1 a 3 vezes. Funciona melhor em máquinas e halteres.',
     ],
     volume: 'Cada drop conta +0,5 série.',
-    extensao: { singular: 'drop', plural: 'drops', bonus: 0.5 },
+    extensao: { singular: 'drop', plural: 'drops', pergunta: 'Quantos drops', bonus: 0.5 },
   },
   {
     id: 'rest-pause',
@@ -41,7 +42,7 @@ export const TECNICAS: Tecnica[] = [
       'Faça mais repetições até a falha. Repita a pausa 2 ou 3 vezes.',
     ],
     volume: 'Cada pausa conta +0,5 série.',
-    extensao: { singular: 'pausa', plural: 'pausas', bonus: 0.5 },
+    extensao: { singular: 'pausa', plural: 'pausas', pergunta: 'Quantas pausas', bonus: 0.5 },
   },
   {
     id: 'cluster',

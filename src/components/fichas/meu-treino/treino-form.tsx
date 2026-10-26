@@ -3,6 +3,7 @@ import { createId } from '@/lib/utils'
 import { AcoesForm } from './acoes-form'
 import { Campo } from './campo'
 import type { Treino } from './types'
+import { formatarVezes } from './utils'
 
 type TreinoFormProps = {
   treino?: Treino
@@ -12,9 +13,9 @@ type TreinoFormProps = {
 
 export const TreinoForm = ({ treino, onSalvar, onRemover }: TreinoFormProps) => {
   const [nome, setNome] = useState(treino?.nome ?? '')
-  const [vezes, setVezes] = useState(String(treino?.vezesPorSemana ?? 1))
+  const [vezes, setVezes] = useState(formatarVezes(treino?.vezesPorSemana ?? 1))
 
-  const vezesPorSemana = Number.parseInt(vezes, 10)
+  const vezesPorSemana = Number.parseFloat(vezes.replace(',', '.'))
 
   const salvar = () =>
     onSalvar({ id: createId(), exercicios: [], ...treino, nome: nome.trim(), vezesPorSemana })
@@ -38,10 +39,10 @@ export const TreinoForm = ({ treino, onSalvar, onRemover }: TreinoFormProps) => 
       <Campo
         id="treino-vezes"
         label="Vezes por semana"
-        inputMode="numeric"
+        inputMode="decimal"
         className="tabular-nums"
         value={vezes}
-        onChange={(valor) => setVezes(valor.replace(/\D/g, ''))}
+        onChange={(valor) => setVezes(valor.replace(/[^\d,.]/g, ''))}
       />
       <AcoesForm
         rotulo={treino ? 'Salvar treino' : 'Criar treino'}

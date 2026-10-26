@@ -4,7 +4,8 @@ import { Button } from '@/components/ui/button'
 import { Collapsible } from '@/components/ui/collapsible'
 import { ListaExercicios } from './lista-exercicios'
 import type { ExercicioTreino, Treino } from './types'
-import { letraTreino } from './utils'
+import { rotuloTreino } from './utils'
+import { VezesBadge } from './vezes-badge'
 
 type TreinoCardProps = {
   indice: number
@@ -22,12 +23,10 @@ export const TreinoCard = ({
   onMoverExercicio,
 }: TreinoCardProps) => (
   <Collapsible
-    title={`${letraTreino(indice)} · ${treino.nome}`}
+    title={`${rotuloTreino(treino, indice)} · ${treino.nome}`}
     meta={
       <>
-        {(treino.vezesPorSemana ?? 1) > 1 && (
-          <Badge variant="primary">{treino.vezesPorSemana}×/sem</Badge>
-        )}
+        <VezesBadge vezes={treino.vezesPorSemana} />
         <Badge>{treino.exercicios.length} exercícios</Badge>
       </>
     }

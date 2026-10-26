@@ -4,9 +4,10 @@ import { resumoExercicio, resumoMusculos } from './utils'
 type ExercicioResumoProps = {
   posicao: number
   exercicio: ExercicioTreino
+  grupo?: string
 }
 
-export const ExercicioResumo = ({ posicao, exercicio }: ExercicioResumoProps) => {
+export const ExercicioResumo = ({ posicao, exercicio, grupo }: ExercicioResumoProps) => {
   const musculos = resumoMusculos(exercicio)
 
   return (
@@ -15,6 +16,9 @@ export const ExercicioResumo = ({ posicao, exercicio }: ExercicioResumoProps) =>
         {posicao}
       </span>
       <span className="flex min-w-0 flex-col gap-0.5">
+        {grupo && (
+          <span className="text-[0.625rem] font-semibold uppercase tracking-wide text-primary">{grupo}</span>
+        )}
         <span className="text-sm font-medium leading-snug">{exercicio.nome}</span>
         <span className="text-xs tabular-nums text-muted-foreground">{resumoExercicio(exercicio)}</span>
         {musculos && <span className="text-xs text-primary">{musculos}</span>}

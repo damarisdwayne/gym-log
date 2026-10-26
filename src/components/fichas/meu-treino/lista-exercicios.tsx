@@ -12,6 +12,7 @@ import {
   sortableKeyboardCoordinates,
   verticalListSortingStrategy,
 } from '@dnd-kit/sortable'
+import { conjugacoes } from './conjugados'
 import { ExercicioItem } from './exercicio-item'
 import type { ExercicioTreino } from './types'
 
@@ -32,6 +33,8 @@ export const ListaExercicios = ({ exercicios, onEditar, onMover }: ListaExercici
     onMover(String(active.id), String(over.id))
   }
 
+  const grupos = conjugacoes(exercicios)
+
   return (
     <DndContext sensors={sensores} collisionDetection={closestCenter} onDragEnd={soltar}>
       <SortableContext items={exercicios} strategy={verticalListSortingStrategy}>
@@ -41,6 +44,7 @@ export const ListaExercicios = ({ exercicios, onEditar, onMover }: ListaExercici
               key={exercicio.id}
               posicao={posicao + 1}
               exercicio={exercicio}
+              conjugacao={grupos[posicao]}
               onEditar={onEditar}
             />
           ))}

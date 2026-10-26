@@ -1,10 +1,13 @@
-import { useCallback, useState } from 'react'
+import { useCallback, useState, type ReactNode } from 'react'
 import { Dumbbell, Plus } from 'lucide-react'
 import { EmptyState } from '@/components/empty-state'
 import { Button } from '@/components/ui/button'
 import { Sheet } from '@/components/ui/sheet'
+import { grupoDe, rotuloGrupo } from './conjugados'
 import { ExercicioForm } from './exercicio-form'
+import { ListaPorSemana } from './lista-por-semana'
 import { TreinoCard } from './treino-card'
+import { TreinoAtualBanner } from './treino-atual-banner'
 import { TreinoForm } from './treino-form'
 import type { ExercicioTreino, Treino } from './types'
 import type { MeuTreinoEstado } from './use-meu-treino'
@@ -14,29 +17,40 @@ type EdicaoTreino = { treino?: Treino }
 
 type EdicaoExercicio = { treinoId: string; exercicio?: ExercicioTreino }
 
+export { ChipOpcao } from './chip-opcao'
+export { classesConjugacao, conjugacoes } from './conjugados'
 export { ExercicioResumo } from './exercicio-resumo'
-export type { ExercicioTreino, Treino } from './types'
+export { ListaPorSemana } from './lista-por-semana'
+export type { DiasDivisao, Divisao, ExercicioTreino, FocoDivisao, Treino } from './types'
 export { useMeuTreino } from './use-meu-treino'
-export { letraTreino } from './utils'
+export { rotuloTreino } from './utils'
+export { VezesBadge } from './vezes-badge'
 export { VolumeSemanal } from './volume'
 
 type MeuTreinoProps = {
   meuTreino: MeuTreinoEstado
   exerciseNames: string[]
+  onRestaurar?: () => void
+  ajustesAtual?: ReactNode
 }
 
-export const MeuTreino = ({ meuTreino, exerciseNames }: MeuTreinoProps) => {
+export const MeuTreino = ({ meuTreino, exerciseNames, onRestaurar, ajustesAtual }: MeuTreinoProps) => {
   const [edicaoTreino, setEdicaoTreino] = useState<EdicaoTreino>()
   const [edicaoExercicio, setEdicaoExercicio] = useState<EdicaoExercicio>()
 
   const fecharTreino = useCallback(() => setEdicaoTreino(undefined), [])
   const fecharExercicio = useCallback(() => setEdicaoExercicio(undefined), [])
+  const exerciciosEmEdicao =
+    meuTreino.treinos.find(({ id }) => id === edicaoExercicio?.treinoId)?.exercicios ?? []
+  const grupoEmEdicao = edicaoExercicio?.exercicio ? grupoDe(exerciciosEmEdicao, edicaoExercicio.exercicio) : []
+  const tituloEdicao =
+    grupoEmEdicao.length > 1 ? `Editar ${rotuloGrupo(grupoEmEdicao.length).toLowerCase()}` : 'Editar exercício'
 
   return (
     <section className="flex flex-col gap-2">
       <div className="flex items-center gap-2 px-1">
         <h2 className="text-sm font-semibold uppercase tracking-wide text-muted-foreground">
-          Meu treino
+          {meuTreino.atual ? 'Treino atual' : 'Meu treino'}
         </h2>
         {meuTreino.treinos.length > 0 && (
           <Button variant="ghost" size="sm" className="ml-auto" onClick={() => setEdicaoTreino({})}>
@@ -46,19 +60,32 @@ export const MeuTreino = ({ meuTreino, exerciseNames }: MeuTreinoProps) => {
         )}
       </div>
 
+      {meuTreino.atual && (
+        <TreinoAtualBanner
+          titulo={meuTreino.atual.titulo}
+          onVoltar={meuTreino.voltarProMeuTreino}
+          onRestaurar={onRestaurar}
+        >
+          {ajustesAtual}
+        </TreinoAtualBanner>
+      )}
+
       <VolumeSemanal treinos={meuTreino.treinos} />
 
       {meuTreino.treinos.length ? (
-        meuTreino.treinos.map((treino, indice) => (
-          <TreinoCard
-            key={treino.id}
-            indice={indice}
-            treino={treino}
-            onEditar={() => setEdicaoTreino({ treino })}
-            onExercicio={(exercicio) => setEdicaoExercicio({ treinoId: treino.id, exercicio })}
-            onMoverExercicio={(deId, paraId) => meuTreino.moverExercicio(treino.id, deId, paraId)}
-          />
-        ))
+        <ListaPorSemana
+          treinos={meuTreino.treinos}
+          renderTreino={(treino, indice) => (
+            <TreinoCard
+              key={treino.id}
+              indice={indice}
+              treino={treino}
+              onEditar={() => setEdicaoTreino({ treino })}
+              onExercicio={(exercicio) => setEdicaoExercicio({ treinoId: treino.id, exercicio })}
+              onMoverExercicio={(deId, paraId) => meuTreino.moverExercicio(treino.id, deId, paraId)}
+            />
+          )}
+        />
       ) : (
         <EmptyState
           icon={Dumbbell}
@@ -95,19 +122,19 @@ export const MeuTreino = ({ meuTreino, exerciseNames }: MeuTreinoProps) => {
 
       <Sheet
         open={Boolean(edicaoExercicio)}
-        title={edicaoExercicio?.exercicio ? 'Editar exercício' : 'Novo exercício'}
+        title={edicaoExercicio?.exercicio ? tituloEdicao : 'Novo exercício'}
         onClose={fecharExercicio}
       >
         {edicaoExercicio && (
           <ExercicioForm
-            exercicio={edicaoExercicio.exercicio}
+            grupo={grupoEmEdicao}
             exerciseNames={exerciseNames}
-            onSalvar={(exercicio) => {
-              meuTreino.salvarExercicio(edicaoExercicio.treinoId, exercicio)
+            onSalvar={(exercicios) => {
+              meuTreino.salvarGrupo(edicaoExercicio.treinoId, grupoEmEdicao, exercicios)
               fecharExercicio()
             }}
-            onRemover={(id) => {
-              meuTreino.removerExercicio(edicaoExercicio.treinoId, id)
+            onRemover={() => {
+              meuTreino.removerGrupo(edicaoExercicio.treinoId, grupoEmEdicao)
               fecharExercicio()
             }}
           />

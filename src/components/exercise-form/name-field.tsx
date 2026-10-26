@@ -5,12 +5,13 @@ import { Label } from '@/components/ui/label'
 const MAX_SUGGESTIONS = 5
 
 type NameFieldProps = {
+  id?: string
   value: string
   options: string[]
   onChange: (value: string) => void
 }
 
-export const NameField = ({ value, options, onChange }: NameFieldProps) => {
+export const NameField = ({ id = 'exercise-name', value, options, onChange }: NameFieldProps) => {
   const [focused, setFocused] = useState(false)
 
   const term = value.trim().toLowerCase()
@@ -30,9 +31,9 @@ export const NameField = ({ value, options, onChange }: NameFieldProps) => {
 
   return (
     <div className="relative flex min-w-0 flex-col gap-1.5">
-      <Label htmlFor="exercise-name">Aparelho / exercício</Label>
+      <Label htmlFor={id}>Aparelho / exercício</Label>
       <Input
-        id="exercise-name"
+        id={id}
         placeholder="Ex.: Leg press 45º"
         value={value}
         onChange={(event) => onChange(event.target.value)}
@@ -41,12 +42,12 @@ export const NameField = ({ value, options, onChange }: NameFieldProps) => {
         autoComplete="off"
         role="combobox"
         aria-expanded={open}
-        aria-controls="exercise-name-options"
+        aria-controls={`${id}-options`}
       />
 
       {open && (
         <ul
-          id="exercise-name-options"
+          id={`${id}-options`}
           role="listbox"
           className="absolute left-0 right-0 top-full z-10 mt-1 max-h-48 overflow-y-auto rounded-lg border border-border bg-card py-1 shadow-lg shadow-black/40"
         >

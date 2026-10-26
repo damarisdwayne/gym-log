@@ -62,7 +62,7 @@ export const TecnicaField = ({ value, series, onChange }: TecnicaFieldProps) => 
           {tecnica.extensao && (
             <div className="grid grid-cols-2 gap-3">
               <EscolhaNumero
-                label={`Quantos ${tecnica.extensao.plural}`}
+                label={tecnica.extensao.pergunta}
                 opcoes={OPCOES_EXTENSOES}
                 valor={value.extensoes ?? EXTENSOES_PADRAO}
                 onChange={(extensoes) => onChange({ ...value, extensoes })}
