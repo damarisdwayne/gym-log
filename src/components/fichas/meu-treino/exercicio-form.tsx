@@ -34,6 +34,11 @@ export const ExercicioForm = ({
   )
   const { foco, auxiliares } = escolhidos ?? sugerirMusculos(nome)
 
+  const alterarNome = (novoNome: string) => {
+    setNome(novoNome)
+    setEscolhidos(undefined)
+  }
+
   const alterarMusculos = (campo: keyof Musculos) => (lista: Musculo[]) =>
     setEscolhidos({ foco, auxiliares, [campo]: lista })
 
@@ -54,7 +59,7 @@ export const ExercicioForm = ({
 
   return (
     <div className="flex flex-col gap-4">
-      <NameField value={nome} options={exerciseNames} onChange={setNome} />
+      <NameField value={nome} options={exerciseNames} onChange={alterarNome} />
 
       <div className="grid grid-cols-3 gap-2">
         <Campo
