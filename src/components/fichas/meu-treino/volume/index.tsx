@@ -14,7 +14,7 @@ export const VolumeSemanal = ({ treinos }: { treinos: Treino[] }) => {
   return (
     <Collapsible
       title="Volume semanal"
-      description="Séries por músculo · auxiliar conta meia série"
+      description="Séries por músculo · auxiliar conta meia série · cada drop ou pausa soma meia"
       meta={<Badge>{volumes.length} músculos</Badge>}
     >
       <div className="flex flex-col gap-2">

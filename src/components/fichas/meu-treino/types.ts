@@ -1,4 +1,5 @@
 import type { MusculoSalvo } from './musculos'
+import type { TecnicaExercicio } from './tecnica'
 
 export type ExercicioTreino = {
   id: string
@@ -9,6 +10,7 @@ export type ExercicioTreino = {
   obs?: string
   foco?: MusculoSalvo[]
   auxiliares?: MusculoSalvo[]
+  tecnica?: TecnicaExercicio
 }
 
 export type Treino = {

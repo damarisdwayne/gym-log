@@ -1,5 +1,5 @@
 import { Label } from '@/components/ui/label'
-import { cn } from '@/lib/utils'
+import { ChipOpcao } from './chip-opcao'
 import { MUSCULOS, type Musculo } from './musculos'
 
 type MusculosFieldProps = {
@@ -21,26 +21,16 @@ export const MusculosField = ({ label, selecionados, bloqueados, onChange }: Mus
     <div className="flex flex-col gap-1.5">
       <Label>{label}</Label>
       <div className="flex flex-wrap gap-1.5">
-        {MUSCULOS.map((musculo) => {
-          const selecionado = selecionados.includes(musculo)
-          return (
-            <button
-              key={musculo}
-              type="button"
-              aria-pressed={selecionado}
-              disabled={bloqueados.includes(musculo)}
-              onClick={() => alternar(musculo)}
-              className={cn(
-                'rounded-full border px-3 py-1 text-xs transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/60 disabled:opacity-30',
-                selecionado
-                  ? 'border-primary bg-primary/15 font-semibold text-primary'
-                  : 'border-border text-muted-foreground hover:bg-muted hover:text-foreground',
-              )}
-            >
-              {musculo}
-            </button>
-          )
-        })}
+        {MUSCULOS.map((musculo) => (
+          <ChipOpcao
+            key={musculo}
+            selecionado={selecionados.includes(musculo)}
+            disabled={bloqueados.includes(musculo)}
+            onClick={() => alternar(musculo)}
+          >
+            {musculo}
+          </ChipOpcao>
+        ))}
       </div>
     </div>
   )

@@ -6,6 +6,7 @@ import { Campo } from './campo'
 import type { Musculo, Musculos } from './musculos'
 import { MusculosField } from './musculos-field'
 import { musculosDe, sugerirMusculos } from './sugestoes'
+import { TecnicaField, type TecnicaExercicio } from './tecnica'
 import type { ExercicioTreino } from './types'
 import { opcional } from './utils'
 
@@ -29,6 +30,7 @@ export const ExercicioForm = ({
   const [reps, setReps] = useState(exercicio?.reps ?? '')
   const [descanso, setDescanso] = useState(exercicio?.descanso ?? '')
   const [obs, setObs] = useState(exercicio?.obs ?? '')
+  const [tecnica, setTecnica] = useState<TecnicaExercicio | undefined>(exercicio?.tecnica)
   const [escolhidos, setEscolhidos] = useState<Musculos | undefined>(
     exercicio && musculosDe(exercicio),
   )
@@ -55,6 +57,7 @@ export const ExercicioForm = ({
       obs: opcional(obs),
       foco,
       auxiliares,
+      tecnica,
     })
 
   return (
@@ -88,10 +91,12 @@ export const ExercicioForm = ({
         onChange={alterarMusculos('auxiliares')}
       />
 
+      <TecnicaField value={tecnica} series={numeroSeries || 1} onChange={setTecnica} />
+
       <Campo
         id="exercicio-obs"
         label="Observação"
-        placeholder="Opcional — ex.: drop set na última"
+        placeholder="Opcional — ex.: pausa de 2s embaixo"
         value={obs}
         onChange={setObs}
       />

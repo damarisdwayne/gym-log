@@ -9,8 +9,12 @@ const corBarra = (total: number) => {
   return 'bg-primary'
 }
 
-const detalhe = ({ foco, auxiliar }: VolumeMusculo) =>
-  [foco && `${formatarSeries(foco)} foco`, auxiliar && `${formatarSeries(auxiliar)} auxiliar`]
+const detalhe = ({ foco, tecnica, auxiliar }: VolumeMusculo) =>
+  [
+    foco && `${formatarSeries(foco)} foco`,
+    tecnica && `${formatarSeries(tecnica)} técnica`,
+    auxiliar && `${formatarSeries(auxiliar)} auxiliar`,
+  ]
     .filter(Boolean)
     .join(' + ')
 
