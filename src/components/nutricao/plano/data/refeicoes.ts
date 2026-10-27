@@ -10,6 +10,7 @@ import {
   TROCAS_FRANGO,
   TROCAS_LEITE,
   TROCAS_MUCARELA,
+  TROCAS_MUCARELA_RAP,
   TROCAS_PAO,
   TROCAS_UVA_RUBI,
   trocasAveia,
@@ -108,6 +109,29 @@ export const PIZZA_DE_FRANGO: Opcao = {
   alimentos: [porcao('Pizza de frango com requeijão', '3 fatias médias', '270 g')],
 }
 
+export const RAP_10_COM_FRANGO: Opcao = {
+  id: 'jantar-rap-10',
+  titulo: 'Rap 10 com frango',
+  calorias: 357,
+  macros: macros(43.8, 20.4, 11),
+  alimentos: [
+    {
+      ...porcao('Rap 10 tradicional', '1 unidade', '40 g'),
+      substituicoes: [porcao('Goma de tapioca', '2 colheres de sopa', '40 g')],
+    },
+    {
+      ...porcao('Frango desfiado', '6 colheres de sopa cheias', '120 g'),
+      substituicoes: [
+        porcao('Carne moída refogada', '4 colheres de sopa', '100 g'),
+        porcao('Atum em conserva em óleo', '5 colheres de sopa cheias', '80 g'),
+      ],
+    },
+    { ...porcao('Queijo muçarela', '1 fatia', '20 g'), substituicoes: TROCAS_MUCARELA_RAP },
+    { ...porcao('Alface', A_VONTADE), substituicoes: TROCAS_ALFACE },
+    porcao('Tomate', A_VONTADE),
+  ],
+}
+
 export const jantar = (opcoes: Opcao[]): Refeicao => ({
   id: 'jantar',
   nome: 'Jantar',
@@ -115,3 +139,9 @@ export const jantar = (opcoes: Opcao[]): Refeicao => ({
   emoji: '🍔',
   opcoes,
 })
+
+export const JANTAR_FIM_DE_SEMANA = jantar([
+  hamburguer(100, 407, macros(46.4, 23.2, 14.2)),
+  PIZZA_DE_FRANGO,
+  RAP_10_COM_FRANGO,
+])

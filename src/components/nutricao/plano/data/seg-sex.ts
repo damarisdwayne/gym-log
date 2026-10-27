@@ -7,6 +7,7 @@ import {
   hamburguer,
   jantar,
   macros,
+  RAP_10_COM_FRANGO,
   WHEY_GROWTH,
 } from './refeicoes'
 import { A_VONTADE, porcao, TROCAS_CASTANHA } from './trocas'
@@ -107,12 +108,12 @@ export const DIETA_SEG_SEX: Dieta = {
   calorias: 1664,
   macros: macros(141.7, 164.7, 51),
   arquivo: '/fichas/nutricao/plano-alimentar-2026-10-seg-sex.pdf',
-  tamanho: '55 KB',
+  tamanho: '60 KB',
   refeicoes: [
     JEJUM,
     cafeDaManha([cafeComBanana(WHEY_GROWTH, 395, macros(30.8, 54.4, 7.2)), CAFE_COM_IOGURTE]),
     ALMOCO,
     LANCHE_DA_TARDE,
-    jantar([hamburguer(80, 365, macros(39.2, 23.2, 12.7))]),
+    jantar([hamburguer(80, 365, macros(39.2, 23.2, 12.7)), RAP_10_COM_FRANGO]),
   ],
 }

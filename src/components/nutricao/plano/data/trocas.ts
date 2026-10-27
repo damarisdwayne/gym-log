@@ -141,3 +141,12 @@ export const TROCAS_PAO: Porcao[] = [
 ]
 
 export const TROCAS_MUCARELA: Porcao[] = [porcao('Queijo cheddar light', '2 unidades', '30 g')]
+
+export const TROCAS_MUCARELA_RAP: Porcao[] = [
+  porcao('Queijo cheddar light', '1 unidade', '15 g'),
+  porcao('Cream cheese light', '½ colher de sopa cheia', '15 g'),
+  porcao('Requeijão light (Danúbio)', '½ colher de sopa cheia', '15 g'),
+  porcao('Creme de ricota', '0,8 colher de sopa', '15 g'),
+  porcao('Queijo minas frescal', '½ fatia', '15 g'),
+  porcao('Maionese light (Hellmann’s)', '1 colher de sopa', '12 g'),
+]
