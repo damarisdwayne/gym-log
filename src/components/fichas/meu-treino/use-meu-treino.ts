@@ -94,6 +94,12 @@ export const useMeuTreino = () => {
         exercicios: treino.exercicios.filter(({ id }) => !ids.has(id)),
       }))
     },
+    moverTreino: (deId: string, paraId: string) => {
+      const de = treinos.findIndex((treino) => treino.id === deId)
+      const para = treinos.findIndex((treino) => treino.id === paraId)
+      if (de < 0 || para < 0) return
+      atualizarTreinos(arrayMove(treinos, de, para))
+    },
     moverExercicio: (treinoId: string, deId: string, paraId: string) =>
       alterarTreino(treinoId, (treino) => {
         const de = treino.exercicios.findIndex((exercicio) => exercicio.id === deId)

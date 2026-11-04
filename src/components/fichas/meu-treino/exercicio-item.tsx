@@ -1,7 +1,8 @@
 import { useSortable } from '@dnd-kit/sortable'
 import { CSS } from '@dnd-kit/utilities'
-import { ChevronRight, GripVertical } from 'lucide-react'
+import { ChevronRight } from 'lucide-react'
 import { cn } from '@/lib/utils'
+import { AlcaArrastar } from './alca-arrastar'
 import { classesConjugacao, type Conjugacao } from './conjugados'
 import { ExercicioResumo } from './exercicio-resumo'
 import type { ExercicioTreino } from './types'
@@ -27,16 +28,12 @@ export const ExercicioItem = ({ posicao, exercicio, conjugacao, onEditar }: Exer
         isDragging && 'z-10 rounded-lg shadow-lg ring-1 ring-primary/40',
       )}
     >
-      <button
-        type="button"
-        ref={setActivatorNodeRef}
-        aria-label={`Mover ${exercicio.nome}`}
-        className="flex h-11 w-7 shrink-0 cursor-grab touch-none items-center justify-center rounded-md text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/60 active:cursor-grabbing"
-        {...attributes}
-        {...listeners}
-      >
-        <GripVertical className="size-4" />
-      </button>
+      <AlcaArrastar
+        rotulo={exercicio.nome}
+        attributes={attributes}
+        listeners={listeners}
+        setActivatorNodeRef={setActivatorNodeRef}
+      />
       <button
         type="button"
         onClick={() => onEditar(exercicio)}

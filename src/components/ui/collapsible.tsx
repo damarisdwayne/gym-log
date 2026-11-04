@@ -6,6 +6,7 @@ type CollapsibleProps = {
   title: ReactNode
   description?: ReactNode
   meta?: ReactNode
+  leading?: ReactNode
   defaultOpen?: boolean
   children: ReactNode
   className?: string
@@ -15,6 +16,7 @@ export const Collapsible = ({
   title,
   description,
   meta,
+  leading,
   defaultOpen = false,
   children,
   className,
@@ -27,6 +29,7 @@ export const Collapsible = ({
     )}
   >
     <summary className="flex cursor-pointer list-none items-center gap-3 p-4 transition-colors hover:bg-muted focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-primary/60 [&::-webkit-details-marker]:hidden">
+      {leading}
       <div className="flex min-w-0 flex-col gap-0.5">
         <span className="text-base font-semibold leading-tight">{title}</span>
         {description && (

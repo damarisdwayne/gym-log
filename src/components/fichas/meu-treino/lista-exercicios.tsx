@@ -1,20 +1,9 @@
-import {
-  closestCenter,
-  DndContext,
-  KeyboardSensor,
-  PointerSensor,
-  useSensor,
-  useSensors,
-  type DragEndEvent,
-} from '@dnd-kit/core'
-import {
-  SortableContext,
-  sortableKeyboardCoordinates,
-  verticalListSortingStrategy,
-} from '@dnd-kit/sortable'
+import { closestCenter, DndContext } from '@dnd-kit/core'
+import { SortableContext, verticalListSortingStrategy } from '@dnd-kit/sortable'
 import { conjugacoes } from './conjugados'
 import { ExercicioItem } from './exercicio-item'
 import type { ExercicioTreino } from './types'
+import { aoSoltar, useSensoresOrdenacao } from './use-sensores-ordenacao'
 
 type ListaExerciciosProps = {
   exercicios: ExercicioTreino[]
@@ -23,20 +12,11 @@ type ListaExerciciosProps = {
 }
 
 export const ListaExercicios = ({ exercicios, onEditar, onMover }: ListaExerciciosProps) => {
-  const sensores = useSensors(
-    useSensor(PointerSensor),
-    useSensor(KeyboardSensor, { coordinateGetter: sortableKeyboardCoordinates }),
-  )
-
-  const soltar = ({ active, over }: DragEndEvent) => {
-    if (!over || active.id === over.id) return
-    onMover(String(active.id), String(over.id))
-  }
-
+  const sensores = useSensoresOrdenacao()
   const grupos = conjugacoes(exercicios)
 
   return (
-    <DndContext sensors={sensores} collisionDetection={closestCenter} onDragEnd={soltar}>
+    <DndContext sensors={sensores} collisionDetection={closestCenter} onDragEnd={aoSoltar(onMover)}>
       <SortableContext items={exercicios} strategy={verticalListSortingStrategy}>
         <ol className="flex flex-col divide-y divide-border/60">
           {exercicios.map((exercicio, posicao) => (

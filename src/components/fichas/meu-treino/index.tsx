@@ -6,6 +6,7 @@ import { Sheet } from '@/components/ui/sheet'
 import { grupoDe, rotuloGrupo } from './conjugados'
 import { ExercicioForm } from './exercicio-form'
 import { ListaPorSemana } from './lista-por-semana'
+import { ListaTreinosOrdenavel } from './lista-treinos-ordenavel'
 import { TreinoCard } from './treino-card'
 import { TreinoAtualBanner } from './treino-atual-banner'
 import { TreinoForm } from './treino-form'
@@ -73,19 +74,21 @@ export const MeuTreino = ({ meuTreino, exerciseNames, onRestaurar, ajustesAtual 
       <VolumeSemanal treinos={meuTreino.treinos} />
 
       {meuTreino.treinos.length ? (
-        <ListaPorSemana
-          treinos={meuTreino.treinos}
-          renderTreino={(treino, indice) => (
-            <TreinoCard
-              key={treino.id}
-              indice={indice}
-              treino={treino}
-              onEditar={() => setEdicaoTreino({ treino })}
-              onExercicio={(exercicio) => setEdicaoExercicio({ treinoId: treino.id, exercicio })}
-              onMoverExercicio={(deId, paraId) => meuTreino.moverExercicio(treino.id, deId, paraId)}
-            />
-          )}
-        />
+        <ListaTreinosOrdenavel treinos={meuTreino.treinos} onMover={meuTreino.moverTreino}>
+          <ListaPorSemana
+            treinos={meuTreino.treinos}
+            renderTreino={(treino, indice) => (
+              <TreinoCard
+                key={treino.id}
+                indice={indice}
+                treino={treino}
+                onEditar={() => setEdicaoTreino({ treino })}
+                onExercicio={(exercicio) => setEdicaoExercicio({ treinoId: treino.id, exercicio })}
+                onMoverExercicio={(deId, paraId) => meuTreino.moverExercicio(treino.id, deId, paraId)}
+              />
+            )}
+          />
+        </ListaTreinosOrdenavel>
       ) : (
         <EmptyState
           icon={Dumbbell}
