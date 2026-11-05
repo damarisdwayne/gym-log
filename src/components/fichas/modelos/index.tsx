@@ -5,6 +5,7 @@ import { Sheet } from '@/components/ui/sheet'
 import { ModeloDetalhe } from './modelo-detalhe'
 import { ModeloLinha } from './modelo-linha'
 import { agruparPorGrupo, ORIGENS, rotuloGrupo, tituloCompleto } from './origens'
+import { ehModelo } from './variantes'
 import type { Divisao } from '../meu-treino'
 import type { Modelo } from './types'
 
@@ -12,16 +13,18 @@ export { ajusteDivisao, DIVISAO_PADRAO, opcoesDivisao } from './divisao'
 export { DivisaoField } from './divisao-field'
 export type { Modelo } from './types'
 export { paraAtivar } from './origens'
+export { ehModelo, resolverModelo } from './variantes'
 export { useModelos } from './use-modelos'
 
 type TreinosProntosProps = {
   modelos?: Modelo[]
   atualId?: string
   divisaoAtual?: Divisao
-  onUsar: (modelo: Modelo, divisao?: Divisao) => void
+  varianteAtual?: string
+  onUsar: (modelo: Modelo, divisao?: Divisao, variante?: string) => void
 }
 
-export const TreinosProntos = ({ modelos, atualId, divisaoAtual, onUsar }: TreinosProntosProps) => {
+export const TreinosProntos = ({ modelos, atualId, divisaoAtual, varianteAtual, onUsar }: TreinosProntosProps) => {
   const [aberto, setAberto] = useState<Modelo>()
   const fechar = useCallback(() => setAberto(undefined), [])
 
@@ -59,7 +62,7 @@ export const TreinosProntos = ({ modelos, atualId, divisaoAtual, onUsar }: Trein
                       <ModeloLinha
                         key={modelo.id}
                         modelo={modelo}
-                        ativo={modelo.id === atualId}
+                        ativo={ehModelo(modelo, atualId)}
                         onAbrir={() => setAberto(modelo)}
                       />
                     ))}
@@ -74,10 +77,11 @@ export const TreinosProntos = ({ modelos, atualId, divisaoAtual, onUsar }: Trein
         {aberto && (
           <ModeloDetalhe
             modelo={aberto}
-            ativo={aberto.id === atualId}
-            divisaoInicial={aberto.id === atualId ? divisaoAtual : undefined}
-            onUsar={(divisao) => {
-              onUsar(aberto, divisao)
+            ativo={ehModelo(aberto, atualId)}
+            divisaoInicial={ehModelo(aberto, atualId) ? divisaoAtual : undefined}
+            varianteInicial={ehModelo(aberto, atualId) ? varianteAtual : undefined}
+            onUsar={(divisao, variante) => {
+              onUsar(aberto, divisao, variante)
               fechar()
             }}
           />

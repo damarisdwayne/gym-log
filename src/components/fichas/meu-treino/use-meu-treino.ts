@@ -12,6 +12,7 @@ export type CopiaModelo = {
   titulo: string
   treinos: Treino[]
   divisao?: Divisao
+  variante?: string
 }
 
 export type ModeloAtivavel = CopiaModelo & { id: string }
@@ -57,18 +58,19 @@ export const useMeuTreino = () => {
     treinos,
     atual:
       copiaAtiva && atual
-        ? { id: atual, titulo: copiaAtiva.titulo, divisao: copiaAtiva.divisao }
+        ? { id: atual, titulo: copiaAtiva.titulo, divisao: copiaAtiva.divisao, variante: copiaAtiva.variante }
         : undefined,
-    usarModelo: ({ id, titulo, treinos: originais, divisao }: ModeloAtivavel, ajustar = semAjuste) => {
-      const base = copias[id]?.treinos ?? originais.map(copiarTreino)
+    usarModelo: ({ id, titulo, treinos: originais, divisao, variante }: ModeloAtivavel, ajustar = semAjuste) => {
+      const salva = copias[id]
+      const base = salva && salva.variante === variante ? salva.treinos : originais.map(copiarTreino)
       atualizarAtual({
         atual: id,
-        copias: { ...copias, [id]: { titulo, divisao, treinos: ajustar(base) } },
+        copias: { ...copias, [id]: { titulo, divisao, variante, treinos: ajustar(base) } },
       })
     },
-    restaurarModelo: ({ id, titulo, treinos: originais, divisao }: ModeloAtivavel, ajustar = semAjuste) =>
+    restaurarModelo: ({ id, titulo, treinos: originais, divisao, variante }: ModeloAtivavel, ajustar = semAjuste) =>
       atualizarAtual({
-        copias: { ...copias, [id]: { titulo, divisao, treinos: ajustar(originais.map(copiarTreino)) } },
+        copias: { ...copias, [id]: { titulo, divisao, variante, treinos: ajustar(originais.map(copiarTreino)) } },
       }),
     definirDivisao: (divisao: Divisao, ajustar: AjustarTreinos) => {
       if (!atual || !copiaAtiva) return

@@ -16,9 +16,11 @@ import {
   mes as mesTay,
   planilhaCardio as planilhaCardioTay,
 } from './builders-tay-training'
+import { CURSO_GLOW } from './data-glow'
 import type { Curso } from './types'
 
 export const CURSOS: Curso[] = [
+  CURSO_GLOW,
   {
     id: 'natflix',
     nome: 'Natflix',

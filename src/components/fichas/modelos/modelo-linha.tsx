@@ -1,6 +1,12 @@
 import { ChevronRight } from 'lucide-react'
 import { Badge } from '@/components/ui/badge'
 import type { Modelo } from './types'
+import { resumoDimensoes } from './variantes'
+
+const resumo = (modelo: Modelo) =>
+  modelo.variantes
+    ? resumoDimensoes(modelo)
+    : `${modelo.treinos.length} treinos · ${modelo.treinos.map(({ rotulo, nome }) => rotulo ?? nome).join(', ')}`
 
 type ModeloLinhaProps = {
   modelo: Modelo
@@ -16,9 +22,7 @@ export const ModeloLinha = ({ modelo, ativo, onAbrir }: ModeloLinhaProps) => (
   >
     <span className="flex min-w-0 flex-col gap-0.5">
       <span className="text-sm font-medium">{modelo.titulo}</span>
-      <span className="text-xs text-muted-foreground">
-        {modelo.treinos.length} treinos · {modelo.treinos.map(({ rotulo, nome }) => rotulo ?? nome).join(', ')}
-      </span>
+      <span className="text-xs text-muted-foreground">{resumo(modelo)}</span>
     </span>
     {ativo && <Badge variant="primary">Atual</Badge>}
     <ChevronRight className="ml-auto size-4 shrink-0 text-muted-foreground" />

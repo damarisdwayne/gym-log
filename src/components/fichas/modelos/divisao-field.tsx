@@ -1,27 +1,5 @@
-import type { ReactNode } from 'react'
-import { Label } from '@/components/ui/label'
-import { ChipOpcao, type Divisao } from '../meu-treino'
 import { DIAS, FOCOS, semanaAtual, type OpcoesDivisao } from './divisao'
-
-type GrupoChipsProps<T> = {
-  label: string
-  opcoes: { valor: T; rotulo: ReactNode }[]
-  selecionado: T
-  onChange: (valor: T) => void
-}
-
-const GrupoChips = <T extends string | number>({ label, opcoes, selecionado, onChange }: GrupoChipsProps<T>) => (
-  <div className="flex flex-col gap-1.5">
-    <Label>{label}</Label>
-    <div className="flex flex-wrap gap-1.5">
-      {opcoes.map(({ valor, rotulo }) => (
-        <ChipOpcao key={valor} selecionado={selecionado === valor} onClick={() => onChange(valor)}>
-          {rotulo}
-        </ChipOpcao>
-      ))}
-    </div>
-  </div>
-)
+import { GrupoChips, type Divisao } from '../meu-treino'
 
 const OPCOES_DIAS = DIAS.map((dias) => ({ valor: dias, rotulo: dias }))
 const OPCOES_FOCO = FOCOS.map(({ id, label }) => ({ valor: id, rotulo: label }))

@@ -19,6 +19,7 @@ type EdicaoTreino = { treino?: Treino }
 type EdicaoExercicio = { treinoId: string; exercicio?: ExercicioTreino }
 
 export { ChipOpcao } from './chip-opcao'
+export { GrupoChips } from './grupo-chips'
 export { classesConjugacao, conjugacoes } from './conjugados'
 export { ExercicioResumo } from './exercicio-resumo'
 export { ListaPorSemana } from './lista-por-semana'
