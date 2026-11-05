@@ -23,7 +23,7 @@ const contem = (padrao: RegExp) => (receita: Receita) =>
   padrao.test(textoIngredientes(receita))
 
 const temWhey = contem(/whey/)
-const temCarne = contem(/frango|patinho|presunto|carne|atum/)
+const temCarne = contem(/frango|patinho|presunto|carne|atum|tilápia/)
 
 export const FILTROS_INGREDIENTE: Filtro[] = [
   { id: 'frango', label: 'Frango', emoji: '🍗', teste: contem(/frango/) },
@@ -51,7 +51,7 @@ export const FILTROS_INGREDIENTE: Filtro[] = [
   },
   { id: 'banana', label: 'Banana', emoji: '🍌', teste: contem(/banana/) },
   { id: 'chocolate', label: 'Chocolate', emoji: '🍫', teste: contem(/chocolate|cacau|nescau/) },
-  { id: 'queijo', label: 'Queijo', emoji: '🧀', teste: contem(/queijo|muçarela|parmesão|requeijão|cottage|ricota|catupiry/) },
+  { id: 'queijo', label: 'Queijo', emoji: '🧀', teste: contem(/queijo|muçarela|mussarela|parmesão|requeijão|cottage|ricota|catupiry/) },
 ]
 
 export const FILTROS_DIETA: Filtro[] = [

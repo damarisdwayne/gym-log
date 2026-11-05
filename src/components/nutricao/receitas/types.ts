@@ -2,12 +2,13 @@ import type { Macros } from '../plano'
 
 export type Tipo = 'salgada' | 'doce' | 'agridoce'
 
-export type EbookId = 'natflix' | 'bella'
+export type EbookId = 'natflix' | 'bella' | 'glow'
 
 export type SecaoId =
   | 'frango'
   | 'carne'
   | 'atum'
+  | 'peixe'
   | 'lanches'
   | 'vegetarianas'
   | 'legumes'

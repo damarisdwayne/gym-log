@@ -13,6 +13,12 @@ export const EBOOKS: Record<EbookId, Ebook> = {
     autora: 'Isabella Araujo',
     arquivo: '/fichas/nutricao/ebook-receitas-bella-vida-flex.pdf',
   },
+  glow: {
+    id: 'glow',
+    titulo: 'Alimente-se como eu',
+    autora: 'Isa Duarte',
+    arquivo: '/fichas/glow/geral/ebook-alimente-se-como-eu.pdf',
+  },
 }
 
 export const ORIGENS: { id: OrigemId; titulo: string; emoji: string }[] = [
@@ -24,6 +30,7 @@ const LISTA_SECOES: Secao[] = [
   { id: 'frango', titulo: 'Com frango', tipo: 'salgada', emoji: '🍗' },
   { id: 'carne', titulo: 'Com carne', tipo: 'salgada', emoji: '🥩' },
   { id: 'atum', titulo: 'Com atum', tipo: 'salgada', emoji: '🐟' },
+  { id: 'peixe', titulo: 'Com peixe', tipo: 'salgada', emoji: '🐠' },
   { id: 'lanches', titulo: 'Lanches práticos', tipo: 'salgada', emoji: '🥪' },
   {
     id: 'vegetarianas',

@@ -1,5 +1,6 @@
 import type { EbookId, Receita, ReceitaBase, ReceitaMinha } from '../types'
 import { BELLA } from './bella'
+import { GLOW } from './glow'
 import { MINHAS } from './minhas'
 import { NATFLIX } from './natflix'
 
@@ -17,5 +18,6 @@ const daInternet = (receitas: ReceitaMinha[]): Receita[] =>
 export const RECEITAS: Receita[] = [
   ...doEbook('natflix', NATFLIX),
   ...doEbook('bella', BELLA),
+  ...doEbook('glow', GLOW),
   ...daInternet(MINHAS),
 ]
