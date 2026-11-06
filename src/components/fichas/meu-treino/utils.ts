@@ -1,3 +1,4 @@
+import { createId } from '@/lib/utils'
 import { musculosDe } from './sugestoes'
 import { resumoTecnica } from './tecnica'
 import type { ExercicioTreino, Treino } from './types'
@@ -22,3 +23,9 @@ export const resumoMusculos = (exercicio: ExercicioTreino) => {
 }
 
 export const opcional = (valor: string) => valor.trim() || undefined
+
+export const copiarTreino = (treino: Treino): Treino => ({
+  ...treino,
+  id: createId(),
+  exercicios: treino.exercicios.map((exercicio) => ({ ...exercicio, id: createId() })),
+})

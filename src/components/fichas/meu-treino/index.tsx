@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button'
 import { Sheet } from '@/components/ui/sheet'
 import { grupoDe, rotuloGrupo } from './conjugados'
 import { ExercicioForm } from './exercicio-form'
+import { GruposTreino } from './grupos'
 import { ListaPorSemana } from './lista-por-semana'
 import { ListaTreinosOrdenavel } from './lista-treinos-ordenavel'
 import { TreinoCard } from './treino-card'
@@ -70,6 +71,10 @@ export const MeuTreino = ({ meuTreino, exerciseNames, onRestaurar, ajustesAtual 
         >
           {ajustesAtual}
         </TreinoAtualBanner>
+      )}
+
+      {!meuTreino.atual && (meuTreino.treinos.length > 0 || meuTreino.grupos.length > 1) && (
+        <GruposTreino meuTreino={meuTreino} />
       )}
 
       <VolumeSemanal treinos={meuTreino.treinos} />

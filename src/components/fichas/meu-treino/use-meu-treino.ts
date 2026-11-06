@@ -1,12 +1,19 @@
 import { arrayMove } from '@dnd-kit/sortable'
 import { useStoredState } from '@/hooks/use-stored-state'
-import { createId } from '@/lib/utils'
+import { acoesGrupos, gruposDe, type GrupoTreinos } from './grupos/estado'
 import type { Divisao, ExercicioTreino, Treino } from './types'
+import { copiarTreino } from './utils'
 
 const STORAGE_KEY = 'gym-log:meu-treino:v1'
 const STORAGE_KEY_ATUAL = 'gym-log:treino-atual:v1'
 
-const INICIAL: { treinos: Treino[] } = { treinos: [] }
+type EstadoMeu = {
+  treinos: Treino[]
+  grupos?: GrupoTreinos[]
+  grupoAtivo?: string
+}
+
+const INICIAL: EstadoMeu = { treinos: [] }
 
 export type CopiaModelo = {
   titulo: string
@@ -33,21 +40,21 @@ const salvarNaLista = <T extends { id: string }>(lista: T[], item: T) =>
     ? lista.map((atual) => (atual.id === item.id ? item : atual))
     : [...lista, item]
 
-const copiarTreino = (treino: Treino): Treino => ({
-  ...treino,
-  id: createId(),
-  exercicios: treino.exercicios.map((exercicio) => ({ ...exercicio, id: createId() })),
-})
-
 export const useMeuTreino = () => {
   const [meu, atualizarMeu] = useStoredState(STORAGE_KEY, INICIAL)
   const [{ atual, copias }, atualizarAtual] = useStoredState(STORAGE_KEY_ATUAL, INICIAL_ATUAL)
 
+  const grupos = gruposDe(meu.treinos, meu.grupos)
+  const grupo = grupos.find(({ id }) => id === meu.grupoAtivo) ?? grupos[0]
   const copiaAtiva = atual ? copias[atual] : undefined
-  const treinos = copiaAtiva?.treinos ?? meu.treinos
+  const treinos = copiaAtiva?.treinos ?? grupo.treinos
+
+  const salvarGrupos = (novos: GrupoTreinos[], grupoAtivo = grupo.id) =>
+    atualizarMeu({ treinos: [], grupos: novos, grupoAtivo })
 
   const atualizarTreinos = (novos: Treino[]) => {
-    if (!atual || !copiaAtiva) return atualizarMeu({ treinos: novos })
+    if (!atual || !copiaAtiva)
+      return salvarGrupos(grupos.map((item) => (item.id === grupo.id ? { ...item, treinos: novos } : item)))
     atualizarAtual({ copias: { ...copias, [atual]: { ...copiaAtiva, treinos: novos } } })
   }
 
@@ -56,6 +63,10 @@ export const useMeuTreino = () => {
 
   return {
     treinos,
+    grupos,
+    grupo,
+    selecionarGrupo: (id: string) => atualizarMeu({ grupoAtivo: id }),
+    ...acoesGrupos(grupos, grupo, salvarGrupos),
     atual:
       copiaAtiva && atual
         ? { id: atual, titulo: copiaAtiva.titulo, divisao: copiaAtiva.divisao, variante: copiaAtiva.variante }
