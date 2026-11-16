@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import type { MacrosReceita } from '../../receitas/types'
 import { formatarGramas } from './card-receita'
 
@@ -42,32 +41,3 @@ export const textoReceita = ({
   ]
     .filter((linha) => linha !== undefined)
     .join('\n')
-
-const compartilhar = async (titulo: string, texto: string) => {
-  if (navigator.share) {
-    try {
-      await navigator.share({ title: titulo, text: texto })
-      return false
-    } catch (erro) {
-      if (erro instanceof DOMException && erro.name === 'AbortError') return false
-    }
-  }
-  await navigator.clipboard.writeText(texto)
-  return true
-}
-
-export const useCompartilhar = () => {
-  const [copiado, setCopiado] = useState(false)
-
-  const enviar = async (receita: ReceitaCompartilhavel) => {
-    try {
-      if (!(await compartilhar(receita.nome, textoReceita(receita)))) return
-      setCopiado(true)
-      setTimeout(() => setCopiado(false), 1800)
-    } catch {
-      setCopiado(false)
-    }
-  }
-
-  return { copiado, enviar }
-}

@@ -1,7 +1,7 @@
 export { AcoesReceita } from './acoes-receita'
 export { BotaoFavorito } from './botao-favorito'
 export { CardReceita, formatarGramas } from './card-receita'
-export { textoReceita, useCompartilhar, type ReceitaCompartilhavel } from './compartilhar'
+export { textoReceita, type ReceitaCompartilhavel } from './compartilhar'
 export {
   Dica,
   LinkEbook,

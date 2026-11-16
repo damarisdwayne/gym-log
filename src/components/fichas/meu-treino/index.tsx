@@ -3,6 +3,7 @@ import { Dumbbell, Plus } from 'lucide-react'
 import { EmptyState } from '@/components/empty-state'
 import { Button } from '@/components/ui/button'
 import { Sheet } from '@/components/ui/sheet'
+import { BotaoCompartilhar } from './botao-compartilhar'
 import { grupoDe, rotuloGrupo } from './conjugados'
 import { ExercicioForm } from './exercicio-form'
 import { GruposTreino } from './grupos'
@@ -56,10 +57,13 @@ export const MeuTreino = ({ meuTreino, exerciseNames, onRestaurar, ajustesAtual 
           {meuTreino.atual ? 'Treino atual' : 'Meu treino'}
         </h2>
         {meuTreino.treinos.length > 0 && (
-          <Button variant="ghost" size="sm" className="ml-auto" onClick={() => setEdicaoTreino({})}>
-            <Plus className="size-4" />
-            Novo treino
-          </Button>
+          <div className="ml-auto flex items-center gap-1">
+            <BotaoCompartilhar titulo={meuTreino.atual?.titulo ?? meuTreino.grupo.nome} treinos={meuTreino.treinos} />
+            <Button variant="ghost" size="sm" onClick={() => setEdicaoTreino({})}>
+              <Plus className="size-4" />
+              Novo treino
+            </Button>
+          </div>
         )}
       </div>
 

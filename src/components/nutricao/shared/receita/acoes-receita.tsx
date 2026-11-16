@@ -1,7 +1,8 @@
 import { Check, Share2 } from 'lucide-react'
 import { Button } from '@/components/ui/button'
+import { useCompartilhar } from '@/hooks/use-compartilhar'
 import { BotaoFavorito } from './botao-favorito'
-import { useCompartilhar, type ReceitaCompartilhavel } from './compartilhar'
+import { textoReceita, type ReceitaCompartilhavel } from './compartilhar'
 
 type AcoesReceitaProps = {
   receita: ReceitaCompartilhavel
@@ -17,7 +18,7 @@ export const AcoesReceita = ({ receita, favorita, onFavoritar }: AcoesReceitaPro
       <Button
         variant="ghost"
         size="icon"
-        onClick={() => enviar(receita)}
+        onClick={() => enviar(receita.nome, textoReceita(receita))}
         aria-label={copiado ? 'Receita copiada' : 'Compartilhar receita'}
       >
         {copiado ? <Check className="size-4 text-primary" /> : <Share2 className="size-4" />}
