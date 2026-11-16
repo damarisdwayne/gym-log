@@ -35,6 +35,8 @@ export const classesConjugacao = (conjugacao?: Conjugacao) =>
   cn(
     conjugacao?.noGrupo && 'border-l-2 border-l-primary/60',
     conjugacao?.noGrupo && !conjugacao.fimDoGrupo && 'border-b-transparent',
+    conjugacao?.rotulo && 'mt-2 rounded-tl-md first:mt-0',
+    conjugacao?.noGrupo && conjugacao.fimDoGrupo && 'mb-2 rounded-bl-md last:mb-0',
   )
 
 export const grupoDe = (exercicios: ExercicioTreino[], exercicio: ExercicioTreino) => {
